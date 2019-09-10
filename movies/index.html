@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<style>
+	html {
+		height: 100%;
+	}
+	body {
+		height: 100%;
+		margin: 0;
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background: linear-gradient(#09063d, #090979, #00d4ff);
+	}
+	</style>
+</head>
+
+<body>
+	<div >
+		<div id="type&erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
+			<div id="container">
+				<div id="text">
+					<div style="display: inline-block;" id="findtheperfect"></div>
+					<div style="display: inline-block;" id="movie/tvshow"></div>
+				</div>
+				<div id="cursor"></div>
+			</div>
+			<style>
+				
+				#container {
+					padding-top: 5%;
+					padding-left: 5%
+				}
+
+				#text {
+					display: inline-block;
+					vertical-align: middle;
+					font-family: "Trebuchet MS";
+					font-size: 30pt;
+					color: black;
+					letter-spacing: 2px;
+				}
+
+
+				#cursor {
+					display: inline-block;
+					vertical-align: middle;
+					width: 3px;
+					height: 50px;
+					background-color: black;
+					animation: blink .75s step-end infinite;
+				}
+
+
+				@keyframes blink {
+
+					from,
+					to {
+						background-color: transparent
+					}
+
+					50% {
+						background-color: black;
+					}
+				}
+			</style>
+			<script>
+				
+
+				var first_run = true;
+
+				function sleep(ms) {
+					return new Promise(resolve => setTimeout(resolve, ms))
+				}
+
+				async function Type(id, sentence) {
+					return new Promise(async function(resolve, reject) {	
+						var elem = document.getElementById(id);
+						for (letter of sentence) {
+							if (letter == " ") {
+								letter = "&nbsp;"
+							}
+							
+							elem.innerHTML += letter;
+							await sleep(70);
+							//setTimeout(ActuallyType(id, letter), 1000);
+							//setTimeout(function(letter, elem){ elem.innerHTML += letter; }, 1000, letter, elem);
+							//console.log("Loop");
+						}
+						if(first_run == false){
+							await sleep(2500);
+						}
+						resolve();
+					});
+				}
+
+				async function Delete(id){			
+					return new Promise(async function(resolve, reject) {	
+						var elem = document.getElementById(id);
+						var text = elem.innerText;
+						for(letter of text){
+							elem.innerText = elem.innerText.substring(0, elem.innerText.length-1);
+							await sleep(70);
+						}
+						resolve();
+					});
+				}
+				
+				
+				Type("findtheperfect", "Find the perfect").then(
+					result => Type("movie/tvshow", "movie").then(
+						result => Loop()
+					)
+				);
+				
+				
+				async function Loop(){
+					first_run = false;
+					await sleep(2500);
+					Delete("movie/tvshow").then(
+							result => Type("movie/tvshow", "tv show").then(
+								result => Delete("movie/tvshow").then(
+									result => Type("movie/tvshow", "movie").then(
+										result => Loop()
+								)
+							)
+						)
+					);
+				}
+				
+			</script>
+		</div>
+	</div>
+</body>
+
+</html>

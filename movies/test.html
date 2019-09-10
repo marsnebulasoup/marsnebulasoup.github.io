@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>Click the button to wait 3 seconds, then alert "Hello".</p>
+<p>After clicking away the alert box, an new alert box will appear in 3 seconds. This goes on forever...</p>
+<button onclick="myFunction()">Try it</button>
+
+<script>
+function myFunction() {
+	for(l of "Happy"){
+    	  setInterval(function(){ s(l); }, 3000);
+    }
+}
+
+function s(l){
+	alert(l);
+}
+</script>
+
+</body>
+</html>
