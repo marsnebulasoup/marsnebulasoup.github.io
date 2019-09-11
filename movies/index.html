@@ -13,6 +13,7 @@
 	html {
 		height: 100%;
 		font-family: 'Montserrat', sans-serif;
+		
 
 	}
 	body {
@@ -22,12 +23,16 @@
 		background-attachment: fixed;
 		background: linear-gradient(#09063d, #090979, #00d4ff);
 	}
+	#seachbar, #type_erase {
+		float:left; display:inline-block; width:49%
+					
+	}
 	</style>
 </head>
 
 <body>
 	<div style="padding-top:5%" >
-		<div style="padding-left:5%" id="type_erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
+		<div  style="padding-left:5%" id="type_erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
 		
 			<div id="container">
 				<div id="text">
@@ -91,9 +96,7 @@
 							
 							elem.innerHTML += letter;
 							await sleep(70);
-							//setTimeout(ActuallyType(id, letter), 1000);
-							//setTimeout(function(letter, elem){ elem.innerHTML += letter; }, 1000, letter, elem);
-							//console.log("Loop");
+							
 						}
 						if(first_run == false){
 							await sleep(2500);
@@ -139,17 +142,37 @@
 			</script>
 		</div>
 	
-		<div id="searchbar" >
+		<div  style="width: 30%" id="searchbar" >
 			<style>	
-				#seachbar, #type_erase {
-					float:left; display:inline-block; 
 					
-				}	
+				.search {
+					
+					background-color: transparent;
+					border: 1.5px solid gray;
+										
+				}
+				
+				.search:focus {
+				  -webkit-transition: background-color 0.5s;
+				  background-color: #181278
+				}
+				
+				
 				
 
 
 			</style>
 			<!-- <input class="search" type="text" placeholder="Search"> -->
+			
+			
+			  <p class="control  has-icons-right">
+				<input class="input is-rounded search" type="text" placeholder="Search movies...">				
+				
+				<span class="icon is-small is-right">
+				  <i class="fas fa-search"></i>
+				</span>
+			  </p>
+					
 		</div>
 	
 	</div>
