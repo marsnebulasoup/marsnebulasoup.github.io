@@ -4,23 +4,28 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
 	<style>
 	html {
 		height: 100%;
+		font-family: "Trebuchet MS";
+		font-family: 'Montserrat', sans-serif;
+
 	}
 	body {
 		height: 100%;
 		margin: 0;
 		background-repeat: no-repeat;
 		background-attachment: fixed;
-		background: linear-gradient(#00d4ff, #090979, #09063d);
+		background: linear-gradient(#09063d, #090979, #00d4ff);
 	}
 	</style>
 </head>
 
 <body>
-	<div >
-		<div id="type&erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
+	<div style="padding-top:5%" >
+		<div style="padding-left:5%" id="type_erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
+		
 			<div id="container">
 				<div id="text">
 					<div style="display: inline-block;" id="findtheperfect"></div>
@@ -30,17 +35,13 @@
 			</div>
 			<style>
 				
-				#container {
-					padding-top: 5%;
-					padding-left: 5%
-				}
+				
 
 				#text {
 					display: inline-block;
 					vertical-align: middle;
-					font-family: "Trebuchet MS";
 					font-size: 30pt;
-					color: black;
+					color: white;
 					letter-spacing: 2px;
 				}
 
@@ -48,9 +49,9 @@
 				#cursor {
 					display: inline-block;
 					vertical-align: middle;
-					width: 3px;
+					width: 2px;
 					height: 50px;
-					background-color: black;
+					background-color: white;
 					animation: blink .75s step-end infinite;
 				}
 
@@ -63,7 +64,7 @@
 					}
 
 					50% {
-						background-color: black;
+						background-color: white;
 					}
 				}
 			</style>
@@ -133,7 +134,42 @@
 				
 			</script>
 		</div>
+	
+		<div id="searchbar" >
+			<style>	
+				#seachbar, #type_erase {
+					float:left; display:inline; width: 49%;
+					
+				}	
+				.search {
+					width: 30%;
+					height:30px;
+					background-color: transparent;
+					border: 1.5px solid #35373b;
+					border-radius: 5px;
+					font-size: 10px;
+					
+					
+					color: color(#575756 a(0.8));
+					text-transform: uppercase;
+					letter-spacing: 0.5px;
+									
+				
+				}
+
+
+			</style>
+			<input class="search" type="text" placeholder="Search">
+		</div>
+	
 	</div>
 </body>
 
 </html>
+
+
+
+
+
+
+
