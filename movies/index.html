@@ -149,30 +149,92 @@
                     select,
                     textarea {
                         color: #fff;
+						
                     }
 
                     textarea:focus,
                     input:focus {
                         color: #fff;
+						font-family: Montserrat;
                     }
 
-                    .search:focus {
-                        -webkit-transition: background-color 0.5s;
-                        background-color: #181278
-                    }
+                    
                 </style>
                 <!-- <input class="search" type="text" placeholder="Search"> -->
 
                 <p  class="control  has-icons-right">
-                    <input onclick="console.log('click')" class="input is-rounded search" type="text" placeholder="Search movies...">
+                    <input onclick="TransformSearch(1)" class="input is-rounded search" type="text" placeholder="Search movies...">
 
-                    <span class="icon is-small is-right">
+                    <span id="bogus-searchbar-icon" class="icon is-small is-right">
                         <i class="fas fa-search"></i>
                     </span>
                 </p>
+				
+				<div id="overlay-search" >
+					<div class="close-overlay-button">
+						<i onclick="TransformSearch()" class="far fa-times-circle fa-3x"></i>
+					</div>
+					<div class="overlay-container">
+					
+					<p class="control  has-icons-right">
+						<input autofocus oninput="Search()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
+
+						<span class="icon is-small is-right">
+							<i class="fas fa-search"></i>
+						</span>
+					</p>	
+					</div>
+				</div>
+				
+				<style>
+					
+					
+					.close-overlay-button {
+						position: absolute;
+						top: 5%;						
+						right: 5%;	
+					}
+					
+					.fa-times-circle:hover {
+						-webkit-transition: color 0.3s ease-in-out;
+						
+						color: red;
+					}
+					.overlay-container {
+						position: absolute;
+						top: 20%;
+						left: 20%;
+						right: 20%;
+					}
+					
+					#overlay-search {
+					  position: fixed; /* Sit on top of the page content */
+					  display: none; /* Hidden by default */
+					  width: 100%; /* Full width (cover the whole page) */
+					  height: 100%; /* Full height (cover the whole page) */
+					  top: 0;
+					  left: 0;
+					  right: 0;
+					  bottom: 0;
+					  background-color: rgba(0,0,0,1); /* Black background with opacity */
+					  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+					  cursor: pointer; /* Add a pointer on hover */
+					}
+				</style>
 
                 <script>
-
+					function TransformSearch(state){
+						var overlay = document.getElementById("overlay-search");
+						var bogus_searchbar_icon = document.getElementById("bogus-searchbar-icon");
+						if(state) {
+							overlay.style.display = "block"; 
+							bogus_searchbar_icon.style.opacity = "0";
+						}
+						else {
+							overlay.style.display = "none"; 
+							bogus_searchbar_icon.style.opacity = "1";
+						}
+					}
                 </script>
 
             </div>
