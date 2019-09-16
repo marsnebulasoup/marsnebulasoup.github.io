@@ -4,185 +4,181 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link href="bulma.css" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
-	<script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <link href="bulma.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 
-	<style>
-	
-	html {
-		height: 100%;
-		font-family: 'Montserrat', sans-serif;
+    <style>
+        html {
+            height: 100%;
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background: linear-gradient(#09063d, #090979, #00d4ff);
+
+        }
 		
+		#type_erase, #searchbar {
+			display: inline-block;
+			
+		}
 
-	}
-	body {
-		height: 100%;
-		margin: 0;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
-		background: linear-gradient(#09063d, #090979, #00d4ff);
-	}
-	#seachbar, #type_erase {
-		float:left; display:inline-block; width:49%
-					
-	}
-	</style>
+        
+    </style>
 </head>
 
 <body>
-	<div style="padding-top:5%" >
-		<div  style="padding-left:5%" id="type_erase">  <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
-		
-			<div id="container">
-				<div id="text">
-					<div style="display: inline-block;" id="findtheperfect"></div>
-					<div style="display: inline-block;" id="movie/tvshow"></div>
-									<div id="cursor"></div>
+    <div class="container">
+        <div style="padding-top:5%" class="level">
+            <div class="level-left"  id="type_erase">
+                <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
 
-				</div>
-			</div>
-			<style>
-				
-					
+                <div>
+                    <div id="text">
+                        <div style="display: inline-block;" id="findtheperfect"></div>
+                        <div style="display: inline-block;" id="movie/tvshow"></div>
+                        <div id="cursor"></div>
 
-				#text {
-					display: inline-block;
-					vertical-align: middle;
-					font-size: 2em;
-					color: white;
-					letter-spacing: 2px;
-				}
-
-
-				#cursor {
-					display: inline-block;
-					vertical-align: middle;
-					width: 2px;
-					height: 1.5em;
-					background-color: white;
-					animation: blink .75s step-end infinite;
-				}
+                    </div>
+                </div>
+                <style>
+                    #text {
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-size: 2em;
+                        color: white;
+                        letter-spacing: 2px;
+                    }
 
 
-				@keyframes blink {
-
-					from,
-					to {
-						background-color: transparent
-					}
-
-					50% {
-						background-color: white;
-					}
-				}
-			</style>
-			<script>
-				
-
-				var first_run = true;
-
-				function sleep(ms) {
-					return new Promise(resolve => setTimeout(resolve, ms))
-				}
-
-				async function Type(id, sentence) {
-					return new Promise(async function(resolve, reject) {	
-						var elem = document.getElementById(id);
-						for (letter of sentence) {
-							if (letter == " ") {
-								letter = "&nbsp;"
-							}
-							
-							elem.innerHTML += letter;
-							await sleep(70);
-							
-						}
-						if(first_run == false){
-							await sleep(2500);
-						}
-						resolve();
-					});
-				}
-
-				async function Delete(id){			
-					return new Promise(async function(resolve, reject) {	
-						var elem = document.getElementById(id);
-						var text = elem.innerText;
-						for(letter of text){
-							elem.innerText = elem.innerText.substring(0, elem.innerText.length-1);
-							await sleep(70);
-						}
-						resolve();
-					});
-				}
-				
-				
-				Type("findtheperfect", "Find the perfect").then(
-					result => Type("movie/tvshow", "movie").then(
-						result => Loop()
-					)
-				);
-				
-				
-				async function Loop(){
-					first_run = false;
-					await sleep(2500);
-					Delete("movie/tvshow").then(
-							result => Type("movie/tvshow", "tv show").then(
-								result => Delete("movie/tvshow").then(
-									result => Type("movie/tvshow", "movie").then(
-										result => Loop()
-								)
-							)
-						)
-					);
-				}
-				
-			</script>
-		</div>
-	
-		<div  style="width: 30%" id="searchbar" >
-			<style>	
-					
-				.search {
-					
-					background-color: transparent;
-					border: 1.5px solid gray;
-										
-				}
-				
-				.search:focus {
-				  -webkit-transition: background-color 0.5s;
-				  background-color: #181278
-				}
-				
-				
-				
+                    #cursor {
+                        display: inline-block;
+                        vertical-align: middle;
+                        width: 2px;
+                        height: 1.5em;
+                        background-color: white;
+                        animation: blink .75s step-end infinite;
+                    }
 
 
-			</style>
-			<!-- <input class="search" type="text" placeholder="Search"> -->
-			
-			
-			  <p class="control  has-icons-right">
-				<input class="input is-rounded search" type="text" placeholder="Search movies...">				
-				
-				<span class="icon is-small is-right">
-				  <i class="fas fa-search"></i>
-				</span>
-			  </p>
-					
-		</div>
-	
-	</div>
+                    @keyframes blink {
+
+                        from,
+                        to {
+                            background-color: transparent
+                        }
+
+                        50% {
+                            background-color: white;
+                        }
+                    }
+                </style>
+                <script>
+                    var first_run = true;
+
+                    function sleep(ms) {
+                        return new Promise(resolve => setTimeout(resolve, ms))
+                    }
+
+                    async function Type(id, sentence) {
+                        return new Promise(async function(resolve, reject) {
+                            var elem = document.getElementById(id);
+                            for (letter of sentence) {
+                                if (letter == " ") {
+                                    letter = "&nbsp;"
+                                }
+
+                                elem.innerHTML += letter;
+                                await sleep(70);
+
+                            }
+                            if (first_run == false) {
+                                await sleep(2500);
+                            }
+                            resolve();
+                        });
+                    }
+
+                    async function Delete(id) {
+                        return new Promise(async function(resolve, reject) {
+                            var elem = document.getElementById(id);
+                            var text = elem.innerText;
+                            for (letter of text) {
+                                elem.innerText = elem.innerText.substring(0, elem.innerText.length - 1);
+                                await sleep(70);
+                            }
+                            resolve();
+                        });
+                    }
+
+
+                    Type("findtheperfect", "Find the perfect").then(
+                        result => Type("movie/tvshow", "movie").then(
+                            result => Loop()
+                        )
+                    );
+
+
+                    async function Loop() {
+                        first_run = false;
+                        await sleep(2500);
+                        Delete("movie/tvshow").then(
+                            result => Type("movie/tvshow", "tv show").then(
+                                result => Delete("movie/tvshow").then(
+                                    result => Type("movie/tvshow", "movie").then(
+                                        result => Loop()
+                                    )
+                                )
+                            )
+                        );
+                    }
+                </script>
+            </div>
+
+            <div class="level-right"  id="searchbar">
+                <style>
+                    .search {
+
+                        background-color: transparent;
+                        border: 1.5px solid gray;
+
+                    }
+
+                    input,
+                    select,
+                    textarea {
+                        color: #fff;
+                    }
+
+                    textarea:focus,
+                    input:focus {
+                        color: #fff;
+                    }
+
+                    .search:focus {
+                        -webkit-transition: background-color 0.5s;
+                        background-color: #181278
+                    }
+                </style>
+                <!-- <input class="search" type="text" placeholder="Search"> -->
+
+                <p  class="control  has-icons-right">
+                    <input onclick="console.log('click')" class="input is-rounded search" type="text" placeholder="Search movies...">
+
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-search"></i>
+                    </span>
+                </p>
+
+                <script>
+
+                </script>
+
+            </div>
+
+        </div>
+    </div>
 </body>
 
 </html>
-
-
-
-
-
-
-

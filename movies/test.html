@@ -1,22 +1,121 @@
 <!DOCTYPE html>
-<html>
+<html class="family-primary">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="bulma.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+
+    <style>
+        html {
+            height: 100%;
+            font-family: 'Montserrat', sans-serif;
+            margin: 0;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background: linear-gradient(#09063d, #090979, #00d4ff);
+
+        }
+		
+		
+
+        
+    </style>
+</head>
+
 <body>
+    <div class="container">
+        <div style="padding-top:5%" class="level">
+            <div class="level-left"  id="type_erase">
+                <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
 
-<p>Click the button to wait 3 seconds, then alert "Hello".</p>
-<p>After clicking away the alert box, an new alert box will appear in 3 seconds. This goes on forever...</p>
-<button onclick="myFunction()">Try it</button>
+                <div>
+                    <div id="text">
+                        <div style="display: inline-block;" id="findtheperfect">Some text</div>
+                        <div style="display: inline-block;" id="movie/tvshow">here</div>
+                        <div id="cursor"></div>
 
-<script>
-function myFunction() {
-	for(l of "Happy"){
-    	  setInterval(function(){ s(l); }, 3000);
-    }
-}
+                    </div>
+                </div>
+                <style>
+                    #text {
+                        display: inline-block;
+                        vertical-align: middle;
+                        font-size: 2em;
+                        color: white;
+                        letter-spacing: 2px;
+                    }
 
-function s(l){
-	alert(l);
-}
-</script>
 
+                    #cursor {
+                        display: inline-block;
+                        vertical-align: middle;
+                        width: 2px;
+                        height: 1.5em;
+                        background-color: white;
+                        animation: blink .75s step-end infinite;
+                    }
+
+
+                    @keyframes blink {
+
+                        from,
+                        to {
+                            background-color: transparent
+                        }
+
+                        50% {
+                            background-color: white;
+                        }
+                    }
+                </style>
+                
+                    
+            </div>
+
+            <div class="level-right"  id="searchbar">
+                <style>
+                    .search {
+
+                        background-color: transparent;
+                        border: 1.5px solid gray;
+						
+
+                    }
+
+                    input,
+                    select,
+                    textarea {
+                        color: #fff;
+                    }
+
+                    textarea:focus,
+                    input:focus {
+                        color: #fff;
+                    }
+
+                    .search:focus {
+                        -webkit-transition: background-color 0.5s;
+                        background-color: #181278
+                    }
+                </style>
+
+                <p  class="control  has-icons-right">
+                    <input onclick="console.log('click')" class="input is-rounded search" type="text" placeholder="Search movies...">
+
+                    <span class="icon is-small is-right">
+                        <i class="fas fa-search"></i>
+                    </span>
+                </p>
+
+                
+
+            </div>
+			
+        </div>
+    </div>
 </body>
+
 </html>
