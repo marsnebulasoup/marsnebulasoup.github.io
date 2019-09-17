@@ -34,7 +34,7 @@ function SearchFor(obj, query) {
 	  ]
 	};
 	var fuse = new Fuse(obj, options); // "list" is the item array
-	var result = fuse.search("Miss");
+	var result = fuse.search(query);
 	console.log(result);
 }
 
