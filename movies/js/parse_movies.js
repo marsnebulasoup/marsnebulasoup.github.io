@@ -18,6 +18,7 @@ function LoadFile() {
 function ParseJson(parsed){
 	var retrievedObject = localStorage.getItem('JSON');
 	parsed = JSON.parse(retrievedObject);
+	console.log(parsed);
 	searchFor(parsed, "Miss")
 }
 
