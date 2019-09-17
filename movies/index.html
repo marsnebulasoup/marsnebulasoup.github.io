@@ -179,7 +179,7 @@
 					<div class="overlay-container">
 					
 					<p class="control  has-icons-right">
-						<input autofocus oninput="Search()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
+						<input autofocus id="real_searchbar" oninput="SearchMovies()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
 
 						<span class="icon is-small is-right">
 							<i class="fas fa-search"></i>
@@ -187,6 +187,13 @@
 					</p>	
 					</div>
 				</div>
+				
+				<script>
+					function SearchMovies(){
+						var input = document.getElementById("real_searchbar").value;
+						SearchFor(ParseJson(), input);
+					}
+				</script
 				
 				<style>
 					

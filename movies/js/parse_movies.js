@@ -8,8 +8,7 @@ function LoadFile() {
 	req.onload  = function() {
 	   response = req.responseText;
 	   localStorage.setItem('JSON', response);
-
-	};
+		};
 	req.send(null);
 	
 }
@@ -18,12 +17,11 @@ function LoadFile() {
 function ParseJson(parsed){
 	var retrievedObject = localStorage.getItem('JSON');
 	parsed = JSON.parse(retrievedObject);
-	console.log(parsed);
-	searchFor(parsed, "Miss")
+	return parsed;
 }
 
 
-function searchFor(obj, query) {
+function SearchFor(obj, query) {
   var options = {
 	  shouldSort: true,
 	  threshold: 0.6,
@@ -42,4 +40,4 @@ function searchFor(obj, query) {
 
 console.log("this is it");
 LoadFile();
-ParseJson();
+
