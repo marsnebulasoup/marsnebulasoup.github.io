@@ -11,7 +11,7 @@ function LoadFile() {
 	};
 	xmlhttp.open("GET", "db/movies.json", true);
 	xmlhttp.send();
-	
+	console.log(JSONobj);
 	return JSONobj;
 	
 	
@@ -21,7 +21,7 @@ function LoadFile() {
 
 function ParseJson(parsed){
 	
-	for(item of parsed[0]){
+	for(item of parsed){
 		console.log(item)
 	}
 	
