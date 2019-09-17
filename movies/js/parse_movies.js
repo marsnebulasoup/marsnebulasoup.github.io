@@ -7,7 +7,7 @@ function LoadFile() {
 	req.open('GET', 'db/movies.json', true);
 	req.onload  = function() {
 	   response = req.responseText;
-	   localStorage.setItem('JSON', JSON.stringify(response));
+	   localStorage.setItem('JSON', response);
 
 	};
 	req.send(null);
