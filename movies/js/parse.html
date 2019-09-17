@@ -20,13 +20,13 @@ function LoadFile() {
 
 
 function ParseJson(parsed){
-	
-	for(item of parsed){
-		console.log(item)
-	}
+	parsed = JSON.parse(parsed);
+	var item = parsed[0];
+	console.log(item);
 	
 }
 
 ParseJson(LoadFile());
 
+//ParseJson(`[{"Title":"Miss Jerry","Year":"1894","Rated":"N/A","Released":"09 Oct 1894","Runtime":"45 min","Genre":"Romance","Director":"Alexander Black","Writer":"Alexander Black","Actors":"Blanche Bayliss, William Courtenay, Chauncey Depew","Plot":"The adventures of a female reporter in the 1890s.","Language":"N/A","Country":"USA","Awards":"N/A","Poster":"https://m.media-amazon.com/images/M/MV5BNjA5Y2ZhYzctNDc1Yy00OGViLWI3NGUtOTYwZmE3NDFiYmIxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"5.6/10"}],"Metascore":"N/A","imdbRating":"5.6","imdbVotes":"58","imdbID":"tt0000009","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"},{"Title":"The Corbett-Fitzsimmons Fight","Year":"1897","Rated":"N/A","Released":"01 Jul 1897","Runtime":"20 min","Genre":"Documentary, News, Sport","Director":"Enoch J. Rector","Writer":"N/A","Actors":"James J. Corbett, Bob Fitzsimmons, Billy Madden, George Siler","Plot":"The first known feature film! A very unusual filmed record of the Corbett-Fitzsimmons fight originally ran over 90 minutes in length.","Language":"N/A","Country":"USA","Awards":"1 win.","Poster":"https://m.media-amazon.com/images/M/MV5BMTBiNzVjZjUtN2NmZS00YjhjLWI1ZDctZDYyZTM0NTEwNGY3XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"5.2/10"}],"Metascore":"N/A","imdbRating":"5.2","imdbVotes":"223","imdbID":"tt0000147","Type":"movie","DVD":"N/A","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"}]`);
 </script>
