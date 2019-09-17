@@ -2,17 +2,14 @@
 //Parses the movies.json file
 
 function LoadFile() {
-	var JSONobj;
-	var xmlhttp = new XMLHttpRequest();
-	xmlhttp.onreadystatechange = function() {
-	  if (this.readyState == 4 && this.status == 200) {
-		JSONobj = JSON.parse(this.responseText);
-	  }
+	var req = new XMLHttpRequest();
+	req.overrideMimeType("application/json");
+	req.open('GET', 'http://lengthapi.win/movies/js/db/movies.json', true);
+	req.onload  = function() {
+	   var jsonResponse = JSON.parse(req.responseText);
+	   return jsonResponse
 	};
-	xmlhttp.open("GET", "db/movies.json", true);
-	xmlhttp.send();
-	console.log(JSONobj);
-	return JSONobj;
+	req.send(null);
 	
 	
 	
