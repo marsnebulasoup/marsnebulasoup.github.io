@@ -2,27 +2,26 @@
 //Parses the movies.json file
 
 function LoadFile() {
-	var json_stuff = "";
+	var JSONobj;
 	var xmlhttp = new XMLHttpRequest();
 	xmlhttp.onreadystatechange = function() {
 	  if (this.readyState == 4 && this.status == 200) {
-		var myObj = JSON.parse(this.responseText);
-		document.getElementById("demo").innerHTML = myObj.name;
+		JSONobj = JSON.parse(this.responseText);
 	  }
 	};
 	xmlhttp.open("GET", "db/movies.json", true);
 	xmlhttp.send();
 	
-	console.log(myObj);
-	return json_stuff;
+	return JSONobj;
+	
+	
 	
 }
 
 
-function ParseJson(json_stuff){
-	var parsed = JSON.parse(json_stuff);
+function ParseJson(parsed){
 	
-	for(item of parsed){
+	for(item of parsed[0]){
 		console.log(item)
 	}
 	
