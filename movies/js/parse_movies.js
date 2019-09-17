@@ -1,27 +1,44 @@
 //Parses the movies.json file
 
 function LoadFile() {
-	var xmlhttp = new XMLHttpRequest();
-	xmlhttp.onreadystatechange = function() {
-	  if (this.readyState == 4 && this.status == 200) {
-		var json_stuff = this.responseText;
-	  }
+	var response = "";
+	var req = new XMLHttpRequest();
+	req.overrideMimeType("application/json");
+	req.open('GET', 'db/movies.json', true);
+	req.onload  = function() {
+	   response = req.responseText;
+	   localStorage.setItem('JSON', JSON.stringify(response));
+
 	};
-	xmlhttp.open("GET", "db/movies.json", true);
-	xmlhttp.send();	
-	
-	return json_stuff;
+	req.send(null);
 	
 }
 
 
-function ParseJson(json_stuff){
-	var parsed = JSON.parse(json_stuff);
-	
-	for(item of parsed){
-		console.log(item)
-	}
-	
+function ParseJson(parsed){
+	var retrievedObject = localStorage.getItem('JSON');
+	parsed = JSON.parse(retrievedObject);
+	searchFor(parsed, "Miss")
 }
 
-ParseJson(LoadFile());
+
+function searchFor(obj, query) {
+  var options = {
+	  shouldSort: true,
+	  threshold: 0.6,
+	  location: 0,
+	  distance: 100,
+	  maxPatternLength: 32,
+	  minMatchCharLength: 1,
+	  keys: [
+		"Title"
+	  ]
+	};
+	var fuse = new Fuse(obj, options); // "list" is the item array
+	var result = fuse.search("Miss");
+	console.log(result);
+}
+
+console.log("this is it");
+LoadFile();
+ParseJson();
