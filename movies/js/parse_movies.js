@@ -21,26 +21,29 @@ function ParseJson(parsed){
 }
 
 
-function SearchFor(query) {
+function SearchFor(obj, query) {
+  var options = {
+	  shouldSort: true,
+	  threshold: 0.6,
+	  location: 0,
+	  distance: 100,
+	  maxPatternLength: 32,
+	  minMatchCharLength: 1,
+	  keys: [
+		"Title"
+	  ]
+	};
+	var fuse = new Fuse(obj, options); // "list" is the item array
 	var result = fuse.search(query);
 	console.log(result);
 }
 
 console.log("this is it");
 LoadFile();
-var parsed = ParseJson();
-var options = {
-  shouldSort: true,
-  threshold: 0.6,
-  location: 0,
-  distance: 100,
-  maxPatternLength: 32,
-  minMatchCharLength: 1,
-  keys: [
-	"Title"
-  ]
-};
-var fuse = new Fuse(parsed, options);
-console.log(fuse.search("apple"));
 
+var t0 = performance.now();
+
+SearchFor(ParseJson(); , "apple");
+var t1 = performance.now();
+console.log("Call to SearchFor('apple') took " + (t1 - t0) + " milliseconds.");
 
