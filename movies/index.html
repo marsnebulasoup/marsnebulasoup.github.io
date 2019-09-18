@@ -14,6 +14,7 @@
         html {
             height: 100%;
             font-family: 'Montserrat', sans-serif;
+			font-color: white;
             margin: 0;
             background-repeat: no-repeat;
             background-attachment: fixed;
@@ -176,28 +177,46 @@
 					<div class="close-overlay-button">
 						<i onclick="TransformSearch()" class="far fa-times-circle fa-3x"></i>
 					</div>
-					<div class="overlay-container">
-					
-					<p class="control  has-icons-right">
-						<input autofocus id="real_searchbar" oninput="SearchMovies()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
+					<div class="columns is-multiline is-centered overlay-container">
+						<div class="column is-6" >
+							<p class="control  has-icons-right">
+								<input autofocus id="real_searchbar" oninput="SearchMovies()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
 
-						<span class="icon is-small is-right">
-							<i class="fas fa-search"></i>
-						</span>
-					</p>	
+								<span class="icon is-small is-right">
+									<i class="fas fa-search"></i>
+								</span>
+							</p>
+						</div>
+						<div class="column is-10">
+							<p>Buttons go here...</p>
+						</div>
+						<div class="column is-10 ">
+							<div class="columns">
+								<div class="column">
+									<img class="poster" src="images/unknown.png" style="max-height:20em;">
+								</div>
+								</div class="column">
+								</div>
+							</div>
+						</div>
 					</div>
 				</div>
 				
 				<script>
 					function SearchMovies(){
 						var input = document.getElementById("real_searchbar").value;
-						SearchFor(ParseJson(), input);
+						var results = SearchFor(ParseJson(), input);
+						
 					}
 				</script>
 				
 				<style>
-					
-					
+					.poster {
+						border-radius:10px;
+					}
+					h1,h2,h3,h4,h5,p {
+						color: white;
+					}
 					.close-overlay-button {
 						position: absolute;
 						top: 5%;						
@@ -210,10 +229,7 @@
 						color: red;
 					}
 					.overlay-container {
-						position: absolute;
-						top: 20%;
-						left: 20%;
-						right: 20%;
+						padding-top: 10%;
 					}
 					
 					#overlay-search {
