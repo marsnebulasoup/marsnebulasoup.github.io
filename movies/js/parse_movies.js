@@ -40,5 +40,5 @@ var options = {
 	"Title"
   ]
 };
-var fuse = new Fuse(obj, options);
+var fuse = new Fuse(parsed, options);
 
