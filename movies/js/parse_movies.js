@@ -43,7 +43,7 @@ LoadFile();
 
 var t0 = performance.now();
 
-SearchFor(ParseJson(); , "apple");
+SearchFor(ParseJson() , "apple");
 var t1 = performance.now();
 console.log("Call to SearchFor('apple') took " + (t1 - t0) + " milliseconds.");
 
