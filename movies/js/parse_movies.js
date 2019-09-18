@@ -21,16 +21,8 @@ function ParseJson(parsed){
 }
 
 
-function SearchFor(query) {
-	var result = fuse.search(query);
-	console.log(result);
-}
-
-
-console.log("this is it");
-LoadFile();
-var obj = ParseJson();
-var options = {
+function SearchFor(obj, query) {
+  var options = {
 	  shouldSort: true,
 	  threshold: 0.6,
 	  location: 0,
@@ -40,12 +32,10 @@ var options = {
 	  keys: [
 		"Title"
 	  ]
-};
-var fuse = new Fuse(obj, options);
+	};
+	var fuse = new Fuse(obj, options); // "list" is the item array
+	var result = fuse.search(query);
+	console.log(result);
+}
 
-var t0 = performance.now();
-
-SearchFor("apple");
-var t1 = performance.now();
-console.log("Call to SearchFor('apple') took " + (t1 - t0) + " milliseconds.");
-
+LoadFile();
