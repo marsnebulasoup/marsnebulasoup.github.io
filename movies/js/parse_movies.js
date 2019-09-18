@@ -41,4 +41,6 @@ var options = {
   ]
 };
 var fuse = new Fuse(parsed, options);
+console.log(fuse.search("apple"));
+
 
