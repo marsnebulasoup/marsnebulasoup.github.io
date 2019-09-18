@@ -21,23 +21,24 @@ function ParseJson(parsed){
 }
 
 
-function SearchFor(obj, query) {
-  var options = {
-	  shouldSort: true,
-	  threshold: 0.6,
-	  location: 0,
-	  distance: 100,
-	  maxPatternLength: 32,
-	  minMatchCharLength: 1,
-	  keys: [
-		"Title"
-	  ]
-	};
-	var fuse = new Fuse(obj, options); // "list" is the item array
+function SearchFor(query) {
 	var result = fuse.search(query);
 	console.log(result);
 }
 
 console.log("this is it");
 LoadFile();
+var parsed = ParseJson();
+var options = {
+  shouldSort: true,
+  threshold: 0.6,
+  location: 0,
+  distance: 100,
+  maxPatternLength: 32,
+  minMatchCharLength: 1,
+  keys: [
+	"Title"
+  ]
+};
+var fuse = new Fuse(obj, options);
 
