@@ -1,3 +1,15 @@
 .topmargin {
 	padding-top: 5%;
 }
+
+#localtimezone {
+	font-size: 80%;
+	padding-left: 5px;
+	padding-right: 5px;
+	border: 2px solid white;
+	border-radius: 10px;
+}
+
+#localtimezone:hover {
+	background-color: #4cdec9;
+}
