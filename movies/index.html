@@ -1,269 +1,114 @@
-<!DOCTYPE html>
-<html class="family-primary">
+﻿<!DOCTYPE html>
+<html class="family-primary" id="everything">
 
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="bulma.css" rel="stylesheet">
+    <link href="css/bulma.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
+    <script src="js/ui.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
-	<script src="js/parse_movies.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
+    <script src="js/parse_movies.js"></script>
 
-    <style>
-        html {
-            height: 100%;
-            font-family: 'Montserrat', sans-serif;
-			font-color: white;
-            margin: 0;
-            background-repeat: no-repeat;
-            background-attachment: fixed;
-            background: linear-gradient(#09063d, #090979, #00d4ff);
 
-        }
-		
-		#type_erase, #searchbar {
-			display: inline-block;
-			
-		}
-
-        
-    </style>
 </head>
 
 <body>
+
     <div class="container">
         <div style="padding-top:5%" class="level">
-            <div class="level-left"  id="type_erase">
-                <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! -->
+            <div class="level-left" id="type_erase">
+                <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! IT MOVED TO js/ui.js !!! -->
 
                 <div>
                     <div id="text">
                         <div style="display: inline-block;" id="findtheperfect"></div>
                         <div style="display: inline-block;" id="movie/tvshow"></div>
-                        <div id="cursor"></div>
-
                     </div>
+                    <div id="cursor"></div>
                 </div>
-                <style>
-                    #text {
-                        display: inline-block;
-                        vertical-align: middle;
-                        font-size: 2em;
-                        color: white;
-                        letter-spacing: 2px;
-                    }
 
-
-                    #cursor {
-                        display: inline-block;
-                        vertical-align: middle;
-                        width: 2px;
-                        height: 1.5em;
-                        background-color: white;
-                        animation: blink .75s step-end infinite;
-                    }
-
-
-                    @keyframes blink {
-
-                        from,
-                        to {
-                            background-color: transparent
-                        }
-
-                        50% {
-                            background-color: white;
-                        }
-                    }
-                </style>
                 <script>
-                    var first_run = true;
+                    TypeAndErase();
 
-                    function sleep(ms) {
-                        return new Promise(resolve => setTimeout(resolve, ms))
-                    }
-
-                    async function Type(id, sentence) {
-                        return new Promise(async function(resolve, reject) {
-                            var elem = document.getElementById(id);
-                            for (letter of sentence) {
-                                if (letter == " ") {
-                                    letter = "&nbsp;"
-                                }
-
-                                elem.innerHTML += letter;
-                                await sleep(70);
-
-                            }
-                            if (first_run == false) {
-                                await sleep(2500);
-                            }
-                            resolve();
-                        });
-                    }
-
-                    async function Delete(id) {
-                        return new Promise(async function(resolve, reject) {
-                            var elem = document.getElementById(id);
-                            var text = elem.innerText;
-                            for (letter of text) {
-                                elem.innerText = elem.innerText.substring(0, elem.innerText.length - 1);
-                                await sleep(70);
-                            }
-                            resolve();
-                        });
-                    }
-
-
-                    Type("findtheperfect", "Find the perfect").then(
-                        result => Type("movie/tvshow", "movie").then(
-                            result => Loop()
-                        )
-                    );
-
-
-                    async function Loop() {
-                        first_run = false;
-                        await sleep(2500);
-                        Delete("movie/tvshow").then(
-                            result => Type("movie/tvshow", "tv show").then(
-                                result => Delete("movie/tvshow").then(
-                                    result => Type("movie/tvshow", "movie").then(
-                                        result => Loop()
-                                    )
-                                )
-                            )
-                        );
-                    }
-                </script>
+/**/</script>
             </div>
 
-            <div class="level-right"  id="searchbar">
-                <style>
-                    .search {
+            <div class="level-right" id="searchbar">
 
-                        background-color: transparent;
-                        border: 1.5px solid gray;
 
-                    }
-
-                    input,
-                    select,
-                    textarea {
-                        color: #fff;
-						
-                    }
-
-                    textarea:focus,
-                    input:focus {
-                        color: #fff;
-						font-family: Montserrat;
-                    }
-
-                    
-                </style>
-                <!-- <input class="search" type="text" placeholder="Search"> -->
-
-                <p  class="control  has-icons-right">
+                <p class="control  has-icons-right">
                     <input onclick="TransformSearch(1)" class="input is-rounded search" type="text" placeholder="Search movies...">
 
                     <span id="bogus-searchbar-icon" class="icon is-small is-right">
                         <i class="fas fa-search"></i>
                     </span>
                 </p>
-				
-				<div id="overlay-search" >
-					<div class="close-overlay-button">
-						<i onclick="TransformSearch()" class="far fa-times-circle fa-3x"></i>
-					</div>
-					<div class="columns is-multiline is-centered overlay-container">
-						<div class="column is-6" >
-							<p class="control  has-icons-right">
-								<input autofocus id="real_searchbar" oninput="SearchMovies()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
 
-								<span class="icon is-small is-right">
-									<i class="fas fa-search"></i>
-								</span>
-							</p>
-						</div>
-						<div class="column is-10">
-							<p>Buttons go here...</p>
-						</div>
-						<div class="column is-10 ">
-							<div class="columns">
-								<div class="column">
-									<img class="poster" src="images/unknown.png" style="max-height:20em;">
-								</div>
-								</div class="column">
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<script>
-					function SearchMovies(){
-						var input = document.getElementById("real_searchbar").value;
-						var results = SearchFor(ParseJson(), input);
-						
-					}
-				</script>
-				
-				<style>
-					.poster {
-						border-radius:10px;
-					}
-					h1,h2,h3,h4,h5,p {
-						color: white;
-					}
-					.close-overlay-button {
-						position: absolute;
-						top: 5%;						
-						right: 5%;	
-					}
-					
-					.fa-times-circle:hover {
-						-webkit-transition: color 0.3s ease-in-out;
-						
-						color: red;
-					}
-					.overlay-container {
-						padding-top: 10%;
-					}
-					
-					#overlay-search {
-					  position: fixed; /* Sit on top of the page content */
-					  display: none; /* Hidden by default */
-					  width: 100%; /* Full width (cover the whole page) */
-					  height: 100%; /* Full height (cover the whole page) */
-					  top: 0;
-					  left: 0;
-					  right: 0;
-					  bottom: 0;
-					  background-color: rgba(0,0,0,1); /* Black background with opacity */
-					  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
-					  cursor: pointer; /* Add a pointer on hover */
-					}
-				</style>
+                <div id="overlay-search">
+                    <div class="close-overlay-button">
+                        <i onclick="TransformSearch()" class="far fa-times-circle fa-3x"></i>
+                    </div>
+                    <div class="columns is-multiline is-centered overlay-container">
+                        <div class="column is-6 sticky">
+                            <p class="control  has-icons-right">
+                                <input autofocus id="real_searchbar" style="background-color: black" oninput="SearchMovies()" class="input is-rounded is-large search" type="text" placeholder="Search movies...">
 
-                <script>
-					function TransformSearch(state){
-						var overlay = document.getElementById("overlay-search");
-						var bogus_searchbar_icon = document.getElementById("bogus-searchbar-icon");
-						if(state) {
-							overlay.style.display = "block"; 
-							bogus_searchbar_icon.style.opacity = "0";
-						}
-						else {
-							overlay.style.display = "none"; 
-							bogus_searchbar_icon.style.opacity = "1";
-						}
-					}
-                </script>
+                                <span class="icon is-small is-right">
+                                    <i class="fas fa-search"></i>
+                                </span>
+                            </p>
+                        </div>
+                        <div class="column is-10">
+                            <p>Buttons go here... -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ... thats right</p>
+                        </div>
+                        <div style="border-radius:10px;" class="column is-10 bigmovie">
+                            <div class="columns is-centered is-multiline">
+                                <div class="column is-2">
+                                    <img id="poster" class="poster" src="https://m.media-amazon.com/images/M/MV5BNTY4ZDk5MzYtNjk2Zi00ZWY3LTgwZjUtNDc5MWEzMWFlOTQzXkEyXkFqcGdeQXVyNjU1MTEwMjI@._V1_SX300.jpg">
+                                </div>
+                                <div class="column is-10">
+                                    <p id="title" style="font-size: 1.5em;">The story of the Kelly Gang</p>
+                                    <p id="info" style="padding:top:5px;font-size: 0.9em;"><i class="fas fa-info-circle"></i>&nbsp; <span class="boxed">PG</span> | 1998 | 70min | Biography, Crime, Drama, History, Western</p>
+                                    <p id="rating" style="font-size: 0.9em;" class="break"> <i class="fas fa-star"></i>&nbsp; Imdb - 6.2 / 10</p>
 
+                                    <p id="plot" style="padding-top:20px;font-size: 0.9em;">
+                                        <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="scroll" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="svg-inline--fa fa-scroll fa-w-20 fa-1x"><path fill="currentColor" d="M48 0C21.53 0 0 21.53 0 48v64c0 8.84 7.16 16 16 16h80V48C96 21.53 74.47 0 48 0zm208 412.57V352h288V96c0-52.94-43.06-96-96-96H111.59C121.74 13.41 128 29.92 128 48v368c0 38.87 34.65 69.65 74.75 63.12C234.22 474 256 444.46 256 412.57zM288 384v32c0 52.93-43.06 96-96 96h336c61.86 0 112-50.14 112-112 0-8.84-7.16-16-16-16H288z" class=""></path></svg>
+                                        &nbsp; Jean Grey begins to develop incredible powers that corrupt and turn her into a Dark Phoenix. Now the X-Men will have to
+                                        decide if the life of a team member is worth more than all of humanity.
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="other-movies" class="column is-10">
+                            <div class="columns is-centered is-multiline">                                
+                                <div class="column is-one-fifth smallmovie">
+                                    <div class="smallmovie">
+                                        <ul class="card">
+                                            <li>
+                                                <img class="poster-little" src="images/unknown.png" />
+                                            </li>
+                                            <li>
+                                            <p class="caption">
+                                                The case of Kelly Grant
+                                                <br>
+                                                <span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
+                                            </p>
+                                            </li>
+                                        </ul>
+
+                                    </div>
+                                </div>
+                                <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
             </div>
-
         </div>
     </div>
 </body>

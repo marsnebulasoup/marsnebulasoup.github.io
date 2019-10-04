@@ -1,0 +1,160 @@
+html {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background: linear-gradient(#09063d, #090979, #00d4ff);
+}
+
+#type_erase, #searchbar {
+    display: inline-block
+}
+
+#text {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 2em;
+    color: white;
+    letter-spacing: 2px;
+}
+
+
+#cursor {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1px;
+    height: 2.5em;
+    background-color: white;
+    animation: blink .75s step-end infinite;
+}
+
+
+@keyframes blink {
+
+    from, to {
+        background-color: transparent
+    }
+
+    50% {
+        background-color: white;
+    }
+}
+
+.search {
+    background-color: transparent;
+    border: 1.5px solid gray;
+}
+
+div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 2%;
+	z-index:3;
+	
+}
+
+input,
+select,
+textarea {
+    color: #fff;
+}
+
+    textarea:focus,
+    input:focus {
+        color: #fff;
+        font-family: Montserrat;
+    }
+
+.break {
+    padding-top: 5px;
+}
+
+.poster {
+    border-radius: 10px;
+    max-height: 20em;
+}
+
+.card {
+    padding: 6%;
+    border-radius: 10px;
+    background-color: black;
+}
+
+    .card:hover {
+        -webkit-transition: background-color 0.1s ease-in-out;
+        background-color: #141414;
+    }
+
+.smallmovie {
+    display: flex;
+    justify-content: center;
+}
+
+/* .smallmovie:hover { */
+/* -webkit-transition: background-color 0.1s ease-in-out; */
+/* background-color: #141414;	 */
+/* } */
+
+.poster-little {
+    border-radius: 10px;
+    max-height: 17em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1, h2, h3, h4, h5, p {
+    color: white;
+}
+
+.caption {
+    text-align: center;
+    padding-top: 10%;
+    font-size: 90%;
+}
+
+.close-overlay-button {
+    position: absolute;
+    top: 5%;
+    right: 5%;
+}
+
+.fa-times-circle:hover {
+    -webkit-transition: color 0.3s ease-in-out;
+    color: grey;
+}
+
+.boxed {
+    font-size: 80%;
+    border-radius: 2px;
+    border: 1px solid white;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-left: 2px;
+    padding-right:2px;
+}
+.bigmovie:hover {
+    -webkit-transition: background-color 0.1s ease-in-out;
+    background-color: #141414;
+}
+
+.overlay-container {
+    padding-top: 5%
+}
+
+#overlay-search {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: fixed; /* Sit on top of the page content */
+    display: none; /* Hidden by default */
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0,0,0,1); /* Black background with opacity */
+    z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+    cursor: pointer; /* Add a pointer on hover */
+}
