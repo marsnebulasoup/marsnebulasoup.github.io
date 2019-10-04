@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html style="overflow-y: none">
+<html class="is-clipped" style="overflow-y: none">
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.5/css/bulma.css" integrity="sha256-ujE/ZUB6CMZmyJSgQjXGCF4sRRneOimQplBVLu8OU5w=" crossorigin="anonymous" />
@@ -15,23 +15,11 @@
 					<a class="button is-primary is-medium is-rounded is-outlined is-hovered">
 						<i class="fas fa-clock"></i>
 						&nbsp; 12:54 PM &middot; &nbsp;
-												
-					<div class="dropdown is-hoverable">
-					  <div class="dropdown-trigger">
-						<span id="localtimezonemenu" aria-haspopup="true" aria-controls="dropdown-menu4">
+						<span onclick="ChangeTimeZone();" id="localtimezonemenu">
 							CST &nbsp;
 							<i class="fas fa-angle-down fa-sm"></i>
-						</span>						  
-					  </div>
-					  <div class="dropdown-menu" id="dropdown-menu4" role="menu">
-						<div class="dropdown-content">
-						  <div class="dropdown-item">
-							<p>You can insert <strong>any type of content</strong> within the dropdown menu.</p>
-						  </div>
-						</div>
-					  </div>
-					</div>				
-					</a>	
+						</span>
+					</a>					
 				</div>
 				<div class="level-right">
 					<div class="iconWrapper">
@@ -43,6 +31,14 @@
 		</div>
 		
 	</div>
+	<div class="modal" id="selTimezone">
+		<div class="modal-background"></div>
+		<div class="modal-content " >
+			<div class="selecttimezone">
+				<p>hudf</p>
+			</div>
+		</div>
+	</div>	
 	
 
 	

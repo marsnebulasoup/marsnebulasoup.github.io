@@ -30,3 +30,9 @@
 .iconWrapper:hover{
 	background-color: #4cdec9;
 }
+
+.selecttimezone{
+	background-color: white;
+	border-radius: 10px;
+	padding:10px;
+}
