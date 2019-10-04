@@ -2,7 +2,7 @@
 	padding: 5%;
 }
 
-#localtimezone {
+#localtimezonemenu {
 	font-size: 80%;
 	padding-left: 5px;
 	padding-right: 5px;
@@ -10,7 +10,7 @@
 	border-radius: 10px;
 }
 
-#localtimezone:hover {
+#localtimezonemenu:hover {
 	background-color: #4cdec9;
 }
 
