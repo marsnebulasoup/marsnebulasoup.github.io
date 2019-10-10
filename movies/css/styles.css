@@ -96,6 +96,8 @@ textarea {
 /* background-color: #141414;	 */
 /* } */
 
+
+
 .poster-little {
     border-radius: 10px;
     max-height: 17em;
@@ -138,11 +140,82 @@ h1, h2, h3, h4, h5, p {
 .movieinfo {
 	color: #949494;
 }
+
+.bigmovie {
+	border-radius:10px;	
+}
+
 .bigmovie:hover {
     -webkit-transition: background-color 0.1s ease-in-out;
     background-color: #141414;
 }
 
+
+/*dvdsvsdvsdvsdvsdvsd*/
+
+.outer-container {
+  background: lightblue;
+  height: 100%;
+  width: 100%;
+}
+
+.top-section {
+  height: 70%;
+  width: 100%;
+}
+
+.bottom-section {
+  height: 30%;
+  width: 100%;
+}
+
+.bottom-aligner {
+  display: inline-block;
+  height: 100%;
+  vertical-align: bottom;
+  width: 0px;
+}
+
+.bottom-content {
+  display: inline-block;
+}
+
+
+/*dvdsvsdvsdvsdvsdvsd*/
+
+.block {
+	display: block;
+}
+
+.mainmoviebuttons {
+		width:100%;
+		height: 100%;
+}
+
+.mainmoviebuttons ul
+{
+	display: table;
+	table-layout: fixed;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.mainmoviebuttons li
+{
+	text-align: center;
+	display: table-row;
+}
+.mainmoviebuttons span
+{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.col {
+	display: inline-block;
+	vertical-align: middle;
+	padding: 10px;
+}
 .overlay-container {
     padding-top: 5%
 }
