@@ -77,7 +77,7 @@ function TransformSearch(state) {
 
     } else {
         overlay.style.display = "none";
-        everything.style.overflow = "scroll";
+        everything.style.overflowX = "scroll";
         bogus_searchbar_icon.style.opacity = "1";
     }
 }
