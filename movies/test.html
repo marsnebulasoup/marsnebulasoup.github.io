@@ -17,14 +17,13 @@
 </head>
 
 <body>
-
     <div class="container">
         <div style="padding-top:5%" class="level">
             <div class="level-left" id="type_erase">
                 <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! IT MOVED TO js/ui.js !!! -->
 
                 <div>
-                    <div id="text">
+                    <div id="text" style="opacity:100;">
                         <div style="display: inline-block;" id="findtheperfect"></div>
                         <div style="display: inline-block;" id="movie/tvshow"></div>
                     </div>
@@ -33,8 +32,6 @@
 
                 <script>
                     TypeAndErase();
-
-/**/
                 </script>
             </div>
 
@@ -149,6 +146,8 @@
 							<div class="tile is-ancestor">
 								<div class="tile is-parent is-12">
 
+									
+									
 									<div class="tile is-child is-2">
 										<div class="smallmovie">
 											<ul>
@@ -158,115 +157,13 @@
 													</li>
 													<li>
 														<p class="caption">
-															The case of Kelly Grant
+															This Awesome Movie 
 															<br>
 															<span class="movieinfo">
 																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
 															</span>
-														</p>
-													</li>
-												</div>
-											</ul>
-
-										</div>
-									</div>
-									<div class="tile is-child is-2">
-										<div class="smallmovie">
-											<ul>
-												<div class="card">
-													<li>
-														<img class="poster-little" src="images/unknown.png" />
-													</li>
-													<li>
-														<p class="caption">
-															The case of Kelly Grant
-															<br>
 															<span class="movieinfo">
-																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
-															</span>
-														</p>
-													</li>
-												</div>
-											</ul>
-
-										</div>
-									</div>
-									<div class="tile is-child is-2">
-										<div class="smallmovie">
-											<ul>
-												<div class="card">
-													<li>
-														<img class="poster-little" src="images/unknown.png" />
-													</li>
-													<li>
-														<p class="caption">
-															The case of Kelly Grant
-															<br>
-															<span class="movieinfo">
-																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
-															</span>
-														</p>
-													</li>
-												</div>
-											</ul>
-
-										</div>
-									</div>
-									<div class="tile is-child is-2">
-										<div class="smallmovie">
-											<ul>
-												<div class="card">
-													<li>
-														<img class="poster-little" src="images/unknown.png" />
-													</li>
-													<li>
-														<p class="caption">
-															The case of Kelly Grant
-															<br>
-															<span class="movieinfo">
-																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
-															</span>
-														</p>
-													</li>
-												</div>
-											</ul>
-
-										</div>
-									</div>
-									<div class="tile is-child is-2">
-										<div class="smallmovie">
-											<ul>
-												<div class="card">
-													<li>
-														<img class="poster-little" src="images/unknown.png" />
-													</li>
-													<li>
-														<p class="caption">
-															The case of Kelly Grant
-															<br>
-															<span class="movieinfo">
-																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
-															</span>
-														</p>
-													</li>
-												</div>
-											</ul>
-
-										</div>
-									</div>
-									<div class="tile is-child is-2">
-										<div class="smallmovie">
-											<ul>
-												<div class="card">
-													<li>
-														<img class="poster-little" src="images/unknown.png" />
-													</li>
-													<li>
-														<p class="caption">
-															The case of Kelly Grant
-															<br>
-															<span class="movieinfo">
-																	<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
+																	<span>Biography, Documentary</span>
 															</span>
 														</p>
 													</li>
@@ -279,12 +176,82 @@
 								</div>
 								
 							</div>
+							
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
+		
+		<div style="padding-top:5%;" class="columns is-multiline is-centered">
+			<div class="column is-narrow">
+				<div class="moviepicker-container">
+					<p style="font-size: 1.5em">What do <i><b>you</b></i> want to watch?</p>
+					<!-- <div class="tile is-ancestor"> -->
+						
+					<!-- </div> -->
+				</div>
+			</div>
+			<div class="column is-12">
+			
+				<div class="buttons is-centered">
+					<button class="button is-static" style="font-family: Montserrat; border: none; color: white; background-color: transparent">Type</button>
+					<button id="1" onclick="SelectButtons('1');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Movie</p></button>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV</p></button>
+					<button class="button is-static" style="font-family: Montserrat; border: none; color: white; background-color: transparent">Genre</button>
+					<button id="3" onclick="SelectButtons('3');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Action</p></button>
+					<button id="4" onclick="SelectButtons('4');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adult</p></button>
+					<button id="5" onclick="SelectButtons('5');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adventure</p></button>
+					<button id="6" onclick="SelectButtons('6');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Animation</p></button>
+					<button id="7" onclick="SelectButtons('7');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Biography</p></button>
+					<button id="8" onclick="SelectButtons('8');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Comedy</p></button>
+					<button id="9" onclick="SelectButtons('9');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Crime</p></button>
+					<button id="10" onclick="SelectButtons('10');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Documentary</p></button>
+					<button id="11" onclick="SelectButtons('11');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Drama</p></button>
+					<button id="12" onclick="SelectButtons('12');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Family</p></button>
+					<button id="13" onclick="SelectButtons('13');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Fantasy</p></button>
+					<button id="14" onclick="SelectButtons('14');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Film-Noir</p></button>
+					<button id="15" onclick="SelectButtons('15');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Game-Show</p></button>
+					<button id="16" onclick="SelectButtons('16');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">History</p></button>
+					<button id="17" onclick="SelectButtons('17');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Horror</p></button>
+					<button id="18" onclick="SelectButtons('18');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Music</p></button>
+					<button id="19" onclick="SelectButtons('19');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Musical</p></button>
+					<button id="20" onclick="SelectButtons('20');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Mystery</p></button>
+					<button id="21" onclick="SelectButtons('21');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">News</p></button>
+					<button id="22" onclick="SelectButtons('22');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Reality-TV</p></button>
+					<button id="23" onclick="SelectButtons('23');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Romance</p></button>
+					<button id="24" onclick="SelectButtons('24');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Sci-Fi</p></button>
+					<button id="25" onclick="SelectButtons('25');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Sport</p></button>
+					<button id="26" onclick="SelectButtons('26');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Talk-Show</p></button>
+					<button id="27" onclick="SelectButtons('27');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Thriller</p></button>
+					<button id="28" onclick="SelectButtons('28');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">War</p></button>
+					<button id="29" onclick="SelectButtons('29');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Western</p></button>
+				</div>				
+			</div>
+		</div>
+		
+		
+	</div>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+	
 </body>
 
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

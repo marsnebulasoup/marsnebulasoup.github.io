@@ -59,6 +59,26 @@ function TypeAndErase() {
 
 }
 
+function SelectButtons(id){
+	var thebutton = document.getElementById(id);
+	var classes = thebutton.classList;
+	var totoggle = "mod";
+	var totoggleto = "is-link";
+    if(classes.contains(totoggle)){
+		classes.remove(totoggle);
+		classes.add(totoggleto)
+	}
+	
+	else {
+		classes.remove(totoggleto);
+		classes.add(totoggle)
+	}
+	
+	
+	
+    
+}
+
 function SearchMovies() {
     var input = document.getElementById("real_searchbar").value;
     var results = SearchFor(ParseJson(), input);

@@ -236,3 +236,48 @@ h1, h2, h3, h4, h5, p {
     z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
     cursor: pointer; /* Add a pointer on hover */
 }
+
+
+/**********************************************************/
+
+
+.moviepicker-container {
+    
+}
+
+.mod {
+	border: 1.5px solid;
+	background-color: transparent;
+	color: white;
+}
+
+
+/* *:focus {outline:none !important} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
