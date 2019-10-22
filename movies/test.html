@@ -12,10 +12,41 @@
     <link href="css/star-rating.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
     <script src="js/parse_movies.js"></script>
-
+	<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+	<script type="text/javascript" src="js/zip.js/zip.js"></script>
 
 </head>
+<script>
+function Decompress(){
+	zip.workerScriptsPath = "js/zip.js/";
+	var url = 'db/basicinfo.zip';
 
+	// Initialize the XMLHttpRequest and wait until file is loaded
+	var xhr = new XMLHttpRequest();
+	xhr.onload = function () {
+	  // Create a Uint8Array from ArrayBuffer
+	  var codes = new Uint8Array(xhr.response);
+
+	  // Get binary string from UTF-16 code units
+	  var bin = String.fromCharCode.apply(null, codes);
+
+	  // Convert binary to Base64
+	  var b64 = btoa(bin);
+	  var thetext = zip.Data64URIReader(b64);
+	  console.log(thetext);
+	  //console.log(b64); //-> "R0lGODdhAQABAPAAAP8AAAAAACwAAAAAAQABAAACAkQBADs="
+	};
+	
+	
+	xhr.open('GET', url);
+	xhr.responseType = 'arraybuffer';
+	xhr.send();
+	
+	
+	
+}
+Decompress();
+</script>
 <body>
     <div class="container">
         <div style="padding-top:5%" class="level">
@@ -36,7 +67,7 @@
             </div>
 
             <div class="level-right" id="searchbar">
-                <p class="control  has-icons-right">
+                <p class="control  has-icons-right sticky">
                     <input onclick="TransformSearch(1)" class="input is-rounded search" type="text" placeholder="Search movies...">
 
                     <span id="bogus-searchbar-icon" class="icon is-small is-right">
@@ -184,21 +215,47 @@
         </div>
 		
 		<div style="padding-top:5%;" class="columns is-multiline is-centered">
-			<div class="column is-narrow">
+			<div id="pick" class="column is-12">
 				<div class="moviepicker-container">
-					<p style="font-size: 1.5em">What do <i><b>you</b></i> want to watch?</p>
+					<p style="font-size: 1.5em; text-align:center;">What do <i><b>you</b></i> want to watch?</p>
 					<!-- <div class="tile is-ancestor"> -->
 						
 					<!-- </div> -->
 				</div>
 			</div>
-			<div class="column is-12">
-			
-				<div class="buttons is-centered">
-					<button class="button is-static" style="font-family: Montserrat; border: none; color: white; background-color: transparent">Type</button>
-					<button id="1" onclick="SelectButtons('1');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Movie</p></button>
-					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV</p></button>
-					<button class="button is-static" style="font-family: Montserrat; border: none; color: white; background-color: transparent">Genre</button>
+			<div class="column is-10">
+				------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+			</div>
+			<div class="column is-3">
+				<div class="buttons ">
+					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)">Type</button>
+					<a data-scroll href="#pick" id="1" onclick="SelectButtons('1');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Movie</p></a>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV</p></button>					
+				</div>	
+				
+				<div class="buttons ">
+					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)">Released</button>
+					<a data-scroll href="#pick" id="1" onclick="SelectButtons('1');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Recent</p></a>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">2000s</p></button>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'90s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'80s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'70s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'60s</p></button>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'50s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'40s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'30s</p></button>					
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">'Classic'</p></button>					
+					
+				</div>
+				<div class="buttons ">
+					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)">Rating</button>
+					<a data-scroll href="#pick" id="1" onclick="SelectButtons('1');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Highly Rated</p></a>
+					<button id="2" onclick="SelectButtons('2');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Award-Winning</p></button>
+				</div>	
+			</div>
+			<div class="column is-9">
+				<div class="buttons ">
+					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)"><p title="Click for more info">Genre</p></button>
 					<button id="3" onclick="SelectButtons('3');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Action</p></button>
 					<button id="4" onclick="SelectButtons('4');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adult</p></button>
 					<button id="5" onclick="SelectButtons('5');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adventure</p></button>
@@ -226,7 +283,24 @@
 					<button id="27" onclick="SelectButtons('27');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Thriller</p></button>
 					<button id="28" onclick="SelectButtons('28');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">War</p></button>
 					<button id="29" onclick="SelectButtons('29');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Western</p></button>
-				</div>				
+					
+				</div>
+				<div class="buttons">
+					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)"><p title="Click for more info">Age</p></button>
+
+					<button id="16" onclick="SelectButtons('16');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">G</p></button>
+					<button id="17" onclick="SelectButtons('17');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">PG</p></button>
+					<button id="18" onclick="SelectButtons('18');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">PG-13</p></button>
+					<button id="19" onclick="SelectButtons('19');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">R</p></button>
+					<button id="20" onclick="SelectButtons('20');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">NC-17</p></button>
+					<button id="22" onclick="SelectButtons('22');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-Y</p></button>
+					<button id="23" onclick="SelectButtons('23');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-Y7</p></button>
+					<button id="24" onclick="SelectButtons('24');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-G</p></button>
+					<button id="25" onclick="SelectButtons('25');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-PG</p></button>
+					<button id="26" onclick="SelectButtons('26');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-14</p></button>
+					<button id="27" onclick="SelectButtons('27');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">TV-MA</p></button>
+					<button id="21" onclick="SelectButtons('21');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Only</p></button>
+				</div>
 			</div>
 		</div>
 		
@@ -235,6 +309,14 @@
 	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 	
 </body>
+
+<script>
+	var scroll = new SmoothScroll('a[href*="#"]', {
+		speed: 700,
+		speedAsDuration: true
+	});
+	//scroll.destroy();
+</script>
 
 </html>
 

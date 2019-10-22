@@ -97,8 +97,16 @@ function TransformSearch(state) {
 
     } else {
         overlay.style.display = "none";
-        everything.style.overflowX = "scroll";
+        everything.style.overflow = "scroll";
         bogus_searchbar_icon.style.opacity = "1";
     }
 }
 
+
+// function Decompress(){
+	// zip.workerScriptsPath = "js/zip.js/";
+	// var thetext = zip.HttpReader("../../db/basicinfo.zip");
+	// console.log(thetext);
+	
+// }
+//Decompress();
