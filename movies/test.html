@@ -25,6 +25,7 @@ function Decompress(callback){
 		type : "application/text"
 	});
 	
+	zip.workerScriptsPath = "js/zip.js"
 	zip.createReader(new zip.BlobReader(blob), function(zipReader) {
 		zipReader.getEntries(function(entries) {
 			entries[0].getData(new zip.BlobWriter("text/plain"), function(data) {
