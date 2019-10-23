@@ -18,29 +18,13 @@
 </head>
 <script>
 function Decompress(){
-	zip.workerScriptsPath = "js/zip.js/";
-	var url = 'db/basicinfo.zip';
-
-	// Initialize the XMLHttpRequest and wait until file is loaded
-	var xhr = new XMLHttpRequest();
-	xhr.onload = function () {
-	  // Create a Uint8Array from ArrayBuffer
-	  var codes = new Uint8Array(xhr.response);
-
-	  // Get binary string from UTF-16 code units
-	  var bin = String.fromCharCode.apply(null, codes);
-
-	  // Convert binary to Base64
-	  var b64 = btoa(bin);
-	  var thetext = zip.Data64URIReader(b64);
-	  console.log(thetext);
-	  console.log(b64); //-> "R0lGODdhAQABAPAAAP8AAAAAACwAAAAAAQABAAACAkQBADs="
-	};
-	
-	
-	xhr.open('GET', url);
-	xhr.responseType = 'arraybuffer';
-	xhr.send();
+	var url = 'movies/db/test.zip';
+	zip.createReader(new zip.HttpReader(url), function(zipReader){
+	   zipReader.getEntries(function(entries){
+			entries[0].getData(new zip.TextWriter(), function(text) {
+				console.log(text);
+			});
+	}, onerror);
 	
 	
 	
