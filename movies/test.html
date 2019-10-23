@@ -18,17 +18,13 @@
 </head>
 <script>
 function Decompress(callback){
-	var url = 'http://lengthapi.win/movies/db/test.zip';
 	
-	var blob = null;
-	var xhr = new XMLHttpRequest();
-	xhr.open("GET", url);
-	xhr.responseType = "blob";//force the HTTP response, response-type header to be blob
-	xhr.onload = function()
-	{
-		blob = xhr.response;//xhr.response is now a blob object
-	}
-	xhr.send();	
+	
+	var happybday = "eNrLSCwoqFRIyiwqyUhJrAQAKXsFmg==";
+	blob = new Blob([ happybday ], {
+		type : "application/text"
+	});
+	
 	zip.createReader(new zip.BlobReader(blob), function(zipReader) {
 		zipReader.getEntries(function(entries) {
 			entries[0].getData(new zip.BlobWriter("text/plain"), function(data) {
