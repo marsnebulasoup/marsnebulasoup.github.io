@@ -17,8 +17,8 @@
 
 </head>
 <script>
-function Decompress(callback){
-	fetch('http://lengthapi.win/movies/db/test.zip')       // 1) fetch the url
+function Decompress(){
+	fetch('http://lengthapi.win/movies/db/basicinfo.zip')       // 1) fetch the url
 	.then(function (response) {                       // 2) filter on 200 OK
 		if (response.status === 200 || response.status === 0) {
 			return Promise.resolve(response.blob());
@@ -28,23 +28,19 @@ function Decompress(callback){
 	})
 	.then(JSZip.loadAsync)                            // 3) chain with the zip promise
 	.then(function (zip) {
-		return zip.file("test.txt").async("string"); // 4) chain with the text content promise
+		return zip.file("testfile3.txt").async("string"); // 4) chain with the text content promise
 	})
 	.then(function success(text) {                    // 5) display the result
-		console.log(text)
+		//console.log(text)
+		localStorage.setItem('basicinfo', text);
+		console.log("Done");
 	}, function error(e) {
 		console.log(e)
 	});
 }
 
 
-Decompress(function(unzippedBlob) {
-	var reader = new FileReader();
-	reader.onload = function(e) {
-		console.log(e.target.result);
-	};
-	reader.readAsText(blob);	
-});
+Decompress();
 
 </script>
 <body>
