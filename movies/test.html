@@ -13,27 +13,28 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
     <script src="js/parse_movies.js"></script>
 	<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
-	<script type="text/javascript" src="js/zip.js/zip.js"></script>
+	<script type="text/javascript" src="js/jszip/jszip.min.js"></script>
 
 </head>
 <script>
 function Decompress(callback){
-	
-	
-	var happybday = "PK    +¬5@È”†o  Š  	   lorem.txt]SK’1½ŠÊXª€@±•ŽªüÃ–3§çÉÉ0U,’î8öûÊ_û”J:–WÊ½ôIK¸Š(õ¶$™˜Ë$Î:t%mIQü»$SV®ÔzóZ_¨éåFâºjÏdÚ’foFnT,b¡ÊGcâ¢¿Çe²Ñ½·Áv¦ŸF¿u)IÓRª/wüäz¢_€á²é™äÌ¤dlÚy)\SŸCàÁW‚\0÷KŸgtHy°êÀY†Ã±ýá—ÿ§``7	Ò?HgªOyÆ£nÒò”	xü¸{	Û±$kÁa/²Låø´Ñ´”·œÐt?ö[ˆ§+'-º‚ß°}vÂg‘@uJ^·xW_Ö©gíˆÿ€¯¥5r¡Ká–¡`L–%æ}@__§ÊR\"Àüp¸Ï7%&[	ëÿJÎô½ S$2à?oE[Œ.À ª^‘õ=„åÀoz§VÔ‘uw_cv4CkG­üÙ£pÚý_ãI£o3¼0gúñ2È›/a'FæÈ}á­~@Ú0´MEìÑ•($@£>½¾ð—vvŽ=7²LEM6™{ä†¡G,Ð˜WAàá åØ¶X–Ïôñ½¶±¸cö$°ð—ÆU“¯=¼¸5ø6ŸTÝüu‰ã–eõú$ÿßÙº1tìë‚3DFG·›&>=V›·D1‡”ƒßÇ•áf‚`=öyzÿí³BóÍ+7¨ìöÕN^8`§1²IZ®B}û·p¦Ï=Cú¾=†¢¶»-ã9wÍÒÂè»lº*äÄü©Mv[WÇ.øýPK     +¬5@È”†o  Š  	                 lorem.txtPK      7   –    ";
-	blob = new Blob([ happybday ], {
-		type : "application/text"
+	fetch('http://lengthapi.win/movies/db/test.zip')       // 1) fetch the url
+	.then(function (response) {                       // 2) filter on 200 OK
+		if (response.status === 200 || response.status === 0) {
+			return Promise.resolve(response.blob());
+		} else {
+			return Promise.reject(new Error(response.statusText));
+		}
+	})
+	.then(JSZip.loadAsync)                            // 3) chain with the zip promise
+	.then(function (zip) {
+		return zip.file("test.txt").async("string"); // 4) chain with the text content promise
+	})
+	.then(function success(text) {                    // 5) display the result
+		console.log(text)
+	}, function error(e) {
+		console.log(e)
 	});
-	
-	zip.workerScriptsPath = "js/zip.js/"
-	zip.createReader(new zip.BlobReader(blob), function(zipReader) {
-		zipReader.getEntries(function(entries) {
-			entries[0].getData(new zip.BlobWriter("text/plain"), function(data) {
-				zipReader.close();
-				callback(data);
-			});
-		});
-	}, onerror);
 }
 
 
