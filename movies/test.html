@@ -22,12 +22,11 @@ function Decompress(){
 	zip.createReader(new zip.HttpReader(url), function(zipReader){
 	   zipReader.getEntries(function(entries){
 			entries[0].getData(new zip.TextWriter(), function(text) {
-				console.log(text);
-			});
-	}, onerror);
+				console.log(text)
+			})
+		}, onerror)
 	
-	
-	
+	})
 }
 Decompress();
 </script>
