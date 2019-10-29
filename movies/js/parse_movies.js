@@ -13,6 +13,33 @@ function LoadFile() {
 	
 }
 
+function LoadZippedFile(){
+	var path = "db/1000popularmovies.zip";
+	var filename = "1000popularmovies.json";
+	fetch('http://lengthapi.win/movies/' + path)       // 1) fetch the url
+	.then(function (response) {                       // 2) filter on 200 OK
+		if (response.status === 200 || response.status === 0) {
+			return Promise.resolve(response.blob());
+		} else {
+			return Promise.reject(new Error(response.statusText));
+		}
+	})
+	.then(JSZip.loadAsync)                            // 3) chain with the zip promise
+	.then(function (zip) {
+		return zip.file(filename).async("string"); // 4) chain with the text content promise
+	})
+	.then(function success(text) {                    // 5) display the result
+		//console.log(text)
+		//localStorage.setItem('basicinfo', text);
+		console.log("Fetched file");
+		localStorage.setItem('JSON', text);
+	}, function error(e) {
+		console.log(e)
+	});
+}
+
+
+
 
 function ParseJson(parsed){
 	var retrievedObject = localStorage.getItem('JSON');
@@ -30,7 +57,11 @@ function SearchFor(obj, query) {
 	  maxPatternLength: 32,
 	  minMatchCharLength: 1,
 	  keys: [
-		"Title"
+		"Title",
+		"Year",
+		"Director",
+		"Actors",
+		"Genre"
 	  ]
 	};
 	var fuse = new Fuse(obj, options); // "list" is the item array
@@ -38,4 +69,5 @@ function SearchFor(obj, query) {
 	return result;
 }
 
-LoadFile();
+
+
