@@ -88,7 +88,7 @@ async function Display(results){
 	plot.innerText = data.Plot;
 	
 	var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
-	info.innerText = infoHtml; //  1992 . 123min . PG
+	info.innerHTML = infoHtml; //  1992 . 123min . PG
 	
 	var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
 	rating.innerHTML = ratingHtml;
