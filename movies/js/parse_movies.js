@@ -81,11 +81,22 @@ async function Display(results){
 	var reviewinfo = document.getElementById("reviewinfo");
 	
 	var data = results[0];
+	var middot = ' &middot; ';
+	
+	poster.src = data.Poster;
+	title.innerText = data.Title;
+	plot.innerText = data.Plot;
+	
+	var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
+	info.innerText = infoHtml; //  1992 . 123min . PG
+	
+	var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
+	rating.innerHTML = ratingHtml;
 	
 	
-	console.log("me")
+	
+	
 	console.log(data);
-	console.log(data[0]);
 }
 
 
