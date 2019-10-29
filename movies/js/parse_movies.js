@@ -69,7 +69,7 @@ function SearchFor(obj, query) {
 	return result;
 }
 
-async function Display(result){
+async function Display(results){
 	var poster = document.getElementById("poster");
 	var title = document.getElementById("title");
 	var plot = document.getElementById("plot");
@@ -80,7 +80,10 @@ async function Display(result){
 	var stars = document.getElementById("stars");
 	var reviewinfo = document.getElementById("reviewinfo");
 	
-	console.log(result);
+	var data = results[0];
+	
+	
+	console.log(data);
 }
 
 
