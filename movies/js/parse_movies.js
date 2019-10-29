@@ -83,7 +83,9 @@ async function Display(results){
 	var data = results[0];
 	
 	
+	console.log("me")
 	console.log(data);
+	console.log(data[0]);
 }
 
 
