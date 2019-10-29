@@ -82,8 +82,8 @@ function SelectButtons(id){
 function SearchMovies() {
     var input = document.getElementById("real_searchbar").value;
     var results = SearchFor(ParseJson(), input);
-	console.log(results)
-
+	//console.log(results)
+	Display(results);
 }
 
 function TransformSearch(state) {
@@ -103,7 +103,7 @@ function TransformSearch(state) {
 }
 
 
-// function Decompress(){
+// 	function Decompress(){
 	// zip.workerScriptsPath = "js/zip.js/";
 	// var thetext = zip.HttpReader("../../db/basicinfo.zip");
 	// console.log(thetext);

@@ -13,7 +13,7 @@ function LoadFile() {
 	
 }
 
-function LoadZippedFile(){
+async function LoadZippedFile(){
 	var path = "db/1000popularmovies.zip";
 	var filename = "1000popularmovies.json";
 	fetch('http://lengthapi.win/movies/' + path)       // 1) fetch the url
@@ -68,6 +68,33 @@ function SearchFor(obj, query) {
 	var result = fuse.search(query);
 	return result;
 }
+
+async function Display(result){
+	var poster = document.getElementById("poster");
+	var title = document.getElementById("title");
+	var plot = document.getElementById("plot");
+	var info = document.getElementById("info");
+	var rating = document.getElementById("rating");
+	var trailer = document.getElementById("trailer");
+	var watchlist = document.getElementById("watchlist");
+	var stars = document.getElementById("stars");
+	var reviewinfo = document.getElementById("reviewinfo");
+	
+	console.log(result);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
