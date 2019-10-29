@@ -79,11 +79,11 @@ function SelectButtons(id){
     
 }
 
-function SearchMovies() {
+async function SearchMovies() {
     var input = document.getElementById("real_searchbar").value;
-    var results = SearchFor(ParseJson(), input);
+    SearchFor(ParseJson(), input);
 	//console.log(results)
-	Display(results);
+	//Display(results);
 }
 
 function TransformSearch(state) {

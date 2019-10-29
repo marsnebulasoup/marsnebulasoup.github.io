@@ -48,7 +48,7 @@ function ParseJson(parsed){
 }
 
 
-function SearchFor(obj, query) {
+async function SearchFor(obj, query) {
   var options = {
 	  shouldSort: true,
 	  threshold: 0.6,
@@ -66,7 +66,7 @@ function SearchFor(obj, query) {
 	};
 	var fuse = new Fuse(obj, options); // "list" is the item array
 	var result = fuse.search(query);
-	return result;
+	Display(result);
 }
 
 async function Display(results){
