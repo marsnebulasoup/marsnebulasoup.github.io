@@ -1,0 +1,40 @@
+{
+    "Title": "An American Werewolf in Paris",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "25 Dec 1997",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Fantasy, Horror, Thriller",
+    "Director": "Anthony Waller",
+    "Writer": "John Landis (characters in An American Werewolf in London), Tim Burns, Tom Stern, Anthony Waller",
+    "Actors": "Tom Everett Scott, Julie Delpy, Vince Vieluf, Phil Buckman",
+    "Plot": "An American man unwittingly gets involved with French werewolves who have developed a serum allowing them to transform at will.",
+    "Language": "English, French, German",
+    "Country": "UK, Netherlands, Luxembourg, USA, France, Germany",
+    "Awards": "3 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGU0ZmE5NzUtYWY0Yi00NDZjLWI4Y2UtZDdkNDFjMmNkM2MxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "7%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "5.1",
+    "imdbVotes": "21,976",
+    "imdbID": "tt0118604",
+    "Type": "movie",
+    "DVD": "21 Jul 1998",
+    "BoxOffice": "N/A",
+    "Production": "Hollywood Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

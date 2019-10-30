@@ -1,0 +1,40 @@
+{
+    "Title": "The Good Doctor",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "31 Aug 2012",
+    "Runtime": "93 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Lance Daly",
+    "Writer": "John Enbom",
+    "Actors": "Orlando Bloom, Riley Keough, Taraji P. Henson, Rob Morrow",
+    "Plot": "A young doctor goes to unconscionable extremes in order to remain in the service of a female patient with a kidney disorder.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzODgyNTc4OF5BMl5BanBnXkFtZTcwNjcwODc3Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.5",
+    "imdbVotes": "6,097",
+    "imdbID": "tt1582271",
+    "Type": "movie",
+    "DVD": "17 Dec 2012",
+    "BoxOffice": "$3,180",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

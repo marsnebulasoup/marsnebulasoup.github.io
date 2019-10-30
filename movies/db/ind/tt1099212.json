@@ -1,0 +1,40 @@
+{
+    "Title": "Twilight",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2008",
+    "Runtime": "122 min",
+    "Genre": "Drama, Fantasy, Romance",
+    "Director": "Catherine Hardwicke",
+    "Writer": "Melissa Rosenberg (screenplay), Stephenie Meyer (novel)",
+    "Actors": "Kristen Stewart, Sarah Clarke, Matt Bushell, Billy Burke",
+    "Plot": "Bella Swan moves to Forks and encounters Edward Cullen, a gorgeous boy with a secret.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "29 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzUxMTAxN15BMl5BanBnXkFtZTcwMzEyMTIwMg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.2",
+    "imdbVotes": "400,049",
+    "imdbID": "tt1099212",
+    "Type": "movie",
+    "DVD": "21 Mar 2009",
+    "BoxOffice": "$191,449,475",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

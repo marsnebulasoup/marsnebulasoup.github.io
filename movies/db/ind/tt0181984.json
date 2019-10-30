@@ -1,0 +1,40 @@
+{
+    "Title": "Boiler Room",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "18 Feb 2000",
+    "Runtime": "120 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Ben Younger",
+    "Writer": "Ben Younger",
+    "Actors": "Giovanni Ribisi, Vin Diesel, Nia Long, Nicky Katt",
+    "Plot": "A college dropout, attempting to live up to his father's high standards, gets a job as a broker for a suburban investment firm which puts him on the fast track to success. But the job might not be as legitimate as it first appeared to be.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "1 win & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ2NDY3NjQtMTY3NS00M2VhLThlOTQtOGE4NzczY2RlYzg3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.0",
+    "imdbVotes": "46,885",
+    "imdbID": "tt0181984",
+    "Type": "movie",
+    "DVD": "11 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "New Line Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

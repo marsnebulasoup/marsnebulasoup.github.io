@@ -1,0 +1,40 @@
+{
+    "Title": "Finding Steve McQueen",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "15 Mar 2019",
+    "Runtime": "91 min",
+    "Genre": "Crime, Romance",
+    "Director": "Mark Steven Johnson",
+    "Writer": "Ken Hixon, Keith Sharon",
+    "Actors": "Lily Rabe, Travis Fimmel, Rachael Taylor, William Fichtner",
+    "Plot": "In 1972, a gang of close-knit thieves from Youngstown, Ohio attempt to steal $30 million in illegal contributions and blackmail money from President Richard Nixon's secret fund.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGIwMzhjMzktY2QyMi00Nzc0LThjMGYtMGYxN2UxMWZjODliXkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.2",
+    "imdbVotes": "2,410",
+    "imdbID": "tt6032328",
+    "Type": "movie",
+    "DVD": "15 Mar 2019",
+    "BoxOffice": "N/A",
+    "Production": "Momentum Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Prestige",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "20 Oct 2006",
+    "Runtime": "130 min",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Christopher Nolan",
+    "Writer": "Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Priest (novel)",
+    "Actors": "Hugh Jackman, Christian Bale, Michael Caine, Piper Perabo",
+    "Plot": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 2 Oscars. Another 5 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,089,812",
+    "imdbID": "tt0482571",
+    "Type": "movie",
+    "DVD": "20 Feb 2007",
+    "BoxOffice": "$53,100,000",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "It's Complicated",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "25 Dec 2009",
+    "Runtime": "120 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Nancy Meyers",
+    "Writer": "Nancy Meyers",
+    "Actors": "Meryl Streep, Steve Martin, Alec Baldwin, John Krasinski",
+    "Plot": "When attending their son's college graduation, a couple reignite the spark in their relationship. But the complicated fact is they're divorced and he's remarried.",
+    "Language": "English, French",
+    "Country": "USA, Japan",
+    "Awards": "Nominated for 3 Golden Globes. Another 8 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ0NjM2NTI4N15BMl5BanBnXkFtZTcwNjQ2MDc5Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "58%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.5",
+    "imdbVotes": "81,938",
+    "imdbID": "tt1230414",
+    "Type": "movie",
+    "DVD": "27 Apr 2010",
+    "BoxOffice": "$112,703,470",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

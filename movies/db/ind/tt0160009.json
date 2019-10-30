@@ -1,0 +1,40 @@
+{
+    "Title": "The Art of War",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "25 Aug 2000",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Crime, Thriller",
+    "Director": "Christian Duguay",
+    "Writer": "Wayne Beach (story), Wayne Beach (screenplay), Simon Barry (screenplay)",
+    "Actors": "Wesley Snipes, Anne Archer, Maury Chaykin, Marie Matiko",
+    "Plot": "UN's secretary general uses covert operations to help diplomacy along. Shaw's called back 6 months after one such operation. He witnesses the murder of Chinese UN ambassador at UN, NYC, chases the assassin and ends up a suspect.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "2 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzAyMjE2MDI3M15BMl5BanBnXkFtZTYwNTIwMzg2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "16%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "30/100"
+        }
+    ],
+    "Metascore": "30",
+    "imdbRating": "5.7",
+    "imdbVotes": "27,634",
+    "imdbID": "tt0160009",
+    "Type": "movie",
+    "DVD": "26 Dec 2000",
+    "BoxOffice": "$29,458,928",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Annie Hall",
+    "Year": "1977",
+    "Rated": "PG",
+    "Released": "20 Apr 1977",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Woody Allen",
+    "Writer": "Woody Allen, Marshall Brickman",
+    "Actors": "Woody Allen, Diane Keaton, Tony Roberts, Carol Kane",
+    "Plot": "Neurotic New York comedian Alvy Singer falls in love with the ditzy Annie Hall.",
+    "Language": "English, German",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 26 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDg1OGQ4YzgtM2Y2NS00NjA3LWFjYTctMDRlMDI3NWE1OTUyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "92/100"
+        }
+    ],
+    "Metascore": "92",
+    "imdbRating": "8.0",
+    "imdbVotes": "239,431",
+    "imdbID": "tt0075686",
+    "Type": "movie",
+    "DVD": "28 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

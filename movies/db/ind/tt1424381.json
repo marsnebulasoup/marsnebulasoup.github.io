@@ -1,0 +1,40 @@
+{
+    "Title": "Predators",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "09 Jul 2010",
+    "Runtime": "107 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Nimr\u00f3d Antal",
+    "Writer": "Alex Litvak, Michael Finch, Jim Thomas (characters), John Thomas (characters)",
+    "Actors": "Adrien Brody, Topher Grace, Alice Braga, Walton Goggins",
+    "Plot": "A group of elite warriors parachute into an unfamiliar jungle and are hunted by members of a merciless alien race.",
+    "Language": "English, Spanish, Russian",
+    "Country": "USA",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmNDNlMGItMDQxMS00ZWMxLTg4MmQtMTBiNWU3ZDU1Nzk1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.4",
+    "imdbVotes": "202,329",
+    "imdbID": "tt1424381",
+    "Type": "movie",
+    "DVD": "19 Oct 2010",
+    "BoxOffice": "$52,000,688",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

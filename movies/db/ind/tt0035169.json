@@ -1,0 +1,36 @@
+{
+    "Title": "The Palm Beach Story",
+    "Year": "1942",
+    "Rated": "Passed",
+    "Released": "01 Jan 1943",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Preston Sturges",
+    "Writer": "Preston Sturges",
+    "Actors": "Claudette Colbert, Joel McCrea, Mary Astor, Rudy Vallee",
+    "Plot": "An inventor needs cash to develop his big idea. His wife, who loves him, decides to raise it for him by divorcing him and marrying a millionaire.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjU3MTlmNmUtZmMxZS00YTNmLTlkZWQtOTBhYjNkYjkyMWUxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "9,956",
+    "imdbID": "tt0035169",
+    "Type": "movie",
+    "DVD": "01 Feb 2005",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Beverly Hills Cop",
+    "Year": "1984",
+    "Rated": "R",
+    "Released": "05 Dec 1984",
+    "Runtime": "105 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Martin Brest",
+    "Writer": "Daniel Petrie Jr. (screenplay), Danilo Bach (story), Daniel Petrie Jr. (story)",
+    "Actors": "Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher",
+    "Plot": "A freewheeling Detroit cop pursuing a murder investigation finds himself dealing with the very different culture of Beverly Hills.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2MyZDE0YjAtNWFjYy00MWRlLTk3MTktMzY3ZDVhNTJkZTlmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.3",
+    "imdbVotes": "151,154",
+    "imdbID": "tt0086960",
+    "Type": "movie",
+    "DVD": "29 Jan 2002",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

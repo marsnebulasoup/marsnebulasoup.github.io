@@ -1,0 +1,40 @@
+{
+    "Title": "The First Purge",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "04 Jul 2018",
+    "Runtime": "98 min",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
+    "Director": "Gerard McMurray",
+    "Writer": "James DeMonaco",
+    "Actors": "Y'lan Noel, Lex Scott Davis, Joivan Wade, Mugga",
+    "Plot": "America's third political party, the New Founding Fathers of America, comes to power and conducts an experiment: no laws for 12 hours on Staten Island. No one has to stay on the island, but $5,000 is given to anyone who does.",
+    "Language": "English, French, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmVjMWJhMTYtMzUxMC00ODdhLTk3YzMtZDFhNGUyOGFhYTY0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "5.1",
+    "imdbVotes": "44,851",
+    "imdbID": "tt6133466",
+    "Type": "movie",
+    "DVD": "18 Sep 2018",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

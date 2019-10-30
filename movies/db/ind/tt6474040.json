@@ -1,0 +1,40 @@
+{
+    "Title": "Stockholm",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "12 Apr 2019",
+    "Runtime": "92 min",
+    "Genre": "Biography, Comedy, Crime, Drama, History",
+    "Director": "Robert Budreau",
+    "Writer": "Robert Budreau",
+    "Actors": "Ethan Hawke, Noomi Rapace, Mark Strong, Christopher Heyerdahl",
+    "Plot": "Based on the absurd but true 1973 bank heist and hostage crisis in Stockholm that was documented in the New Yorker as the origins of the 'Stockholm Syndrome'.",
+    "Language": "English",
+    "Country": "Canada, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWI1OGM1MzItMTgxMy00MDQyLWExNzMtYjdhMjczNDdhMDhkXkEyXkFqcGdeQXVyMjU3NTI0Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.2",
+    "imdbVotes": "4,920",
+    "imdbID": "tt6474040",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Smith Global Media",
+    "Website": "N/A",
+    "Response": "True"
+}

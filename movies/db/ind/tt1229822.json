@@ -1,0 +1,40 @@
+{
+    "Title": "Jane Eyre",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "22 Apr 2011",
+    "Runtime": "120 min",
+    "Genre": "Drama, Romance",
+    "Director": "Cary Joji Fukunaga",
+    "Writer": "Charlotte Bront\u00eb (novel), Moira Buffini (screenplay)",
+    "Actors": "Mia Wasikowska, Jamie Bell, Su Elliot, Holliday Grainger",
+    "Plot": "A mousy governess who softens the heart of her employer soon discovers that he's hiding a terrible secret.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Oscar. Another 10 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjU0Mjc0NzU3NF5BMl5BanBnXkFtZTcwMTU4OTkwNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.3",
+    "imdbVotes": "76,083",
+    "imdbID": "tt1229822",
+    "Type": "movie",
+    "DVD": "16 Aug 2011",
+    "BoxOffice": "N/A",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

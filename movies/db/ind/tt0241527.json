@@ -1,0 +1,40 @@
+{
+    "Title": "Harry Potter and the Sorcerer's Stone",
+    "Year": "2001",
+    "Rated": "PG",
+    "Released": "16 Nov 2001",
+    "Runtime": "152 min",
+    "Genre": "Adventure, Family, Fantasy",
+    "Director": "Chris Columbus",
+    "Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+    "Actors": "Richard Harris, Maggie Smith, Robbie Coltrane, Saunders Triplets",
+    "Plot": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 3 Oscars. Another 17 wins & 62 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjQ3NWNlNmQtMTE5ZS00MDdmLTlkZjUtZTBlM2UxMGFiMTU3XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.6",
+    "imdbVotes": "580,642",
+    "imdbID": "tt0241527",
+    "Type": "movie",
+    "DVD": "28 May 2002",
+    "BoxOffice": "$317,557,891",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

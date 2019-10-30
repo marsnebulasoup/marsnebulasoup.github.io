@@ -1,0 +1,36 @@
+{
+    "Title": "The Car",
+    "Year": "1977",
+    "Rated": "PG",
+    "Released": "13 May 1977",
+    "Runtime": "96 min",
+    "Genre": "Action, Horror, Mystery, Thriller",
+    "Director": "Elliot Silverstein",
+    "Writer": "Dennis Shryack (screenplay), Michael Butler (screenplay), Lane Slate (screenplay), Dennis Shryack (story), Michael Butler (story)",
+    "Actors": "James Brolin, Kathleen Lloyd, John Marley, R.G. Armstrong",
+    "Plot": "A small desert town is terrorized by a powerful, seemingly possessed car, and the local sheriff may be the only one who can stop it.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2M2ZThjNjItZmQ5My00ODczLWEwYzAtMTMxODBlY2RmMjQ0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "8,119",
+    "imdbID": "tt0075809",
+    "Type": "movie",
+    "DVD": "20 Jul 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Studios Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

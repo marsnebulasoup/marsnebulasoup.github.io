@@ -1,0 +1,40 @@
+{
+    "Title": "New Year's Eve",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "09 Dec 2011",
+    "Runtime": "113 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Garry Marshall",
+    "Writer": "Katherine Fugate",
+    "Actors": "Michelle Pfeiffer, Zac Efron, Charlotte Marshall-Fricker, Fiona Choi",
+    "Plot": "The lives of several couples and singles in New York City intertwine over the course of New Year's Eve.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2Mzg2MDQxOV5BMl5BanBnXkFtZTcwNzc3NTY5Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "7%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "22/100"
+        }
+    ],
+    "Metascore": "22",
+    "imdbRating": "5.7",
+    "imdbVotes": "77,468",
+    "imdbID": "tt1598822",
+    "Type": "movie",
+    "DVD": "01 May 2012",
+    "BoxOffice": "$54,538,013",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

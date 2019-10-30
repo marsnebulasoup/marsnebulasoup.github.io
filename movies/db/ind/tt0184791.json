@@ -1,0 +1,40 @@
+{
+    "Title": "O",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "31 Aug 2001",
+    "Runtime": "95 min",
+    "Genre": "Drama, Romance, Thriller",
+    "Director": "Tim Blake Nelson",
+    "Writer": "William Shakespeare (play), Brad Kaaya (screenplay)",
+    "Actors": "Mekhi Phifer, Martin Sheen, Josh Hartnett, Andrew Keegan",
+    "Plot": "An update of Shakespeare's 'Othello' with a young cast, set in an upper class prep school, & centered around basketball player Odin.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0MzA1ODg5M15BMl5BanBnXkFtZTYwODYxMTU3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.1",
+    "imdbVotes": "18,673",
+    "imdbID": "tt0184791",
+    "Type": "movie",
+    "DVD": "19 Feb 2002",
+    "BoxOffice": "$15,540,020",
+    "Production": "Lions Gate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

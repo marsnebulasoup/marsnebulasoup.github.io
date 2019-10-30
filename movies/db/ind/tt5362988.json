@@ -1,0 +1,40 @@
+{
+    "Title": "Wind River",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "18 Aug 2017",
+    "Runtime": "107 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Taylor Sheridan",
+    "Writer": "Taylor Sheridan",
+    "Actors": "Kelsey Asbille, Jeremy Renner, Julia Jones, Teo Briones",
+    "Plot": "A veteran hunter helps an FBI agent investigate the murder of a young woman on a Wyoming Native American reservation.",
+    "Language": "English",
+    "Country": "UK, Canada, USA",
+    "Awards": "8 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyMjU1OTUwM15BMl5BanBnXkFtZTgwMDg1NDQ2MjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.7",
+    "imdbVotes": "176,583",
+    "imdbID": "tt5362988",
+    "Type": "movie",
+    "DVD": "14 Nov 2017",
+    "BoxOffice": "$33,782,714",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

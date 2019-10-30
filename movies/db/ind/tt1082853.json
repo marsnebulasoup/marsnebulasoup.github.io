@@ -1,0 +1,40 @@
+{
+    "Title": "Management",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "15 May 2009",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Stephen Belber",
+    "Writer": "Stephen Belber",
+    "Actors": "Jennifer Aniston, Steve Zahn, Margo Martindale, Fred Ward",
+    "Plot": "A traveling art saleswoman tries to shake off a flaky motel manager who falls for her and won't leave her alone.",
+    "Language": "English, Mandarin",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI0Njg2MTg4OV5BMl5BanBnXkFtZTcwOTgyNjg0Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "5.9",
+    "imdbVotes": "16,324",
+    "imdbID": "tt1082853",
+    "Type": "movie",
+    "DVD": "29 Sep 2009",
+    "BoxOffice": "$809,787",
+    "Production": "IDP/Samuel goldwyn Films",
+    "Website": "N/A",
+    "Response": "True"
+}

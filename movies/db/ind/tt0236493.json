@@ -1,0 +1,40 @@
+{
+    "Title": "The Mexican",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "02 Mar 2001",
+    "Runtime": "123 min",
+    "Genre": "Adventure, Comedy, Crime, Romance",
+    "Director": "Gore Verbinski",
+    "Writer": "J.H. Wyman",
+    "Actors": "Brad Pitt, Julia Roberts, James Gandolfini, J.K. Simmons",
+    "Plot": "A man tries to transport an ancient gun called The Mexican, believed to carry a curse, back across the border, while his girlfriend pressures him to give up his criminal ways.",
+    "Language": "English, Spanish",
+    "Country": "USA, Mexico",
+    "Awards": "3 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWIxZTExZjctZjA5ZC00NGQ2LTk4M2YtMWIyMGM2NzRlNWVkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.1",
+    "imdbVotes": "98,155",
+    "imdbID": "tt0236493",
+    "Type": "movie",
+    "DVD": "07 Aug 2001",
+    "BoxOffice": "$66,588,591",
+    "Production": "Dreamworks Distribution LLC",
+    "Website": "N/A",
+    "Response": "True"
+}

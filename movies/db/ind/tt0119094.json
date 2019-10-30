@@ -1,0 +1,40 @@
+{
+    "Title": "Face/Off",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "27 Jun 1997",
+    "Runtime": "138 min",
+    "Genre": "Action, Crime, Sci-Fi, Thriller",
+    "Director": "John Woo",
+    "Writer": "Mike Werb, Michael Colleary",
+    "Actors": "John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola",
+    "Plot": "In order to foil a terrorist plot, an FBI agent undergoes a facial transplant surgery and assumes the identity and physical appearance of a terrorist, but the plan turns from bad to worse when the same terrorist impersonates the FBI agent.",
+    "Language": "English, Latin",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 11 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzFjNzIxMmEtMzY5NS00YTgzLTkwYWEtN2FjMmY0NmNkZWY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.3",
+    "imdbVotes": "330,562",
+    "imdbID": "tt0119094",
+    "Type": "movie",
+    "DVD": "06 Oct 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

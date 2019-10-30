@@ -1,0 +1,40 @@
+{
+    "Title": "Penelope",
+    "Year": "2006",
+    "Rated": "PG",
+    "Released": "29 Feb 2008",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Fantasy, Romance",
+    "Director": "Mark Palansky",
+    "Writer": "Leslie Caveny",
+    "Actors": "Richard E. Grant, Catherine O'Hara, Nick Prideaux, Michael Feast",
+    "Plot": "A modern romantic tale about a young aristocratic heiress born under a curse that can only be broken when she finds true love with \"one who will accept her as one of their own.\"",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjM1M2Y3NWUtOWM1MS00YjUzLThiNmEtNjdiMTZmMzg3NTY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.7",
+    "imdbVotes": "57,776",
+    "imdbID": "tt0472160",
+    "Type": "movie",
+    "DVD": "15 Jul 2008",
+    "BoxOffice": "$10,000,000",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

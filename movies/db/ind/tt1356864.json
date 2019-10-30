@@ -1,0 +1,40 @@
+{
+    "Title": "I'm Still Here",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "16 Sep 2010",
+    "Runtime": "108 min",
+    "Genre": "Comedy, Drama, Music",
+    "Director": "Casey Affleck",
+    "Writer": "Casey Affleck, Joaquin Phoenix",
+    "Actors": "Joaquin Phoenix, Antony Langdon, Carey Perloff, Larry McHale",
+    "Plot": "Documents Joaquin Phoenix's transition from the acting world to a career as an aspiring rapper.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5NjA2NzM5Ml5BMl5BanBnXkFtZTcwODg5NTE3Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.2",
+    "imdbVotes": "19,117",
+    "imdbID": "tt1356864",
+    "Type": "movie",
+    "DVD": "23 Nov 2010",
+    "BoxOffice": "$408,719",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

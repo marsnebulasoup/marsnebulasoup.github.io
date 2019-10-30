@@ -1,0 +1,40 @@
+{
+    "Title": "Rocky IV",
+    "Year": "1985",
+    "Rated": "PG",
+    "Released": "27 Nov 1985",
+    "Runtime": "91 min",
+    "Genre": "Drama, Sport",
+    "Director": "Sylvester Stallone",
+    "Writer": "Sylvester Stallone",
+    "Actors": "Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers",
+    "Plot": "Rocky Balboa proudly holds the world heavyweight boxing championship, but a new challenger has stepped forward: Drago, a six-foot-four, 261-pound fighter who has the backing of the Soviet Union.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "9 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODk5ODE0NV5BMl5BanBnXkFtZTcwNDkzODM1NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.9",
+    "imdbVotes": "173,092",
+    "imdbID": "tt0089927",
+    "Type": "movie",
+    "DVD": "25 Aug 1998",
+    "BoxOffice": "N/A",
+    "Production": "Metro-Goldwyn-Mayer",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Great New Wonderful",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "22 Apr 2005",
+    "Runtime": "87 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Danny Leiner",
+    "Writer": "Sam Catlin",
+    "Actors": "Maggie Gyllenhaal, Seth Gilliam, Jim Parsons, Martha Millan",
+    "Plot": "The Great New Wonderful weaves five stories against the backdrop of an anxious and uncertain post-9-11 New York City.",
+    "Language": "English, Hindi, Italian",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcwNDY0ODQ2N15BMl5BanBnXkFtZTcwODAyMzMzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "5.7",
+    "imdbVotes": "1,367",
+    "imdbID": "tt0402230",
+    "Type": "movie",
+    "DVD": "12 Sep 2006",
+    "BoxOffice": "$39,712",
+    "Production": "First Independent Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

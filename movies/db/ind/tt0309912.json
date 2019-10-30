@@ -1,0 +1,40 @@
+{
+    "Title": "Nicholas Nickleby",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "27 Jun 2003",
+    "Runtime": "132 min",
+    "Genre": "Adventure, Drama, Romance",
+    "Director": "Douglas McGrath",
+    "Writer": "Charles Dickens (novel), Douglas McGrath (screenplay)",
+    "Actors": "Stella Gonet, Andrew Havill, Henry McGrath, Hugh Mitchell",
+    "Plot": "A young, compassionate man struggles to save his family and friends from the abusive exploitation of his cold-heartedly grasping uncle.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQxNjMzODA3NF5BMl5BanBnXkFtZTgwMjU4MDcxMDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.1",
+    "imdbVotes": "10,964",
+    "imdbID": "tt0309912",
+    "Type": "movie",
+    "DVD": "22 Jul 2003",
+    "BoxOffice": "$1,309,849",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

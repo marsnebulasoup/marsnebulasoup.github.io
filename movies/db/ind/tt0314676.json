@@ -1,0 +1,40 @@
+{
+    "Title": "The Singing Detective",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "14 Nov 2003",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Crime, Musical, Mystery",
+    "Director": "Keith Gordon",
+    "Writer": "Dennis Potter (screenplay), Dennis Potter (television series)",
+    "Actors": "Robert Downey Jr., Robin Wright, Mel Gibson, Jeremy Northam",
+    "Plot": "From his hospital bed, a writer suffering from a skin disease hallucinates musical numbers and paranoid plots.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTExOTA2Ml5BMl5BanBnXkFtZTcwOTIyNTAwMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "5.5",
+    "imdbVotes": "7,890",
+    "imdbID": "tt0314676",
+    "Type": "movie",
+    "DVD": "23 Mar 2004",
+    "BoxOffice": "$293,296",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

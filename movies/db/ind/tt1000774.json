@@ -1,0 +1,40 @@
+{
+    "Title": "Sex and the City",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "30 May 2008",
+    "Runtime": "145 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michael Patrick King",
+    "Writer": "Michael Patrick King, Candace Bushnell (book), Darren Star (television series creator)",
+    "Actors": "Sarah Jessica Parker, Kim Cattrall, Kristin Davis, Cynthia Nixon",
+    "Plot": "A New York City writer on sex and love is finally getting married to her Mr. Big. But her three best girlfriends must console her after one of them inadvertently leads Mr. Big to jilt her.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzYxMjM3OF5BMl5BanBnXkFtZTcwNjg2OTA3MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "5.6",
+    "imdbVotes": "111,405",
+    "imdbID": "tt1000774",
+    "Type": "movie",
+    "DVD": "23 Sep 2008",
+    "BoxOffice": "$152,595,674",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

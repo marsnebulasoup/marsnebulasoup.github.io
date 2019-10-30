@@ -1,0 +1,40 @@
+{
+    "Title": "The Grey",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "27 Jan 2012",
+    "Runtime": "117 min",
+    "Genre": "Action, Adventure, Drama, Thriller",
+    "Director": "Joe Carnahan",
+    "Writer": "Joe Carnahan (screenplay), Ian Mackenzie Jeffers (screenplay), Ian Mackenzie Jeffers (short story \"Ghost Walker\")",
+    "Actors": "Liam Neeson, Frank Grillo, Dermot Mulroney, Dallas Roberts",
+    "Plot": "After their plane crashes in Alaska, six oil workers are led by a skilled huntsman to survival, but a pack of merciless wolves haunts their every step.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDY4MTQwMzc1MV5BMl5BanBnXkFtZTcwNzcwNTM5Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.8",
+    "imdbVotes": "230,870",
+    "imdbID": "tt1601913",
+    "Type": "movie",
+    "DVD": "15 May 2012",
+    "BoxOffice": "$51,533,608",
+    "Production": "Open Road Films",
+    "Website": "N/A",
+    "Response": "True"
+}

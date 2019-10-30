@@ -1,0 +1,40 @@
+{
+    "Title": "Mustang",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "17 Jun 2015",
+    "Runtime": "97 min",
+    "Genre": "Drama",
+    "Director": "Deniz Gamze Erg\u00fcven",
+    "Writer": "Deniz Gamze Erg\u00fcven, Alice Winocour",
+    "Actors": "G\u00fcnes Sensoy, Doga Zeynep Doguslu, Tugba Sunguroglu, Elit Iscan",
+    "Plot": "When five orphan girls are seen innocently playing with boys on a beach, their scandalized conservative guardians confine them while forced marriages are arranged.",
+    "Language": "Turkish",
+    "Country": "Turkey, France, Germany, Qatar",
+    "Awards": "Nominated for 1 Oscar. Another 42 wins & 58 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkwODUzODA0OV5BMl5BanBnXkFtZTgwMTA3ODkxNzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.6",
+    "imdbVotes": "31,735",
+    "imdbID": "tt3966404",
+    "Type": "movie",
+    "DVD": "12 Apr 2016",
+    "BoxOffice": "$560,778",
+    "Production": "CG Cin\u00e9ma",
+    "Website": "N/A",
+    "Response": "True"
+}

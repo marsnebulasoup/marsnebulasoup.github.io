@@ -1,0 +1,40 @@
+{
+    "Title": "Hot Fuzz",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "20 Apr 2007",
+    "Runtime": "121 min",
+    "Genre": "Action, Comedy, Mystery",
+    "Director": "Edgar Wright",
+    "Writer": "Edgar Wright, Simon Pegg",
+    "Actors": "Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper",
+    "Plot": "A skilled London police officer is transferred to a small town with a dark secret.",
+    "Language": "English",
+    "Country": "UK, France",
+    "Awards": "2 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4MDJhMDMtYmJiMS00ZDZmLThmZWUtYTMwZDM1YTc5MWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.8",
+    "imdbVotes": "432,410",
+    "imdbID": "tt0425112",
+    "Type": "movie",
+    "DVD": "31 Jul 2007",
+    "BoxOffice": "$23,618,786",
+    "Production": "Rogue Pictures/Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

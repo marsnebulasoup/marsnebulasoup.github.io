@@ -1,0 +1,40 @@
+{
+    "Title": "Lara Croft: Tomb Raider",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "15 Jun 2001",
+    "Runtime": "100 min",
+    "Genre": "Action, Adventure, Fantasy, Thriller",
+    "Director": "Simon West",
+    "Writer": "Sara B. Cooper (story), Mike Werb (story), Michael Colleary (story), Simon West (adaptation), Patrick Massett (screenplay), John Zinman (screenplay)",
+    "Actors": "Angelina Jolie, Jon Voight, Iain Glen, Noah Taylor",
+    "Plot": "Video game adventurer Lara Croft comes to life in a movie where she races against time and villains to recover powerful ancient artifacts.",
+    "Language": "English",
+    "Country": "USA, UK, Japan, Germany",
+    "Awards": "4 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzMzODVjMWUtYmIxZS00NDlkLTlmNTktNjI5NTdhZjUzYzY1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "5.8",
+    "imdbVotes": "187,942",
+    "imdbID": "tt0146316",
+    "Type": "movie",
+    "DVD": "13 Nov 2001",
+    "BoxOffice": "$129,512,407",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The King",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "01 Nov 2019",
+    "Runtime": "133 min",
+    "Genre": "Biography, Drama, History, Romance, War",
+    "Director": "David Mich\u00f4d",
+    "Writer": "Joel Edgerton, David Mich\u00f4d",
+    "Actors": "Robert Pattinson, Timoth\u00e9e Chalamet, Ben Mendelsohn, Joel Edgerton",
+    "Plot": "Hal, wayward prince and heir to the English throne, is crowned King Henry V after his tyrannical father dies. Now the young king must navigate palace politics, the war his father left behind, and the emotional strings of his past life.",
+    "Language": "English, French",
+    "Country": "UK, Hungary, Australia",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGZhMWFhMTAtNGM3Ni00MTdhLTg3NmMtMDViYTc5ODVkZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.5",
+    "imdbVotes": "400",
+    "imdbID": "tt7984766",
+    "Type": "movie",
+    "DVD": "01 Nov 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

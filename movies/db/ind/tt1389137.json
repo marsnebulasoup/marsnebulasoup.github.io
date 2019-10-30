@@ -1,0 +1,40 @@
+{
+    "Title": "We Bought a Zoo",
+    "Year": "2011",
+    "Rated": "PG",
+    "Released": "23 Dec 2011",
+    "Runtime": "124 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "Cameron Crowe",
+    "Writer": "Aline Brosh McKenna (screenplay), Cameron Crowe (screenplay), Benjamin Mee (book)",
+    "Actors": "Matt Damon, Scarlett Johansson, Thomas Haden Church, Colin Ford",
+    "Plot": "Set in Southern California, a father moves his young family to the countryside to renovate and re-open a struggling zoo.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "1 win & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0MTE3OTUwMl5BMl5BanBnXkFtZTcwODg5NjgwNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.1",
+    "imdbVotes": "128,364",
+    "imdbID": "tt1389137",
+    "Type": "movie",
+    "DVD": "03 Apr 2012",
+    "BoxOffice": "$72,700,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

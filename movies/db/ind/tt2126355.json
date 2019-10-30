@@ -1,0 +1,40 @@
+{
+    "Title": "San Andreas",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "29 May 2015",
+    "Runtime": "114 min",
+    "Genre": "Action, Adventure, Drama, Thriller",
+    "Director": "Brad Peyton",
+    "Writer": "Carlton Cuse (screenplay), Andre Fabrizio (story), Jeremy Passmore (story), Carlton Cuse, Andre Fabrizio",
+    "Actors": "Dwayne Johnson, Carla Gugino, Alexandra Daddario, Ioan Gruffudd",
+    "Plot": "In the aftermath of a massive earthquake in California, a rescue-chopper pilot makes a dangerous journey with his ex-wife across the state in order to rescue his daughter.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzZhYmQ2NGMtZmRmYi00NzgzLTllNmUtNDQwZDAxMmE3NzI0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.0",
+    "imdbVotes": "196,491",
+    "imdbID": "tt2126355",
+    "Type": "movie",
+    "DVD": "20 Oct 2015",
+    "BoxOffice": "$127,666,001",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

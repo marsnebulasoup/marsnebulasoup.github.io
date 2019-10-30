@@ -1,0 +1,40 @@
+{
+    "Title": "Napoleon Dynamite",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "27 Aug 2004",
+    "Runtime": "96 min",
+    "Genre": "Comedy",
+    "Director": "Jared Hess",
+    "Writer": "Jared Hess, Jerusha Hess",
+    "Actors": "Jon Heder, Jon Gries, Aaron Ruell, Efren Ramirez",
+    "Plot": "A listless and alienated teenager decides to help his new friend win the class presidency in their small western high school, while he must deal with his bizarre family life back home.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "10 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjYwNTA3MDIyMl5BMl5BanBnXkFtZTYwMjIxNjA3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.9",
+    "imdbVotes": "186,973",
+    "imdbID": "tt0374900",
+    "Type": "movie",
+    "DVD": "21 Dec 2004",
+    "BoxOffice": "$44,478,018",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

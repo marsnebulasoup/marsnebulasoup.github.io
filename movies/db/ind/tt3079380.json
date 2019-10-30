@@ -1,0 +1,40 @@
+{
+    "Title": "Spy",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "05 Jun 2015",
+    "Runtime": "119 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Paul Feig",
+    "Writer": "Paul Feig",
+    "Actors": "Jude Law, Raad Rawi, Melissa McCarthy, Jessica Chaffin",
+    "Plot": "A desk-bound CIA analyst volunteers to go undercover to infiltrate the world of a deadly arms dealer, and prevent diabolical global disaster.",
+    "Language": "Hungarian, English, French, Italian, German",
+    "Country": "USA, UK, France, Hungary, Germany",
+    "Awards": "Nominated for 2 Golden Globes. Another 6 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjI5OTQ0MDQxM15BMl5BanBnXkFtZTgwMzcwNjMyNTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.0",
+    "imdbVotes": "217,161",
+    "imdbID": "tt3079380",
+    "Type": "movie",
+    "DVD": "29 Sep 2015",
+    "BoxOffice": "$89,914,425",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

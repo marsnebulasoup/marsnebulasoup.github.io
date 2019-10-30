@@ -1,0 +1,40 @@
+{
+    "Title": "Fargo",
+    "Year": "1996",
+    "Rated": "R",
+    "Released": "05 Apr 1996",
+    "Runtime": "98 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Joel Coen, Ethan Coen",
+    "Writer": "Ethan Coen, Joel Coen",
+    "Actors": "William H. Macy, Steve Buscemi, Peter Stormare, Kristin Rudr\u00fcd",
+    "Plot": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Won 2 Oscars. Another 79 wins & 59 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "85/100"
+        }
+    ],
+    "Metascore": "85",
+    "imdbRating": "8.1",
+    "imdbVotes": "570,746",
+    "imdbID": "tt0116282",
+    "Type": "movie",
+    "DVD": "24 Jun 1997",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

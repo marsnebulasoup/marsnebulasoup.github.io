@@ -1,0 +1,40 @@
+{
+    "Title": "Pyewacket",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "23 Mar 2018",
+    "Runtime": "90 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Adam MacDonald",
+    "Writer": "Adam MacDonald",
+    "Actors": "Laurie Holden, Nicole Mu\u00f1oz, Chloe Rose, Eric Osborne",
+    "Plot": "A frustrated, angst-ridden teenage girl awakens something in the woods when she naively performs an occult ritual to evoke a witch to kill her mother.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODIzMjhkZmEtNmVjYy00Mjg5LTk3ZmYtNWE3ZmI2NjIxYWYyXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.8",
+    "imdbVotes": "5,988",
+    "imdbID": "tt5119116",
+    "Type": "movie",
+    "DVD": "23 Mar 2018",
+    "BoxOffice": "N/A",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

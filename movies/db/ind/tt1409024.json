@@ -1,0 +1,40 @@
+{
+    "Title": "Men in Black 3",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "25 May 2012",
+    "Runtime": "106 min",
+    "Genre": "Action, Adventure, Comedy, Sci-Fi",
+    "Director": "Barry Sonnenfeld",
+    "Writer": "Etan Cohen, Lowell Cunningham (based on the Malibu comic by)",
+    "Actors": "Will Smith, Tommy Lee Jones, Josh Brolin, Jemaine Clement",
+    "Plot": "Agent J travels in time to M.I.B.'s early days in 1969 to stop an alien from assassinating his friend Agent K and changing history.",
+    "Language": "English, Ukrainian",
+    "Country": "USA, United Arab Emirates",
+    "Awards": "1 win & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NTYxODcwMF5BMl5BanBnXkFtZTcwNDk1NDY0Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.8",
+    "imdbVotes": "316,487",
+    "imdbID": "tt1409024",
+    "Type": "movie",
+    "DVD": "30 Nov 2012",
+    "BoxOffice": "$179,020,854",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

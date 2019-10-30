@@ -1,0 +1,40 @@
+{
+    "Title": "The Mechanic",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "28 Jan 2011",
+    "Runtime": "93 min",
+    "Genre": "Action, Thriller",
+    "Director": "Simon West",
+    "Writer": "Richard Wenk (screenplay), Lewis John Carlino (screenplay), Lewis John Carlino (story)",
+    "Actors": "Jason Statham, Ben Foster, Tony Goldwyn, Donald Sutherland",
+    "Plot": "Follows an elite hit man as he teaches his trade to an apprentice who has a connection to one of his previous victims.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEyMjk1NjI1M15BMl5BanBnXkFtZTcwODcyNjAxNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "6.6",
+    "imdbVotes": "143,235",
+    "imdbID": "tt0472399",
+    "Type": "movie",
+    "DVD": "17 May 2011",
+    "BoxOffice": "$29,113,588",
+    "Production": "CBS Films",
+    "Website": "N/A",
+    "Response": "True"
+}

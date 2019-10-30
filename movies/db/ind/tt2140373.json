@@ -1,0 +1,40 @@
+{
+    "Title": "Saving Mr. Banks",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "20 Dec 2013",
+    "Runtime": "125 min",
+    "Genre": "Biography, Comedy, Drama, Music",
+    "Director": "John Lee Hancock",
+    "Writer": "Kelly Marcel, Sue Smith",
+    "Actors": "Emma Thompson, Tom Hanks, Annie Rose Buckley, Colin Farrell",
+    "Plot": "Author P.L. Travers reflects on her childhood after reluctantly meeting with Walt Disney, who seeks to adapt her Mary Poppins books for the big screen.",
+    "Language": "English",
+    "Country": "USA, UK, Australia",
+    "Awards": "Nominated for 1 Oscar. Another 13 wins & 72 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MTQ3NzE4Nl5BMl5BanBnXkFtZTcwMzA4NDM5OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.5",
+    "imdbVotes": "142,979",
+    "imdbID": "tt2140373",
+    "Type": "movie",
+    "DVD": "18 Mar 2014",
+    "BoxOffice": "$53,260,198",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

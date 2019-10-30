@@ -1,0 +1,40 @@
+{
+    "Title": "Palo Alto",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "09 May 2014",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Gia Coppola",
+    "Writer": "Gia Coppola, James Franco (book)",
+    "Actors": "Jack Kilmer, Nat Wolff, Emma Roberts, Olivia Crocicchia",
+    "Plot": "The life and struggles of a group of adolescents living in Palo Alto.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTA5MzA5MF5BMl5BanBnXkFtZTgwNzE4NzA1MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "6.2",
+    "imdbVotes": "25,781",
+    "imdbID": "tt2479800",
+    "Type": "movie",
+    "DVD": "09 Sep 2014",
+    "BoxOffice": "$406,235",
+    "Production": "Tribeca Film",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Paris",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "20 Feb 2008",
+    "Runtime": "130 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "C\u00e9dric Klapisch",
+    "Writer": "C\u00e9dric Klapisch",
+    "Actors": "Fabrice Luchini, Romain Duris, Joffrey Platel, M\u00e9lanie Laurent",
+    "Plot": "A ex-dancer has a heart problem and even with a transplant, he may still only have a few months to live. Time's spent looking at people/life in Paris from his balcony. His single mom sister moves in with her 3 kids to look after him.",
+    "Language": "French",
+    "Country": "France",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNjMxNjMwOF5BMl5BanBnXkFtZTcwMjA1OTIxMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.8",
+    "imdbVotes": "11,203",
+    "imdbID": "tt0869994",
+    "Type": "movie",
+    "DVD": "10 Mar 2010",
+    "BoxOffice": "$1,000,000",
+    "Production": "IFC",
+    "Website": "N/A",
+    "Response": "True"
+}

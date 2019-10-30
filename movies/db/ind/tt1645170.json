@@ -1,0 +1,40 @@
+{
+    "Title": "The Dictator",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "16 May 2012",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "Larry Charles",
+    "Writer": "Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer",
+    "Actors": "Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora",
+    "Plot": "The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.",
+    "Language": "English, Hebrew, Arabic",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTlkOWYzZDYtNzQ1MS00YTNkLTkyYTItMjBmNjgyMDBlMjI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.4",
+    "imdbVotes": "254,730",
+    "imdbID": "tt1645170",
+    "Type": "movie",
+    "DVD": "21 Aug 2012",
+    "BoxOffice": "$57,700,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Stakeout",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "05 Aug 1987",
+    "Runtime": "117 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "John Badham",
+    "Writer": "Jim Kouf",
+    "Actors": "Richard Dreyfuss, Emilio Estevez, Madeleine Stowe, Aidan Quinn",
+    "Plot": "Two detectives observe an escaped convict's ex-girlfriend, but complications set in when one of them falls for her.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWQxZTdiYWEtNjZiMi00NmU3LWEwNTMtNzVhYzVmNmY4MjA5XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "6.6",
+    "imdbVotes": "21,804",
+    "imdbID": "tt0094025",
+    "Type": "movie",
+    "DVD": "13 Aug 2002",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

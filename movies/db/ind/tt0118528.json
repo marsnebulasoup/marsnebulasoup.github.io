@@ -1,0 +1,36 @@
+{
+    "Title": "12 Angry Men",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "17 Aug 1997",
+    "Runtime": "117 min",
+    "Genre": "Crime, Drama",
+    "Director": "William Friedkin",
+    "Writer": "Reginald Rose (teleplay)",
+    "Actors": "Courtney B. Vance, Ossie Davis, George C. Scott, Armin Mueller-Stahl",
+    "Plot": "Twelve men must decide the fate of one when one juror objects to the jury's decision.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Golden Globe. Another 6 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmY4NjczYTgtZDM1NC00OGUxLTkzYzgtMWZmOGY4NjkwMGFmXkEyXkFqcGdeQXVyODU2MDg1NzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.9",
+    "imdbVotes": "12,322",
+    "imdbID": "tt0118528",
+    "Type": "movie",
+    "DVD": "08 May 1998",
+    "BoxOffice": "N/A",
+    "Production": "Orion Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

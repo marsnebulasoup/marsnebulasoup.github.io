@@ -1,0 +1,40 @@
+{
+    "Title": "Harry Potter and the Goblet of Fire",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "18 Nov 2005",
+    "Runtime": "157 min",
+    "Genre": "Adventure, Family, Fantasy, Mystery",
+    "Director": "Mike Newell",
+    "Writer": "Steve Kloves (screenplay), J.K. Rowling (novel)",
+    "Actors": "Eric Sykes, Timothy Spall, David Tennant, Daniel Radcliffe",
+    "Plot": "A young wizard finds himself competing in a hazardous tournament between rival schools of magic, but he is distracted by recurring nightmares.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Oscar. Another 13 wins & 42 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NDMyMjExOF5BMl5BanBnXkFtZTcwOTc4MjQzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.7",
+    "imdbVotes": "498,270",
+    "imdbID": "tt0330373",
+    "Type": "movie",
+    "DVD": "07 Mar 2006",
+    "BoxOffice": "$289,994,397",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

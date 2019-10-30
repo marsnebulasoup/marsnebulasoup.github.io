@@ -1,0 +1,40 @@
+{
+    "Title": "Pee-wee's Big Adventure",
+    "Year": "1985",
+    "Rated": "PG",
+    "Released": "09 Aug 1985",
+    "Runtime": "91 min",
+    "Genre": "Adventure, Comedy, Family",
+    "Director": "Tim Burton",
+    "Writer": "Phil Hartman, Paul Reubens, Michael Varhol",
+    "Actors": "Paul Reubens, Elizabeth Daily, Mark Holton, Diane Salinger",
+    "Plot": "When eccentric man-child Pee-wee Herman gets his beloved bike stolen in broad daylight, he sets out across the U.S. on the adventure of his life.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQ2MmVlNzctZGE5Ni00MGMwLWJmMWYtODAzZmRlZTljMGEzXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "7.0",
+    "imdbVotes": "46,897",
+    "imdbID": "tt0089791",
+    "Type": "movie",
+    "DVD": "02 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

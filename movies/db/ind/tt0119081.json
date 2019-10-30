@@ -1,0 +1,40 @@
+{
+    "Title": "Event Horizon",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "15 Aug 1997",
+    "Runtime": "96 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Paul W.S. Anderson",
+    "Writer": "Philip Eisner",
+    "Actors": "Laurence Fishburne, Sam Neill, Kathleen Quinlan, Joely Richardson",
+    "Plot": "A rescue crew investigates a spaceship that disappeared into a black hole and has now returned...with someone or something new on-board.",
+    "Language": "English, Latin",
+    "Country": "UK, USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGI0NDMwNjAtNGEzNC00MzA1LTlkMjQtYjBkYTZlZjAyZWEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "6.7",
+    "imdbVotes": "146,259",
+    "imdbID": "tt0119081",
+    "Type": "movie",
+    "DVD": "15 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

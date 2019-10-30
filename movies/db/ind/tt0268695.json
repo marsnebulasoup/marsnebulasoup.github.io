@@ -1,0 +1,40 @@
+{
+    "Title": "The Time Machine",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "08 Mar 2002",
+    "Runtime": "96 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Simon Wells",
+    "Writer": "H.G. Wells (novel), David Duncan (earlier screenplay), John Logan (screenplay)",
+    "Actors": "Guy Pearce, Mark Addy, Phyllida Law, Sienna Guillory",
+    "Plot": "Hoping to alter the events of the past, a 19th century inventor instead travels 800,000 years into the future, where he finds humankind divided into two warring races.",
+    "Language": "English",
+    "Country": "USA, United Arab Emirates",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4YTViNGMtYTYyOS00MTViLWEyYTgtNGM0OTIwMWRmYzdhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.0",
+    "imdbVotes": "114,015",
+    "imdbID": "tt0268695",
+    "Type": "movie",
+    "DVD": "23 Jul 2002",
+    "BoxOffice": "$56,684,819",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

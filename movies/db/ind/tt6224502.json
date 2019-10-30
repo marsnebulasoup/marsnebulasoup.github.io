@@ -1,0 +1,40 @@
+{
+    "Title": "Boarding School",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "31 Aug 2018",
+    "Runtime": "111 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Boaz Yakin",
+    "Writer": "Boaz Yakin",
+    "Actors": "Luke Prael, Samantha Mathis, David Aaron Baker, Michael Wikes",
+    "Plot": "A young boy becomes fascinated with the persona of his dead grandmother and is sent to an isolated boarding school for misfits run by a mysterious headmaster and his wife.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTExOTQzMDUxMTdeQTJeQWpwZ15BbWU4MDY2MDM2NzUz._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "5.7",
+    "imdbVotes": "2,277",
+    "imdbID": "tt6224502",
+    "Type": "movie",
+    "DVD": "31 Aug 2018",
+    "BoxOffice": "N/A",
+    "Production": "Momentum Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

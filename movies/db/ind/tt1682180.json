@@ -1,0 +1,40 @@
+{
+    "Title": "Stoker",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "01 Mar 2013",
+    "Runtime": "99 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Chan-wook Park",
+    "Writer": "Wentworth Miller",
+    "Actors": "Mia Wasikowska, Nicole Kidman, David Alford, Matthew Goode",
+    "Plot": "After India's father dies, her Uncle Charlie, whom she never knew existed, comes to live with her and her unstable mother. She comes to suspect this mysterious, charming man has ulterior motives and becomes increasingly infatuated with him.",
+    "Language": "English, French, Italian",
+    "Country": "UK, USA",
+    "Awards": "4 wins & 45 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTM5ODI5MV5BMl5BanBnXkFtZTcwMjE1Mzc4OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.8",
+    "imdbVotes": "98,566",
+    "imdbID": "tt1682180",
+    "Type": "movie",
+    "DVD": "18 Jun 2013",
+    "BoxOffice": "$1,700,000",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

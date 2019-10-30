@@ -1,0 +1,40 @@
+{
+    "Title": "Indiana Jones and the Temple of Doom",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "23 May 1984",
+    "Runtime": "118 min",
+    "Genre": "Action, Adventure",
+    "Director": "Steven Spielberg",
+    "Writer": "Willard Huyck (screenplay by), Gloria Katz (screenplay by), George Lucas (story by)",
+    "Actors": "Harrison Ford, Kate Capshaw, Ke Huy Quan, Amrish Puri",
+    "Plot": "In 1935, Indiana Jones arrives in India, still part of the British Empire, and is asked to find a mystical stone. He then stumbles upon a secret cult committing enslavement and human sacrifices in the catacombs of an ancient palace.",
+    "Language": "English, Sinhalese, Hindi",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 8 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGI1NTk2ZWMtMmI0YS00Yzg0LTljMzgtZTg4YjkyY2E5Zjc0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "7.6",
+    "imdbVotes": "413,431",
+    "imdbID": "tt0087469",
+    "Type": "movie",
+    "DVD": "21 Oct 2003",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

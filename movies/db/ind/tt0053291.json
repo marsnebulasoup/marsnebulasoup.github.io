@@ -1,0 +1,40 @@
+{
+    "Title": "Some Like It Hot",
+    "Year": "1959",
+    "Rated": "Not Rated",
+    "Released": "19 Mar 1959",
+    "Runtime": "121 min",
+    "Genre": "Comedy, Music, Romance",
+    "Director": "Billy Wilder",
+    "Writer": "Billy Wilder (screenplay), I.A.L. Diamond (screenplay), Robert Thoeren (suggested by a story by), Michael Logan (suggested by a story by)",
+    "Actors": "Marilyn Monroe, Tony Curtis, Jack Lemmon, George Raft",
+    "Plot": "When two male musicians witness a mob hit, they flee the state in an all-female band disguised as women, but further complications set in.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 9 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "97/100"
+        }
+    ],
+    "Metascore": "97",
+    "imdbRating": "8.2",
+    "imdbVotes": "224,729",
+    "imdbID": "tt0053291",
+    "Type": "movie",
+    "DVD": "22 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Saint",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "04 Apr 1997",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Romance, Sci-Fi, Thriller",
+    "Director": "Phillip Noyce",
+    "Writer": "Leslie Charteris (character), Jonathan Hensleigh (story), Jonathan Hensleigh (screenplay), Wesley Strick (screenplay)",
+    "Actors": "Val Kilmer, Elisabeth Shue, Rade Serbedzija, Valeriy Nikolaev",
+    "Plot": "Simon Templar (The Saint), is a thief for hire, whose latest job to steal the secret process for cold fusion puts him at odds with a traitor bent on toppling the Russian government, as well as the woman who holds its secret.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmM3MjI2YjUtYjk1MS00M2VjLWI4MmUtM2UyYWQyNTVlZGE5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.2",
+    "imdbVotes": "58,917",
+    "imdbID": "tt0120053",
+    "Type": "movie",
+    "DVD": "06 Oct 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount",
+    "Website": "N/A",
+    "Response": "True"
+}

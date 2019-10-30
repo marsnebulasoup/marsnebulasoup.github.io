@@ -1,0 +1,40 @@
+{
+    "Title": "The Intern",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "25 Sep 2015",
+    "Runtime": "121 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Nancy Meyers",
+    "Writer": "Nancy Meyers",
+    "Actors": "Robert De Niro, Anne Hathaway, Rene Russo, Anders Holm",
+    "Plot": "Seventy-year-old widower Ben Whittaker has discovered that retirement isn't all it's cracked up to be. Seizing an opportunity to get back in the game, he becomes a senior intern at an online fashion site, founded and run by Jules Ostin.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNjE5NjI5OF5BMl5BanBnXkFtZTgwNzYzMzU3NjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "7.1",
+    "imdbVotes": "195,435",
+    "imdbID": "tt2361509",
+    "Type": "movie",
+    "DVD": "19 Jan 2016",
+    "BoxOffice": "$60,886,513",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Breakfast at Tiffany's",
+    "Year": "1961",
+    "Rated": "Not Rated",
+    "Released": "06 Oct 1961",
+    "Runtime": "115 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Blake Edwards",
+    "Writer": "Truman Capote (based on the novel by), George Axelrod (screenplay)",
+    "Actors": "Audrey Hepburn, George Peppard, Patricia Neal, Buddy Ebsen",
+    "Plot": "A young New York socialite becomes interested in a young man who has moved into her apartment building, but her past threatens to get in the way.",
+    "Language": "English, Portuguese, French, Japanese",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 10 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGEwMTRmZTQtMDY4Ni00MTliLTk5ZmMtOWMxYWMyMTllMDg0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.7",
+    "imdbVotes": "153,971",
+    "imdbID": "tt0054698",
+    "Type": "movie",
+    "DVD": "21 Sep 1999",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

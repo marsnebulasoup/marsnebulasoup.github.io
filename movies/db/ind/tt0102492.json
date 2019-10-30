@@ -1,0 +1,40 @@
+{
+    "Title": "My Girl",
+    "Year": "1991",
+    "Rated": "PG",
+    "Released": "27 Nov 1991",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama, Family, Romance",
+    "Director": "Howard Zieff",
+    "Writer": "Laurice Elehwany",
+    "Actors": "Dan Aykroyd, Jamie Lee Curtis, Macaulay Culkin, Anna Chlumsky",
+    "Plot": "A young girl, on the threshold of her teen years, finds her life turning upside down, when she is accompanied by an unlikely friend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2ZDliNjItZTcxOC00NTY2LWE1ODctNzRhNGM3YWIyYjBiXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.9",
+    "imdbVotes": "67,166",
+    "imdbID": "tt0102492",
+    "Type": "movie",
+    "DVD": "26 May 1998",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

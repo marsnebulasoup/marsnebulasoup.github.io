@@ -1,0 +1,40 @@
+{
+    "Title": "Happy Death Day",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "13 Oct 2017",
+    "Runtime": "96 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Christopher Landon",
+    "Writer": "Scott Lobdell",
+    "Actors": "Jessica Rothe, Israel Broussard, Ruby Modine, Charles Aitken",
+    "Plot": "A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZhY2E5NzQtMWVmNC00YmEzLTgxZDMtNjE2YmQ4ZTZiZGZjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.5",
+    "imdbVotes": "94,225",
+    "imdbID": "tt5308322",
+    "Type": "movie",
+    "DVD": "16 Jan 2018",
+    "BoxOffice": "$55,398,005",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

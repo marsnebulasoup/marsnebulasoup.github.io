@@ -1,0 +1,40 @@
+{
+    "Title": "I Am Number Four",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "18 Feb 2011",
+    "Runtime": "111 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "D.J. Caruso",
+    "Writer": "Alfred Gough (screenplay), Miles Millar (screenplay), Marti Noxon (screenplay), Jobie Hughes (novel), James Frey (novel)",
+    "Actors": "Alex Pettyfer, Timothy Olyphant, Teresa Palmer, Dianna Agron",
+    "Plot": "Aliens and their Guardians are hiding on Earth from intergalactic bounty hunters. They can only be killed in numerical order, and Number Four is next on the list. This is his story.",
+    "Language": "English, French",
+    "Country": "USA, India",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI0NDI1MTMyM15BMl5BanBnXkFtZTcwMDMzMTcyNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "6.1",
+    "imdbVotes": "219,950",
+    "imdbID": "tt1464540",
+    "Type": "movie",
+    "DVD": "24 May 2011",
+    "BoxOffice": "$55,086,029",
+    "Production": "DreamWorks Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

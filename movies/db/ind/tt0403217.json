@@ -1,0 +1,40 @@
+{
+    "Title": "Last Days",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "13 May 2005",
+    "Runtime": "97 min",
+    "Genre": "Drama, Music",
+    "Director": "Gus Van Sant",
+    "Writer": "Gus Van Sant",
+    "Actors": "Michael Pitt, Lukas Haas, Asia Argento, Scott Patrick Green",
+    "Plot": "A Seattle musician's life and career are reminiscent to those of Kurt Cobain.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2VmNDNjZTEtYmZiYi00NDNhLTk2ZmQtNGRhZTdhMzhkZGNlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "5.8",
+    "imdbVotes": "20,895",
+    "imdbID": "tt0403217",
+    "Type": "movie",
+    "DVD": "25 Oct 2005",
+    "BoxOffice": "$356,500",
+    "Production": "Picture House",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Story of Us",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "15 Oct 1999",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Rob Reiner",
+    "Writer": "Alan Zweibel, Jessie Nelson",
+    "Actors": "Bruce Willis, Michelle Pfeiffer, Colleen Rennison, Jake Sandvig",
+    "Plot": "Ben and Katie Jordan are a married couple who go through hard times in fifteen years of marriage.",
+    "Language": "English, Italian",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzAxZTI5NDItNzRkOS00NjczLTkzNjctMTU1NjdkYjI5YjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "28%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "6.0",
+    "imdbVotes": "20,441",
+    "imdbID": "tt0160916",
+    "Type": "movie",
+    "DVD": "15 Feb 2000",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Manchester by the Sea",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "16 Dec 2016",
+    "Runtime": "137 min",
+    "Genre": "Drama",
+    "Director": "Kenneth Lonergan",
+    "Writer": "Kenneth Lonergan",
+    "Actors": "Casey Affleck, Ben O'Brien, Kyle Chandler, Richard Donelly",
+    "Plot": "A depressed uncle is asked to take care of his teenage nephew after the boy's father dies.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 117 wins & 243 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxMjk0NDg4Ml5BMl5BanBnXkFtZTgwODcyNjA5OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "96/100"
+        }
+    ],
+    "Metascore": "96",
+    "imdbRating": "7.8",
+    "imdbVotes": "220,198",
+    "imdbID": "tt4034228",
+    "Type": "movie",
+    "DVD": "21 Feb 2017",
+    "BoxOffice": "$47,695,120",
+    "Production": "Roadside Attractions\u00a0",
+    "Website": "N/A",
+    "Response": "True"
+}

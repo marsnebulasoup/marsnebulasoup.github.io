@@ -1,0 +1,40 @@
+{
+    "Title": "Extraction",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "18 Dec 2015",
+    "Runtime": "82 min",
+    "Genre": "Action, Thriller",
+    "Director": "Steven C. Miller",
+    "Writer": "Max Adams, Umair Aleem",
+    "Actors": "Bruce Willis, Kellan Lutz, Gina Carano, D.B. Sweeney",
+    "Plot": "A former CIA operative is kidnapped by a group of terrorists. When his son learns there is no plan for his father to be saved, he launches his own rescue operation.",
+    "Language": "English",
+    "Country": "USA, UK, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjU4MzYwNDdeQTJeQWpwZ15BbWU4MDg3NTEzMjcx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "6%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "25/100"
+        }
+    ],
+    "Metascore": "25",
+    "imdbRating": "4.0",
+    "imdbVotes": "8,862",
+    "imdbID": "tt4382872",
+    "Type": "movie",
+    "DVD": "23 Feb 2016",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate Premiere",
+    "Website": "N/A",
+    "Response": "True"
+}

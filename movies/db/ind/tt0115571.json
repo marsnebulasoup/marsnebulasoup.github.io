@@ -1,0 +1,40 @@
+{
+    "Title": "The Arrival",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "31 May 1996",
+    "Runtime": "115 min",
+    "Genre": "Sci-Fi, Thriller",
+    "Director": "David Twohy",
+    "Writer": "David Twohy",
+    "Actors": "Charlie Sheen, Lindsay Crouse, Richard Schiff, Shane",
+    "Plot": "Zane, an astronomer, discovers intelligent alien life. But the aliens are keeping a deadly secret, and will do anything to stop Zane from learning it.",
+    "Language": "English",
+    "Country": "USA, Mexico",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzhiN2M1NGUtOWVmNi00YWU1LWJlNGMtZDMzYjkwZTQ4MmY4XkEyXkFqcGdeQXVyNjc2NDI1ODA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.3",
+    "imdbVotes": "30,056",
+    "imdbID": "tt0115571",
+    "Type": "movie",
+    "DVD": "25 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "Orion Pictures Corporation",
+    "Website": "N/A",
+    "Response": "True"
+}

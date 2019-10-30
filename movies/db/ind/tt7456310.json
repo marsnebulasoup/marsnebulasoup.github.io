@@ -1,0 +1,40 @@
+{
+    "Title": "Anna",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "21 Jun 2019",
+    "Runtime": "119 min",
+    "Genre": "Action, Thriller",
+    "Director": "Luc Besson",
+    "Writer": "Luc Besson (screenplay)",
+    "Actors": "Sasha Luss, Helen Mirren, Luke Evans, Cillian Murphy",
+    "Plot": "Beneath Anna Poliatova's striking beauty lies a secret that will unleash her indelible strength and skill to become one of the world's most feared government assassins.",
+    "Language": "English, Russian, French",
+    "Country": "France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjE4M2FjMDQtZGQ5Mi00YTliLWIwZmMtZGJkMjgxYTY5ZTlmXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.6",
+    "imdbVotes": "27,966",
+    "imdbID": "tt7456310",
+    "Type": "movie",
+    "DVD": "10 Sep 2019",
+    "BoxOffice": "N/A",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

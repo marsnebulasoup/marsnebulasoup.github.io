@@ -1,0 +1,40 @@
+{
+    "Title": "Blue Velvet",
+    "Year": "1986",
+    "Rated": "R",
+    "Released": "23 Oct 1986",
+    "Runtime": "120 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "David Lynch",
+    "Writer": "David Lynch (screenplay)",
+    "Actors": "Isabella Rossellini, Kyle MacLachlan, Dennis Hopper, Laura Dern",
+    "Plot": "The discovery of a severed human ear found in a field leads a young man on an investigation related to a beautiful, mysterious nightclub singer and a group of psychopathic criminals who have kidnapped her child.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 18 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWUwM2I2OTctOTRlNS00ZmRjLWI1NmEtNDc3Mjg0Zjg3Y2FiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.8",
+    "imdbVotes": "165,990",
+    "imdbID": "tt0090756",
+    "Type": "movie",
+    "DVD": "04 Feb 1999",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

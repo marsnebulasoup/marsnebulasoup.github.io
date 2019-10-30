@@ -1,0 +1,40 @@
+{
+    "Title": "The Getaway",
+    "Year": "1972",
+    "Rated": "PG",
+    "Released": "16 Dec 1972",
+    "Runtime": "123 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Sam Peckinpah",
+    "Writer": "Walter Hill (screenplay), Jim Thompson (novel)",
+    "Actors": "Steve McQueen, Ali MacGraw, Ben Johnson, Sally Struthers",
+    "Plot": "A recently released ex-con and his loyal wife go on the run after a heist goes awry.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWU1NDNmZTAtNDlhYy00MmY0LTlhMWUtZGNiNzA2ODA5MDY1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.4",
+    "imdbVotes": "25,670",
+    "imdbID": "tt0068638",
+    "Type": "movie",
+    "DVD": "31 May 2005",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

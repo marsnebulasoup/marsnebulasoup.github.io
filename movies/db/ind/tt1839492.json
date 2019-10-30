@@ -1,0 +1,40 @@
+{
+    "Title": "Ruby Sparks",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "06 Sep 2012",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Drama, Fantasy, Romance",
+    "Director": "Jonathan Dayton, Valerie Faris",
+    "Writer": "Zoe Kazan",
+    "Actors": "Paul Dano, Zoe Kazan, Chris Messina, Annette Bening",
+    "Plot": "A novelist struggling with writer's block finds romance in a most unusual way: by creating a female character he thinks will love him, then willing her into existence.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "1 win & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTM5OTUyOF5BMl5BanBnXkFtZTcwODI4Nzg3Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.2",
+    "imdbVotes": "91,808",
+    "imdbID": "tt1839492",
+    "Type": "movie",
+    "DVD": "30 Oct 2012",
+    "BoxOffice": "$2,535,819",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+}

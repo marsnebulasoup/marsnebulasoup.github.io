@@ -1,0 +1,40 @@
+{
+    "Title": "Much Ado About Nothing",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "14 Jun 2013",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Joss Whedon",
+    "Writer": "Joss Whedon (written for the screen by), William Shakespeare (play)",
+    "Actors": "Amy Acker, Alexis Denisof, Nathan Fillion, Clark Gregg",
+    "Plot": "A modern retelling of Shakespeare's classic comedy about two pairs of lovers with different takes on romance and a way with words.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxNjQ0MjAwMl5BMl5BanBnXkFtZTcwNjI1NDEyOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.1",
+    "imdbVotes": "15,546",
+    "imdbID": "tt2094064",
+    "Type": "movie",
+    "DVD": "08 Oct 2013",
+    "BoxOffice": "$4,200,000",
+    "Production": "Roadside Attractions",
+    "Website": "N/A",
+    "Response": "True"
+}

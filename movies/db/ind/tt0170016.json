@@ -1,0 +1,40 @@
+{
+    "Title": "How the Grinch Stole Christmas",
+    "Year": "2000",
+    "Rated": "PG",
+    "Released": "17 Nov 2000",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Family, Fantasy",
+    "Director": "Ron Howard",
+    "Writer": "Dr. Seuss (book), Jeffrey Price (screenplay), Peter S. Seaman (screenplay)",
+    "Actors": "Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor",
+    "Plot": "On the outskirts of Whoville, there lives a green, revenge-seeking Grinch (Jim Carrey), who plans on ruining Christmas for all of the citizens of the town.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 17 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.1",
+    "imdbVotes": "185,959",
+    "imdbID": "tt0170016",
+    "Type": "movie",
+    "DVD": "20 Nov 2001",
+    "BoxOffice": "$259,011,600",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

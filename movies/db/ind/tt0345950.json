@@ -1,0 +1,40 @@
+{
+    "Title": "The SpongeBob SquarePants Movie",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "19 Nov 2004",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Stephen Hillenburg, Mark Osborne",
+    "Writer": "Stephen Hillenburg (television series SpongeBob SquarePants), Stephen Hillenburg (story), Derek Drymon, Tim Hill, Stephen Hillenburg, Kent Osborne, Aaron Springer, Paul Tibbitt",
+    "Actors": "Tom Kenny, Clancy Brown, Rodger Bumpass, Bill Fagerbakke",
+    "Plot": "SpongeBob SquarePants takes leave from the town of Bikini Bottom in order to track down King Neptune's stolen crown.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQwNWE3NmEtMmQwNS00OTY4LWExN2ItN2UwOGJmZjExZTJjXkEyXkFqcGdeQXVyODUwNjEzMzg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.0",
+    "imdbVotes": "72,434",
+    "imdbID": "tt0345950",
+    "Type": "movie",
+    "DVD": "01 Mar 2005",
+    "BoxOffice": "$85,373,733",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

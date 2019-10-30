@@ -1,0 +1,40 @@
+{
+    "Title": "Harsh Times",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "10 Nov 2006",
+    "Runtime": "116 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "David Ayer",
+    "Writer": "David Ayer",
+    "Actors": "Christian Bale, Freddy Rodr\u00edguez, Eva Longoria, Chaka Forman",
+    "Plot": "A tough-minded drama about two friends in South Central Los Angeles and the violence that comes between them.",
+    "Language": "English, Spanish, Korean",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0Mzc1NTY1N15BMl5BanBnXkFtZTYwMTMxOTY3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.9",
+    "imdbVotes": "60,689",
+    "imdbID": "tt0433387",
+    "Type": "movie",
+    "DVD": "13 Mar 2007",
+    "BoxOffice": "$3,304,691",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

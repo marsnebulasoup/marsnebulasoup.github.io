@@ -1,0 +1,40 @@
+{
+    "Title": "An Education",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "05 Feb 2010",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Lone Scherfig",
+    "Writer": "Lynn Barber (memoir), Nick Hornby (screenplay)",
+    "Actors": "Carey Mulligan, Olivia Williams, Alfred Molina, Cara Seymour",
+    "Plot": "A coming-of-age story about a teenage girl in 1960s suburban London, and how her life changes with the arrival of a playboy nearly twice her age.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 3 Oscars. Another 35 wins & 91 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NjgzOTc0MF5BMl5BanBnXkFtZTcwOTc2OTE3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "85/100"
+        }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.3",
+    "imdbVotes": "124,167",
+    "imdbID": "tt1174732",
+    "Type": "movie",
+    "DVD": "30 Mar 2010",
+    "BoxOffice": "$12,512,069",
+    "Production": "Sony Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

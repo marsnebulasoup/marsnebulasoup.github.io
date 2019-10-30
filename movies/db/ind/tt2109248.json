@@ -1,0 +1,40 @@
+{
+    "Title": "Transformers: Age of Extinction",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "27 Jun 2014",
+    "Runtime": "165 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Michael Bay",
+    "Writer": "Ehren Kruger",
+    "Actors": "Mark Wahlberg, Stanley Tucci, Kelsey Grammer, Nicola Peltz",
+    "Plot": "When humanity allies with a bounty hunter in pursuit of Optimus Prime, the Autobots turn to a mechanic and his family for help.",
+    "Language": "English",
+    "Country": "USA, China, Hong Kong",
+    "Awards": "5 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTg1MTA5Nl5BMl5BanBnXkFtZTgwOTg2OTM4MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "18%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.6",
+    "imdbVotes": "286,632",
+    "imdbID": "tt2109248",
+    "Type": "movie",
+    "DVD": "30 Sep 2014",
+    "BoxOffice": "$206,755,538",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

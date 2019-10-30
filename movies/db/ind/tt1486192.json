@@ -1,0 +1,40 @@
+{
+    "Title": "The Raven",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "27 Apr 2012",
+    "Runtime": "110 min",
+    "Genre": "Crime, Mystery, Thriller",
+    "Director": "James McTeigue",
+    "Writer": "Hannah Shakespeare, Ben Livingston",
+    "Actors": "John Cusack, Luke Evans, Alice Eve, Brendan Gleeson",
+    "Plot": "When a madman begins committing horrific murders inspired by Edgar Allan Poe's works, a young Baltimore detective joins forces with Poe to stop him from making his stories a reality.",
+    "Language": "English",
+    "Country": "USA, Spain, Hungary, Serbia",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU4OGY5MjYtNTg5Zi00NGEyLTlhYTgtMTU3NzBmYmMzYWU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.4",
+    "imdbVotes": "80,099",
+    "imdbID": "tt1486192",
+    "Type": "movie",
+    "DVD": "09 Oct 2012",
+    "BoxOffice": "$16,000,000",
+    "Production": "Relativity Media",
+    "Website": "N/A",
+    "Response": "True"
+}

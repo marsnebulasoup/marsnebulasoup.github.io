@@ -1,0 +1,40 @@
+{
+    "Title": "The Discovery",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "31 Mar 2017",
+    "Runtime": "102 min",
+    "Genre": "Drama, Romance, Sci-Fi, Thriller",
+    "Director": "Charlie McDowell",
+    "Writer": "Charlie McDowell, Justin Lader",
+    "Actors": "Robert Redford, Mary Steenburgen, Brian McCarthy, Jason Segel",
+    "Plot": "Two years after the afterlife is scientifically proven, a man attempts to help a young woman break away from her dark past.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNjE5ODYwN15BMl5BanBnXkFtZTgwMTY4MjQ1MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "45%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.3",
+    "imdbVotes": "25,569",
+    "imdbID": "tt5155780",
+    "Type": "movie",
+    "DVD": "31 Mar 2017",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

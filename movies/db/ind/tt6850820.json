@@ -1,0 +1,40 @@
+{
+    "Title": "Peppermint",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "07 Sep 2018",
+    "Runtime": "101 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Pierre Morel",
+    "Writer": "Chad St. John",
+    "Actors": "Jennifer Garner, John Gallagher Jr., John Ortiz, Juan Pablo Raba",
+    "Plot": "Five years after her husband and daughter are killed in a senseless act of violence, a woman comes back from self-imposed exile to seek revenge against those responsible and the system that let them go free.",
+    "Language": "English, Spanish",
+    "Country": "Hong Kong, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWVlMjQ3MjItOWE3YS00YTYwLWE0ZDMtZWMyZWY1NzkxNWIwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "29/100"
+        }
+    ],
+    "Metascore": "29",
+    "imdbRating": "6.5",
+    "imdbVotes": "40,781",
+    "imdbID": "tt6850820",
+    "Type": "movie",
+    "DVD": "11 Dec 2018",
+    "BoxOffice": "N/A",
+    "Production": "STXfilms",
+    "Website": "N/A",
+    "Response": "True"
+}

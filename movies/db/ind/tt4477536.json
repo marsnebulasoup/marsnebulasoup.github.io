@@ -1,0 +1,40 @@
+{
+    "Title": "Fifty Shades Freed",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "09 Feb 2018",
+    "Runtime": "105 min",
+    "Genre": "Drama, Romance, Thriller",
+    "Director": "James Foley",
+    "Writer": "Niall Leonard (screenplay by), E.L. James (based on the novel by)",
+    "Actors": "Dakota Johnson, Jamie Dornan, Eric Johnson, Eloise Mumford",
+    "Plot": "Anastasia and Christian get married, but Jack Hyde continues to threaten their relationship.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTQ1MzI0Nl5BMl5BanBnXkFtZTgwMzgwMzIxNDM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "4.5",
+    "imdbVotes": "46,111",
+    "imdbID": "tt4477536",
+    "Type": "movie",
+    "DVD": "08 May 2018",
+    "BoxOffice": "$95,599,460",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

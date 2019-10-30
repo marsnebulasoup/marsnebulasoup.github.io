@@ -1,0 +1,40 @@
+{
+    "Title": "Booksmart",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "24 May 2019",
+    "Runtime": "102 min",
+    "Genre": "Comedy",
+    "Director": "Olivia Wilde",
+    "Writer": "Emily Halpern, Sarah Haskins, Susanna Fogel, Katie Silberman",
+    "Actors": "Kaitlyn Dever, Beanie Feldstein, Jessica Williams, Jason Sudeikis",
+    "Plot": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",
+    "Language": "English, Mandarin, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "84/100"
+        }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.3",
+    "imdbVotes": "39,416",
+    "imdbID": "tt1489887",
+    "Type": "movie",
+    "DVD": "20 Aug 2019",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

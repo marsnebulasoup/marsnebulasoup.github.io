@@ -1,0 +1,40 @@
+{
+    "Title": "Crank",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "01 Sep 2006",
+    "Runtime": "88 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Mark Neveldine, Brian Taylor",
+    "Writer": "Mark Neveldine, Brian Taylor",
+    "Actors": "Jason Statham, Amy Smart, Jose Pablo Cantillo, Efren Ramirez",
+    "Plot": "Professional assassin Chev Chelios learns his rival has injected him with a poison that will kill him if his heart rate drops.",
+    "Language": "English, Spanish, Korean",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjg0NjAxNDY4MV5BMl5BanBnXkFtZTcwODA5MjMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.9",
+    "imdbVotes": "224,172",
+    "imdbID": "tt0479884",
+    "Type": "movie",
+    "DVD": "09 Jan 2007",
+    "BoxOffice": "$27,800,000",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

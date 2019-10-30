@@ -1,0 +1,40 @@
+{
+    "Title": "Chi-Raq",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "02 Dec 2016",
+    "Runtime": "127 min",
+    "Genre": "Comedy, Crime, Drama, Musical",
+    "Director": "Spike Lee",
+    "Writer": "Kevin Willmott, Spike Lee, Aristophanes (play)",
+    "Actors": "Nick Cannon, Teyonah Parris, Wesley Snipes, Angela Bassett",
+    "Plot": "A modern day adaptation of the ancient Greek play Lysistrata by Aristophanes, set against the backdrop of gang violence in Chicago, Illinois.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTMwNzkxMDUxN15BMl5BanBnXkFtZTgwOTM5NjQzNzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "5.7",
+    "imdbVotes": "8,282",
+    "imdbID": "tt4594834",
+    "Type": "movie",
+    "DVD": "26 Jan 2016",
+    "BoxOffice": "$2,647,378",
+    "Production": "LionsGate Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

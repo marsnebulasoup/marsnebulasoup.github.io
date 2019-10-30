@@ -1,0 +1,40 @@
+{
+    "Title": "Ted 2",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "26 Jun 2015",
+    "Runtime": "115 min",
+    "Genre": "Comedy",
+    "Director": "Seth MacFarlane",
+    "Writer": "Seth MacFarlane, Alec Sulkin, Wellesley Wild, Seth MacFarlane (based on characters created by)",
+    "Actors": "Mark Wahlberg, Seth MacFarlane, Amanda Seyfried, Jessica Barth",
+    "Plot": "Newlywed couple Ted and Tami-Lynn want to have a baby, but in order to qualify to be a parent, Ted will have to prove he's a person in a court of law.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwMDg3MDk1NF5BMl5BanBnXkFtZTgwNjYyODA1NTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "45%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.3",
+    "imdbVotes": "169,587",
+    "imdbID": "tt2637276",
+    "Type": "movie",
+    "DVD": "15 Dec 2015",
+    "BoxOffice": "$63,883,740",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

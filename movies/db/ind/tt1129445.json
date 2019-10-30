@@ -1,0 +1,40 @@
+{
+    "Title": "Amelia",
+    "Year": "2009",
+    "Rated": "PG",
+    "Released": "23 Oct 2009",
+    "Runtime": "111 min",
+    "Genre": "Adventure, Biography, Drama, Romance",
+    "Director": "Mira Nair",
+    "Writer": "Ronald Bass, Anna Hamilton Phelan, Susan Butler (book), Mary S. Lovell (book)",
+    "Actors": "Hilary Swank, Richard Gere, Ewan McGregor, Christopher Eccleston",
+    "Plot": "A look at the life of legendary American pilot Amelia Earhart, who disappeared while flying over the Pacific Ocean in 1937 in an attempt to make a flight around the world.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5NTI3MjA4M15BMl5BanBnXkFtZTcwMTM3Mzc3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.8",
+    "imdbVotes": "11,477",
+    "imdbID": "tt1129445",
+    "Type": "movie",
+    "DVD": "02 Feb 2010",
+    "BoxOffice": "$14,195,118",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

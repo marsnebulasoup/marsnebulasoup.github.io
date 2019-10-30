@@ -1,0 +1,40 @@
+{
+    "Title": "Starsky & Hutch",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "05 Mar 2004",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Todd Phillips",
+    "Writer": "William Blinn (characters), Stevie Long (story), John O'Brien (story), John O'Brien (screenplay), Todd Phillips (screenplay), Scot Armstrong (screenplay)",
+    "Actors": "Ben Stiller, Owen Wilson, Snoop Dogg, Fred Williamson",
+    "Plot": "Two streetwise cops bust criminals in their red and white Ford Gran Torino, with the help of a police snitch called \"Huggy Bear\".",
+    "Language": "English, Korean",
+    "Country": "USA",
+    "Awards": "3 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzU2NTQ1NTkxOV5BMl5BanBnXkFtZTcwNTE1MTEzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.1",
+    "imdbVotes": "133,089",
+    "imdbID": "tt0335438",
+    "Type": "movie",
+    "DVD": "20 Jul 2004",
+    "BoxOffice": "$87,100,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

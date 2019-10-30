@@ -1,0 +1,40 @@
+{
+    "Title": "Snow White and the Huntsman",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "01 Jun 2012",
+    "Runtime": "127 min",
+    "Genre": "Action, Adventure, Drama, Fantasy",
+    "Director": "Rupert Sanders",
+    "Writer": "Evan Daugherty (screenplay), John Lee Hancock (screenplay), Hossein Amini (screenplay), Evan Daugherty (screen story)",
+    "Actors": "Kristen Stewart, Chris Hemsworth, Charlize Theron, Sam Claflin",
+    "Plot": "In a twist to the fairy tale, the Huntsman ordered to take Snow White into the woods to be killed winds up becoming her protector and mentor in a quest to vanquish the Evil Queen.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 2 Oscars. Another 13 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDA0MTk5OV5BMl5BanBnXkFtZTcwMTM4NDMwNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.1",
+    "imdbVotes": "261,584",
+    "imdbID": "tt1735898",
+    "Type": "movie",
+    "DVD": "11 Sep 2012",
+    "BoxOffice": "$155,081,785",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

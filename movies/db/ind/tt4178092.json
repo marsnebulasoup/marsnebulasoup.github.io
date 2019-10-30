@@ -1,0 +1,40 @@
+{
+    "Title": "The Gift",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "07 Aug 2015",
+    "Runtime": "108 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Joel Edgerton",
+    "Writer": "Joel Edgerton",
+    "Actors": "Jason Bateman, Rebecca Hall, Joel Edgerton, Allison Tolman",
+    "Plot": "A young married couple's lives are thrown into a harrowing tailspin when an acquaintance from the husband's past brings mysterious gifts and a horrifying secret to light after more than 20 years.",
+    "Language": "English",
+    "Country": "USA, Australia, China",
+    "Awards": "2 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjM2NjM1Nl5BMl5BanBnXkFtZTgwMDM1MjQyNTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.0",
+    "imdbVotes": "126,105",
+    "imdbID": "tt4178092",
+    "Type": "movie",
+    "DVD": "27 Oct 2015",
+    "BoxOffice": "$33,061,006",
+    "Production": "STX Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Tequila Sunrise",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "02 Dec 1988",
+    "Runtime": "115 min",
+    "Genre": "Crime, Drama, Romance, Thriller",
+    "Director": "Robert Towne",
+    "Writer": "Robert Towne",
+    "Actors": "Mel Gibson, Michelle Pfeiffer, Kurt Russell, Raul Julia",
+    "Plot": "A former L.A. drug dealer tries to go straight but his past and his underworld connections bring him into the focus of the DEA, the Mexican feds and the Mexican drug cartels.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjg5YmE5ZDUtOTFiMS00ZWNlLWI4NDktYTBkYTE0NmNiNWQyL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.1",
+    "imdbVotes": "27,074",
+    "imdbID": "tt0096244",
+    "Type": "movie",
+    "DVD": "30 Oct 1997",
+    "BoxOffice": "N/A",
+    "Production": "WARNER BROTHERS PICTURES",
+    "Website": "N/A",
+    "Response": "True"
+}

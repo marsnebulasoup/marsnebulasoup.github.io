@@ -1,0 +1,40 @@
+{
+    "Title": "Interview with the Vampire: The Vampire Chronicles",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "11 Nov 1994",
+    "Runtime": "123 min",
+    "Genre": "Drama, Horror",
+    "Director": "Neil Jordan",
+    "Writer": "Anne Rice (screenplay), Anne Rice (novel)",
+    "Actors": "Brad Pitt, Christian Slater, Virginia McCollam, John McConnell",
+    "Plot": "A vampire tells his epic life story: love, betrayal, loneliness, and hunger.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 22 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYThmYjJhMGItNjlmOC00ZDRiLWEzNjUtZjU4MjA3MzY0MzFmXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.6",
+    "imdbVotes": "277,696",
+    "imdbID": "tt0110148",
+    "Type": "movie",
+    "DVD": "28 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

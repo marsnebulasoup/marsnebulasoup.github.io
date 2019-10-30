@@ -1,0 +1,40 @@
+{
+    "Title": "Green Card",
+    "Year": "1990",
+    "Rated": "PG-13",
+    "Released": "01 Feb 1991",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Peter Weir",
+    "Writer": "Peter Weir",
+    "Actors": "G\u00e9rard Depardieu, Andie MacDowell, Bebe Neuwirth, Gregg Edelman",
+    "Plot": "A man wanting to stay in the US enters into a marriage of convenience, but it turns into more than that.",
+    "Language": "English, French, Spanish",
+    "Country": "France, Australia, USA",
+    "Awards": "Nominated for 1 Oscar. Another 3 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNjZjQ3MTYtNTdhMS00MDRhLThjMjItMmQ3MzJkMjMyODg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.2",
+    "imdbVotes": "21,309",
+    "imdbID": "tt0099699",
+    "Type": "movie",
+    "DVD": "04 Mar 2003",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

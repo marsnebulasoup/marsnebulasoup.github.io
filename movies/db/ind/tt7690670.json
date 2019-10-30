@@ -1,0 +1,36 @@
+{
+    "Title": "SuperFly",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "13 Jun 2018",
+    "Runtime": "116 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Director X.",
+    "Writer": "Alex Tse (screenplay by)",
+    "Actors": "Trevor Jackson, Jason Mitchell, Michael Kenneth Williams, Lex Scott Davis",
+    "Plot": "With retirement on his mind, a successful young drug dealer sets up one last big job, while dealing with trigger-happy colleagues and the police.",
+    "Language": "English, Spanish, Cantonese",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU1Yzc0ZDUtNGFlZC00ZTFkLWIxMTEtZTQ5ZTliYzIxZWI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.1",
+    "imdbVotes": "5,159",
+    "imdbID": "tt7690670",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

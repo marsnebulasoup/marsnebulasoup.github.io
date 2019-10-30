@@ -1,0 +1,40 @@
+{
+    "Title": "Get Shorty",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "20 Oct 1995",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Crime, Thriller",
+    "Director": "Barry Sonnenfeld",
+    "Writer": "Elmore Leonard (novel), Scott Frank (screenplay)",
+    "Actors": "John Travolta, Gene Hackman, Rene Russo, Danny DeVito",
+    "Plot": "A mobster travels to Hollywood to collect a debt, and discovers that the movie business is much the same as his current job.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Golden Globe. Another 5 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwODYzNDY4Ml5BMl5BanBnXkFtZTcwODkwNTgzNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "6.9",
+    "imdbVotes": "71,974",
+    "imdbID": "tt0113161",
+    "Type": "movie",
+    "DVD": "27 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

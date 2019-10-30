@@ -1,0 +1,40 @@
+{
+    "Title": "Tape",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "12 Jul 2002",
+    "Runtime": "86 min",
+    "Genre": "Drama",
+    "Director": "Richard Linklater",
+    "Writer": "Stephen Belber (screenplay), Stephen Belber (play)",
+    "Actors": "Ethan Hawke, Robert Sean Leonard, Uma Thurman",
+    "Plot": "Three old high school friends meet in a Michigan motel room to dissect painful memories from their past.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjIwYjFhZGEtZWQwOC00ODU2LWEyMzYtOGNmNTc1OGMzOGZkXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.3",
+    "imdbVotes": "17,867",
+    "imdbID": "tt0275719",
+    "Type": "movie",
+    "DVD": "16 Apr 2002",
+    "BoxOffice": "N/A",
+    "Production": "Lions Gate Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

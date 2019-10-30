@@ -1,0 +1,36 @@
+{
+    "Title": "Flower",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "16 Mar 2018",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Max Winkler",
+    "Writer": "Alex McAulay (story by), Alex McAulay, Matt Spicer, Max Winkler",
+    "Actors": "Zoey Deutch, Kathryn Hahn, Tim Heidecker, Adam Scott",
+    "Plot": "A sexually curious teen forms an unorthodox kinship with her mentally unstable stepbrother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzViOTBmMGUtODBlMi00YzYzLThiM2MtOGFlMzZkNWU4NDRjXkEyXkFqcGdeQXVyODE0MDY3NzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.0",
+    "imdbVotes": "5,420",
+    "imdbID": "tt2582784",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

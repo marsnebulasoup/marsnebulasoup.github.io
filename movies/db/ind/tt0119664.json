@@ -1,0 +1,36 @@
+{
+    "Title": "Metro",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "17 Jan 1997",
+    "Runtime": "117 min",
+    "Genre": "Action, Comedy, Crime, Drama, Thriller",
+    "Director": "Thomas Carter",
+    "Writer": "Randy Feldman",
+    "Actors": "Eddie Murphy, Kim Miyori, Art Evans, James Carpenter",
+    "Plot": "A Hostage Negotiator teams up with a Sharpshooter to bring down a dangerous jewel thief.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmI1ZGNiYTUtOTllNi00YWU5LThmNmItODM2N2I4OTEyYmQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.5",
+    "imdbVotes": "24,232",
+    "imdbID": "tt0119664",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

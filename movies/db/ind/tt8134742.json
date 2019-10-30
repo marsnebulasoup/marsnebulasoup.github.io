@@ -1,0 +1,40 @@
+{
+    "Title": "3 from Hell",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "01 Sep 2019",
+    "Runtime": "111 min",
+    "Genre": "Horror",
+    "Director": "Rob Zombie",
+    "Writer": "Rob Zombie",
+    "Actors": "Sheri Moon Zombie, Bill Moseley, Sid Haig, Jeff Daniel Phillips",
+    "Plot": "Sequel to The Devil's Rejects.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGZlNmYwZWYtOWU1My00Mzg3LThhNDMtMDQ0ZjAzNWNiNDZiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.0",
+    "imdbVotes": "2,020",
+    "imdbID": "tt8134742",
+    "Type": "movie",
+    "DVD": "15 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

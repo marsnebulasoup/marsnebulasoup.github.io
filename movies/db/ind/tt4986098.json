@@ -1,0 +1,40 @@
+{
+    "Title": "The Titan",
+    "Year": "2018",
+    "Rated": "TV-MA",
+    "Released": "30 Mar 2018",
+    "Runtime": "97 min",
+    "Genre": "Drama, Mystery, Romance, Sci-Fi, Thriller",
+    "Director": "Lennart Ruff",
+    "Writer": "Max Hurwitz (screenplay by), Arash Amel (story by)",
+    "Actors": "Sam Worthington, Taylor Schilling, Tom Wilkinson, Agyness Deyn",
+    "Plot": "A military family takes part in a ground-breaking experiment of genetic evolution and space exploration.",
+    "Language": "English",
+    "Country": "UK, Spain, USA, Germany",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NDc5MDU2NV5BMl5BanBnXkFtZTgwNDI1ODEyNTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "19%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "4.8",
+    "imdbVotes": "24,786",
+    "imdbID": "tt4986098",
+    "Type": "movie",
+    "DVD": "30 Mar 2018",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

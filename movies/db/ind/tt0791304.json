@@ -1,0 +1,40 @@
+{
+    "Title": "Georgia Rule",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "11 May 2007",
+    "Runtime": "113 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Garry Marshall",
+    "Writer": "Mark Andrus",
+    "Actors": "Jane Fonda, Lindsay Lohan, Felicity Huffman, Dermot Mulroney",
+    "Plot": "A troubled young woman is sent to live with her grandmother for the summer, while hiding a secret that could potentially tear her family apart.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM2MDc3MTI0Nl5BMl5BanBnXkFtZTcwMzQ4ODU0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "18%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "25/100"
+        }
+    ],
+    "Metascore": "25",
+    "imdbRating": "5.8",
+    "imdbVotes": "23,187",
+    "imdbID": "tt0791304",
+    "Type": "movie",
+    "DVD": "04 Sep 2007",
+    "BoxOffice": "$18,882,880",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

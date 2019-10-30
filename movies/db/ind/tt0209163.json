@@ -1,0 +1,40 @@
+{
+    "Title": "The Mummy Returns",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "04 May 2001",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Fantasy, Thriller",
+    "Director": "Stephen Sommers",
+    "Writer": "Stephen Sommers",
+    "Actors": "Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",
+    "Plot": "The mummified body of Imhotep is shipped to a museum in London, where he once again wakes and begins his campaign of rage and terror.",
+    "Language": "English, Arabic",
+    "Country": "USA",
+    "Awards": "6 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NzU1NTk2MV5BMl5BanBnXkFtZTgwMjIwMzcxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.3",
+    "imdbVotes": "287,093",
+    "imdbID": "tt0209163",
+    "Type": "movie",
+    "DVD": "02 Oct 2001",
+    "BoxOffice": "$200,691,120",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

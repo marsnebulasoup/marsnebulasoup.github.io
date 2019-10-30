@@ -1,0 +1,40 @@
+{
+    "Title": "Scary Movie 3",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2003",
+    "Runtime": "84 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin, Pat Proft, Shawn Wayans (characters), Marlon Wayans (characters), Buddy Johnson (characters), Phil Beauman (characters), Jason Friedberg (characters), Aaron Seltzer (characters)",
+    "Actors": "Pamela Anderson, Jenny McCarthy, Marny Eng, Charlie Sheen",
+    "Plot": "Cindy must investigate mysterious crop circles and video tapes, and help the President in preventing an alien invasion.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE2NTIyMjg2OF5BMl5BanBnXkFtZTYwNDEyMTg3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.5",
+    "imdbVotes": "129,797",
+    "imdbID": "tt0306047",
+    "Type": "movie",
+    "DVD": "11 May 2004",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

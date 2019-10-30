@@ -1,0 +1,40 @@
+{
+    "Title": "Paterson",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "17 Nov 2016",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jim Jarmusch",
+    "Writer": "Jim Jarmusch, William Carlos Williams (poem), Ron Padgett (poems)",
+    "Actors": "Adam Driver, Golshifteh Farahani, Nellie, Rizwan Manji",
+    "Plot": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+    "Language": "English, Italian",
+    "Country": "France, Germany, USA",
+    "Awards": "9 wins & 33 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "90/100"
+        }
+    ],
+    "Metascore": "90",
+    "imdbRating": "7.4",
+    "imdbVotes": "57,536",
+    "imdbID": "tt5247022",
+    "Type": "movie",
+    "DVD": "04 Apr 2017",
+    "BoxOffice": "$2,141,423",
+    "Production": "K5 International",
+    "Website": "N/A",
+    "Response": "True"
+}

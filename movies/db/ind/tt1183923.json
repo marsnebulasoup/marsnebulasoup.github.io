@@ -1,0 +1,40 @@
+{
+    "Title": "Welcome to the Rileys",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "18 Nov 2011",
+    "Runtime": "110 min",
+    "Genre": "Drama",
+    "Director": "Jake Scott",
+    "Writer": "Ken Hixon",
+    "Actors": "James Gandolfini, Kristen Stewart, Melissa Leo, Joe Chrest",
+    "Plot": "On a business trip to New Orleans, a damaged man seeks salvation by caring for a wayward young woman.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzOTkxMTY3MV5BMl5BanBnXkFtZTcwNjMyMzk5Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "7.0",
+    "imdbVotes": "22,459",
+    "imdbID": "tt1183923",
+    "Type": "movie",
+    "DVD": "01 Feb 2011",
+    "BoxOffice": "$152,857",
+    "Production": "Samuel Goldwyn Films/Destination Films",
+    "Website": "N/A",
+    "Response": "True"
+}

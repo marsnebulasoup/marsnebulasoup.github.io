@@ -1,0 +1,40 @@
+{
+    "Title": "Jawbreaker",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "19 Feb 1999",
+    "Runtime": "87 min",
+    "Genre": "Comedy, Crime, Thriller",
+    "Director": "Darren Stein",
+    "Writer": "Darren Stein",
+    "Actors": "Rose McGowan, Rebecca Gayheart, Julie Benz, Judy Greer",
+    "Plot": "Three of the most popular girls at Reagan High accidentally kill the prom queen with a jawbreaker when a kidnapping goes horribly wrong.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTcwZWZkZWUtZjRhMi00ZDNhLTljOWItNjBkNzIwYTA0YWQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "22/100"
+        }
+    ],
+    "Metascore": "22",
+    "imdbRating": "5.6",
+    "imdbVotes": "22,622",
+    "imdbID": "tt0155776",
+    "Type": "movie",
+    "DVD": "22 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "Columbia TriStar",
+    "Website": "N/A",
+    "Response": "True"
+}

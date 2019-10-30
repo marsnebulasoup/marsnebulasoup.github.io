@@ -1,0 +1,40 @@
+{
+    "Title": "Ibiza",
+    "Year": "2018",
+    "Rated": "TV-MA",
+    "Released": "25 May 2018",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Alex Richanbach",
+    "Writer": "Lauryn Kahn",
+    "Actors": "Gwen Elizabeth Duchon, Gillian Jacobs, Michaela Watkins, Phoebe Robinson",
+    "Plot": "A young American woman and her two best friends seek out a hot DJ in Spain.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMTA5ODMxOV5BMl5BanBnXkFtZTgwNTgwNDkzNTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.2",
+    "imdbVotes": "13,561",
+    "imdbID": "tt3685236",
+    "Type": "movie",
+    "DVD": "25 May 2018",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

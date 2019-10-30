@@ -1,0 +1,40 @@
+{
+    "Title": "Me Before You",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "03 Jun 2016",
+    "Runtime": "106 min",
+    "Genre": "Drama, Romance",
+    "Director": "Thea Sharrock",
+    "Writer": "Jojo Moyes (based on the novel by), Jojo Moyes (screenplay by)",
+    "Actors": "Sam Claflin, Vanessa Kirby, Emilia Clarke, Eileen Dunwoodie",
+    "Plot": "A girl in a small town forms an unlikely bond with a recently-paralyzed man she's taking care of.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "6 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NjE4NDE2NV5BMl5BanBnXkFtZTgwOTcwNDE5NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "7.4",
+    "imdbVotes": "181,735",
+    "imdbID": "tt2674426",
+    "Type": "movie",
+    "DVD": "30 Aug 2016",
+    "BoxOffice": "$56,228,651",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

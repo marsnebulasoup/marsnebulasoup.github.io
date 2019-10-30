@@ -1,0 +1,40 @@
+{
+    "Title": "Suspiria",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "02 Nov 2018",
+    "Runtime": "152 min",
+    "Genre": "Fantasy, Horror, Mystery, Thriller",
+    "Director": "Luca Guadagnino",
+    "Writer": "Dario Argento (characters), Daria Nicolodi (characters), David Kajganich (screenplay)",
+    "Actors": "Chlo\u00eb Grace Moretz, Tilda Swinton, Doris Hick, Malgorzata Bela",
+    "Plot": "A darkness swirls at the center of a world-renowned dance company, one that will engulf the artistic director, an ambitious young dancer, and a grieving psychotherapist. Some will succumb to the nightmare. Others will finally wake up.",
+    "Language": "English, German, French, Russian",
+    "Country": "Italy, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2MTIyNjM2MF5BMl5BanBnXkFtZTgwMDE3NDMyNjM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.8",
+    "imdbVotes": "44,371",
+    "imdbID": "tt1034415",
+    "Type": "movie",
+    "DVD": "29 Jan 2019",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Rushmore",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "19 Feb 1999",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Wes Anderson",
+    "Writer": "Wes Anderson, Owen Wilson",
+    "Actors": "Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel",
+    "Plot": "The extracurricular king of Rushmore Preparatory School is put on academic probation.",
+    "Language": "English, Spanish, Latin, French",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 16 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2OTc3OTk2M15BMl5BanBnXkFtZTgwMjg2NjIyMDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.7",
+    "imdbVotes": "159,066",
+    "imdbID": "tt0128445",
+    "Type": "movie",
+    "DVD": "29 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

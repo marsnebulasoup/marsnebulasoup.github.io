@@ -1,0 +1,40 @@
+{
+    "Title": "Julieta",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "21 Dec 2016",
+    "Runtime": "99 min",
+    "Genre": "Drama, Mystery, Romance",
+    "Director": "Pedro Almod\u00f3var",
+    "Writer": "Pedro Almod\u00f3var, Alice Munro (basado en \"Destino\",  \"Pronto\" y \"Silencio\" de)",
+    "Actors": "Emma Su\u00e1rez, Adriana Ugarte, Daniel Grao, Inma Cuesta",
+    "Plot": "After a casual encounter, a brokenhearted woman decides to confront her life and the most important events about her stranded daughter.",
+    "Language": "Spanish",
+    "Country": "Spain",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 13 wins & 56 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjI3ZTdmNjMtMTI5My00M2EyLTg5YmItMDAwODU4ZWYyYjFhXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.1",
+    "imdbVotes": "25,606",
+    "imdbID": "tt4326444",
+    "Type": "movie",
+    "DVD": "21 Mar 2017",
+    "BoxOffice": "$1,489,848",
+    "Production": "El Deseo",
+    "Website": "N/A",
+    "Response": "True"
+}

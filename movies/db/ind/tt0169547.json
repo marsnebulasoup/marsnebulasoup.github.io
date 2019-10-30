@@ -1,0 +1,40 @@
+{
+    "Title": "American Beauty",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "01 Oct 1999",
+    "Runtime": "122 min",
+    "Genre": "Drama",
+    "Director": "Sam Mendes",
+    "Writer": "Alan Ball",
+    "Actors": "Kevin Spacey, Annette Bening, Thora Birch, Wes Bentley",
+    "Plot": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 5 Oscars. Another 104 wins & 100 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.3",
+    "imdbVotes": "1,003,589",
+    "imdbID": "tt0169547",
+    "Type": "movie",
+    "DVD": "02 Jan 2002",
+    "BoxOffice": "N/A",
+    "Production": "Dreamworks",
+    "Website": "N/A",
+    "Response": "True"
+}

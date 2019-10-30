@@ -1,0 +1,40 @@
+{
+    "Title": "The Belko Experiment",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "17 Mar 2017",
+    "Runtime": "89 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Greg McLean",
+    "Writer": "James Gunn",
+    "Actors": "John Gallagher Jr., Tony Goldwyn, Adria Arjona, John C. McGinley",
+    "Plot": "In a twisted social experiment, eighty Americans are locked in their high-rise corporate office in Bogot\u00e1, Colombia, and ordered by an unknown voice coming from the company's intercom system to participate in a deadly game of kill or be killed.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODQyMDkyOTE2MF5BMl5BanBnXkFtZTgwNDQ1NTQwMTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.1",
+    "imdbVotes": "39,552",
+    "imdbID": "tt1082807",
+    "Type": "movie",
+    "DVD": "27 Jun 2017",
+    "BoxOffice": "$10,164,675",
+    "Production": "BH Tilt",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Toy Story 4",
+    "Year": "2019",
+    "Rated": "G",
+    "Released": "21 Jun 2019",
+    "Runtime": "100 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Josh Cooley",
+    "Writer": "John Lasseter (original story by), Andrew Stanton (original story by), Josh Cooley (original story by), Valerie LaPointe (original story by), Rashida Jones (original story by), Will McCormack (original story by), Martin Hynes (original story by), Stephany Folsom (original story by), Andrew Stanton (screenplay by), Stephany Folsom (screenplay by)",
+    "Actors": "Tom Hanks, Tim Allen, Annie Potts, Tony Hale",
+    "Plot": "When a new toy called \"Forky\" joins Woody and the gang, a road trip alongside old and new friends reveals how big the world can be for a toy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "84/100"
+        }
+    ],
+    "Metascore": "84",
+    "imdbRating": "8.0",
+    "imdbVotes": "121,373",
+    "imdbID": "tt1979376",
+    "Type": "movie",
+    "DVD": "01 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "Disney/Pixar",
+    "Website": "N/A",
+    "Response": "True"
+}

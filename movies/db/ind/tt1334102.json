@@ -1,0 +1,36 @@
+{
+    "Title": "The Resident",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "11 Mar 2011",
+    "Runtime": "91 min",
+    "Genre": "Drama, Horror, Mystery, Thriller",
+    "Director": "Antti Jokinen",
+    "Writer": "Antti Jokinen, Robert Orr",
+    "Actors": "Hilary Swank, Jeffrey Dean Morgan, Lee Pace, Christopher Lee",
+    "Plot": "When a young doctor suspects she may not be alone in her new Brooklyn loft, she learns that her landlord has formed a frightening obsession with her.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk2NDQ3NjYxM15BMl5BanBnXkFtZTcwODgzMjIzNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "25,210",
+    "imdbID": "tt1334102",
+    "Type": "movie",
+    "DVD": "29 Mar 2011",
+    "BoxOffice": "N/A",
+    "Production": "Imaeg Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

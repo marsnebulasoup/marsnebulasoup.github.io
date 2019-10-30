@@ -1,0 +1,40 @@
+{
+    "Title": "National Lampoon's Animal House",
+    "Year": "1978",
+    "Rated": "R",
+    "Released": "28 Jul 1978",
+    "Runtime": "109 min",
+    "Genre": "Comedy",
+    "Director": "John Landis",
+    "Writer": "Harold Ramis, Douglas Kenney, Chris Miller",
+    "Actors": "Tom Hulce, Stephen Furst, Mark Metcalf, Mary Louise Weller",
+    "Plot": "At a 1962 college, Dean Vernon Wormer is determined to expel the entire Delta Tau Chi Fraternity, but those troublemakers have other plans for him.",
+    "Language": "English, Italian",
+    "Country": "USA",
+    "Awards": "2 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2M2ZDA4MTYtOGRjMi00OTg5LWI1ZTUtMjQxZTc2NWZjNDFkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.5",
+    "imdbVotes": "106,182",
+    "imdbID": "tt0077975",
+    "Type": "movie",
+    "DVD": "24 Feb 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Definitely, Maybe",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "14 Feb 2008",
+    "Runtime": "112 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Adam Brooks",
+    "Writer": "Adam Brooks",
+    "Actors": "Ryan Reynolds, An Nguyen, Matthew Mason, Rick Derby",
+    "Plot": "A political consultant tries to explain his impending divorce and past relationships to his 11-year-old daughter.",
+    "Language": "English",
+    "Country": "UK, France, Germany, USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1Mzc1ODMxMF5BMl5BanBnXkFtZTcwNDY1MzU1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.1",
+    "imdbVotes": "147,799",
+    "imdbID": "tt0832266",
+    "Type": "movie",
+    "DVD": "24 Jun 2008",
+    "BoxOffice": "$32,000,000",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

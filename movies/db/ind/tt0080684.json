@@ -1,0 +1,40 @@
+{
+    "Title": "Star Wars: Episode V - The Empire Strikes Back",
+    "Year": "1980",
+    "Rated": "PG",
+    "Released": "20 Jun 1980",
+    "Runtime": "124 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "Irvin Kershner",
+    "Writer": "Leigh Brackett (screenplay by), Lawrence Kasdan (screenplay by), George Lucas (story by)",
+    "Actors": "Mark Hamill, Harrison Ford, Carrie Fisher, Billy Dee Williams",
+    "Plot": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 21 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.7",
+    "imdbVotes": "1,070,015",
+    "imdbID": "tt0080684",
+    "Type": "movie",
+    "DVD": "21 Sep 2004",
+    "BoxOffice": "$4,548,170",
+    "Production": "Twentieth Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

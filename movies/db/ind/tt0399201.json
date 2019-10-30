@@ -1,0 +1,40 @@
+{
+    "Title": "The Island",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "22 Jul 2005",
+    "Runtime": "136 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Michael Bay",
+    "Writer": "Caspian Tredwell-Owen (screenplay), Alex Kurtzman (screenplay), Roberto Orci (screenplay), Caspian Tredwell-Owen (story)",
+    "Actors": "Ewan McGregor, Scarlett Johansson, Djimon Hounsou, Sean Bean",
+    "Plot": "A man living in a futuristic sterile colony begins to question his circumscribed existence when his friend is chosen to go to the Island, the last uncontaminated place on earth.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAwNjk0NjM1ODReQTJeQWpwZ15BbWU3MDc1NjIxMzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.8",
+    "imdbVotes": "290,086",
+    "imdbID": "tt0399201",
+    "Type": "movie",
+    "DVD": "13 Dec 2005",
+    "BoxOffice": "$35,800,000",
+    "Production": "Dreamworks Distribution LLC",
+    "Website": "N/A",
+    "Response": "True"
+}

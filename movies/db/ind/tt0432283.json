@@ -1,0 +1,40 @@
+{
+    "Title": "Fantastic Mr. Fox",
+    "Year": "2009",
+    "Rated": "PG",
+    "Released": "25 Nov 2009",
+    "Runtime": "87 min",
+    "Genre": "Animation, Adventure, Comedy, Crime, Drama, Family",
+    "Director": "Wes Anderson",
+    "Writer": "Roald Dahl (novel), Wes Anderson (screenplay), Noah Baumbach (screenplay)",
+    "Actors": "George Clooney, Meryl Streep, Jason Schwartzman, Bill Murray",
+    "Plot": "An urbane fox cannot resist returning to his farm raiding ways and then must help his community survive the farmers' retaliation.",
+    "Language": "English, French",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 2 Oscars. Another 32 wins & 60 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGUwYTU4NGEtNDM4MS00NDRjLTkwNmQtOTkwMWMyMjhmMjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.8",
+    "imdbVotes": "180,181",
+    "imdbID": "tt0432283",
+    "Type": "movie",
+    "DVD": "23 Mar 2010",
+    "BoxOffice": "$21,000,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

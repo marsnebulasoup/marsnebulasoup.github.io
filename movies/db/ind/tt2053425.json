@@ -1,0 +1,40 @@
+{
+    "Title": "Rust and Bone",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "17 May 2012",
+    "Runtime": "120 min",
+    "Genre": "Drama, Romance",
+    "Director": "Jacques Audiard",
+    "Writer": "Jacques Audiard (screenplay), Thomas Bidegain (screenplay), Craig Davidson (story)",
+    "Actors": "Marion Cotillard, Matthias Schoenaerts, Armand Verdure, C\u00e9line Sallette",
+    "Plot": "Put in charge of his young son, Alain leaves Belgium for Antibes to live with his sister and her husband as a family. Alain's bond with Stephanie, a killer whale trainer, grows deeper after Stephanie suffers a horrible accident.",
+    "Language": "French, English",
+    "Country": "France, Belgium, Singapore",
+    "Awards": "Nominated for 2 Golden Globes. Another 32 wins & 68 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTUwNTljNjYtMjFhZi00ZGE5LThmMWEtYzQ3YmY2ZWNiZTU1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.5",
+    "imdbVotes": "59,622",
+    "imdbID": "tt2053425",
+    "Type": "movie",
+    "DVD": "19 Mar 2013",
+    "BoxOffice": "$1,900,000",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

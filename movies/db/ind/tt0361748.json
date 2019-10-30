@@ -1,0 +1,40 @@
+{
+    "Title": "Inglourious Basterds",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "21 Aug 2009",
+    "Runtime": "153 min",
+    "Genre": "Adventure, Drama, War",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino",
+    "Actors": "Brad Pitt, M\u00e9lanie Laurent, Christoph Waltz, Eli Roth",
+    "Plot": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "Language": "English, German, French, Italian",
+    "Country": "Germany, USA",
+    "Awards": "Won 1 Oscar. Another 129 wins & 165 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "8.3",
+    "imdbVotes": "1,150,052",
+    "imdbID": "tt0361748",
+    "Type": "movie",
+    "DVD": "15 Dec 2009",
+    "BoxOffice": "$120,523,073",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

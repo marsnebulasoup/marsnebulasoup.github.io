@@ -1,0 +1,40 @@
+{
+    "Title": "Bicentennial Man",
+    "Year": "1999",
+    "Rated": "PG",
+    "Released": "17 Dec 1999",
+    "Runtime": "132 min",
+    "Genre": "Comedy, Drama, Sci-Fi",
+    "Director": "Chris Columbus",
+    "Writer": "Isaac Asimov (short story \"The Bicentennial Man\"), Isaac Asimov (novel), Robert Silverberg (novel), Nicholas Kazan (screenplay)",
+    "Actors": "Robin Williams, Embeth Davidtz, Sam Neill, Oliver Platt",
+    "Plot": "An android endeavors to become human as he gradually acquires emotions.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTU4Nzg5YmItNzE0Yy00Y2VmLWI3OTYtNTFjODEzMDE0YTI4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.9",
+    "imdbVotes": "103,901",
+    "imdbID": "tt0182789",
+    "Type": "movie",
+    "DVD": "15 Jan 2002",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "My Week with Marilyn",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "23 Dec 2011",
+    "Runtime": "99 min",
+    "Genre": "Biography, Drama",
+    "Director": "Simon Curtis",
+    "Writer": "Adrian Hodges (screenplay), Colin Clark (books)",
+    "Actors": "Michelle Williams, Eddie Redmayne, Julia Ormond, Kenneth Branagh",
+    "Plot": "Colin Clark, an employee of Sir Laurence Olivier, documents the tense interaction between Olivier and Marilyn Monroe during the production of The Prince and the Showgirl (1957).",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 2 Oscars. Another 19 wins & 59 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYwOTIzOV5BMl5BanBnXkFtZTcwODE2NjAwNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.0",
+    "imdbVotes": "80,137",
+    "imdbID": "tt1655420",
+    "Type": "movie",
+    "DVD": "13 Mar 2012",
+    "BoxOffice": "$12,600,000",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

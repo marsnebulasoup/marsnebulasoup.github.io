@@ -1,0 +1,40 @@
+{
+    "Title": "The Wind that Shakes the Barley",
+    "Year": "2006",
+    "Rated": "Not Rated",
+    "Released": "23 Mar 2007",
+    "Runtime": "127 min",
+    "Genre": "Drama, War",
+    "Director": "Ken Loach",
+    "Writer": "Paul Laverty",
+    "Actors": "Cillian Murphy, P\u00e1draic Delaney, Liam Cunningham, Orla Fitzgerald",
+    "Plot": "Against the backdrop of the Irish War of Independence, two brothers fight a guerrilla war against British forces.",
+    "Language": "English, Irish, Latin",
+    "Country": "Ireland, UK, Germany, Italy, Spain, France, Belgium, Switzerland, Netherlands",
+    "Awards": "6 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTE0ZGE4YTItZTE2NC00MzZjLTkyMWUtMTZiODAwNTRlNDk4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.5",
+    "imdbVotes": "43,054",
+    "imdbID": "tt0460989",
+    "Type": "movie",
+    "DVD": "04 Sep 2007",
+    "BoxOffice": "$1,779,320",
+    "Production": "IFC First Take",
+    "Website": "N/A",
+    "Response": "True"
+}

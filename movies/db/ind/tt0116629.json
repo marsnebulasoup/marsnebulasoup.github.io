@@ -1,0 +1,40 @@
+{
+    "Title": "Independence Day",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "03 Jul 1996",
+    "Runtime": "145 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Roland Emmerich",
+    "Writer": "Dean Devlin, Roland Emmerich",
+    "Actors": "Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell",
+    "Plot": "The aliens are coming and their goal is to invade and destroy Earth. Fighting superior technology, mankind's best weapon is the will to survive.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 34 wins & 34 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQwNDNkMmItYWY1Yy00YTZmLWE5OTAtODU0MGZmMzQ1NDdkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.0",
+    "imdbVotes": "502,110",
+    "imdbID": "tt0116629",
+    "Type": "movie",
+    "DVD": "27 Jun 2000",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

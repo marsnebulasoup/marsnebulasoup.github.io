@@ -1,0 +1,40 @@
+{
+    "Title": "Keanu",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "29 Apr 2016",
+    "Runtime": "100 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Peter Atencio",
+    "Writer": "Jordan Peele, Alex Rubens",
+    "Actors": "Jordan Peele, Keegan-Michael Key, Tiffany Haddish, Method Man",
+    "Plot": "When the adorable kitten of an L.A. crime kingpin unexpectedly enters the life of two cousins, they will have to go through tough gangs, pitiless hit-men, and ruthless drug dealers who all claim him, to get him back. How hard can it be?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwODA0NzQxMl5BMl5BanBnXkFtZTgwNzUyMjY3ODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.3",
+    "imdbVotes": "42,531",
+    "imdbID": "tt4139124",
+    "Type": "movie",
+    "DVD": "02 Aug 2016",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

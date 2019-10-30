@@ -1,0 +1,40 @@
+{
+    "Title": "Mr. Brooks",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "01 Jun 2007",
+    "Runtime": "120 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Bruce A. Evans",
+    "Writer": "Bruce A. Evans, Raynold Gideon",
+    "Actors": "Kevin Costner, Demi Moore, Dane Cook, William Hurt",
+    "Plot": "A well-respected businessman is sometimes controlled by his murder and mayhem-loving alter ego.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyNTk5MTMxN15BMl5BanBnXkFtZTcwNTc0ODI1NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "7.3",
+    "imdbVotes": "138,051",
+    "imdbID": "tt0780571",
+    "Type": "movie",
+    "DVD": "23 Oct 2007",
+    "BoxOffice": "$28,424,648",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

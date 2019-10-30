@@ -1,0 +1,40 @@
+{
+    "Title": "Boat Trip",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "21 Mar 2003",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Mort Nathan",
+    "Writer": "Mort Nathan, William Bigelow",
+    "Actors": "Cuba Gooding Jr., Horatio Sanz, Roselyn Sanchez, Vivica A. Fox",
+    "Plot": "Two straight men mistakenly end up on a \"gays only\" cruise.",
+    "Language": "English, Swedish, Spanish",
+    "Country": "USA, Germany",
+    "Awards": "1 win & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxNzQ4MjczMV5BMl5BanBnXkFtZTYwNjEzNTk5._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "7%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "18/100"
+        }
+    ],
+    "Metascore": "18",
+    "imdbRating": "4.9",
+    "imdbVotes": "29,269",
+    "imdbID": "tt0285462",
+    "Type": "movie",
+    "DVD": "30 Sep 2003",
+    "BoxOffice": "$8,525,095",
+    "Production": "Artisan Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

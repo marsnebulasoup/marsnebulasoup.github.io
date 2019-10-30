@@ -1,0 +1,40 @@
+{
+    "Title": "Formula 51",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "18 Oct 2002",
+    "Runtime": "93 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Ronny Yu",
+    "Writer": "Stel Pavlou",
+    "Actors": "Samuel L. Jackson, Nigel Whitmey, Robert Jezek, Emily Mortimer",
+    "Plot": "An American master chemist plans to score big on a once in a lifetime drug deal. All does not go as planned and he is soon entangled in a web of deceit.",
+    "Language": "English",
+    "Country": "UK, Canada",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzU4NjEwNV5BMl5BanBnXkFtZTYwNTk4NzM3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "26%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "23/100"
+        }
+    ],
+    "Metascore": "23",
+    "imdbRating": "6.3",
+    "imdbVotes": "46,413",
+    "imdbID": "tt0227984",
+    "Type": "movie",
+    "DVD": "04 Feb 2003",
+    "BoxOffice": "$5,142,921",
+    "Production": "Screen Gems",
+    "Website": "N/A",
+    "Response": "True"
+}

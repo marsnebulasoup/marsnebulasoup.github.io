@@ -1,0 +1,40 @@
+{
+    "Title": "The Hunger Games: Catching Fire",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "22 Nov 2013",
+    "Runtime": "146 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Francis Lawrence",
+    "Writer": "Simon Beaufoy (screenplay), Michael Arndt (screenplay), Suzanne Collins (novel)",
+    "Actors": "Jennifer Lawrence, Liam Hemsworth, Jack Quaid, Taylor St. Clair",
+    "Plot": "Katniss Everdeen and Peeta Mellark become targets of the Capitol after their victory in the 74th Hunger Games sparks a rebellion in the Districts of Panem.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 22 wins & 66 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyMjQ3OTAxMzNeQTJeQWpwZ15BbWU4MDU0NzA1MzAx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.5",
+    "imdbVotes": "583,357",
+    "imdbID": "tt1951264",
+    "Type": "movie",
+    "DVD": "07 Mar 2014",
+    "BoxOffice": "$336,663,349",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

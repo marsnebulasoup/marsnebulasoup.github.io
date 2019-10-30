@@ -1,0 +1,40 @@
+{
+    "Title": "Bruce Almighty",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "23 May 2003",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Drama, Fantasy",
+    "Director": "Tom Shadyac",
+    "Writer": "Steve Koren (story), Mark O'Keefe (story), Steve Koren (screenplay), Mark O'Keefe (screenplay), Steve Oedekerk (screenplay)",
+    "Actors": "Jim Carrey, Morgan Freeman, Jennifer Aniston, Philip Baker Hall",
+    "Plot": "A guy who complains about God too often is given almighty powers to teach him how difficult it is to run the world.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "7 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzMyZDhiZDUtYWUyMi00ZDQxLWE4NDQtMWFlMjI1YjVjMjZiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.7",
+    "imdbVotes": "350,738",
+    "imdbID": "tt0315327",
+    "Type": "movie",
+    "DVD": "25 Nov 2003",
+    "BoxOffice": "$242,589,580",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

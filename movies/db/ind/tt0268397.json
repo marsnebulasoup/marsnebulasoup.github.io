@@ -1,0 +1,40 @@
+{
+    "Title": "Jimmy Neutron: Boy Genius",
+    "Year": "2001",
+    "Rated": "G",
+    "Released": "21 Dec 2001",
+    "Runtime": "82 min",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Sci-Fi",
+    "Director": "John A. Davis",
+    "Writer": "John A. Davis (story), Steve Oedekerk (story), John A. Davis (screenplay), David N. Weiss (screenplay), J. David Stem (screenplay), Steve Oedekerk (screenplay), John A. Davis (based on the television series created by), Danelle Hand",
+    "Actors": "Megan Cavanagh, Mark DeCarlo, Debi Derryberry, Jeffrey Garcia",
+    "Plot": "An eight year-old boy genius and his friends must rescue their parents after the adults are abducted by aliens.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzczYzM4MmMtMTEyYi00ZGRmLWE2OTMtZmNhYTdiYjQ4NDUxXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "74%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.0",
+    "imdbVotes": "28,656",
+    "imdbID": "tt0268397",
+    "Type": "movie",
+    "DVD": "02 Jul 2002",
+    "BoxOffice": "$80,865,848",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

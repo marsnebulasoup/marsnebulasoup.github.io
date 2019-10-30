@@ -1,0 +1,36 @@
+{
+    "Title": "Animal Farm",
+    "Year": "1954",
+    "Rated": "Approved",
+    "Released": "19 Jun 1959",
+    "Runtime": "72 min",
+    "Genre": "Animation, Drama",
+    "Director": "Joy Batchelor, John Halas",
+    "Writer": "George Orwell (based on a story by), Lothar Wolff (story development), Borden Mace (story development), Joseph Bryan III (story development), John Halas (story development), Joy Batchelor (story development)",
+    "Actors": "Gordon Heath, Maurice Denham",
+    "Plot": "A successful farmyard revolution by the resident animals vs. the farmer goes horribly wrong as the victors create a new tyranny among themselves.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTJiYmViNjItOWQyZC00NWMyLWJiODMtNzUxMDQ0MDcyNjFlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.2",
+    "imdbVotes": "13,770",
+    "imdbID": "tt0047834",
+    "Type": "movie",
+    "DVD": "02 Nov 2004",
+    "BoxOffice": "N/A",
+    "Production": "deRochemont Films",
+    "Website": "N/A",
+    "Response": "True"
+}

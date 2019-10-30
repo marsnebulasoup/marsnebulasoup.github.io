@@ -1,0 +1,40 @@
+{
+    "Title": "Maggie",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "08 May 2015",
+    "Runtime": "95 min",
+    "Genre": "Drama, Horror",
+    "Director": "Henry Hobson",
+    "Writer": "John Scott 3",
+    "Actors": "Arnold Schwarzenegger, Abigail Breslin, Joely Richardson, Douglas M. Griffin",
+    "Plot": "A teenage girl in the Midwest becomes infected by an outbreak of a disease that slowly turns the infected into cannibalistic zombies. During her transformation, her loving father stays by her side.",
+    "Language": "English",
+    "Country": "USA, Switzerland",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyNzk0MTU2Ml5BMl5BanBnXkFtZTgwNDExNzMyNTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.6",
+    "imdbVotes": "39,457",
+    "imdbID": "tt1881002",
+    "Type": "movie",
+    "DVD": "07 Jul 2015",
+    "BoxOffice": "$136,397",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

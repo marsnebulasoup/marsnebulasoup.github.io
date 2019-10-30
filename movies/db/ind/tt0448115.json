@@ -1,0 +1,40 @@
+{
+    "Title": "Shazam!",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "05 Apr 2019",
+    "Runtime": "132 min",
+    "Genre": "Action, Adventure, Comedy, Fantasy",
+    "Director": "David F. Sandberg",
+    "Writer": "Henry Gayden (screenplay by), Henry Gayden (story by), Darren Lemke (story by), Bill Parker (Shazam created by), C.C. Beck (Shazam created by)",
+    "Actors": "Zachary Levi, Mark Strong, Asher Angel, Jack Dylan Grazer",
+    "Plot": "We all have a superhero inside us, it just takes a bit of magic to bring it out. In Billy Batson's case, by shouting out one word - SHAZAM - this streetwise fourteen-year-old foster kid can turn into the grown-up superhero Shazam.",
+    "Language": "English, Spanish",
+    "Country": "USA, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTE0Yjc1NzUtMjFjMC00Y2I3LTg3NGYtNGRlMGJhYThjMTJmXkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.1",
+    "imdbVotes": "185,711",
+    "imdbID": "tt0448115",
+    "Type": "movie",
+    "DVD": "02 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

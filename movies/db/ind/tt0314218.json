@@ -1,0 +1,32 @@
+{
+    "Title": "Fun Movie",
+    "Year": "2002",
+    "Rated": "N/A",
+    "Released": "12 Apr 2002",
+    "Runtime": "N/A",
+    "Genre": "Comedy",
+    "Director": "Kyu-sung Jang",
+    "Writer": "Won-jae Lee, Jae-gon Son",
+    "Actors": "Jeong-eun Kim, Won-hee Im, Su-ro Kim, Tae-hwa Seo",
+    "Plot": "A parody of recent Korean movies including My Sassy Girl, Swiri, Peppermint Candy, Attack the Gas Station and others.",
+    "Language": "Korean",
+    "Country": "South Korea",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTg1ZDgzNWMtMTA1NC00MGVkLWFhYWItZmE1YWMwYzE2YTcwXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "136",
+    "imdbID": "tt0314218",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

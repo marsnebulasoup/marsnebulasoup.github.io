@@ -1,0 +1,40 @@
+{
+    "Title": "The Book of Henry",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "23 Jun 2017",
+    "Runtime": "105 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Colin Trevorrow",
+    "Writer": "Gregg Hurwitz",
+    "Actors": "Naomi Watts, Jaeden Martell, Jacob Tremblay, Sarah Silverman",
+    "Plot": "With instructions from her genius son's carefully crafted notebook, a single mother sets out to rescue a young girl from the hands of her abusive stepfather.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ3MjI4OTU1Ml5BMl5BanBnXkFtZTgwMTgwODcyMjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "6.6",
+    "imdbVotes": "20,868",
+    "imdbID": "tt4572792",
+    "Type": "movie",
+    "DVD": "03 Oct 2017",
+    "BoxOffice": "$4,219,536",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

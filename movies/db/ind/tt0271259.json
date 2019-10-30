@@ -1,0 +1,40 @@
+{
+    "Title": "Welcome to Collinwood",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "18 Oct 2002",
+    "Runtime": "86 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Anthony Russo, Joe Russo",
+    "Writer": "Anthony Russo (screenplay), Joe Russo (screenplay)",
+    "Actors": "William H. Macy, Isaiah Washington, Sam Rockwell, Michael Jeter",
+    "Plot": "When petty thief Cosimo is given the plan for the perfect heist from a lifer in prison - the kind of job you dream about - he has to get out of jail, fast. But with Cosimo stuck in the ...",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTI1MjMwMl5BMl5BanBnXkFtZTYwNTE2NzY3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.4",
+    "imdbVotes": "13,486",
+    "imdbID": "tt0271259",
+    "Type": "movie",
+    "DVD": "18 Mar 2003",
+    "BoxOffice": "$75,180",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

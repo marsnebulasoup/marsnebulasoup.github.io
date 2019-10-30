@@ -1,0 +1,40 @@
+{
+    "Title": "Apollo 11",
+    "Year": "2019",
+    "Rated": "G",
+    "Released": "26 Jun 2019",
+    "Runtime": "93 min",
+    "Genre": "Documentary, History",
+    "Director": "Todd Douglas Miller",
+    "Writer": "N/A",
+    "Actors": "Neil Armstrong, Michael Collins, Buzz Aldrin, Deke Slayton",
+    "Plot": "A look at the Apollo 11 mission to land on the moon led by commander Neil Armstrong and pilots Buzz Aldrin and Michael Collins.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMzEzNjI4M15BMl5BanBnXkFtZTgwODgxOTgyNzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "99%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.3",
+    "imdbVotes": "11,706",
+    "imdbID": "tt8760684",
+    "Type": "movie",
+    "DVD": "14 May 2019",
+    "BoxOffice": "N/A",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Pink Panther 2",
+    "Year": "2009",
+    "Rated": "PG",
+    "Released": "06 Feb 2009",
+    "Runtime": "92 min",
+    "Genre": "Action, Adventure, Comedy, Crime, Family, Mystery",
+    "Director": "Harald Zwart",
+    "Writer": "Scott Neustadter (screenplay), Michael H. Weber (screenplay), Steve Martin (screenplay), Scott Neustadter (story), Michael H. Weber (story), Maurice Richlin (characters), Blake Edwards (characters)",
+    "Actors": "Steve Martin, Jean Reno, Emily Mortimer, Andy Garcia",
+    "Plot": "Insp. Jacques Clouseau teams up with a squad of International detectives who are just as bumbling as he is. Their mission: Stop a globe-trotting thief who specializes in stealing historical artifacts.",
+    "Language": "English, French, Spanish, Italian",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIyOTI2ODY2MF5BMl5BanBnXkFtZTcwMzU2MTYxMg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "5.6",
+    "imdbVotes": "40,010",
+    "imdbID": "tt0838232",
+    "Type": "movie",
+    "DVD": "23 Jun 2009",
+    "BoxOffice": "$35,922,978",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Wimbledon",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "17 Sep 2004",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Romance, Sport",
+    "Director": "Richard Loncraine",
+    "Writer": "Adam Brooks, Jennifer Flackett, Mark Levin",
+    "Actors": "Kirsten Dunst, Paul Bettany, Sam Neill, Jon Favreau",
+    "Plot": "A pro tennis player has lost his ambition and has fallen in rank to 119. Fortunately for him, he meets a young player on the women's circuit who helps him recapture his focus for Wimbledon.",
+    "Language": "English, Italian",
+    "Country": "UK, France, USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzI5NjRiMTMtOGIzYS00N2FlLWI4MWMtM2VkNWMyYTgzNTdhXkEyXkFqcGdeQXVyMjA5MTIzMjQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.3",
+    "imdbVotes": "57,171",
+    "imdbID": "tt0360201",
+    "Type": "movie",
+    "DVD": "28 Dec 2004",
+    "BoxOffice": "$16,831,505",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

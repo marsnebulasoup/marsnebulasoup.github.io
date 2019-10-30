@@ -1,0 +1,40 @@
+{
+    "Title": "Fyre",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "18 Jan 2019",
+    "Runtime": "97 min",
+    "Genre": "Documentary, Music",
+    "Director": "Chris Smith",
+    "Writer": "Chris Smith",
+    "Actors": "Billy McFarland, Jason Bell, Gabrielle Bluestone, Shiyuan Deng",
+    "Plot": "An exclusive behind the scenes look at the infamous unraveling of the Fyre music festival.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ2NzE1MjYxMV5BMl5BanBnXkFtZTgwMjM3MDQxNzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.2",
+    "imdbVotes": "28,319",
+    "imdbID": "tt9412098",
+    "Type": "movie",
+    "DVD": "18 Jan 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

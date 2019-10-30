@@ -1,0 +1,40 @@
+{
+    "Title": "Jackie",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "02 Dec 2016",
+    "Runtime": "100 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Pablo Larra\u00edn",
+    "Writer": "Noah Oppenheim",
+    "Actors": "Natalie Portman, Peter Sarsgaard, Greta Gerwig, Billy Crudup",
+    "Plot": "Following the assassination of President John F. Kennedy, First Lady Jacqueline Kennedy fights through grief and trauma to regain her faith, console her children, and define her husband's historic legacy.",
+    "Language": "English, Spanish",
+    "Country": "USA, France, Chile, China, Germany, UK",
+    "Awards": "Nominated for 3 Oscars. Another 42 wins & 158 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg4MjYzNjk5N15BMl5BanBnXkFtZTgwODgwODI3MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "6.7",
+    "imdbVotes": "67,432",
+    "imdbID": "tt1619029",
+    "Type": "movie",
+    "DVD": "07 Mar 2017",
+    "BoxOffice": "$13,958,679",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

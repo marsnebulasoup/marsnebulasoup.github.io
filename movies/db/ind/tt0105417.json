@@ -1,0 +1,40 @@
+{
+    "Title": "Sister Act",
+    "Year": "1992",
+    "Rated": "PG",
+    "Released": "29 May 1992",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Crime, Family, Music",
+    "Director": "Emile Ardolino",
+    "Writer": "Paul Rudnick",
+    "Actors": "Whoopi Goldberg, Maggie Smith, Kathy Najimy, Wendy Makkena",
+    "Plot": "When a worldly singer witnesses a mob crime, the police hide her as a nun in a traditional convent where she has trouble fitting in.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 8 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTFmOTYxOWMtMDE2MC00ODhmLTlhM2QtZjZkZmVhZGYyNGFlXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.4",
+    "imdbVotes": "80,173",
+    "imdbID": "tt0105417",
+    "Type": "movie",
+    "DVD": "18 Jan 2000",
+    "BoxOffice": "$139,605,150",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

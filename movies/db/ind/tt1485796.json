@@ -1,0 +1,40 @@
+{
+    "Title": "The Greatest Showman",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "20 Dec 2017",
+    "Runtime": "105 min",
+    "Genre": "Biography, Drama, Musical",
+    "Director": "Michael Gracey",
+    "Writer": "Jenny Bicks (screenplay by), Bill Condon (screenplay by), Jenny Bicks (story by)",
+    "Actors": "Hugh Jackman, Michelle Williams, Zac Efron, Zendaya",
+    "Plot": "Celebrates the birth of show business and tells of a visionary who rose from nothing to create a spectacle that became a worldwide sensation.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1NDYzNzY2Ml5BMl5BanBnXkFtZTgwODQwODczNTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "7.6",
+    "imdbVotes": "206,388",
+    "imdbID": "tt1485796",
+    "Type": "movie",
+    "DVD": "10 Apr 2018",
+    "BoxOffice": "$164,616,443",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

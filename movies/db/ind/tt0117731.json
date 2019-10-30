@@ -1,0 +1,40 @@
+{
+    "Title": "Star Trek: First Contact",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "22 Nov 1996",
+    "Runtime": "111 min",
+    "Genre": "Action, Adventure, Drama, Sci-Fi, Thriller",
+    "Director": "Jonathan Frakes",
+    "Writer": "Gene Roddenberry (television series Star Trek), Rick Berman (story), Brannon Braga (story), Ronald D. Moore (story), Brannon Braga (screenplay), Ronald D. Moore (screenplay)",
+    "Actors": "Patrick Stewart, Jonathan Frakes, Brent Spiner, LeVar Burton",
+    "Plot": "The Borg travel back in time intent on preventing Earth's first contact with an alien species. Captain Picard and his crew pursue them to ensure that Zefram Cochrane makes his maiden flight reaching warp speed.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 8 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTllZjRkY2QtYTJlMy00ZTMxLWE0YWQtMWMwYzY2YTM3YzRjXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.6",
+    "imdbVotes": "111,644",
+    "imdbID": "tt0117731",
+    "Type": "movie",
+    "DVD": "06 Oct 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

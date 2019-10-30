@@ -1,0 +1,40 @@
+{
+    "Title": "Ali",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "25 Dec 2001",
+    "Runtime": "157 min",
+    "Genre": "Biography, Drama, Sport",
+    "Director": "Michael Mann",
+    "Writer": "Gregory Allen Howard (story), Stephen J. Rivele (screenplay), Christopher Wilkinson (screenplay), Eric Roth (screenplay), Michael Mann (screenplay)",
+    "Actors": "Will Smith, Jamie Foxx, Jon Voight, Mario Van Peebles",
+    "Plot": "A biography of sports legend Muhammad Ali, focusing on his triumphs and controversies between 1964 and 1974.",
+    "Language": "English, French, Swahili",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 10 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjA3OTUxNTktN2FlNC00NGUyLWI1NDktY2FlZTc5MDlmOGFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.8",
+    "imdbVotes": "88,916",
+    "imdbID": "tt0248667",
+    "Type": "movie",
+    "DVD": "30 Apr 2002",
+    "BoxOffice": "$58,183,966",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

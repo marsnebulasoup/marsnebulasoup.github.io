@@ -1,0 +1,40 @@
+{
+    "Title": "Creepshow",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "12 Nov 1982",
+    "Runtime": "120 min",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Director": "George A. Romero",
+    "Writer": "Stephen King (original screenplay by)",
+    "Actors": "Hal Holbrook, Adrienne Barbeau, Fritz Weaver, Leslie Nielsen",
+    "Plot": "An anthology which tells five terrifying tales based on the E.C. horror comic books of the 1950s.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3NGIyZTctOWEyMS00MGIyLWFkZWMtMTg0ODE2MjExNGZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.9",
+    "imdbVotes": "38,564",
+    "imdbID": "tt0083767",
+    "Type": "movie",
+    "DVD": "21 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

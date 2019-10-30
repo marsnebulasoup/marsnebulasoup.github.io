@@ -1,0 +1,40 @@
+{
+    "Title": "Gerry",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "20 Sep 2002",
+    "Runtime": "103 min",
+    "Genre": "Adventure, Drama, Mystery",
+    "Director": "Gus Van Sant",
+    "Writer": "Casey Affleck, Matt Damon, Gus Van Sant",
+    "Actors": "Casey Affleck, Matt Damon",
+    "Plot": "A friendship between two young men is tested when they go for a hike in a desert and forget to bring any water or food with them.",
+    "Language": "English",
+    "Country": "USA, Argentina, Jordan",
+    "Awards": "2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg5ZDRlZjItODNmMy00MDI0LWIwOGYtZjA1ODEyN2U1ZTkwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.1",
+    "imdbVotes": "16,969",
+    "imdbID": "tt0302674",
+    "Type": "movie",
+    "DVD": "11 Nov 2003",
+    "BoxOffice": "N/A",
+    "Production": "FilmFour",
+    "Website": "N/A",
+    "Response": "True"
+}

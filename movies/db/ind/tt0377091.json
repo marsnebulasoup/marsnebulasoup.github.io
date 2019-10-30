@@ -1,0 +1,40 @@
+{
+    "Title": "Mean Creek",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "29 Sep 2004",
+    "Runtime": "90 min",
+    "Genre": "Crime, Drama",
+    "Director": "Jacob Estes",
+    "Writer": "Jacob Estes",
+    "Actors": "Rory Culkin, Ryan Kelley, Scott Mechlowicz, Trevor Morgan",
+    "Plot": "When a teen is bullied, his brother and friends lure the bully into the woods to seek revenge.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1NjAwNjI0Ml5BMl5BanBnXkFtZTYwMjY0NTU3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "7.2",
+    "imdbVotes": "29,560",
+    "imdbID": "tt0377091",
+    "Type": "movie",
+    "DVD": "25 Jan 2005",
+    "BoxOffice": "$295,919",
+    "Production": "Paramount Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

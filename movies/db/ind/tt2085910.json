@@ -1,0 +1,40 @@
+{
+    "Title": "Room 237",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "26 Oct 2012",
+    "Runtime": "102 min",
+    "Genre": "Documentary",
+    "Director": "Rodney Ascher",
+    "Writer": "N/A",
+    "Actors": "Bill Blakemore, Geoffrey Cocks, Juli Kearns, John Fell Ryan",
+    "Plot": "An exploration of various interpretations of Stanley Kubrick's horror film, The Shining (1980).",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjgyZDE4YzQtN2QxNi00MTQ3LWFhZjEtYzZmZjM1YTdiNDhhXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "80/100"
+        }
+    ],
+    "Metascore": "80",
+    "imdbRating": "6.2",
+    "imdbVotes": "19,848",
+    "imdbID": "tt2085910",
+    "Type": "movie",
+    "DVD": "24 Sep 2013",
+    "BoxOffice": "$181,283",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

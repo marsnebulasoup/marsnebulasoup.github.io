@@ -1,0 +1,40 @@
+{
+    "Title": "Armageddon",
+    "Year": "1998",
+    "Rated": "PG-13",
+    "Released": "01 Jul 1998",
+    "Runtime": "151 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Michael Bay",
+    "Writer": "Jonathan Hensleigh (screenplay), J.J. Abrams (screenplay), Tony Gilroy (adaptation), Shane Salerno (adaptation), Robert Roy Pool (story), Jonathan Hensleigh (story)",
+    "Actors": "Bruce Willis, Billy Bob Thornton, Ben Affleck, Liv Tyler",
+    "Plot": "After discovering that an asteroid the size of Texas is going to impact Earth in less than a month, N.A.S.A. recruits a misfit team of deep core drillers to save the planet.",
+    "Language": "English, Russian, Indonesian",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 15 wins & 35 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGM0NzE2YjgtZGQ4YS00MmY3LTg4ZDMtYjUwNTNiNTJhNTQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "38%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.7",
+    "imdbVotes": "375,413",
+    "imdbID": "tt0120591",
+    "Type": "movie",
+    "DVD": "05 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

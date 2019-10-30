@@ -1,0 +1,40 @@
+{
+    "Title": "This Is Spinal Tap",
+    "Year": "1984",
+    "Rated": "R",
+    "Released": "02 Mar 1984",
+    "Runtime": "82 min",
+    "Genre": "Comedy, Music",
+    "Director": "Rob Reiner",
+    "Writer": "Christopher Guest, Michael McKean, Harry Shearer, Rob Reiner",
+    "Actors": "Rob Reiner, Kimberly Stringer, Chazz Dominguez, Shari Hall",
+    "Plot": "Spinal Tap, one of England's loudest bands, is chronicled by film director Marty DiBergi on what proves to be a fateful tour.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MTIzMzg5Nl5BMl5BanBnXkFtZTgwOTc5NDI1MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "92/100"
+        }
+    ],
+    "Metascore": "92",
+    "imdbRating": "7.9",
+    "imdbVotes": "N/A",
+    "imdbID": "tt0088258",
+    "Type": "movie",
+    "DVD": "14 Jul 1998",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

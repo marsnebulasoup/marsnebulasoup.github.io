@@ -1,0 +1,40 @@
+{
+    "Title": "Antitrust",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "12 Jan 2001",
+    "Runtime": "105 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Peter Howitt",
+    "Writer": "Howard Franklin",
+    "Actors": "Ryan Phillippe, Rachael Leigh Cook, Claire Forlani, Tim Robbins",
+    "Plot": "A computer programmer's dream job at a hot Portland-based firm turns nightmarish when he discovers his boss has a secret and ruthless means of dispatching anti-trust problems.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2VjZjdiYzYtOGU1Yy00NWZmLWEyOTUtM2QzMDlkYmRlYmM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "6.1",
+    "imdbVotes": "27,654",
+    "imdbID": "tt0218817",
+    "Type": "movie",
+    "DVD": "26 Dec 2001",
+    "BoxOffice": "$10,965,209",
+    "Production": "MGM/UA",
+    "Website": "N/A",
+    "Response": "True"
+}

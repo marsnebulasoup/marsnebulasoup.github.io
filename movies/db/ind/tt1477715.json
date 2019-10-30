@@ -1,0 +1,40 @@
+{
+    "Title": "This Is It",
+    "Year": "2009",
+    "Rated": "PG",
+    "Released": "28 Oct 2009",
+    "Runtime": "111 min",
+    "Genre": "Documentary, Drama, Music",
+    "Director": "Kenny Ortega",
+    "Writer": "N/A",
+    "Actors": "Michael Jackson, Alex Al, Alexandra Apjarova, Nick Bass",
+    "Plot": "A compilation of interviews, rehearsals, and backstage footage of Michael Jackson as he prepared for his series of sold-out shows in London.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "7 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI3Njc5NjQ4MV5BMl5BanBnXkFtZTcwNTQ4NTI4Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.2",
+    "imdbVotes": "37,050",
+    "imdbID": "tt1477715",
+    "Type": "movie",
+    "DVD": "26 Jan 2010",
+    "BoxOffice": "$71,844,424",
+    "Production": "Sony Pictures/Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

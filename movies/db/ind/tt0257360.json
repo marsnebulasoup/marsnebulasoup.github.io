@@ -1,0 +1,40 @@
+{
+    "Title": "About Schmidt",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "03 Jan 2003",
+    "Runtime": "125 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Alexander Payne",
+    "Writer": "Louis Begley (novel), Alexander Payne (screenplay), Jim Taylor (screenplay)",
+    "Actors": "Jack Nicholson, Kathy Bates, Hope Davis, Dermot Mulroney",
+    "Plot": "A man upon retirement, embarks on a journey to his estranged daughter's wedding, only to discover more about himself and life than he ever expected.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 25 wins & 69 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxOTAyNjEzNV5BMl5BanBnXkFtZTcwMTAxMDAwMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "85/100"
+        }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.1",
+    "imdbVotes": "118,041",
+    "imdbID": "tt0257360",
+    "Type": "movie",
+    "DVD": "03 Jun 2003",
+    "BoxOffice": "$65,000,000",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

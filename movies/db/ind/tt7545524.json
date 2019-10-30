@@ -1,0 +1,40 @@
+{
+    "Title": "Ben Is Back",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "05 Dec 2018",
+    "Runtime": "103 min",
+    "Genre": "Drama",
+    "Director": "Peter Hedges",
+    "Writer": "Peter Hedges",
+    "Actors": "Julia Roberts, Lucas Hedges, Courtney B. Vance, Kathryn Newton",
+    "Plot": "A drug addicted teenage boy shows up unexpectedly at his family's home on Christmas Eve.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGY3ZWMyYjEtMDMzYi00NDQyLWE1MWEtMDNmMjRlOGVkNDc3XkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.7",
+    "imdbVotes": "13,252",
+    "imdbID": "tt7545524",
+    "Type": "movie",
+    "DVD": "19 Feb 2019",
+    "BoxOffice": "N/A",
+    "Production": "LD Entertainment/Lionsgate/Roadside Attractions",
+    "Website": "N/A",
+    "Response": "True"
+}

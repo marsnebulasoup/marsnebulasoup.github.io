@@ -1,0 +1,36 @@
+{
+    "Title": "Hamlet",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "25 Dec 1996",
+    "Runtime": "242 min",
+    "Genre": "Drama",
+    "Director": "Kenneth Branagh",
+    "Writer": "William Shakespeare (play), Kenneth Branagh (screenplay)",
+    "Actors": "Riz Abbasi, Richard Attenborough, David Blair, Brian Blessed",
+    "Plot": "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother remarrying the murderer, his uncle. Meanwhile, war is brewing.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 4 Oscars. Another 9 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTM4NzMxOF5BMl5BanBnXkFtZTcwMDY1OTM2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "34,509",
+    "imdbID": "tt0116477",
+    "Type": "movie",
+    "DVD": "14 Aug 2007",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

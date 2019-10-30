@@ -1,0 +1,40 @@
+{
+    "Title": "Jurassic World",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "12 Jun 2015",
+    "Runtime": "124 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Colin Trevorrow",
+    "Writer": "Rick Jaffa (screenplay by), Amanda Silver (screenplay by), Colin Trevorrow (screenplay by), Derek Connolly (screenplay by), Rick Jaffa (story by), Amanda Silver (story by), Michael Crichton (based on the characters created by)",
+    "Actors": "Chris Pratt, Bryce Dallas Howard, Irrfan Khan, Vincent D'Onofrio",
+    "Plot": "A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "14 wins & 57 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzQ3OTY4NjAtNzM5OS00N2ZhLWJlOWUtYzYwZjNmOWRiMzcyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.0",
+    "imdbVotes": "547,323",
+    "imdbID": "tt0369610",
+    "Type": "movie",
+    "DVD": "20 Oct 2015",
+    "BoxOffice": "$528,757,749",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

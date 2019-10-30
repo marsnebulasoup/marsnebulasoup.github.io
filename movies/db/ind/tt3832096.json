@@ -1,0 +1,40 @@
+{
+    "Title": "Cabin Fever",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "13 May 2016",
+    "Runtime": "99 min",
+    "Genre": "Horror",
+    "Director": "Travis Zariwny",
+    "Writer": "Randy Pearlstein (script), Eli Roth (original screenplay)",
+    "Actors": "Gage Golightly, Matthew Daddario, Samuel Davis, Nadine Crocker",
+    "Plot": "While visiting their getaway cabin, five friends succumb to a flesh-eating disease.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2NkZmNkMTUtZmZhYi00MzZkLWE1YjktNDhjYTFiNDUzMDM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "14/100"
+        }
+    ],
+    "Metascore": "14",
+    "imdbRating": "3.7",
+    "imdbVotes": "8,184",
+    "imdbID": "tt3832096",
+    "Type": "movie",
+    "DVD": "12 Feb 2016",
+    "BoxOffice": "N/A",
+    "Production": "Pelican Point Media",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Nightmare Before Christmas",
+    "Year": "1993",
+    "Rated": "PG",
+    "Released": "29 Oct 1993",
+    "Runtime": "76 min",
+    "Genre": "Animation, Family, Fantasy, Musical",
+    "Director": "Henry Selick",
+    "Writer": "Tim Burton (story and characters), Michael McDowell (adaptation), Caroline Thompson (screenplay)",
+    "Actors": "Danny Elfman, Chris Sarandon, Catherine O'Hara, William Hickey",
+    "Plot": "Jack Skellington, king of Halloween Town, discovers Christmas Town, but his attempts to bring Christmas to his home causes confusion.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "8.0",
+    "imdbVotes": "271,958",
+    "imdbID": "tt0107688",
+    "Type": "movie",
+    "DVD": "02 Dec 1997",
+    "BoxOffice": "$8,616,662",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

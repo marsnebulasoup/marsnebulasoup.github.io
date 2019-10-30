@@ -1,0 +1,40 @@
+{
+    "Title": "The Namesake",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "06 Apr 2007",
+    "Runtime": "122 min",
+    "Genre": "Drama",
+    "Director": "Mira Nair",
+    "Writer": "Sooni Taraporevala (screenplay), Jhumpa Lahiri (novel)",
+    "Actors": "Kal Penn, Tabu, Irrfan Khan, Jacinda Barrett",
+    "Plot": "American-born Gogol, the son of Indian immigrants, wants to fit in among his fellow New Yorkers, despite his family's unwillingness to let go of their traditional ways.",
+    "Language": "English, Hindi, Bengali, French",
+    "Country": "USA, India",
+    "Awards": "4 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNDA1NjEyMDJeQTJeQWpwZ15BbWU2MDkxODQxNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.5",
+    "imdbVotes": "18,194",
+    "imdbID": "tt0433416",
+    "Type": "movie",
+    "DVD": "27 Nov 2007",
+    "BoxOffice": "$13,494,515",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

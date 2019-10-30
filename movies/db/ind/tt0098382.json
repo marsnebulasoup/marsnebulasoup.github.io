@@ -1,0 +1,40 @@
+{
+    "Title": "Star Trek V: The Final Frontier",
+    "Year": "1989",
+    "Rated": "PG",
+    "Released": "09 Jun 1989",
+    "Runtime": "107 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi, Thriller",
+    "Director": "William Shatner",
+    "Writer": "Gene Roddenberry (creator: based on \"Star Trek\"), William Shatner (story), Harve Bennett (story), David Loughery (story), David Loughery (screenplay)",
+    "Actors": "William Shatner, Leonard Nimoy, DeForest Kelley, James Doohan",
+    "Plot": "Captain Kirk and his crew must deal with Mr. Spock's long-lost half-brother who hijacks the Enterprise for an obsessive search for God at the center of the galaxy.",
+    "Language": "English, Klingon",
+    "Country": "USA",
+    "Awards": "4 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTE2NTE0YmYtNTE3YS00NzFmLWJmMDMtZWQ5Njg5NDBmNTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.5",
+    "imdbVotes": "52,560",
+    "imdbID": "tt0098382",
+    "Type": "movie",
+    "DVD": "20 Apr 1999",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

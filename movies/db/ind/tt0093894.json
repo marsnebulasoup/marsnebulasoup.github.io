@@ -1,0 +1,40 @@
+{
+    "Title": "The Running Man",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "13 Nov 1987",
+    "Runtime": "101 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Paul Michael Glaser",
+    "Writer": "Stephen King (novel), Steven E. de Souza (screenplay)",
+    "Actors": "Arnold Schwarzenegger, Maria Conchita Alonso, Yaphet Kotto, Jim Brown",
+    "Plot": "A wrongly convicted man must try to survive a public execution gauntlet staged as a game show.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4NzA2OWYtNGQ0MS00YWNkLTg4M2YtZjlkZmY1YmJjMDE4XkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.7",
+    "imdbVotes": "132,842",
+    "imdbID": "tt0093894",
+    "Type": "movie",
+    "DVD": "25 May 1999",
+    "BoxOffice": "N/A",
+    "Production": "Vestron Video",
+    "Website": "N/A",
+    "Response": "True"
+}

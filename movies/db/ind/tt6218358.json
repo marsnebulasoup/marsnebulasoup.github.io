@@ -1,0 +1,40 @@
+{
+    "Title": "Calibre",
+    "Year": "2018",
+    "Rated": "TV-MA",
+    "Released": "29 Jun 2018",
+    "Runtime": "101 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Matt Palmer",
+    "Writer": "Matt Palmer",
+    "Actors": "Jack Lowden, Martin McCann, Tony Curran, Ian Pirie",
+    "Plot": "A shocking deed turned their weekend trip into a nightmare. Now their only hope is to swallow their paranoia and act normal.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWJmNmRjYzgtNDk0ZC00ZDk5LTkyNGItMDY5OWU4MjU4ZTExXkEyXkFqcGdeQXVyMTA5MzEzOTg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.7",
+    "imdbVotes": "16,733",
+    "imdbID": "tt6218358",
+    "Type": "movie",
+    "DVD": "29 Jun 2018",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

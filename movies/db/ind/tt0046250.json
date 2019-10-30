@@ -1,0 +1,40 @@
+{
+    "Title": "Roman Holiday",
+    "Year": "1953",
+    "Rated": "Not Rated",
+    "Released": "02 Sep 1953",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Romance",
+    "Director": "William Wyler",
+    "Writer": "Ian McLellan Hunter (screenplay), John Dighton (screenplay), Dalton Trumbo (screenplay), Dalton Trumbo (story)",
+    "Actors": "Gregory Peck, Audrey Hepburn, Eddie Albert, Hartley Power",
+    "Plot": "A bored and sheltered princess escapes her guardians and falls in love with an American newsman in Rome.",
+    "Language": "English, Italian, German",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 7 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTE2MDM4MTMtZmNkZC00Y2QyLWE0YjUtMTAxZGJmODMxMDM0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.0",
+    "imdbVotes": "119,216",
+    "imdbID": "tt0046250",
+    "Type": "movie",
+    "DVD": "26 Nov 2002",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

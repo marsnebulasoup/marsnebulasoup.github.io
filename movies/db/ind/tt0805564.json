@@ -1,0 +1,40 @@
+{
+    "Title": "Lars and the Real Girl",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "02 Nov 2007",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Craig Gillespie",
+    "Writer": "Nancy Oliver",
+    "Actors": "Ryan Gosling, Emily Mortimer, Paul Schneider, R.D. Reid",
+    "Plot": "A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.",
+    "Language": "English, Spanish",
+    "Country": "USA, Canada",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI4NDc1NDkwMV5BMl5BanBnXkFtZTcwNjgzMDE1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.3",
+    "imdbVotes": "132,708",
+    "imdbID": "tt0805564",
+    "Type": "movie",
+    "DVD": "15 Apr 2008",
+    "BoxOffice": "$5,802,820",
+    "Production": "MGM/Sidney Kimmel Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

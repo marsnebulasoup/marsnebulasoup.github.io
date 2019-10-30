@@ -1,0 +1,40 @@
+{
+    "Title": "Planes, Trains & Automobiles",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "25 Nov 1987",
+    "Runtime": "93 min",
+    "Genre": "Comedy",
+    "Director": "John Hughes",
+    "Writer": "John Hughes",
+    "Actors": "Steve Martin, John Candy, Laila Robins, Michael McKean",
+    "Plot": "A man must struggle to travel home for Thanksgiving with an obnoxious slob of a shower curtain ring salesman as his only companion.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2I1ZWNkYjEtYWY3ZS00MmMwLWI5OTEtNWNkZjNiYjIwNzY0XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.6",
+    "imdbVotes": "112,153",
+    "imdbID": "tt0093748",
+    "Type": "movie",
+    "DVD": "21 Nov 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

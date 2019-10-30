@@ -1,0 +1,40 @@
+{
+    "Title": "Shaft",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "14 Jun 2019",
+    "Runtime": "111 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Tim Story",
+    "Writer": "Kenya Barris, Alex Barnow, Ernest Tidyman (based upon the character John Shaft from the novel by)",
+    "Actors": "Samuel L. Jackson, Jessie T. Usher, Richard Roundtree, Regina Hall",
+    "Plot": "JJ Shaft, a cyber security expert with a degree from MIT, enlists his family's help to uncover the truth behind his best friend's untimely death.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmExNGZmYzItZTMzMi00YWJjLWJkYmQtMDg5MjgzYjYyZDk1XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "32%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.4",
+    "imdbVotes": "29,086",
+    "imdbID": "tt4463894",
+    "Type": "movie",
+    "DVD": "10 Sep 2019",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

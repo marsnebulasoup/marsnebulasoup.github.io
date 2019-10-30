@@ -1,0 +1,40 @@
+{
+    "Title": "The Laundromat",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "27 Sep 2019",
+    "Runtime": "95 min",
+    "Genre": "Drama",
+    "Director": "Steven Soderbergh",
+    "Writer": "Jake Bernstein (book), Scott Z. Burns (screenplay)",
+    "Actors": "Gary Oldman, Jeffrey Wright, Meryl Streep, Sharon Stone",
+    "Plot": "A widow investigates an insurance fraud, chasing leads to a pair of Panama City law partners exploiting the world's financial system.",
+    "Language": "Russian, English, Mandarin, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ1MDgxMWMtMjMzNC00YmE4LWJhNjctNGU4ZDk3MWY0ZGFkXkEyXkFqcGdeQXVyMTM2Mzg4MA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "42%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.2",
+    "imdbVotes": "459",
+    "imdbID": "tt5865326",
+    "Type": "movie",
+    "DVD": "18 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

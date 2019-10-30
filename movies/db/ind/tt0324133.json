@@ -1,0 +1,40 @@
+{
+    "Title": "Swimming Pool",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "01 Aug 2003",
+    "Runtime": "102 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Fran\u00e7ois Ozon",
+    "Writer": "Fran\u00e7ois Ozon (screenplay), Emmanu\u00e8le Bernheim, Sionann O'Neill (translation: English)",
+    "Actors": "Charlotte Rampling, Ludivine Sagnier, Charles Dance, Jean-Marie Lamour",
+    "Plot": "A British mystery author visits her publisher's home in the South of France, where her interaction with his unusual daughter sets off some touchy dynamics.",
+    "Language": "English, French",
+    "Country": "France, UK",
+    "Awards": "2 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2Mjg2MTE3NV5BMl5BanBnXkFtZTcwNDA0MTAwMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.7",
+    "imdbVotes": "39,924",
+    "imdbID": "tt0324133",
+    "Type": "movie",
+    "DVD": "13 Jan 2004",
+    "BoxOffice": "$9,942,554",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Kung Fu Panda",
+    "Year": "2008",
+    "Rated": "PG",
+    "Released": "06 Jun 2008",
+    "Runtime": "92 min",
+    "Genre": "Animation, Action, Adventure, Comedy, Family",
+    "Director": "Mark Osborne, John Stevenson",
+    "Writer": "Jonathan Aibel (screenplay), Glenn Berger (screenplay), Ethan Reiff (story), Cyrus Voris (story)",
+    "Actors": "Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane",
+    "Plot": "The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.5",
+    "imdbVotes": "389,522",
+    "imdbID": "tt0441773",
+    "Type": "movie",
+    "DVD": "09 Nov 2008",
+    "BoxOffice": "$215,395,021",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Envy",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "30 Apr 2004",
+    "Runtime": "99 min",
+    "Genre": "Comedy",
+    "Director": "Barry Levinson",
+    "Writer": "Steve Adams",
+    "Actors": "Ben Stiller, Jack Black, Rachel Weisz, Amy Poehler",
+    "Plot": "A man becomes increasingly jealous of his friend's newfound success.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA5OTcyZmEtODUxZS00MWRhLTkxODItYmNmNGMwZDg3ZTFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "8%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "4.8",
+    "imdbVotes": "28,898",
+    "imdbID": "tt0326856",
+    "Type": "movie",
+    "DVD": "28 Sep 2004",
+    "BoxOffice": "$12,181,484",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

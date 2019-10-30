@@ -1,0 +1,40 @@
+{
+    "Title": "The Founder",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "20 Jan 2017",
+    "Runtime": "115 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "John Lee Hancock",
+    "Writer": "Robert Siegel",
+    "Actors": "Michael Keaton, Nick Offerman, John Carroll Lynch, Linda Cardellini",
+    "Plot": "The story of Ray Kroc, a salesman who turned two brothers' innovative fast food eatery, McDonald's, into the biggest restaurant business in the world, with a combination of ambition, persistence, and ruthlessness.",
+    "Language": "English, Yiddish",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzExNDg0MDk1M15BMl5BanBnXkFtZTgwNzE1Mjg0MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.2",
+    "imdbVotes": "102,583",
+    "imdbID": "tt4276820",
+    "Type": "movie",
+    "DVD": "18 Apr 2017",
+    "BoxOffice": "$12,785,093",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

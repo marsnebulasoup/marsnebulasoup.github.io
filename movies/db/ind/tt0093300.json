@@ -1,0 +1,40 @@
+{
+    "Title": "Jaws: The Revenge",
+    "Year": "1987",
+    "Rated": "PG-13",
+    "Released": "17 Jul 1987",
+    "Runtime": "89 min",
+    "Genre": "Adventure, Horror, Thriller",
+    "Director": "Joseph Sargent",
+    "Writer": "Peter Benchley (characters), Michael De Guzman",
+    "Actors": "Lorraine Gary, Lance Guest, Mario Van Peebles, Karen Young",
+    "Plot": "Chief Brody's widow believes that her family is deliberately being targeted by another shark in search of revenge.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGI1MTAxMWItOTE0OC00ZDhkLWE3Y2EtNjFiZmQ4NjQ1NGNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "2.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "15/100"
+        }
+    ],
+    "Metascore": "15",
+    "imdbRating": "2.9",
+    "imdbVotes": "38,142",
+    "imdbID": "tt0093300",
+    "Type": "movie",
+    "DVD": "15 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Odd Couple",
+    "Year": "1968",
+    "Rated": "G",
+    "Released": "16 May 1968",
+    "Runtime": "105 min",
+    "Genre": "Comedy",
+    "Director": "Gene Saks",
+    "Writer": "Neil Simon (from the play by), Neil Simon (screenplay)",
+    "Actors": "Jack Lemmon, Walter Matthau, John Fiedler, Herb Edelman",
+    "Plot": "Two friends try sharing an apartment, but their ideas of housekeeping and lifestyles are as different as night and day.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 3 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDVhNzQxZDEtMzcyZC00ZDg1LWFkZDctOWYxZTY0ZmYzYjc2XkEyXkFqcGdeQXVyMjA0MDQ0Mjc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.7",
+    "imdbVotes": "29,596",
+    "imdbID": "tt0063374",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

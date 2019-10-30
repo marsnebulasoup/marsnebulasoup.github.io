@@ -1,0 +1,36 @@
+{
+    "Title": "Cheech and Chong's Next Movie",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "18 Jul 1980",
+    "Runtime": "99 min",
+    "Genre": "Comedy, Crime, Sci-Fi",
+    "Director": "Tommy Chong",
+    "Writer": "Tommy Chong, Cheech Marin",
+    "Actors": "Cheech Marin, Tommy Chong, Evelyn Guerrero, Betty Kennedy",
+    "Plot": "The two stoners and their friends go through another series of crazy, drug-influenced misadventures.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODk3YmQxZmYtNTdkMi00MDI2LTg1Y2ItNjVjMzhmNWQwYzA1XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.1",
+    "imdbVotes": "11,144",
+    "imdbID": "tt0080520",
+    "Type": "movie",
+    "DVD": "01 Sep 2003",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

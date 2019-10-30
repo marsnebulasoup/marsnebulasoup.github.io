@@ -1,0 +1,40 @@
+{
+    "Title": "The Salton Sea",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "21 Jun 2002",
+    "Runtime": "103 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "D.J. Caruso",
+    "Writer": "Tony Gayton",
+    "Actors": "Val Kilmer, Vincent D'Onofrio, Adam Goldberg, Luis Guzm\u00e1n",
+    "Plot": "After a tragic incident, a man drifts into a world populated by thugs and speed junkies.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWM0ZjcyZmItMWUyNC00OTc1LWI2OWUtYzNmODUxYzI0NWI1XkEyXkFqcGdeQXVyNTM0NTU5Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "7.1",
+    "imdbVotes": "28,707",
+    "imdbID": "tt0235737",
+    "Type": "movie",
+    "DVD": "10 Sep 2002",
+    "BoxOffice": "$626,750",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

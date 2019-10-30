@@ -1,0 +1,40 @@
+{
+    "Title": "Haywire",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "20 Jan 2012",
+    "Runtime": "93 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Steven Soderbergh",
+    "Writer": "Lem Dobbs",
+    "Actors": "Gina Carano, Michael Angarano, Channing Tatum, Debby Lynn Ross",
+    "Plot": "A black ops super soldier seeks payback after she is betrayed and set up during a mission.",
+    "Language": "English, Spanish",
+    "Country": "Ireland, USA",
+    "Awards": "7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2MjIxOTUwN15BMl5BanBnXkFtZTcwNDM5NjcxNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "5.8",
+    "imdbVotes": "79,383",
+    "imdbID": "tt1506999",
+    "Type": "movie",
+    "DVD": "01 May 2012",
+    "BoxOffice": "$18,934,858",
+    "Production": "Relativity Media",
+    "Website": "N/A",
+    "Response": "True"
+}

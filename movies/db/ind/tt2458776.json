@@ -1,0 +1,40 @@
+{
+    "Title": "Bears",
+    "Year": "2014",
+    "Rated": "G",
+    "Released": "18 Apr 2014",
+    "Runtime": "78 min",
+    "Genre": "Documentary, Family",
+    "Director": "Alastair Fothergill, Keith Scholey, Adam Chapman(co-director)",
+    "Writer": "Alastair Fothergill, Adam Chapman, Pamela Ribon (narration consultant)",
+    "Actors": "John C. Reilly",
+    "Plot": "A documentary that follows an Alaskan bear family as its young cubs are taught life's most important lessons.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE2NTg1NzgyNl5BMl5BanBnXkFtZTgwMTM3MDYwMDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.4",
+    "imdbVotes": "6,022",
+    "imdbID": "tt2458776",
+    "Type": "movie",
+    "DVD": "12 Aug 2014",
+    "BoxOffice": "$17,769,442",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

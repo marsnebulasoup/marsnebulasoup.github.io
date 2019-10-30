@@ -1,0 +1,40 @@
+{
+    "Title": "Toy Story 2",
+    "Year": "1999",
+    "Rated": "G",
+    "Released": "24 Nov 1999",
+    "Runtime": "92 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "John Lasseter, Ash Brannon(co-director), Lee Unkrich(co-director)",
+    "Writer": "John Lasseter (original story by), Pete Docter (original story by), Ash Brannon (original story by), Andrew Stanton (original story by), Andrew Stanton (screenplay by), Rita Hsiao (screenplay by), Doug Chamberlin (screenplay by), Chris Webb (screenplay by)",
+    "Actors": "Tom Hanks, Tim Allen, Joan Cusack, Kelsey Grammer",
+    "Plot": "When Woody is stolen by a toy collector, Buzz and his friends set out on a rescue mission to save Woody before he becomes a museum toy property with his roundup gang Jessie, Prospector, and Bullseye.",
+    "Language": "English, Arabic, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 20 wins & 26 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWM5ZDcxMTYtNTEyNS00MDRkLWI3YTItNThmMGExMWY4NDIwXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "7.9",
+    "imdbVotes": "486,678",
+    "imdbID": "tt0120363",
+    "Type": "movie",
+    "DVD": "17 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

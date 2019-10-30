@@ -1,0 +1,40 @@
+{
+    "Title": "Hollywood Ending",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "03 May 2002",
+    "Runtime": "112 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Woody Allen",
+    "Writer": "Woody Allen",
+    "Actors": "T\u00e9a Leoni, Bob Dorian, Ivan Martin, Gregg Edelman",
+    "Plot": "A director is forced to work with his ex-wife, who left him for the boss of the studio bankrolling his new film. But the night before the first day of shooting, he develops a case of psychosomatic blindness.",
+    "Language": "English, Mandarin",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExNTgwMjk4NV5BMl5BanBnXkFtZTYwMDAxODM3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.6",
+    "imdbVotes": "24,604",
+    "imdbID": "tt0278823",
+    "Type": "movie",
+    "DVD": "17 Sep 2002",
+    "BoxOffice": "$4,781,031",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

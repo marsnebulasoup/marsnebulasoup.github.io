@@ -1,0 +1,40 @@
+{
+    "Title": "Us",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "22 Mar 2019",
+    "Runtime": "116 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Jordan Peele",
+    "Writer": "Jordan Peele",
+    "Actors": "Lupita Nyong'o, Winston Duke, Elisabeth Moss, Tim Heidecker",
+    "Plot": "A family's serene beach vacation turns to chaos when their doppelg\u00e4ngers appear and begin to terrorize them.",
+    "Language": "English",
+    "Country": "USA, China, Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "6.9",
+    "imdbVotes": "150,086",
+    "imdbID": "tt6857112",
+    "Type": "movie",
+    "DVD": "18 Jun 2019",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

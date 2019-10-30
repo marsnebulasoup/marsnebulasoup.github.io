@@ -1,0 +1,40 @@
+{
+    "Title": "Zombieland",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "02 Oct 2009",
+    "Runtime": "88 min",
+    "Genre": "Adventure, Comedy, Horror, Sci-Fi",
+    "Director": "Ruben Fleischer",
+    "Writer": "Rhett Reese, Paul Wernick",
+    "Actors": "Jesse Eisenberg, Woody Harrelson, Emma Stone, Abigail Breslin",
+    "Plot": "A shy student trying to reach his family in Ohio, a gun-toting tough guy trying to find the last Twinkie, and a pair of sisters trying to get to an amusement park join forces to travel across a zombie-filled America.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.6",
+    "imdbVotes": "469,668",
+    "imdbID": "tt1156398",
+    "Type": "movie",
+    "DVD": "02 Feb 2010",
+    "BoxOffice": "$75,590,286",
+    "Production": "Sony/Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

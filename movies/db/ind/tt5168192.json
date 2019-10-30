@@ -1,0 +1,40 @@
+{
+    "Title": "I, Daniel Blake",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "09 Jun 2017",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Ken Loach, Laura Obiols",
+    "Writer": "Paul Laverty (screenplay)",
+    "Actors": "Dave Johns, Hayley Squires, Briana Shann, Dylan McKiernan",
+    "Plot": "After having suffered a heart-attack, a 59-year-old carpenter must fight the bureaucratic forces of the system in order to receive Employment and Support Allowance.",
+    "Language": "English",
+    "Country": "UK, France, Belgium",
+    "Awards": "Won 1 BAFTA Film Award. Another 24 wins & 30 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.9",
+    "imdbVotes": "45,633",
+    "imdbID": "tt5168192",
+    "Type": "movie",
+    "DVD": "16 Jan 2018",
+    "BoxOffice": "$252,282",
+    "Production": "Sundance Selects",
+    "Website": "N/A",
+    "Response": "True"
+}

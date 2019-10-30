@@ -1,0 +1,40 @@
+{
+    "Title": "Dirty Grandpa",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "22 Jan 2016",
+    "Runtime": "102 min",
+    "Genre": "Comedy",
+    "Director": "Dan Mazer",
+    "Writer": "John Phillips",
+    "Actors": "Robert De Niro, Zac Efron, Zoey Deutch, Aubrey Plaza",
+    "Plot": "Right before his wedding, an uptight guy is tricked into driving his grandfather, a lecherous former Army Lieutenant Colonel, to Florida for Spring Break.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0NzkyNDk2M15BMl5BanBnXkFtZTgwNDczOTU3NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "21/100"
+        }
+    ],
+    "Metascore": "21",
+    "imdbRating": "5.9",
+    "imdbVotes": "103,944",
+    "imdbID": "tt1860213",
+    "Type": "movie",
+    "DVD": "17 May 2016",
+    "BoxOffice": "$34,690,808",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

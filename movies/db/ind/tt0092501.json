@@ -1,0 +1,36 @@
+{
+    "Title": "Project A 2",
+    "Year": "1987",
+    "Rated": "PG-13",
+    "Released": "19 Aug 1987",
+    "Runtime": "101 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Jackie Chan",
+    "Writer": "Jackie Chan, Jack Maeby (english adaptation), Edward Tang, Yu Ting (dialogue)",
+    "Actors": "Jackie Chan, Maggie Cheung, Rosamund Kwan, Carina Lau",
+    "Plot": "Dragon is now transferred to be the police head of Sai Wan district, and has to contend with a gangster kingpin, anti-Manchu revolutionaries, some runaway pirates, Manchu Loyalists and a corrupt Police Superintendent.",
+    "Language": "Cantonese",
+    "Country": "Hong Kong",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjRlNGY2NDktNmI4OS00NzRkLWE3ZWUtODM1OTBjY2FjMzM3XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "8,359",
+    "imdbID": "tt0092501",
+    "Type": "movie",
+    "DVD": "16 Feb 1999",
+    "BoxOffice": "N/A",
+    "Production": "Tai Seng",
+    "Website": "N/A",
+    "Response": "True"
+}

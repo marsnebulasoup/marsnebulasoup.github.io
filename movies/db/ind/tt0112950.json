@@ -1,0 +1,40 @@
+{
+    "Title": "Empire Records",
+    "Year": "1995",
+    "Rated": "PG-13",
+    "Released": "20 Oct 1995",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Drama, Music, Romance",
+    "Director": "Allan Moyle",
+    "Writer": "Carol Heikkinen",
+    "Actors": "Anthony LaPaglia, Maxwell Caulfield, Debi Mazar, Rory Cochrane",
+    "Plot": "24 hours in the lives of the young employees at Empire Records when they all grow up and become young adults thanks to each other and the manager. They all face the store joining a chain store with strict rules.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExMmQ1NmItOWEyOC00NzZjLWE0NWItNmE1NmNkY2NmODk5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "30/100"
+        }
+    ],
+    "Metascore": "30",
+    "imdbRating": "6.7",
+    "imdbVotes": "46,244",
+    "imdbID": "tt0112950",
+    "Type": "movie",
+    "DVD": "03 Apr 2001",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

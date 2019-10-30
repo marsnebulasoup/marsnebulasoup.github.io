@@ -1,0 +1,40 @@
+{
+    "Title": "Christine",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "14 Oct 2016",
+    "Runtime": "119 min",
+    "Genre": "Biography, Drama",
+    "Director": "Antonio Campos",
+    "Writer": "Craig Shilowich",
+    "Actors": "Rebecca Hall, Michael C. Hall, Tracy Letts, Maria Dizzia",
+    "Plot": "The story of Christine Chubbuck, a 1970s TV reporter struggling with depression and professional frustrations as she tries to advance her career.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "5 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwOTMxNTM4Ml5BMl5BanBnXkFtZTgwNDQ1Mzk5OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.9",
+    "imdbVotes": "11,688",
+    "imdbID": "tt4666726",
+    "Type": "movie",
+    "DVD": "14 Feb 2017",
+    "BoxOffice": "$298,484",
+    "Production": "Borderline Films",
+    "Website": "N/A",
+    "Response": "True"
+}

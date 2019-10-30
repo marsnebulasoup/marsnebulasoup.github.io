@@ -1,0 +1,40 @@
+{
+    "Title": "Lizzie",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "14 Sep 2018",
+    "Runtime": "105 min",
+    "Genre": "Biography, Crime, Drama, Mystery, Thriller",
+    "Director": "Craig William Macneill",
+    "Writer": "Bryce Kass",
+    "Actors": "Chlo\u00eb Sevigny, Kristen Stewart, Jeff Perry, Fiona Shaw",
+    "Plot": "A psychological thriller based on the infamous 1892 murders of the Borden family.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzMDY5ODU1Ml5BMl5BanBnXkFtZTgwNjkwNzkwNjM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "5.8",
+    "imdbVotes": "4,817",
+    "imdbID": "tt5160938",
+    "Type": "movie",
+    "DVD": "11 Dec 2018",
+    "BoxOffice": "N/A",
+    "Production": "Roadside Attractions",
+    "Website": "N/A",
+    "Response": "True"
+}

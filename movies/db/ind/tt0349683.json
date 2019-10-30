@@ -1,0 +1,40 @@
+{
+    "Title": "King Arthur",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "07 Jul 2004",
+    "Runtime": "126 min",
+    "Genre": "Action, Adventure, Drama, History, War",
+    "Director": "Antoine Fuqua",
+    "Writer": "David Franzoni",
+    "Actors": "Clive Owen, Ioan Gruffudd, Mads Mikkelsen, Joel Edgerton",
+    "Plot": "A demystified take on the tale of King Arthur and the Knights of the Round Table.",
+    "Language": "English, Latin, Irish, Welsh, Scottish Gaelic",
+    "Country": "USA, UK, Ireland",
+    "Awards": "4 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MTk1NjI0OV5BMl5BanBnXkFtZTcwNDQxOTUyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "31%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.3",
+    "imdbVotes": "153,425",
+    "imdbID": "tt0349683",
+    "Type": "movie",
+    "DVD": "21 Dec 2004",
+    "BoxOffice": "$51,726,421",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "RED 2",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "19 Jul 2013",
+    "Runtime": "116 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Dean Parisot",
+    "Writer": "Jon Hoeber, Erich Hoeber, Warren Ellis (characters), Cully Hamner (characters)",
+    "Actors": "Bruce Willis, John Malkovich, Mary-Louise Parker, Helen Mirren",
+    "Plot": "Retired C.I.A. Agent Frank Moses (Bruce Willis) reunites his unlikely team of elite operatives for a global quest to track down a missing portable nuclear device.",
+    "Language": "English, Russian, French, Persian, Korean",
+    "Country": "USA, France, Canada",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI2ODQ4ODY3Nl5BMl5BanBnXkFtZTcwNTc2NzE1OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.6",
+    "imdbVotes": "150,763",
+    "imdbID": "tt1821694",
+    "Type": "movie",
+    "DVD": "26 Nov 2013",
+    "BoxOffice": "$53,215,979",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

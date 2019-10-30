@@ -1,0 +1,40 @@
+{
+    "Title": "The Recruit",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "31 Jan 2003",
+    "Runtime": "115 min",
+    "Genre": "Action, Thriller",
+    "Director": "Roger Donaldson",
+    "Writer": "Roger Towne, Kurt Wimmer, Mitch Glazer",
+    "Actors": "Al Pacino, Colin Farrell, Bridget Moynahan, Gabriel Macht",
+    "Plot": "A brilliant young CIA trainee is asked by his mentor to help find a mole in the Agency.",
+    "Language": "English, Persian, Russian",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MDMzOTk3MV5BMl5BanBnXkFtZTYwNTE0NTg2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "43%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.6",
+    "imdbVotes": "125,143",
+    "imdbID": "tt0292506",
+    "Type": "movie",
+    "DVD": "27 May 2003",
+    "BoxOffice": "$52,724,557",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

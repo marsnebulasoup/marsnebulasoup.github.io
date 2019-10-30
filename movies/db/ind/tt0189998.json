@@ -1,0 +1,40 @@
+{
+    "Title": "Shadow of the Vampire",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "26 Jan 2001",
+    "Runtime": "92 min",
+    "Genre": "Drama, Horror",
+    "Director": "E. Elias Merhige",
+    "Writer": "Steven Katz",
+    "Actors": "John Malkovich, Willem Dafoe, Udo Kier, Cary Elwes",
+    "Plot": "The filming of Nosferatu (1922) is hampered by the fact that its star Max Schreck is taking the role of a vampire far more seriously than seems humanly possible.",
+    "Language": "English, German, Luxembourgish",
+    "Country": "UK, USA, Luxembourg",
+    "Awards": "Nominated for 2 Oscars. Another 14 wins & 24 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGYxZDEzMDMtMDIzNy00OTQ5LTkzYmItYzdkYTgxMGRkOWVmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "6.9",
+    "imdbVotes": "38,051",
+    "imdbID": "tt0189998",
+    "Type": "movie",
+    "DVD": "29 May 2001",
+    "BoxOffice": "$7,518,962",
+    "Production": "Lions Gate Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

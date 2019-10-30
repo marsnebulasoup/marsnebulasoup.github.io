@@ -1,0 +1,40 @@
+{
+    "Title": "The Experiment",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "08 Mar 2001",
+    "Runtime": "120 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Oliver Hirschbiegel",
+    "Writer": "Mario Giordano (novel), Mario Giordano (screenplay), Christoph Darnst\u00e4dt (screenplay), Don Bohlinger (screenplay)",
+    "Actors": "Moritz Bleibtreu, Christian Berkel, Oliver Stokowski, Wotan Wilke M\u00f6hring",
+    "Plot": "For two weeks, 20 male participants are hired to play prisoners and guards in a prison. The \"prisoners\" have to follow seemingly mild rules, and the \"guards\" are told to retain order without using physical violence.",
+    "Language": "German, English",
+    "Country": "Germany",
+    "Awards": "14 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNThiMDc1YjUtYmE3Zi00MTM1LTkzM2MtNjdlNzQ4ZDlmYjRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.7",
+    "imdbVotes": "87,670",
+    "imdbID": "tt0250258",
+    "Type": "movie",
+    "DVD": "01 Jul 2003",
+    "BoxOffice": "N/A",
+    "Production": "Samuel Goldwyn Films",
+    "Website": "N/A",
+    "Response": "True"
+}

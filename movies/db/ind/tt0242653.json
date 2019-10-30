@@ -1,0 +1,40 @@
+{
+    "Title": "The Matrix Revolutions",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "05 Nov 2003",
+    "Runtime": "129 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Writer": "Lilly Wachowski, Lana Wachowski, Lilly Wachowski (characters), Lana Wachowski (characters)",
+    "Actors": "Mary Alice, Tanveer K. Atwal, Helmut Bakaitis, Kate Beahan",
+    "Plot": "The human city of Zion defends itself against the massive invasion of the machines as Neo fights to end the war at another front while also opposing the rogue Agent Smith.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "4 wins & 30 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzNlZTZjMDctZjYwNi00NzljLWIwN2QtZWZmYmJiYzQ0MTk2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.7",
+    "imdbVotes": "422,492",
+    "imdbID": "tt0242653",
+    "Type": "movie",
+    "DVD": "06 Apr 2004",
+    "BoxOffice": "$139,076,032",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

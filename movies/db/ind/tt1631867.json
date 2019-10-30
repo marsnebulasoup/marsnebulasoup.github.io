@@ -1,0 +1,40 @@
+{
+    "Title": "Edge of Tomorrow",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "06 Jun 2014",
+    "Runtime": "113 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Doug Liman",
+    "Writer": "Christopher McQuarrie (screenplay by), Jez Butterworth (screenplay by), John-Henry Butterworth (screenplay by), Hiroshi Sakurazaka (based on the novel \"All You Need Is Kill\" by)",
+    "Actors": "Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton",
+    "Plot": "A soldier fighting aliens gets to relive the same day over and over again, the day restarting every time he dies.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "11 wins & 37 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.9",
+    "imdbVotes": "557,046",
+    "imdbID": "tt1631867",
+    "Type": "movie",
+    "DVD": "07 Oct 2014",
+    "BoxOffice": "$77,121,429",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

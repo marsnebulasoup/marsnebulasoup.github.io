@@ -1,0 +1,40 @@
+{
+    "Title": "Steve Jobs",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "23 Oct 2015",
+    "Runtime": "122 min",
+    "Genre": "Biography, Drama",
+    "Director": "Danny Boyle",
+    "Writer": "Aaron Sorkin (screenplay), Walter Isaacson (book)",
+    "Actors": "Michael Fassbender, Kate Winslet, Seth Rogen, Jeff Daniels",
+    "Plot": "Steve Jobs takes us behind the scenes of the digital revolution, to paint a portrait of the man at its epicenter. The story unfolds backstage at three iconic product launches, ending in 1998 with the unveiling of the iMac.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 2 Oscars. Another 28 wins & 109 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE0NTA2MTEwOV5BMl5BanBnXkFtZTgwNzg4NzU2NjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.2",
+    "imdbVotes": "141,220",
+    "imdbID": "tt2080374",
+    "Type": "movie",
+    "DVD": "16 Feb 2016",
+    "BoxOffice": "$12,403,169",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

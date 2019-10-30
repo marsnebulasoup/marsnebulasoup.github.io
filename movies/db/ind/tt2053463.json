@@ -1,0 +1,40 @@
+{
+    "Title": "Side Effects",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "08 Feb 2013",
+    "Runtime": "106 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Steven Soderbergh",
+    "Writer": "Scott Z. Burns",
+    "Actors": "Rooney Mara, Carmen Pelaez, Marin Ireland, Channing Tatum",
+    "Plot": "A young woman's world unravels when a drug prescribed by her psychiatrist has unexpected side effects.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MzY0NDAwOF5BMl5BanBnXkFtZTcwMTE1Mzc4OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.1",
+    "imdbVotes": "170,684",
+    "imdbID": "tt2053463",
+    "Type": "movie",
+    "DVD": "21 May 2013",
+    "BoxOffice": "$32,154,410",
+    "Production": "Open Road Films",
+    "Website": "N/A",
+    "Response": "True"
+}

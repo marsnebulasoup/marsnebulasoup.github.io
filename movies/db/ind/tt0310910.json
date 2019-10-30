@@ -1,0 +1,40 @@
+{
+    "Title": "Confidence",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "25 Apr 2003",
+    "Runtime": "97 min",
+    "Genre": "Crime, Thriller",
+    "Director": "James Foley",
+    "Writer": "Doug Jung",
+    "Actors": "Edward Burns, Rachel Weisz, Morris Chestnut, Leland Orser",
+    "Plot": "Jake Vig (Burns) is a consummate grifter about to pull his biggest con yet, one set to avenge his friend's murder. But his last scam backfired, leaving him indebted to a mob boss (Hoffman) and his enforcer.",
+    "Language": "English",
+    "Country": "USA, Canada, Germany",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQ2OTc5OTgtZmU1My00OWRlLWJkMGEtNjMxY2E1NGE3Y2Q3XkEyXkFqcGdeQXVyMTIxMzMzMzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.7",
+    "imdbVotes": "32,492",
+    "imdbID": "tt0310910",
+    "Type": "movie",
+    "DVD": "16 Sep 2003",
+    "BoxOffice": "$12,148,629",
+    "Production": "Lions Gate Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

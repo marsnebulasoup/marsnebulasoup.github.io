@@ -1,0 +1,40 @@
+{
+    "Title": "Gladiator",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "05 May 2000",
+    "Runtime": "155 min",
+    "Genre": "Action, Adventure, Drama",
+    "Director": "Ridley Scott",
+    "Writer": "David Franzoni (story), David Franzoni (screenplay), John Logan (screenplay), William Nicholson (screenplay)",
+    "Actors": "Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",
+    "Plot": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "Language": "English",
+    "Country": "USA, UK, Malta, Morocco",
+    "Awards": "Won 5 Oscars. Another 53 wins & 101 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "8.5",
+    "imdbVotes": "1,234,768",
+    "imdbID": "tt0172495",
+    "Type": "movie",
+    "DVD": "21 Nov 2000",
+    "BoxOffice": "N/A",
+    "Production": "Dreamworks Distribution LLC",
+    "Website": "N/A",
+    "Response": "True"
+}

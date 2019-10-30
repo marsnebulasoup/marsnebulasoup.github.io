@@ -1,0 +1,40 @@
+{
+    "Title": "The Circle",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "28 Apr 2017",
+    "Runtime": "110 min",
+    "Genre": "Drama, Sci-Fi, Thriller",
+    "Director": "James Ponsoldt",
+    "Writer": "James Ponsoldt (screenplay by), Dave Eggers (screenplay by), Dave Eggers (based on the novel by)",
+    "Actors": "Emma Watson, Ellar Coltrane, Glenne Headly, Bill Paxton",
+    "Plot": "A woman lands a dream job at a powerful tech company called the Circle, only to uncover an agenda that will affect the lives of all of humanity.",
+    "Language": "English",
+    "Country": "United Arab Emirates, USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjY2OTM2Njc3Ml5BMl5BanBnXkFtZTgwNDgzODU3MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.3",
+    "imdbVotes": "74,884",
+    "imdbID": "tt4287320",
+    "Type": "movie",
+    "DVD": "01 Aug 2017",
+    "BoxOffice": "$20,476,300",
+    "Production": "EuropaCorp / STXfilms",
+    "Website": "N/A",
+    "Response": "True"
+}

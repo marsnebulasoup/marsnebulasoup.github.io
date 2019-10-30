@@ -1,0 +1,40 @@
+{
+    "Title": "21 Grams",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "16 Jan 2004",
+    "Runtime": "124 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Writer": "Guillermo Arriaga",
+    "Actors": "Sean Penn, Naomi Watts, Danny Huston, Carly Nahon",
+    "Plot": "A freak accident brings together a critically ill mathematician, a grieving mother, and a born-again ex-con.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 30 wins & 76 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MjI2OTM5N15BMl5BanBnXkFtZTcwNDA1NjUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.7",
+    "imdbVotes": "214,998",
+    "imdbID": "tt0315733",
+    "Type": "movie",
+    "DVD": "16 Mar 2004",
+    "BoxOffice": "$16,162,920",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

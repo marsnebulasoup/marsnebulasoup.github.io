@@ -1,0 +1,40 @@
+{
+    "Title": "Your Name.",
+    "Year": "2016",
+    "Rated": "PG",
+    "Released": "07 Apr 2017",
+    "Runtime": "106 min",
+    "Genre": "Animation, Drama, Fantasy, Romance",
+    "Director": "Makoto Shinkai",
+    "Writer": "Makoto Shinkai (based on his novel), Makoto Shinkai (screenplay), Clark Cheng (english script)",
+    "Actors": "Ry\u00fbnosuke Kamiki, Mone Kamishiraishi, Ry\u00f4 Narita, Aoi Y\u00fbki",
+    "Plot": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "14 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "8.4",
+    "imdbVotes": "146,050",
+    "imdbID": "tt5311514",
+    "Type": "movie",
+    "DVD": "07 Nov 2017",
+    "BoxOffice": "$4,676,810",
+    "Production": "FUNimation Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Broken City",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "18 Jan 2013",
+    "Runtime": "109 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Allen Hughes",
+    "Writer": "Brian Tucker",
+    "Actors": "Mark Wahlberg, Russell Crowe, Catherine Zeta-Jones, Jeffrey Wright",
+    "Plot": "In a city rife with injustice, ex-cop Billy Taggart seeks redemption and revenge after being double-crossed and then framed by its most powerful figure: Mayor Nicholas Hostetler.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4OTIwODg4Ml5BMl5BanBnXkFtZTcwNjg0MDY1OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "28%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "6.2",
+    "imdbVotes": "72,344",
+    "imdbID": "tt1235522",
+    "Type": "movie",
+    "DVD": "30 Apr 2013",
+    "BoxOffice": "$19,600,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

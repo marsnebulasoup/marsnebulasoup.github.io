@@ -1,0 +1,40 @@
+{
+    "Title": "Frankenstein",
+    "Year": "1931",
+    "Rated": "Passed",
+    "Released": "21 Nov 1931",
+    "Runtime": "70 min",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Director": "James Whale",
+    "Writer": "John L. Balderston (based upon the composition by), Mary Shelley (from the novel by), Peggy Webling (adapted from the play by), Garrett Fort (screen play), Francis Edward Faragoh (screen play), Richard Schayer (scenario editor)",
+    "Actors": "Colin Clive, Mae Clarke, John Boles, Boris Karloff",
+    "Plot": "An obsessed scientist assembles a living being from parts of exhumed corpses.",
+    "Language": "English, Latin",
+    "Country": "USA",
+    "Awards": "4 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2RjNjU4MmUtZWU5MS00MjdhLTkxM2MtYjBiM2FhYTE4OTQwXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "91/100"
+        }
+    ],
+    "Metascore": "91",
+    "imdbRating": "7.8",
+    "imdbVotes": "59,759",
+    "imdbID": "tt0021884",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures Company",
+    "Website": "N/A",
+    "Response": "True"
+}

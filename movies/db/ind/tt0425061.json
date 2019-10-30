@@ -1,0 +1,40 @@
+{
+    "Title": "Get Smart",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "20 Jun 2008",
+    "Runtime": "110 min",
+    "Genre": "Action, Adventure, Comedy",
+    "Director": "Peter Segal",
+    "Writer": "Tom J. Astle, Matt Ember, Mel Brooks (characters), Buck Henry (characters)",
+    "Actors": "Steve Carell, Anne Hathaway, Dwayne Johnson, Alan Arkin",
+    "Plot": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
+    "Language": "English, Russian, Punjabi, Arabic",
+    "Country": "USA",
+    "Awards": "2 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NzQ4MDU0NV5BMl5BanBnXkFtZTcwMzA2NzQ2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.5",
+    "imdbVotes": "192,658",
+    "imdbID": "tt0425061",
+    "Type": "movie",
+    "DVD": "04 Nov 2008",
+    "BoxOffice": "$130,246,343",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

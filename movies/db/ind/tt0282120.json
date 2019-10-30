@@ -1,0 +1,40 @@
+{
+    "Title": "The Wild Thornberrys Movie",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "20 Dec 2002",
+    "Runtime": "85 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Cathy Malkasian, Jeff McGrath",
+    "Writer": "Arlene Klasky (characters), Gabor Csupo (characters), Steve Pepoon (characters), David Silverman (characters), Stephen Sustarsic (characters), Kate Boutilier",
+    "Actors": "Lacey Chabert, Tom Kane, Cree Summer, Tim Curry",
+    "Plot": "Eliza and Debbie are two sisters who don't always get along. But their relationship is put to the test when Debbie's life is in danger, and Eliza might have to give up her power to talk to animals....",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjEwOTAxODc4NV5BMl5BanBnXkFtZTYwMTU3MTY3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "5.6",
+    "imdbVotes": "13,567",
+    "imdbID": "tt0282120",
+    "Type": "movie",
+    "DVD": "01 Apr 2003",
+    "BoxOffice": "$39,766,440",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

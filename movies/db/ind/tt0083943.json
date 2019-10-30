@@ -1,0 +1,40 @@
+{
+    "Title": "Firefox",
+    "Year": "1982",
+    "Rated": "PG",
+    "Released": "18 Jun 1982",
+    "Runtime": "136 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Clint Eastwood",
+    "Writer": "Alex Lasker (screenplay), Wendell Wellman (screenplay), Craig Thomas (novel)",
+    "Actors": "Clint Eastwood, Freddie Jones, David Huffman, Warren Clarke",
+    "Plot": "A pilot is sent into the Soviet Union on a mission to steal a prototype jet fighter that can be partially controlled by a neuralink.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2UxY2EwY2MtYmQ0ZC00NzE4LWFlNTctMWM3ZjQ5ZDE5ZGUxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "38%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "5.9",
+    "imdbVotes": "23,662",
+    "imdbID": "tt0083943",
+    "Type": "movie",
+    "DVD": "01 Oct 2002",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

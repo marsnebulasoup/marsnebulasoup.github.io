@@ -1,0 +1,40 @@
+{
+    "Title": "Ingrid Goes West",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "25 Aug 2017",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Matt Spicer",
+    "Writer": "David Branson Smith, Matt Spicer",
+    "Actors": "Aubrey Plaza, Elizabeth Olsen, O'Shea Jackson Jr., Wyatt Russell",
+    "Plot": "An unhinged social media stalker moves to LA and insinuates herself into the life of an Instagram star.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzE3Mzc5NTc4M15BMl5BanBnXkFtZTgwMDYwNzM3MjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "6.6",
+    "imdbVotes": "28,580",
+    "imdbID": "tt5962210",
+    "Type": "movie",
+    "DVD": "07 Nov 2017",
+    "BoxOffice": "$3,016,057",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Two Weeks Notice",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "20 Dec 2002",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Marc Lawrence",
+    "Writer": "Marc Lawrence",
+    "Actors": "Sandra Bullock, Hugh Grant, Alicia Witt, Dana Ivey",
+    "Plot": "A lawyer decides that she's used too much like a nanny by her boss, so she walks out on him.",
+    "Language": "English",
+    "Country": "USA, Australia",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTg4N2M2ODItZjVjMy00YTljLTllNjUtYzY4ZTE2MTI2M2RhXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "42%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.1",
+    "imdbVotes": "99,520",
+    "imdbID": "tt0313737",
+    "Type": "movie",
+    "DVD": "29 Apr 2003",
+    "BoxOffice": "$93,300,000",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

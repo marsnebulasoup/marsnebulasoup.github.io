@@ -1,0 +1,40 @@
+{
+    "Title": "Willow",
+    "Year": "1988",
+    "Rated": "PG",
+    "Released": "20 May 1988",
+    "Runtime": "126 min",
+    "Genre": "Action, Adventure, Drama, Fantasy, Romance",
+    "Director": "Ron Howard",
+    "Writer": "George Lucas (story by), Bob Dolman (screenplay by)",
+    "Actors": "Val Kilmer, Joanne Whalley, Warwick Davis, Jean Marsh",
+    "Plot": "A reluctant dwarf must play a critical role in protecting a special baby from an evil queen.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 1 win & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWIyMTA2M2ItOGI5MC00OTY0LWFmZTItN2NkOWQ0MGQ5NDkyL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "7.3",
+    "imdbVotes": "94,205",
+    "imdbID": "tt0096446",
+    "Type": "movie",
+    "DVD": "27 Nov 2001",
+    "BoxOffice": "N/A",
+    "Production": "MGM Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

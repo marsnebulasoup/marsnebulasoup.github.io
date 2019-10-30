@@ -1,0 +1,40 @@
+{
+    "Title": "Exotica",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "24 Mar 1995",
+    "Runtime": "103 min",
+    "Genre": "Drama",
+    "Director": "Atom Egoyan",
+    "Writer": "Atom Egoyan",
+    "Actors": "Bruce Greenwood, Mia Kirshner, Don McKellar, Elias Koteas",
+    "Plot": "A man plagued by neuroses frequents the club Exotica in an attempt to find solace, but even there his past is never far away.",
+    "Language": "English, Hebrew",
+    "Country": "Canada",
+    "Awards": "15 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGIxN2NiMDYtYjQ0YS00M2ViLTkzYTUtNDdhYWZmOTM0ZmJkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.1",
+    "imdbVotes": "16,845",
+    "imdbID": "tt0109759",
+    "Type": "movie",
+    "DVD": "16 Nov 1999",
+    "BoxOffice": "N/A",
+    "Production": "ARP",
+    "Website": "N/A",
+    "Response": "True"
+}

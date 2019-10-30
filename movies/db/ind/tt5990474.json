@@ -1,0 +1,40 @@
+{
+    "Title": "Columbus",
+    "Year": "2017",
+    "Rated": "Not Rated",
+    "Released": "04 Aug 2017",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Kogonada",
+    "Writer": "Kogonada",
+    "Actors": "John Cho, Haley Lu Richardson, Parker Posey, Michelle Forbes",
+    "Plot": "A Korean-born man finds himself stuck in Columbus, Indiana, where his architect father is in a coma. The man meets a young woman who wants to stay in Columbus with her mother, a recovering addict, instead of pursuing her own dreams.",
+    "Language": "English, Korean",
+    "Country": "USA",
+    "Awards": "7 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTliZmExNmItZDJhZS00MjBjLThiMmEtZTJhZjNlMTMwYzk3XkEyXkFqcGdeQXVyMzI3NjY2ODc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.2",
+    "imdbVotes": "11,473",
+    "imdbID": "tt5990474",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$892,778",
+    "Production": "Superlative Films / Depth of Field Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Clown",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "17 Jun 2016",
+    "Runtime": "100 min",
+    "Genre": "Drama, Fantasy, Horror, Thriller",
+    "Director": "Jon Watts",
+    "Writer": "Christopher Ford, Jon Watts",
+    "Actors": "Andy Powers, Laura Allen, Peter Stormare, Christian Distefano",
+    "Plot": "A loving father finds a clown suit for his son's birthday party, only to realize that it's cursed.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWNkYmIwY2QtNzljOC00Mzg0LTk1MjQtMGVmZTY4YmM1NzA0XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.7",
+    "imdbVotes": "20,170",
+    "imdbID": "tt1780798",
+    "Type": "movie",
+    "DVD": "23 Aug 2016",
+    "BoxOffice": "$51,809",
+    "Production": "Dimension Films, Anchor Bay Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

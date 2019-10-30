@@ -1,0 +1,40 @@
+{
+    "Title": "Akeelah and the Bee",
+    "Year": "2006",
+    "Rated": "PG",
+    "Released": "28 Apr 2006",
+    "Runtime": "112 min",
+    "Genre": "Drama, Family",
+    "Director": "Doug Atchison",
+    "Writer": "Doug Atchison",
+    "Actors": "Keke Palmer, Laurence Fishburne, Angela Bassett, Curtis Armstrong",
+    "Plot": "A young girl from South Los Angeles tries to make it to the National Spelling Bee.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "12 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMDIwNjIzM15BMl5BanBnXkFtZTcwNTczODQzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "17,454",
+    "imdbID": "tt0437800",
+    "Type": "movie",
+    "DVD": "29 Aug 2006",
+    "BoxOffice": "$18,811,135",
+    "Production": "Lionsgate Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

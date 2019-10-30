@@ -1,0 +1,36 @@
+{
+    "Title": "A Charlie Brown Christmas",
+    "Year": "1965",
+    "Rated": "TV-G",
+    "Released": "09 Dec 1965",
+    "Runtime": "25 min",
+    "Genre": "Animation, Short, Comedy, Family",
+    "Director": "Bill Melendez",
+    "Writer": "Charles M. Schulz",
+    "Actors": "Ann Altieri, Chris Doran, Sally Dryer, Bill Melendez",
+    "Plot": "Depressed at the commercialism he sees around him, Charlie Brown tries to find a deeper meaning to Christmas.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Primetime Emmy. Another 1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1NDQxNTcxN15BMl5BanBnXkFtZTgwNzY1Njc1MzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.3",
+    "imdbVotes": "28,390",
+    "imdbID": "tt0059026",
+    "Type": "movie",
+    "DVD": "12 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Media Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

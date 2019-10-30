@@ -1,0 +1,36 @@
+{
+    "Title": "The Prodigy",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "08 Feb 2019",
+    "Runtime": "92 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Nicholas McCarthy",
+    "Writer": "Jeff Buhler",
+    "Actors": "Taylor Schilling, Jackson Robert Scott, Peter Mooney, Colm Feore",
+    "Plot": "A mother concerned about her young son's disturbing behavior thinks something supernatural may be affecting him.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTQxNTMwMmUtMWRkYi00MTRmLTgyYWItYTYwNGZkMWZmMzQ2XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "5.9",
+    "imdbVotes": "15,506",
+    "imdbID": "tt4504044",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

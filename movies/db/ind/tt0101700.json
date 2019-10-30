@@ -1,0 +1,40 @@
+{
+    "Title": "Delicatessen",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "03 Apr 1992",
+    "Runtime": "99 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Marc Caro, Jean-Pierre Jeunet",
+    "Writer": "Jean-Pierre Jeunet (screenplay), Marc Caro (screenplay), Gilles Adrien (screenplay), Gilles Adrien (dialogue), Jean-Pierre Jeunet (shooting script)",
+    "Actors": "Pascal Benezech, Dominique Pinon, Marie-Laure Dougnac, Jean-Claude Dreyfus",
+    "Plot": "Post-apocalyptic surrealist black comedy about the landlord of an apartment building who occasionally prepares a delicacy for his odd tenants.",
+    "Language": "French",
+    "Country": "France",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 15 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjg5ZDM0MTEtYTZmNC00NDJiLWI5MTktYzk4N2QxY2IxZTc2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.6",
+    "imdbVotes": "75,447",
+    "imdbID": "tt0101700",
+    "Type": "movie",
+    "DVD": "02 May 2006",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

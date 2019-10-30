@@ -1,0 +1,40 @@
+{
+    "Title": "Undisputed",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "23 Aug 2002",
+    "Runtime": "94 min",
+    "Genre": "Action, Crime, Drama, Sport",
+    "Director": "Walter Hill",
+    "Writer": "David Giler, Walter Hill",
+    "Actors": "Wesley Snipes, Ving Rhames, Peter Falk, Michael Rooker",
+    "Plot": "When heavyweight champion George \"Iceman\" Chambers lands in prison, the resident gangster arranges a boxing match with the reigning prison champ.",
+    "Language": "English, German",
+    "Country": "USA, Germany, Japan",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.2",
+    "imdbVotes": "27,134",
+    "imdbID": "tt0281322",
+    "Type": "movie",
+    "DVD": "26 Nov 2002",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Transcendence",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "18 Apr 2014",
+    "Runtime": "119 min",
+    "Genre": "Action, Drama, Sci-Fi, Thriller",
+    "Director": "Wally Pfister",
+    "Writer": "Jack Paglen",
+    "Actors": "Johnny Depp, Rebecca Hall, Paul Bettany, Cillian Murphy",
+    "Plot": "A scientist's drive for artificial intelligence, takes on dangerous implications when his consciousness is uploaded into one such program.",
+    "Language": "English",
+    "Country": "UK, China, USA",
+    "Awards": "3 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MjQ3ODAyOV5BMl5BanBnXkFtZTgwNjI1NDQ0MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.3",
+    "imdbVotes": "206,776",
+    "imdbID": "tt2209764",
+    "Type": "movie",
+    "DVD": "22 Jul 2014",
+    "BoxOffice": "$23,014,504",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

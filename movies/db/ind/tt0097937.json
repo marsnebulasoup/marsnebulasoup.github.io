@@ -1,0 +1,40 @@
+{
+    "Title": "My Left Foot",
+    "Year": "1989",
+    "Rated": "R",
+    "Released": "30 Mar 1990",
+    "Runtime": "103 min",
+    "Genre": "Biography, Drama",
+    "Director": "Jim Sheridan",
+    "Writer": "Shane Connaughton (screenplay), Jim Sheridan (screenplay), Christy Brown (novel)",
+    "Actors": "Daniel Day-Lewis, Brenda Fricker, Alison Whelan, Kirsten Sheridan",
+    "Plot": "Christy Brown, born with cerebral palsy, learns to paint and write with his only controllable limb - his left foot.",
+    "Language": "English",
+    "Country": "Ireland, UK",
+    "Awards": "Won 2 Oscars. Another 21 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjdkNzA4MzYtZThhOS00ZDgzLTlmMDItNmY1ZjI5YjkzZTE1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "97/100"
+        }
+    ],
+    "Metascore": "97",
+    "imdbRating": "7.9",
+    "imdbVotes": "62,090",
+    "imdbID": "tt0097937",
+    "Type": "movie",
+    "DVD": "16 Aug 2005",
+    "BoxOffice": "N/A",
+    "Production": "HBO Video",
+    "Website": "N/A",
+    "Response": "True"
+}

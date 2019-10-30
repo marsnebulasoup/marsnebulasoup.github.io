@@ -1,0 +1,40 @@
+{
+    "Title": "Very Bad Things",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "25 Nov 1998",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Crime, Thriller",
+    "Director": "Peter Berg",
+    "Writer": "Peter Berg",
+    "Actors": "Jon Favreau, Leland Orser, Cameron Diaz, Christian Slater",
+    "Plot": "A prostitute is killed during a bachelor party and the attendees turn on each other as the wedding approaches.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjZTdlMWMtYjdlMS00MmFkLWExOGYtYmNhMGFiMmZmZGRjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "43%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "6.4",
+    "imdbVotes": "43,300",
+    "imdbID": "tt0124198",
+    "Type": "movie",
+    "DVD": "27 Apr 1999",
+    "BoxOffice": "N/A",
+    "Production": "PolyGram",
+    "Website": "N/A",
+    "Response": "True"
+}

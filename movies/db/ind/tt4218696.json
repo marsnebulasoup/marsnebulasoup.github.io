@@ -1,0 +1,40 @@
+{
+    "Title": "The Wall",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "18 May 2017",
+    "Runtime": "88 min",
+    "Genre": "Action, Drama, Thriller, War",
+    "Director": "Doug Liman",
+    "Writer": "Dwain Worrell",
+    "Actors": "Aaron Taylor-Johnson, John Cena, Laith Nakli",
+    "Plot": "Two American Soldiers are trapped by a lethal sniper, with only an unsteady wall between them.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5ODMyNzE4OF5BMl5BanBnXkFtZTgwNTM0Mzc4MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.2",
+    "imdbVotes": "21,012",
+    "imdbID": "tt4218696",
+    "Type": "movie",
+    "DVD": "15 Aug 2017",
+    "BoxOffice": "$1,803,009",
+    "Production": "Amazon Studios and Roadside Attractions",
+    "Website": "N/A",
+    "Response": "True"
+}

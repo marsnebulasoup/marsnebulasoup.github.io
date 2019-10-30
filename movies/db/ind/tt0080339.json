@@ -1,0 +1,40 @@
+{
+    "Title": "Airplane!",
+    "Year": "1980",
+    "Rated": "PG",
+    "Released": "02 Jul 1980",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Jim Abrahams, David Zucker, Jerry Zucker",
+    "Writer": "Jim Abrahams (written for the screen by), David Zucker (written for the screen by), Jerry Zucker (written for the screen by)",
+    "Actors": "Kareem Abdul-Jabbar, Lloyd Bridges, Peter Graves, Julie Hagerty",
+    "Plot": "A man afraid to fly must ensure that a plane lands safely after the pilots become sick.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 2 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjA3YjdhMWEtYjc2Ni00YzVlLWI0MTUtMGZmNTJjNmU0Yzk2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.7",
+    "imdbVotes": "193,927",
+    "imdbID": "tt0080339",
+    "Type": "movie",
+    "DVD": "24 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

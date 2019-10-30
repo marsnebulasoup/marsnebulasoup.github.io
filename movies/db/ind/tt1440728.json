@@ -1,0 +1,40 @@
+{
+    "Title": "The American",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "01 Sep 2010",
+    "Runtime": "105 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Anton Corbijn",
+    "Writer": "Rowan Joffe (screenplay), Martin Booth (novel)",
+    "Actors": "George Clooney, Irina Bj\u00f6rklund, Lars Hjelm, Bj\u00f6rn Granath",
+    "Plot": "An assassin hides out in Italy for one last assignment.",
+    "Language": "English, Italian",
+    "Country": "USA, UK",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAxMDg1NDcxM15BMl5BanBnXkFtZTcwODc3MDg1Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.3",
+    "imdbVotes": "87,812",
+    "imdbID": "tt1440728",
+    "Type": "movie",
+    "DVD": "28 Dec 2010",
+    "BoxOffice": "$35,596,227",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

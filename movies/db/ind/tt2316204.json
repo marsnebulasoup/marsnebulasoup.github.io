@@ -1,0 +1,40 @@
+{
+    "Title": "Alien: Covenant",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "19 May 2017",
+    "Runtime": "122 min",
+    "Genre": "Horror, Sci-Fi, Thriller",
+    "Director": "Ridley Scott",
+    "Writer": "Dan O'Bannon (based on characters created by), Ronald Shusett (based on characters created by), Jack Paglen (story by), Michael Green (story by), John Logan (screenplay by), Dante Harper (screenplay by)",
+    "Actors": "Michael Fassbender, Katherine Waterston, Billy Crudup, Danny McBride",
+    "Plot": "The crew of a colony ship, bound for a remote planet, discover an uncharted paradise with a threat beyond their imagination, and must attempt a harrowing escape.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "1 win & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzVkMjRhNzctOGQxMC00OGE2LWJhN2EtNmYyODRiMDNlM2ZmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.4",
+    "imdbVotes": "233,704",
+    "imdbID": "tt2316204",
+    "Type": "movie",
+    "DVD": "15 Aug 2017",
+    "BoxOffice": "$74,255,908",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

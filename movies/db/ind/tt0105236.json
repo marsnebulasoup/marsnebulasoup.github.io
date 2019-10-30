@@ -1,0 +1,40 @@
+{
+    "Title": "Reservoir Dogs",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "02 Sep 1992",
+    "Runtime": "99 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino, Quentin Tarantino (background radio dialogue written by), Roger Avary (background radio dialogue written by)",
+    "Actors": "Harvey Keitel, Tim Roth, Michael Madsen, Chris Penn",
+    "Plot": "When a simple jewelry heist goes horribly wrong, the surviving criminals begin to suspect that one of them is a police informant.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "12 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "8.3",
+    "imdbVotes": "847,026",
+    "imdbID": "tt0105236",
+    "Type": "movie",
+    "DVD": "05 Nov 2002",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Hitcher",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "19 Jan 2007",
+    "Runtime": "84 min",
+    "Genre": "Crime, Horror, Thriller",
+    "Director": "Dave Meyers",
+    "Writer": "Eric Red (screenplay), Jake Wade Wall (screenplay), Eric Bernt (screenplay), Eric Red",
+    "Actors": "Sean Bean, Sophia Bush, Zachary Knighton, Neal McDonough",
+    "Plot": "A serial killer pins his crimes on two college students who gave him a ride.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwOTA3NzI4NF5BMl5BanBnXkFtZTcwNjY2ODA0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "21%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "28/100"
+        }
+    ],
+    "Metascore": "28",
+    "imdbRating": "5.6",
+    "imdbVotes": "39,045",
+    "imdbID": "tt0455960",
+    "Type": "movie",
+    "DVD": "01 May 2007",
+    "BoxOffice": "$16,399,999",
+    "Production": "Rogue Pictures (Focus)",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Blazing Saddles",
+    "Year": "1974",
+    "Rated": "R",
+    "Released": "07 Feb 1974",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Western",
+    "Director": "Mel Brooks",
+    "Writer": "Mel Brooks (screenplay), Norman Steinberg (screenplay), Andrew Bergman (screenplay), Richard Pryor (screenplay), Alan Uger (screenplay), Andrew Bergman (story)",
+    "Actors": "Cleavon Little, Gene Wilder, Slim Pickens, Harvey Korman",
+    "Plot": "In order to ruin a western town, a corrupt politician appoints a black Sheriff, who promptly becomes his most formidable adversary.",
+    "Language": "English, Yiddish, German",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 3 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGZmMWE1MDYtNzAyNC00MDMzLTgzZjQtNTQ5NjYzN2E4MzkzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.7",
+    "imdbVotes": "117,908",
+    "imdbID": "tt0071230",
+    "Type": "movie",
+    "DVD": "27 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

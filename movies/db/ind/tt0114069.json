@@ -1,0 +1,40 @@
+{
+    "Title": "Outbreak",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "10 Mar 1995",
+    "Runtime": "127 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Wolfgang Petersen",
+    "Writer": "Laurence Dworet, Robert Roy Pool",
+    "Actors": "Dustin Hoffman, Rene Russo, Morgan Freeman, Kevin Spacey",
+    "Plot": "Army doctors struggle to find a cure for a deadly virus spreading throughout a California town that was brought to America by an African monkey.",
+    "Language": "English, Korean, French",
+    "Country": "USA",
+    "Awards": "5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTg1Mzk1NjAtNGFlOS00NzdlLWI0NTgtYzlmNTUzZGQ0NjYzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.6",
+    "imdbVotes": "101,952",
+    "imdbID": "tt0114069",
+    "Type": "movie",
+    "DVD": "27 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

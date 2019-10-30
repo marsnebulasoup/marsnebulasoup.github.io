@@ -1,0 +1,40 @@
+{
+    "Title": "Braveheart",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "24 May 1995",
+    "Runtime": "178 min",
+    "Genre": "Biography, Drama, History, War",
+    "Director": "Mel Gibson",
+    "Writer": "Randall Wallace",
+    "Actors": "James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo",
+    "Plot": "When his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt against King Edward I of England.",
+    "Language": "English, French, Latin, Scottish Gaelic, Italian",
+    "Country": "USA",
+    "Awards": "Won 5 Oscars. Another 26 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "8.3",
+    "imdbVotes": "903,358",
+    "imdbID": "tt0112573",
+    "Type": "movie",
+    "DVD": "29 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

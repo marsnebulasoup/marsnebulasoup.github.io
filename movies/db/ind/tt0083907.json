@@ -1,0 +1,40 @@
+{
+    "Title": "The Evil Dead",
+    "Year": "1981",
+    "Rated": "NC-17",
+    "Released": "15 Apr 1983",
+    "Runtime": "85 min",
+    "Genre": "Horror",
+    "Director": "Sam Raimi",
+    "Writer": "Sam Raimi",
+    "Actors": "Bruce Campbell, Ellen Sandweiss, Richard DeManincor, Betsy Baker",
+    "Plot": "Five friends travel to a cabin in the woods, where they unknowingly release flesh-possessing demons.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODc2MmVjZmUtNjAzMS00MDNiLWIyM2YtOGEzMjg0YjRhMzRmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "7.5",
+    "imdbVotes": "172,408",
+    "imdbID": "tt0083907",
+    "Type": "movie",
+    "DVD": "19 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

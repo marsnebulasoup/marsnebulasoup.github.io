@@ -1,0 +1,40 @@
+{
+    "Title": "Citizenfour",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "28 Nov 2014",
+    "Runtime": "114 min",
+    "Genre": "Documentary, Biography, News, Thriller",
+    "Director": "Laura Poitras",
+    "Writer": "N/A",
+    "Actors": "Edward Snowden, Glenn Greenwald, William Binney, Jacob Appelbaum",
+    "Plot": "A documentarian and a reporter travel to Hong Kong for the first of many meetings with Edward Snowden.",
+    "Language": "English, Portuguese, German",
+    "Country": "USA, Germany, UK",
+    "Awards": "Won 1 Oscar. Another 43 wins & 35 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0MTM0MTA5MF5BMl5BanBnXkFtZTgwNzEwODEwMzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.1",
+    "imdbVotes": "48,732",
+    "imdbID": "tt4044364",
+    "Type": "movie",
+    "DVD": "25 Aug 2015",
+    "BoxOffice": "N/A",
+    "Production": "Radius-TWC",
+    "Website": "N/A",
+    "Response": "True"
+}

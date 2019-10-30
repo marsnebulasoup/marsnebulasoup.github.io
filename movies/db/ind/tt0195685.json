@@ -1,0 +1,40 @@
+{
+    "Title": "Erin Brockovich",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "17 Mar 2000",
+    "Runtime": "131 min",
+    "Genre": "Biography, Drama",
+    "Director": "Steven Soderbergh",
+    "Writer": "Susannah Grant",
+    "Actors": "Julia Roberts, David Brisbin, Dawn Didawick, Albert Finney",
+    "Plot": "An unemployed single mother becomes a legal assistant and almost single-handedly brings down a California power company accused of polluting a city's water supply.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 31 wins & 58 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTA1NWRkNTktNDMxNS00NjE4LWEzMDAtNzA3YzlhYzRhNDA4L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.3",
+    "imdbVotes": "161,676",
+    "imdbID": "tt0195685",
+    "Type": "movie",
+    "DVD": "15 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

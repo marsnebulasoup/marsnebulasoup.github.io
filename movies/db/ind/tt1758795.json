@@ -1,0 +1,40 @@
+{
+    "Title": "The To Do List",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "26 Jul 2013",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Maggie Carey",
+    "Writer": "Maggie Carey",
+    "Actors": "Aubrey Plaza, Johnny Simmons, Bill Hader, Alia Shawkat",
+    "Plot": "Feeling pressured to become more sexually experienced before she goes to college, Brandy Klark makes a list of things to accomplish before hitting campus in the fall.",
+    "Language": "English, Spanish, Sanskrit",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODg4ODYxMTk2NV5BMl5BanBnXkFtZTcwNzYxMTI5OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "5.8",
+    "imdbVotes": "34,962",
+    "imdbID": "tt1758795",
+    "Type": "movie",
+    "DVD": "19 Nov 2013",
+    "BoxOffice": "$3,400,000",
+    "Production": "CBS Films",
+    "Website": "N/A",
+    "Response": "True"
+}

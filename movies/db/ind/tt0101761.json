@@ -1,0 +1,40 @@
+{
+    "Title": "The Doors",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "01 Mar 1991",
+    "Runtime": "140 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Oliver Stone",
+    "Writer": "Randall Jahnson, Oliver Stone",
+    "Actors": "Val Kilmer, Meg Ryan, Kyle MacLachlan, Frank Whaley",
+    "Plot": "The story of the famous and influential 1960s rock band The Doors and its lead singer and composer, Jim Morrison, from his days as a UCLA film student in Los Angeles, to his untimely death in Paris, France at age 27 in 1971.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTg3YjA5MGYtYjdiNy00YThjLWJiZDEtN2M1NmE1NTVhMWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.2",
+    "imdbVotes": "79,068",
+    "imdbID": "tt0101761",
+    "Type": "movie",
+    "DVD": "19 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Comedian",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "03 Feb 2017",
+    "Runtime": "120 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Taylor Hackford",
+    "Writer": "Art Linson (screenplay by), Jeffrey Ross (screenplay by), Richard LaGravenese (screenplay by), Lewis Friedman (screenplay by), Art Linson (story by)",
+    "Actors": "Robert De Niro, Leslie Mann, Harvey Keitel, Edie Falco",
+    "Plot": "A look at the life of an aging insult comic named Jack Burke.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyOTMzODE3Ml5BMl5BanBnXkFtZTgwMTk3NTM3MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.7",
+    "imdbVotes": "6,150",
+    "imdbID": "tt1967614",
+    "Type": "movie",
+    "DVD": "02 May 2017",
+    "BoxOffice": "$1,658,706",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

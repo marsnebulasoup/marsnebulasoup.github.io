@@ -1,0 +1,40 @@
+{
+    "Title": "Lord of the Flies",
+    "Year": "1963",
+    "Rated": "Not Rated",
+    "Released": "13 Aug 1963",
+    "Runtime": "92 min",
+    "Genre": "Adventure, Drama, Thriller",
+    "Director": "Peter Brook",
+    "Writer": "William Golding (novel)",
+    "Actors": "James Aubrey, Tom Chapin, Hugh Edwards, Roger Elwin",
+    "Plot": "Lost on an island, young survivors of a plane crash eventually revert to savagery despite the few rational boys' attempts to prevent that.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGEwYTlhMTgtODBlNC00ZjgzLTk1ZmEtNmNkMTEwYTZiM2Y0XkEyXkFqcGdeQXVyMzU4Nzk4MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.9",
+    "imdbVotes": "16,248",
+    "imdbID": "tt0057261",
+    "Type": "movie",
+    "DVD": "14 Mar 2000",
+    "BoxOffice": "N/A",
+    "Production": "Criterion Collection",
+    "Website": "N/A",
+    "Response": "True"
+}

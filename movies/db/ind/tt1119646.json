@@ -1,0 +1,40 @@
+{
+    "Title": "The Hangover",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "05 Jun 2009",
+    "Runtime": "100 min",
+    "Genre": "Comedy",
+    "Director": "Todd Phillips",
+    "Writer": "Jon Lucas, Scott Moore",
+    "Actors": "Bradley Cooper, Ed Helms, Zach Galifianakis, Justin Bartha",
+    "Plot": "Three buddies wake up from a bachelor party in Las Vegas, with no memory of the previous night and the bachelor missing. They make their way around the city in order to find their friend before his wedding.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Won 1 Golden Globe. Another 12 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGQwZjg5YmYtY2VkNC00NzliLTljYTctNzI5NmU3MjE2ODQzXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.7",
+    "imdbVotes": "678,737",
+    "imdbID": "tt1119646",
+    "Type": "movie",
+    "DVD": "15 Dec 2009",
+    "BoxOffice": "$277,313,371",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

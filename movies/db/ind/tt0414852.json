@@ -1,0 +1,40 @@
+{
+    "Title": "District B13",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "02 Jun 2006",
+    "Runtime": "84 min",
+    "Genre": "Action, Crime, Sci-Fi, Thriller",
+    "Director": "Pierre Morel",
+    "Writer": "Luc Besson, Bibi Naceri",
+    "Actors": "Cyril Raffaelli, David Belle, Tony D'Amario, Bibi Naceri",
+    "Plot": "In the ghettos of Paris in 2010, an undercover cop and an ex-thug try to infiltrate a gang in order to defuse a neutron bomb.",
+    "Language": "French, Spanish",
+    "Country": "France",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2U4YmU4NWYtYzZkOC00MTY5LThjMzMtZDQ3ZTMzMTM0ODg2XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.2",
+    "imdbVotes": "63,446",
+    "imdbID": "tt0414852",
+    "Type": "movie",
+    "DVD": "05 Sep 2006",
+    "BoxOffice": "$1,150,592",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

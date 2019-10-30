@@ -1,0 +1,40 @@
+{
+    "Title": "Shark Tale",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "01 Oct 2004",
+    "Runtime": "90 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Bibo Bergeron, Vicky Jenson, Rob Letterman",
+    "Writer": "Michael J. Wilson (screenplay), Rob Letterman (screenplay), Scott Aukerman (additional dialogue), Alec Berg (additional dialogue), Sean Bishop (additional dialogue), BJ Porter (additional dialogue), Jeff Schaffer (additional dialogue), Lona Williams (additional dialogue), David P. Smith (additional dialogue), David Soren (additional dialogue)",
+    "Actors": "Will Smith, Robert De Niro, Ren\u00e9e Zellweger, Jack Black",
+    "Plot": "When a son of a gangster shark boss is accidentally killed while on the hunt, his would-be prey and his vegetarian brother decide to use the incident to their own advantage.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 3 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjY0NzE2M15BMl5BanBnXkFtZTcwNTc3ODcyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.0",
+    "imdbVotes": "157,183",
+    "imdbID": "tt0307453",
+    "Type": "movie",
+    "DVD": "08 Feb 2005",
+    "BoxOffice": "$160,762,022",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

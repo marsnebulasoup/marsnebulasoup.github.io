@@ -1,0 +1,40 @@
+{
+    "Title": "Solaris",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "27 Nov 2002",
+    "Runtime": "99 min",
+    "Genre": "Drama, Mystery, Romance, Sci-Fi",
+    "Director": "Steven Soderbergh",
+    "Writer": "Stanislaw Lem (novel), Steven Soderbergh (screenplay)",
+    "Actors": "George Clooney, Natascha McElhone, Viola Davis, Jeremy Davies",
+    "Plot": "A troubled psychologist is sent to investigate the crew of an isolated research station orbiting a bizarre planet.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzlkNGE0MmMtMzU4YS00ZDU1LWFhMTktZDRjMGU5MjI1MzRlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.2",
+    "imdbVotes": "76,068",
+    "imdbID": "tt0307479",
+    "Type": "movie",
+    "DVD": "29 Jul 2003",
+    "BoxOffice": "$14,780,776",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

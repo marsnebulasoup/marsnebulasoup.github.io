@@ -1,0 +1,40 @@
+{
+    "Title": "Scary Movie 5",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "12 Apr 2013",
+    "Runtime": "86 min",
+    "Genre": "Comedy",
+    "Director": "Malcolm D. Lee, David Zucker",
+    "Writer": "David Zucker, Pat Proft, Shawn Wayans (based on characters created by), Marlon Wayans (based on characters created by), Buddy Johnson (based on characters created by), Phil Beauman (based on characters created by), Jason Friedberg (based on characters created by), Aaron Seltzer (based on characters created by)",
+    "Actors": "Ashley Tisdale, Simon Rex, Gracie Whitton, Ava Kolker",
+    "Plot": "A couple begin to experience some unusual activity after bringing their lost nieces and nephew home. With the help of home-surveillance cameras, they learn they're being stalked by a nefarious demon.",
+    "Language": "English, Spanish, Latin",
+    "Country": "USA",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTIxMjQ4NF5BMl5BanBnXkFtZTcwOTAyNDcyOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "4%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "11/100"
+        }
+    ],
+    "Metascore": "11",
+    "imdbRating": "3.5",
+    "imdbVotes": "61,340",
+    "imdbID": "tt0795461",
+    "Type": "movie",
+    "DVD": "20 Aug 2013",
+    "BoxOffice": "$32,014,289",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

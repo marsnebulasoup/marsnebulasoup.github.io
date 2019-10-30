@@ -1,0 +1,40 @@
+{
+    "Title": "Monster Party",
+    "Year": "2018",
+    "Rated": "Unrated",
+    "Released": "02 Nov 2018",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Horror, Thriller",
+    "Director": "Chris von Hoffmann",
+    "Writer": "Chris von Hoffmann",
+    "Actors": "Sam Strike, Virginia Gardner, Brandon Micheal Hall, Kian Lawley",
+    "Plot": "Three young thieves infiltrate a mansion dinner party secretly hosted by a group of recovering murderers for the social elite.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTNlODExNTMtNDI4MC00NGUyLTlmYzUtNWM0YzBlZWU3YjQxXkEyXkFqcGdeQXVyMjUxNzMwMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "74%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "5.4",
+    "imdbVotes": "2,175",
+    "imdbID": "tt6556576",
+    "Type": "movie",
+    "DVD": "02 Nov 2018",
+    "BoxOffice": "N/A",
+    "Production": "RLJ Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

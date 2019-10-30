@@ -1,0 +1,40 @@
+{
+    "Title": "Christine",
+    "Year": "1983",
+    "Rated": "R",
+    "Released": "09 Dec 1983",
+    "Runtime": "110 min",
+    "Genre": "Horror, Thriller",
+    "Director": "John Carpenter",
+    "Writer": "Stephen King (novel), Bill Phillips (screenplay)",
+    "Actors": "Keith Gordon, John Stockwell, Alexandra Paul, Robert Prosky",
+    "Plot": "A nerdish boy buys a strange car with an evil mind of its own and his nature starts to change to reflect it.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZThhNDQxNzAtOTYzZC00MzZkLWI2YjItOTE2ZjliZDY3NTFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.7",
+    "imdbVotes": "65,047",
+    "imdbID": "tt0085333",
+    "Type": "movie",
+    "DVD": "28 Sep 2004",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,32 @@
+{
+    "Title": "The Onion Movie",
+    "Year": "2008",
+    "Rated": "Not Rated",
+    "Released": "07 Jan 2008",
+    "Runtime": "86 min",
+    "Genre": "Comedy",
+    "Director": "Tom Kuntz, Mike Maguire",
+    "Writer": "Todd Hanson, Robert Siegel",
+    "Actors": "Daniel Chac\u00f3n, Ken Takemoto, Steven Seagal, Don McManus",
+    "Plot": "Satirical interpretations of world events and curious human behavior.",
+    "Language": "English, Russian, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzQyNjcyMjUwOV5BMl5BanBnXkFtZTgwMTgxMDA2MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "14,950",
+    "imdbID": "tt0392878",
+    "Type": "movie",
+    "DVD": "03 Jun 2008",
+    "BoxOffice": "N/A",
+    "Production": "Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

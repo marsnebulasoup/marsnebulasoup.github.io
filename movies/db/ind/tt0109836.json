@@ -1,0 +1,36 @@
+{
+    "Title": "Mary Shelley's Frankenstein",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "04 Nov 1994",
+    "Runtime": "123 min",
+    "Genre": "Drama, Horror, Romance, Sci-Fi",
+    "Director": "Kenneth Branagh",
+    "Writer": "Mary Shelley (novel), Steph Lady (screenplay), Frank Darabont (screenplay)",
+    "Actors": "Robert De Niro, Kenneth Branagh, Tom Hulce, Helena Bonham Carter",
+    "Plot": "When the brilliant but unorthodox scientist Dr. Victor Frankenstein rejects the artificial man that he has created, the Creature escapes and later swears revenge.",
+    "Language": "English",
+    "Country": "USA, Japan, UK",
+    "Awards": "Nominated for 1 Oscar. Another 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNjMGQ2NTYtNWZlMS00Nzk4LWE5ZDQtNWFhZDk0ZWM3ODc4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.4",
+    "imdbVotes": "48,494",
+    "imdbID": "tt0109836",
+    "Type": "movie",
+    "DVD": "07 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

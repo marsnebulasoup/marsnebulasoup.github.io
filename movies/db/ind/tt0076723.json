@@ -1,0 +1,40 @@
+{
+    "Title": "Slap Shot",
+    "Year": "1977",
+    "Rated": "R",
+    "Released": "25 Feb 1977",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Drama, Sport",
+    "Director": "George Roy Hill",
+    "Writer": "Nancy Dowd",
+    "Actors": "Paul Newman, Strother Martin, Michael Ontkean, Jennifer Warren",
+    "Plot": "A failing ice hockey team finds success with outrageously violent hockey goonery.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MzcwNzc3NV5BMl5BanBnXkFtZTgwMTYzODg4MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.3",
+    "imdbVotes": "32,342",
+    "imdbID": "tt0076723",
+    "Type": "movie",
+    "DVD": "05 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

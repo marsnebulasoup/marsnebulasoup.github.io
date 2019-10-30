@@ -1,0 +1,40 @@
+{
+    "Title": "Madagascar",
+    "Year": "2005",
+    "Rated": "PG",
+    "Released": "27 May 2005",
+    "Runtime": "86 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "Eric Darnell, Tom McGrath",
+    "Writer": "Mark Burton, Billy Frolick, Eric Darnell, Tom McGrath",
+    "Actors": "Ben Stiller, Chris Rock, David Schwimmer, Jada Pinkett Smith",
+    "Plot": "A group of animals who have spent all their life in a New York zoo end up in the jungles of Madagascar, and must adjust to living in the wild.",
+    "Language": "English, Portuguese, Spanish, German, French, Greek",
+    "Country": "USA",
+    "Awards": "4 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2I5YzFlYWEtZjRhNy00ZmQzLWJhNTktZGIwYjFjODdmNDgxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.9",
+    "imdbVotes": "339,306",
+    "imdbID": "tt0351283",
+    "Type": "movie",
+    "DVD": "15 Nov 2005",
+    "BoxOffice": "$193,136,719",
+    "Production": "Dreamworks",
+    "Website": "N/A",
+    "Response": "True"
+}

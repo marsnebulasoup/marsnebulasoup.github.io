@@ -1,0 +1,40 @@
+{
+    "Title": "The Kingdom",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "28 Sep 2007",
+    "Runtime": "110 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Peter Berg",
+    "Writer": "Matthew Michael Carnahan",
+    "Actors": "Jamie Foxx, Chris Cooper, Jennifer Garner, Jason Bateman",
+    "Plot": "A team of U.S. government agents are sent to investigate the bombing of an American facility in the Middle East.",
+    "Language": "English, Arabic",
+    "Country": "USA, Germany, United Arab Emirates",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDIzOTYwMV5BMl5BanBnXkFtZTcwMTM5OTA1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "7.0",
+    "imdbVotes": "113,472",
+    "imdbID": "tt0431197",
+    "Type": "movie",
+    "DVD": "23 Dec 2007",
+    "BoxOffice": "$47,456,450",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

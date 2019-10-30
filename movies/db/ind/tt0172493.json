@@ -1,0 +1,40 @@
+{
+    "Title": "Girl, Interrupted",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "14 Jan 2000",
+    "Runtime": "127 min",
+    "Genre": "Biography, Drama",
+    "Director": "James Mangold",
+    "Writer": "Susanna Kaysen (book), James Mangold (screenplay), Lisa Loomer (screenplay), Anna Hamilton Phelan (screenplay)",
+    "Actors": "Winona Ryder, Angelina Jolie, Clea DuVall, Brittany Murphy",
+    "Plot": "Based on writer Susanna Kaysen's account of her 18-month stay at a mental hospital in the late 1960s.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Won 1 Oscar. Another 7 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzdjZDYwM2QtMGNlZS00MGQzLTlhMjctYTU4NWI5MWJlYmQwXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "7.3",
+    "imdbVotes": "150,483",
+    "imdbID": "tt0172493",
+    "Type": "movie",
+    "DVD": "30 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Ocean's Twelve",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "10 Dec 2004",
+    "Runtime": "125 min",
+    "Genre": "Crime, Thriller",
+    "Director": "Steven Soderbergh",
+    "Writer": "George Nolfi, George Clayton Johnson (characters), Jack Golden Russell (characters)",
+    "Actors": "Brad Pitt, Catherine Zeta-Jones, George Clooney, Ed Kross",
+    "Plot": "Daniel Ocean recruits one more team member so he can pull off three major European heists in this sequel to Ocean's 11.",
+    "Language": "English, Dutch, French, Italian, Mandarin",
+    "Country": "USA",
+    "Awards": "3 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmJmYzBjNTktMTJjZS00ZGRhLWE1Y2QtOWQxZGU0Y2RmMjkyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.5",
+    "imdbVotes": "337,039",
+    "imdbID": "tt0349903",
+    "Type": "movie",
+    "DVD": "12 Apr 2005",
+    "BoxOffice": "$125,402,117",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

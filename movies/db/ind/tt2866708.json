@@ -1,0 +1,40 @@
+{
+    "Title": "Strange But True",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "06 Sep 2019",
+    "Runtime": "96 min",
+    "Genre": "Thriller",
+    "Director": "Rowan Athale",
+    "Writer": "Eric Garcia (screenplay by), John Searles (based on the novel by)",
+    "Actors": "Nick Robinson, Amy Ryan, Greg Kinnear, Brian Cox",
+    "Plot": "A woman surprises the family of her deceased boyfriend by telling them she's pregnant with his child.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDAxNzhlNDUtNWI3Mi00ZWVlLTg4MzgtOWFmMDE5Zjg5NTNhXkEyXkFqcGdeQXVyOTg4MDYyNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.7",
+    "imdbVotes": "714",
+    "imdbID": "tt2866708",
+    "Type": "movie",
+    "DVD": "06 Sep 2019",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

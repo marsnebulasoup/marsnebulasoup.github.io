@@ -1,0 +1,40 @@
+{
+    "Title": "The Lord of the Rings: The Two Towers",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "18 Dec 2002",
+    "Runtime": "179 min",
+    "Genre": "Adventure, Drama, Fantasy",
+    "Director": "Peter Jackson",
+    "Writer": "J.R.R. Tolkien (novel), Fran Walsh (screenplay), Philippa Boyens (screenplay), Stephen Sinclair (screenplay), Peter Jackson (screenplay)",
+    "Actors": "Bruce Allpress, Sean Astin, John Bach, Sala Baker",
+    "Plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "Language": "English, Sindarin, Old English",
+    "Country": "New Zealand, USA",
+    "Awards": "Won 2 Oscars. Another 118 wins & 137 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGE5MzIyNTAtNWFlMC00NDA2LWJiMjItMjc4Yjg1OWM5NzhhXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "Metascore": "87",
+    "imdbRating": "8.7",
+    "imdbVotes": "1,375,382",
+    "imdbID": "tt0167261",
+    "Type": "movie",
+    "DVD": "26 Aug 2003",
+    "BoxOffice": "$339,700,000",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

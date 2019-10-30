@@ -1,0 +1,40 @@
+{
+    "Title": "Just Before I Go",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "24 Apr 2015",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Courteney Cox",
+    "Writer": "David Flebotte",
+    "Actors": "Seann William Scott, Olivia Thirlby, Garret Dillahunt, Kate Walsh",
+    "Plot": "On the verge of giving up on life, a guy travels to his hometown to make amends.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5MDA0NTk4MV5BMl5BanBnXkFtZTgwNTY1MDUyNTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "10%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "24/100"
+        }
+    ],
+    "Metascore": "24",
+    "imdbRating": "6.4",
+    "imdbVotes": "16,846",
+    "imdbID": "tt2980472",
+    "Type": "movie",
+    "DVD": "12 May 2015",
+    "BoxOffice": "$8,129",
+    "Production": "A24 Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Into the Woods",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "25 Dec 2014",
+    "Runtime": "125 min",
+    "Genre": "Adventure, Comedy, Drama, Fantasy, Musical",
+    "Director": "Rob Marshall",
+    "Writer": "James Lapine (screenplay by), James Lapine (based on the musical by)",
+    "Actors": "Anna Kendrick, Daniel Huttlestone, James Corden, Emily Blunt",
+    "Plot": "A witch tasks a childless baker and his wife with procuring magical items from classic fairy tales to reverse the curse put on their family tree.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 11 wins & 71 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4MzQ4OTY3NF5BMl5BanBnXkFtZTgwNjM5MDI3MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "5.9",
+    "imdbVotes": "125,357",
+    "imdbID": "tt2180411",
+    "Type": "movie",
+    "DVD": "24 Mar 2015",
+    "BoxOffice": "$89,789,227",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

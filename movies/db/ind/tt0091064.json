@@ -1,0 +1,40 @@
+{
+    "Title": "The Fly",
+    "Year": "1986",
+    "Rated": "R",
+    "Released": "15 Aug 1986",
+    "Runtime": "96 min",
+    "Genre": "Drama, Horror, Sci-Fi",
+    "Director": "David Cronenberg",
+    "Writer": "George Langelaan (short story), Charles Edward Pogue (screenplay), David Cronenberg (screenplay)",
+    "Actors": "Jeff Goldblum, Geena Davis, John Getz, Joy Boushel",
+    "Plot": "A brilliant but eccentric scientist begins to transform into a giant man/fly hybrid after one of his experiments goes horribly wrong.",
+    "Language": "English",
+    "Country": "USA, UK, Canada",
+    "Awards": "Won 1 Oscar. Another 5 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODcxMGMwOGEtMDUxMi00MzE5LTg4YTYtYjk1YjA4MzQxNTNlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.5",
+    "imdbVotes": "147,857",
+    "imdbID": "tt0091064",
+    "Type": "movie",
+    "DVD": "05 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

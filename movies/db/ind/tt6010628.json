@@ -1,0 +1,40 @@
+{
+    "Title": "Zoe",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "20 Jul 2018",
+    "Runtime": "104 min",
+    "Genre": "Romance, Sci-Fi",
+    "Director": "Drake Doremus",
+    "Writer": "Richard Greenberg (screenplay by), Richard Greenberg (story by), Drake Doremus (story by)",
+    "Actors": "Ewan McGregor, L\u00e9a Seydoux, Theo James, Rashida Jones",
+    "Plot": "A story about how synthetic humans can feel and even love and how the people they are involved with react to this concept.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA5Nzg2MjEzNjleQTJeQWpwZ15BbWU4MDk2MTE2NzUz._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "32%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "6.1",
+    "imdbVotes": "5,949",
+    "imdbID": "tt6010628",
+    "Type": "movie",
+    "DVD": "20 Jul 2018",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

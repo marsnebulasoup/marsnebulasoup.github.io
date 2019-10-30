@@ -1,0 +1,40 @@
+{
+    "Title": "Any Given Sunday",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "22 Dec 1999",
+    "Runtime": "162 min",
+    "Genre": "Drama, Sport",
+    "Director": "Oliver Stone",
+    "Writer": "Daniel Pyne (screen story), John Logan (screen story), John Logan (screenplay), Oliver Stone (screenplay)",
+    "Actors": "Al Pacino, Cameron Diaz, Dennis Quaid, James Woods",
+    "Plot": "A behind-the-scenes look at the life-and-death struggles of modern-day gladiators and those who lead them.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDk2YTQxZjUtYzJkYi00MTk4LTk4NDAtZmQ3ZGQwMDQxY2ZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.9",
+    "imdbVotes": "107,348",
+    "imdbID": "tt0146838",
+    "Type": "movie",
+    "DVD": "05 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

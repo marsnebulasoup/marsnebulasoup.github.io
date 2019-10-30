@@ -1,0 +1,40 @@
+{
+    "Title": "Magic Mike",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "29 Jun 2012",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Steven Soderbergh",
+    "Writer": "Reid Carolin",
+    "Actors": "Matthew McConaughey, Channing Tatum, Olivia Munn, Alex Pettyfer",
+    "Plot": "A male stripper teaches a younger performer how to party, pick up women, and make easy money.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMDMzOTA5M15BMl5BanBnXkFtZTcwMjc4MTg4Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.1",
+    "imdbVotes": "125,199",
+    "imdbID": "tt1915581",
+    "Type": "movie",
+    "DVD": "23 Oct 2012",
+    "BoxOffice": "$113,709,992",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

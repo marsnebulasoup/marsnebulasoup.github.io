@@ -1,0 +1,40 @@
+{
+    "Title": "True Romance",
+    "Year": "1993",
+    "Rated": "R",
+    "Released": "10 Sep 1993",
+    "Runtime": "119 min",
+    "Genre": "Crime, Drama, Romance, Thriller",
+    "Director": "Tony Scott",
+    "Writer": "Quentin Tarantino",
+    "Actors": "Christian Slater, Patricia Arquette, Dennis Hopper, Val Kilmer",
+    "Plot": "In Detroit, a lonely pop culture geek marries a call girl, steals cocaine from her pimp, and tries to sell it in Hollywood. Meanwhile, the owners of the cocaine, the Mob, track them down in an attempt to reclaim it.",
+    "Language": "English, Italian",
+    "Country": "USA, France",
+    "Awards": "1 win & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDViNjFjOWMtZGZhMi00NmIyLThmYzktODA4MzJhZDZhMDc5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.9",
+    "imdbVotes": "192,247",
+    "imdbID": "tt0108399",
+    "Type": "movie",
+    "DVD": "30 Sep 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

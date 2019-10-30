@@ -1,0 +1,40 @@
+{
+    "Title": "Gamer",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "04 Sep 2009",
+    "Runtime": "95 min",
+    "Genre": "Action, Sci-Fi, Thriller",
+    "Director": "Mark Neveldine, Brian Taylor",
+    "Writer": "Mark Neveldine, Brian Taylor",
+    "Actors": "Gerard Butler, Amber Valletta, Michael C. Hall, Kyra Sedgwick",
+    "Plot": "In a future mind-controlling game, death row convicts are forced to battle in a 'Doom'-type environment. Convict Kable, controlled by Simon, a skilled teenage gamer, must survive thirty sessions in order to be set free. Or won't he?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzMDU0NTg3MF5BMl5BanBnXkFtZTcwNzU1MjU1Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "27/100"
+        }
+    ],
+    "Metascore": "27",
+    "imdbRating": "5.8",
+    "imdbVotes": "125,775",
+    "imdbID": "tt1034032",
+    "Type": "movie",
+    "DVD": "18 Jan 2010",
+    "BoxOffice": "$20,488,579",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

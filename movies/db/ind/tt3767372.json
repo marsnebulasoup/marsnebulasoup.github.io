@@ -1,0 +1,36 @@
+{
+    "Title": "Piku",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "08 May 2015",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Shoojit Sircar",
+    "Writer": "Juhi Chaturvedi",
+    "Actors": "Deepika Padukone, Amitabh Bachchan, Irrfan Khan, Moushumi Chatterjee",
+    "Plot": "A quirky comedy about the relationship between a daughter and her aging father, whose eccentricities drive everyone crazy.",
+    "Language": "Hindi, English, Bengali",
+    "Country": "India",
+    "Awards": "18 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwOTMxNjc2OV5BMl5BanBnXkFtZTgwODQ4OTMxNTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.6",
+    "imdbVotes": "24,855",
+    "imdbID": "tt3767372",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$1,801,806",
+    "Production": "Yash Raj Films",
+    "Website": "N/A",
+    "Response": "True"
+}

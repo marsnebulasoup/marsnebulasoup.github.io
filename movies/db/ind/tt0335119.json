@@ -1,0 +1,40 @@
+{
+    "Title": "Girl with a Pearl Earring",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "30 Jan 2004",
+    "Runtime": "100 min",
+    "Genre": "Biography, Drama, Romance",
+    "Director": "Peter Webber",
+    "Writer": "Tracy Chevalier (novel), Olivia Hetreed (screenplay)",
+    "Actors": "Colin Firth, Scarlett Johansson, Tom Wilkinson, Judy Parfitt",
+    "Plot": "A young peasant maid working in the house of painter Johannes Vermeer becomes his talented assistant and the model for one of his most famous works.",
+    "Language": "English",
+    "Country": "UK, Luxembourg",
+    "Awards": "Nominated for 3 Oscars. Another 17 wins & 41 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU3NTg5NDYtNWNkMC00ODZiLTljZjQtNjZhNjlhNjZiNDBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.9",
+    "imdbVotes": "68,891",
+    "imdbID": "tt0335119",
+    "Type": "movie",
+    "DVD": "04 May 2004",
+    "BoxOffice": "$11,505,906",
+    "Production": "Exhibition On Screen",
+    "Website": "N/A",
+    "Response": "True"
+}

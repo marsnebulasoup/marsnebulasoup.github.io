@@ -1,0 +1,36 @@
+{
+    "Title": "The Kid",
+    "Year": "1921",
+    "Rated": "Not Rated",
+    "Released": "06 Feb 1921",
+    "Runtime": "68 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "Charles Chaplin",
+    "Writer": "Charles Chaplin",
+    "Actors": "Carl Miller, Edna Purviance, Jackie Coogan, Charles Chaplin",
+    "Plot": "The Tramp cares for an abandoned child, but events put that relationship in jeopardy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.3",
+    "imdbVotes": "100,446",
+    "imdbID": "tt0012349",
+    "Type": "movie",
+    "DVD": "02 Mar 2004",
+    "BoxOffice": "N/A",
+    "Production": "First National Pictures Inc.",
+    "Website": "N/A",
+    "Response": "True"
+}

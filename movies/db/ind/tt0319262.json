@@ -1,0 +1,40 @@
+{
+    "Title": "The Day After Tomorrow",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "28 May 2004",
+    "Runtime": "124 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Roland Emmerich",
+    "Writer": "Roland Emmerich (story), Roland Emmerich (screenplay), Jeffrey Nachmanoff (screenplay)",
+    "Actors": "Dennis Quaid, Jake Gyllenhaal, Emmy Rossum, Dash Mihok",
+    "Plot": "Jack Hall, paleoclimatologist, must make a daring trek from Washington, D.C. to New York City to reach his son, trapped in the cross-hairs of a sudden international storm which plunges the planet into a new Ice Age.",
+    "Language": "English, Japanese, French, Arabic",
+    "Country": "USA",
+    "Awards": "Won 1 BAFTA Film Award. Another 5 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4YWMzMTMtZjUyOS00OGY1LTljMGUtOWU5ZjYzMjc2ZTMwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.4",
+    "imdbVotes": "392,086",
+    "imdbID": "tt0319262",
+    "Type": "movie",
+    "DVD": "12 Oct 2004",
+    "BoxOffice": "$186,583,549",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

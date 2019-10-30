@@ -1,0 +1,40 @@
+{
+    "Title": "Set It Up",
+    "Year": "2018",
+    "Rated": "TV-14",
+    "Released": "15 Jun 2018",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Claire Scanlon",
+    "Writer": "Katie Silberman",
+    "Actors": "Zoey Deutch, Glen Powell, Lucy Liu, Taye Diggs",
+    "Plot": "Two corporate executive assistants hatch a plan to match-make their two bosses.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDUyMzA1OF5BMl5BanBnXkFtZTgwNzA4NzE1NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.5",
+    "imdbVotes": "34,651",
+    "imdbID": "tt5304992",
+    "Type": "movie",
+    "DVD": "15 Jun 2018",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

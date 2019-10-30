@@ -1,0 +1,40 @@
+{
+    "Title": "Three Billboards Outside Ebbing, Missouri",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "01 Dec 2017",
+    "Runtime": "115 min",
+    "Genre": "Crime, Drama",
+    "Director": "Martin McDonagh",
+    "Writer": "Martin McDonagh",
+    "Actors": "Frances McDormand, Caleb Landry Jones, Kerry Condon, Sam Rockwell",
+    "Plot": "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Won 2 Oscars. Another 104 wins & 193 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNzgwMDUyMl5BMl5BanBnXkFtZTgwMTQ0NTIyNDM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.2",
+    "imdbVotes": "361,779",
+    "imdbID": "tt5027774",
+    "Type": "movie",
+    "DVD": "27 Feb 2018",
+    "BoxOffice": "$52,000,189",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

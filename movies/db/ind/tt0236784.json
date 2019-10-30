@@ -1,0 +1,40 @@
+{
+    "Title": "The Tailor of Panama",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "30 Mar 2001",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Director": "John Boorman",
+    "Writer": "John le Carr\u00e9 (novel), Andrew Davies (screenplay), John le Carr\u00e9 (screenplay), John Boorman (screenplay)",
+    "Actors": "Pierce Brosnan, Geoffrey Rush, Jamie Lee Curtis, Leonor Varela",
+    "Plot": "A tailor living in Panama reluctantly becomes a spy for a British Agent.",
+    "Language": "English, Spanish",
+    "Country": "USA, Ireland",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2ODcxMDAyMV5BMl5BanBnXkFtZTYwNTEzNjc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.1",
+    "imdbVotes": "26,622",
+    "imdbID": "tt0236784",
+    "Type": "movie",
+    "DVD": "11 Sep 2001",
+    "BoxOffice": "$13,123,070",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

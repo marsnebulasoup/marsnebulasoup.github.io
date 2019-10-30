@@ -1,0 +1,40 @@
+{
+    "Title": "Willy Wonka & the Chocolate Factory",
+    "Year": "1971",
+    "Rated": "G",
+    "Released": "30 Jun 1971",
+    "Runtime": "100 min",
+    "Genre": "Family, Fantasy, Musical",
+    "Director": "Mel Stuart",
+    "Writer": "Roald Dahl (screenplay), Roald Dahl (book)",
+    "Actors": "Gene Wilder, Jack Albertson, Peter Ostrum, Roy Kinnear",
+    "Plot": "A poor but hopeful boy seeks one of the five coveted golden tickets that will send him on a tour of Willy Wonka's mysterious chocolate factory.",
+    "Language": "English, French, German, Italian",
+    "Country": "USA, East Germany, West Germany",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTllNDU0ZTItYTYxMC00OTI4LThlNDAtZjNiNzdhMWZiYjNmXkEyXkFqcGdeQXVyNzY1NDgwNjQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.8",
+    "imdbVotes": "164,469",
+    "imdbID": "tt0067992",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "$4,000,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

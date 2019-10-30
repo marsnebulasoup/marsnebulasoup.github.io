@@ -1,0 +1,40 @@
+{
+    "Title": "The Great Wall",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "17 Feb 2017",
+    "Runtime": "103 min",
+    "Genre": "Action, Adventure, Fantasy, Thriller",
+    "Director": "Yimou Zhang",
+    "Writer": "Carlo Bernard (screenplay), Doug Miro (screenplay), Tony Gilroy (screenplay), Max Brooks (story), Edward Zwick (story), Marshall Herskovitz (story)",
+    "Actors": "Matt Damon, Tian Jing, Willem Dafoe, Andy Lau",
+    "Plot": "In ancient China, a group of European mercenaries encounters a secret army that maintains and defends the Great Wall of China against a horde of monstrous creatures.",
+    "Language": "English, Mandarin, Spanish",
+    "Country": "USA, China, Hong Kong, Australia, Canada",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3MjAzOTQxNF5BMl5BanBnXkFtZTgwOTc5OTY1OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.9",
+    "imdbVotes": "114,645",
+    "imdbID": "tt2034800",
+    "Type": "movie",
+    "DVD": "23 May 2017",
+    "BoxOffice": "$45,125,480",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

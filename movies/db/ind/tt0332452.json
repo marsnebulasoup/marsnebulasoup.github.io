@@ -1,0 +1,40 @@
+{
+    "Title": "Troy",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "14 May 2004",
+    "Runtime": "163 min",
+    "Genre": "Drama, History",
+    "Director": "Wolfgang Petersen",
+    "Writer": "Homer (poem), David Benioff (screenplay)",
+    "Actors": "Julian Glover, Brian Cox, Nathan Jones, Adoni Maropis",
+    "Plot": "An adaptation of Homer's great epic, the film follows the assault on Troy by the united Greek forces and chronicles the fates of the men involved.",
+    "Language": "English",
+    "Country": "USA, Malta, UK",
+    "Awards": "Nominated for 1 Oscar. Another 4 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5MzU1MDMwMF5BMl5BanBnXkFtZTcwNjczODMzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "7.2",
+    "imdbVotes": "459,298",
+    "imdbID": "tt0332452",
+    "Type": "movie",
+    "DVD": "04 Jan 2005",
+    "BoxOffice": "$132,500,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

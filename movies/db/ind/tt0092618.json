@@ -1,0 +1,40 @@
+{
+    "Title": "Barfly",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "16 Oct 1987",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Barbet Schroeder",
+    "Writer": "Charles Bukowski",
+    "Actors": "Mickey Rourke, Faye Dunaway, Alice Krige, Jack Nance",
+    "Plot": "Based on the life of successful poet Charles Bukowski and his exploits in Hollywood during the 60s, 70s, and 80s.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTg3ZTcxMjgtYzIzYS00Y2M3LWI4OTktMzE3NGVhZTc5OTZmXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "74%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.3",
+    "imdbVotes": "17,537",
+    "imdbID": "tt0092618",
+    "Type": "movie",
+    "DVD": "03 Sep 2002",
+    "BoxOffice": "N/A",
+    "Production": "Cannon Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

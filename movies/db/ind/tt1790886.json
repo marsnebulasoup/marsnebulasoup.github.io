@@ -1,0 +1,40 @@
+{
+    "Title": "The Campaign",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "10 Aug 2012",
+    "Runtime": "85 min",
+    "Genre": "Comedy",
+    "Director": "Jay Roach",
+    "Writer": "Chris Henchy (screenplay), Shawn Harwell (screenplay), Adam McKay (story), Chris Henchy (story), Shawn Harwell (story)",
+    "Actors": "Will Ferrell, Zach Galifianakis, Jason Sudeikis, Dylan McDermott",
+    "Plot": "An incumbent Representative embroiled in personal scandal faces a no-holds-barred challenge from a naive newcomer funded by two unscrupulous billionaire lobbyist brothers.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NjI3MzM2Nl5BMl5BanBnXkFtZTcwNDgxNjA5Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.1",
+    "imdbVotes": "119,826",
+    "imdbID": "tt1790886",
+    "Type": "movie",
+    "DVD": "30 Oct 2012",
+    "BoxOffice": "$86,897,182",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

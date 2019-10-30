@@ -1,0 +1,40 @@
+{
+    "Title": "Fred Claus",
+    "Year": "2007",
+    "Rated": "PG",
+    "Released": "09 Nov 2007",
+    "Runtime": "116 min",
+    "Genre": "Comedy, Family, Fantasy",
+    "Director": "David Dobkin",
+    "Writer": "Dan Fogelman (screenplay), Jessie Nelson (story), Dan Fogelman (story)",
+    "Actors": "Vince Vaughn, Paul Giamatti, John Michael Higgins, Miranda Richardson",
+    "Plot": "Fred Claus, Santa's bitter older brother, is forced to move to the North Pole to help Santa and the elves prepare for Christmas in exchange for cash.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY0NDEwNzc0N15BMl5BanBnXkFtZTcwNjgxNzUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.6",
+    "imdbVotes": "37,401",
+    "imdbID": "tt0486583",
+    "Type": "movie",
+    "DVD": "25 Nov 2008",
+    "BoxOffice": "$71,970,547",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

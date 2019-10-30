@@ -1,0 +1,40 @@
+{
+    "Title": "The New World",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "20 Jan 2006",
+    "Runtime": "135 min",
+    "Genre": "Biography, Drama, History, Romance",
+    "Director": "Terrence Malick",
+    "Writer": "Terrence Malick",
+    "Actors": "Colin Farrell, Q'orianka Kilcher, Christopher Plummer, Christian Bale",
+    "Plot": "The story of the English exploration of Virginia, and of the changing world and loves of Pocahontas.",
+    "Language": "English, Algonquin",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 1 Oscar. Another 6 wins & 30 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTdjNjQ5ZTAtODJlZi00MzcyLWJjY2UtNDZhNTJkYjlkNGY5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "6.7",
+    "imdbVotes": "79,320",
+    "imdbID": "tt0402399",
+    "Type": "movie",
+    "DVD": "09 May 2006",
+    "BoxOffice": "$12,465,566",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

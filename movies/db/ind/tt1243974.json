@@ -1,0 +1,40 @@
+{
+    "Title": "Aloha",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "29 May 2015",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Cameron Crowe",
+    "Writer": "Cameron Crowe",
+    "Actors": "Bradley Cooper, Emma Stone, Rachel McAdams, Bill Murray",
+    "Plot": "A celebrated military contractor returns to the site of his greatest career triumphs and reconnects with a long-ago love while unexpectedly falling for the hard-charging Air Force watch-dog assigned to him.",
+    "Language": "English, Hawaiian, Russian",
+    "Country": "USA",
+    "Awards": "2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4Mjc0NTE1NV5BMl5BanBnXkFtZTgwNzcwNTQ3NTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.4",
+    "imdbVotes": "56,169",
+    "imdbID": "tt1243974",
+    "Type": "movie",
+    "DVD": "25 Aug 2015",
+    "BoxOffice": "$15,669,178",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

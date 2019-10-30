@@ -1,0 +1,40 @@
+{
+    "Title": "Holmes & Watson",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2018",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Crime, Mystery",
+    "Director": "Etan Cohen",
+    "Writer": "Etan Cohen, Arthur Conan Doyle (Sherlock Holmes and Dr. Watson were created by the late)",
+    "Actors": "Will Ferrell, John C. Reilly, Rebecca Hall, Rob Brydon",
+    "Plot": "A humorous take on Sir Arthur Conan Doyle's classic mysteries featuring Sherlock Holmes and Doctor Watson.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTNjMjAwNjQtYjE4MC00OGNlLTgzNDctNTE2NTBjMjRlMDgwXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "24/100"
+        }
+    ],
+    "Metascore": "24",
+    "imdbRating": "3.8",
+    "imdbVotes": "22,140",
+    "imdbID": "tt1255919",
+    "Type": "movie",
+    "DVD": "09 Apr 2019",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "How High",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "21 Dec 2001",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Fantasy",
+    "Director": "Jesse Dylan",
+    "Writer": "Dustin Lee Abraham",
+    "Actors": "Method Man, Redman, Obba Babatund\u00e9, Mike Epps",
+    "Plot": "Two guys by the name of Silas and Jamal decided to one day smoke something magical, which eventually helps them to ace their college entrance exam.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWZlNWE3MjctMDJmYS00ZTAyLWFkYmEtMzllNjU0ZDY5ODA2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "26%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "29/100"
+        }
+    ],
+    "Metascore": "29",
+    "imdbRating": "6.3",
+    "imdbVotes": "50,629",
+    "imdbID": "tt0278488",
+    "Type": "movie",
+    "DVD": "21 May 2002",
+    "BoxOffice": "$31,155,435",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

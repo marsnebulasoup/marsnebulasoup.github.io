@@ -1,0 +1,40 @@
+{
+    "Title": "Last Holiday",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "13 Jan 2006",
+    "Runtime": "112 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Wayne Wang",
+    "Writer": "Jeffrey Price (screenplay), Peter S. Seaman (screenplay), J.B. Priestley",
+    "Actors": "Queen Latifah, LL Cool J, Timothy Hutton, Giancarlo Esposito",
+    "Plot": "Upon learning of a terminal illness, a shy woman decides to sell off all her possessions and live it up at a posh European hotel.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY4ZjcxOTItNWQwOC00MmMxLTkzMjYtZmQwMTJiMGY5Y2JlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.4",
+    "imdbVotes": "26,404",
+    "imdbID": "tt0408985",
+    "Type": "movie",
+    "DVD": "02 May 2006",
+    "BoxOffice": "$38,360,195",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

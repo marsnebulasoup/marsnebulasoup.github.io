@@ -1,0 +1,40 @@
+{
+    "Title": "\u00a1Three Amigos!",
+    "Year": "1986",
+    "Rated": "PG",
+    "Released": "12 Dec 1986",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Western",
+    "Director": "John Landis",
+    "Writer": "Steve Martin, Lorne Michaels, Randy Newman",
+    "Actors": "Steve Martin, Chevy Chase, Martin Short, Alfonso Arau",
+    "Plot": "Three actors accept an invitation to a Mexican village to perform their onscreen bandit fighter roles, unaware that it is the real thing.",
+    "Language": "English, Spanish, German",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTE5NDQ1NTMyNl5BMl5BanBnXkFtZTcwNjY5MDQ3NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.5",
+    "imdbVotes": "63,760",
+    "imdbID": "tt0092086",
+    "Type": "movie",
+    "DVD": "23 Nov 1999",
+    "BoxOffice": "N/A",
+    "Production": "HBO Video",
+    "Website": "N/A",
+    "Response": "True"
+}

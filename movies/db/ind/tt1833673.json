@@ -1,0 +1,40 @@
+{
+    "Title": "Dhoom 3",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "20 Dec 2013",
+    "Runtime": "172 min",
+    "Genre": "Action, Thriller",
+    "Director": "Vijay Krishna Acharya",
+    "Writer": "Vijay Krishna Acharya (story), Aditya Chopra (story), Vijay Krishna Acharya (screenplay and dialogue)",
+    "Actors": "Aamir Khan, Abhishek Bachchan, Katrina Kaif, Uday Chopra",
+    "Plot": "When Sahir, a circus entertainer trained in magic and acrobatics, turns into a thief to take down a corrupt bank in Chicago that ruined his father, Indian officers Jai and Ali are called to catch him.",
+    "Language": "Hindi, English, Tamil, Telugu, Arabic",
+    "Country": "India",
+    "Awards": "15 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2E0NWJlNzYtZjFlZS00NDU4LWI0OTAtYTZlYjc2MmQ2MjdmXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "5.4",
+    "imdbVotes": "40,917",
+    "imdbID": "tt1833673",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$5,596,653",
+    "Production": "Yash Raj Films",
+    "Website": "N/A",
+    "Response": "True"
+}

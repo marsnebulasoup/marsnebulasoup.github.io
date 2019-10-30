@@ -1,0 +1,40 @@
+{
+    "Title": "The Terminal",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "18 Jun 2004",
+    "Runtime": "128 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Steven Spielberg",
+    "Writer": "Andrew Niccol (story), Sacha Gervasi (story), Sacha Gervasi (screenplay), Jeff Nathanson (screenplay)",
+    "Actors": "Tom Hanks, Catherine Zeta-Jones, Stanley Tucci, Chi McBride",
+    "Plot": "An Eastern European tourist unexpectedly finds himself stranded in JFK airport, and must take up temporary residence there.",
+    "Language": "English, Bulgarian, Spanish, Russian, Mandarin, German, French",
+    "Country": "USA",
+    "Awards": "5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MTIwNTMxOF5BMl5BanBnXkFtZTcwNjIxMjQyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.3",
+    "imdbVotes": "372,874",
+    "imdbID": "tt0362227",
+    "Type": "movie",
+    "DVD": "23 Nov 2004",
+    "BoxOffice": "$77,032,279",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

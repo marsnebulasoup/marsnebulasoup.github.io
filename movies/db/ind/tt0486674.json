@@ -1,0 +1,36 @@
+{
+    "Title": "What Just Happened",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "31 Oct 2008",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Barry Levinson",
+    "Writer": "Art Linson, Art Linson (book)",
+    "Actors": "Robert De Niro, Sean Penn, Catherine Keener, Bruce Willis",
+    "Plot": "Two weeks in the life of a fading Hollywood producer who's having a rough time trying to get his new picture made.",
+    "Language": "English, Hebrew, French",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTEyMDg3ODAwNl5BMl5BanBnXkFtZTcwMzM3MTc3MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.6",
+    "imdbVotes": "25,666",
+    "imdbID": "tt0486674",
+    "Type": "movie",
+    "DVD": "24 Feb 2009",
+    "BoxOffice": "$1,043,419",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

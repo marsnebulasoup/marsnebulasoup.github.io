@@ -1,0 +1,40 @@
+{
+    "Title": "Flubber",
+    "Year": "1997",
+    "Rated": "PG",
+    "Released": "26 Nov 1997",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Family, Sci-Fi",
+    "Director": "Les Mayfield",
+    "Writer": "Samuel W. Taylor (short story \"A Situation of Gravity\"), John Hughes (screenplay), Bill Walsh (screenplay)",
+    "Actors": "Robin Williams, Marcia Gay Harden, Christopher McDonald, Ted Levine",
+    "Plot": "An absent-minded professor discovers \"flubber,\" a rubber-like super-bouncy substance.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDlkOTA0OTUtOThmMi00NTMyLTg0NDgtZWZiYmRjZWI4MDY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.3",
+    "imdbVotes": "79,443",
+    "imdbID": "tt0119137",
+    "Type": "movie",
+    "DVD": "16 Jun 1998",
+    "BoxOffice": "N/A",
+    "Production": "Disney",
+    "Website": "N/A",
+    "Response": "True"
+}

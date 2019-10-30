@@ -1,0 +1,40 @@
+{
+    "Title": "My Neighbor Totoro",
+    "Year": "1988",
+    "Rated": "G",
+    "Released": "13 Jul 1990",
+    "Runtime": "86 min",
+    "Genre": "Animation, Family, Fantasy",
+    "Director": "Hayao Miyazaki",
+    "Writer": "Hayao Miyazaki",
+    "Actors": "Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto",
+    "Plot": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.",
+    "Language": "Japanese",
+    "Country": "Japan",
+    "Awards": "5 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTdiOTQ0YmUtOGE3YS00NDg5LWI3YTEtNDAxZmE0MzRmZWM5L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.2",
+    "imdbVotes": "244,613",
+    "imdbID": "tt0096283",
+    "Type": "movie",
+    "DVD": "07 Mar 2006",
+    "BoxOffice": "N/A",
+    "Production": "Tokuma Shoten",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Italian Job",
+    "Year": "1969",
+    "Rated": "G",
+    "Released": "03 Sep 1969",
+    "Runtime": "99 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Peter Collinson",
+    "Writer": "Troy Kennedy-Martin",
+    "Actors": "Michael Caine, No\u00ebl Coward, Benny Hill, Raf Vallone",
+    "Plot": "Comic caper movie about a plan to steal a gold shipment from the streets of Turin by creating a traffic jam.",
+    "Language": "English, Italian",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzZjMWVlZGYtMmVkOC00NWY1LTg3MjEtZWRlM2RmMDE3ZmRhXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.3",
+    "imdbVotes": "38,123",
+    "imdbID": "tt0064505",
+    "Type": "movie",
+    "DVD": "07 Oct 2003",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

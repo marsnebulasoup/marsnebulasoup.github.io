@@ -1,0 +1,40 @@
+{
+    "Title": "Spartacus",
+    "Year": "1960",
+    "Rated": "PG-13",
+    "Released": "17 Nov 1960",
+    "Runtime": "197 min",
+    "Genre": "Adventure, Biography, Drama, History, War",
+    "Director": "Stanley Kubrick",
+    "Writer": "Dalton Trumbo (screenplay), Howard Fast (based on the novel by)",
+    "Actors": "Kirk Douglas, Laurence Olivier, Jean Simmons, Charles Laughton",
+    "Plot": "The slave Spartacus leads a violent revolt against the decadent Roman Republic.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 7 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4MTUxN2UtMmU1NC00MjQyLTk3YTYtZTQ0YzEzZDc0Njc0XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "Metascore": "87",
+    "imdbRating": "7.9",
+    "imdbVotes": "115,379",
+    "imdbID": "tt0054331",
+    "Type": "movie",
+    "DVD": "24 Apr 2001",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

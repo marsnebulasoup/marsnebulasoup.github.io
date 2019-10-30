@@ -1,0 +1,40 @@
+{
+    "Title": "The Hills Have Eyes II",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "23 Mar 2007",
+    "Runtime": "89 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Martin Weisz",
+    "Writer": "Wes Craven, Jonathan Craven, Wes Craven (characters)",
+    "Actors": "C\u00e9cile Breccia, Michael Bailey Smith, Archie Kao, Jay Acovone",
+    "Plot": "A group of National Guard trainees find themselves battling against a vicious group of mutants on their last day of training in the desert.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczNTA2MzAzMF5BMl5BanBnXkFtZTYwNTkzMzc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.1",
+    "imdbVotes": "58,078",
+    "imdbID": "tt0800069",
+    "Type": "movie",
+    "DVD": "17 Jul 2007",
+    "BoxOffice": "$20,765,928",
+    "Production": "Fox Atomic",
+    "Website": "N/A",
+    "Response": "True"
+}

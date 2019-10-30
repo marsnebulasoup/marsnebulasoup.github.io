@@ -1,0 +1,40 @@
+{
+    "Title": "Cloud Atlas",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "26 Oct 2012",
+    "Runtime": "172 min",
+    "Genre": "Action, Drama, Mystery, Sci-Fi",
+    "Director": "Tom Tykwer, Lana Wachowski, Lilly Wachowski",
+    "Writer": "David Mitchell (novel), Lana Wachowski (written for the screen by), Tom Tykwer (written for the screen by), Lilly Wachowski (written for the screen by), Chris Lindsay (additional material)",
+    "Actors": "Tom Hanks, Halle Berry, Jim Broadbent, Hugo Weaving",
+    "Plot": "An exploration of how the actions of individual lives impact one another in the past, present and future, as one soul is shaped from a killer into a hero, and an act of kindness ripples across centuries to inspire a revolution.",
+    "Language": "English, Spanish, Ukrainian",
+    "Country": "Germany, USA, Hong Kong, Singapore, China",
+    "Awards": "Nominated for 1 Golden Globe. Another 16 wins & 75 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMTgxMjc4NF5BMl5BanBnXkFtZTcwNjM5MTA2OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.4",
+    "imdbVotes": "329,860",
+    "imdbID": "tt1371111",
+    "Type": "movie",
+    "DVD": "14 May 2013",
+    "BoxOffice": "$22,100,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

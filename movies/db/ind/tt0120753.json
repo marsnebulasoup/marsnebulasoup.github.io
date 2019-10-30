@@ -1,0 +1,40 @@
+{
+    "Title": "The Million Dollar Hotel",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "10 Feb 2000",
+    "Runtime": "122 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Wim Wenders",
+    "Writer": "Bono (story), Nicholas Klein (screenplay), Nicholas Klein (story)",
+    "Actors": "Jeremy Davies, Milla Jovovich, Mel Gibson, Jimmy Smits",
+    "Plot": "Tragi-comic, romantic whodunnit set in a run down hotel which plays host to mentally ill people too poor to afford medical insurance.",
+    "Language": "English",
+    "Country": "Germany, UK, USA",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQ2MGUwYjYtODFiNy00OTViLWJhOTgtZWNmM2I2MDRmMzQ1XkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "25/100"
+        }
+    ],
+    "Metascore": "25",
+    "imdbRating": "5.9",
+    "imdbVotes": "19,972",
+    "imdbID": "tt0120753",
+    "Type": "movie",
+    "DVD": "12 Jun 2001",
+    "BoxOffice": "N/A",
+    "Production": "Icon Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Deadpool",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "12 Feb 2016",
+    "Runtime": "108 min",
+    "Genre": "Action, Adventure, Comedy, Sci-Fi",
+    "Director": "Tim Miller",
+    "Writer": "Rhett Reese, Paul Wernick",
+    "Actors": "Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer",
+    "Plot": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "8.0",
+    "imdbVotes": "839,040",
+    "imdbID": "tt1431045",
+    "Type": "movie",
+    "DVD": "10 May 2016",
+    "BoxOffice": "$328,674,489",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

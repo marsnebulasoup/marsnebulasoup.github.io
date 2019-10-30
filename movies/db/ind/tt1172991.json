@@ -1,0 +1,40 @@
+{
+    "Title": "The Company Men",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "11 Feb 2011",
+    "Runtime": "104 min",
+    "Genre": "Drama",
+    "Director": "John Wells",
+    "Writer": "John Wells",
+    "Actors": "Ben Affleck, Tommy Lee Jones, Chris Cooper, Suzanne Rico",
+    "Plot": "The story centers on a year in the life of three men trying to survive a round of corporate downsizing at a major company - and how that affects them, their families, and their communities.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxMTgyNDc5M15BMl5BanBnXkFtZTcwMzk4OTM5Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "6.7",
+    "imdbVotes": "41,588",
+    "imdbID": "tt1172991",
+    "Type": "movie",
+    "DVD": "07 Jun 2011",
+    "BoxOffice": "$4,439,063",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

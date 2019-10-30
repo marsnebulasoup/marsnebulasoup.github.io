@@ -1,0 +1,40 @@
+{
+    "Title": "Mike and Dave Need Wedding Dates",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "08 Jul 2016",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Jake Szymanski",
+    "Writer": "Andrew Jay Cohen, Brendan O'Brien",
+    "Actors": "Zac Efron, Adam Devine, Anna Kendrick, Aubrey Plaza",
+    "Plot": "Two hard-partying brothers place an online ad to find the perfect dates for their sister's Hawaiian wedding. Hoping for a wild getaway, the boys instead find themselves out-hustled by an uncontrollable duo.",
+    "Language": "English, Chinese, Japanese",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM4NDIxNzI5Nl5BMl5BanBnXkFtZTgwMTg4NTY5NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "37%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.0",
+    "imdbVotes": "76,870",
+    "imdbID": "tt2823054",
+    "Type": "movie",
+    "DVD": "27 Sep 2016",
+    "BoxOffice": "$46,007,113",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

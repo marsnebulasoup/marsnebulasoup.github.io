@@ -1,0 +1,40 @@
+{
+    "Title": "Jane Got a Gun",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "29 Jan 2016",
+    "Runtime": "98 min",
+    "Genre": "Action, Drama, Western",
+    "Director": "Gavin O'Connor",
+    "Writer": "Brian Duffield (screenplay), Anthony Tambakis (screenplay), Joel Edgerton (screenplay), Brian Duffield (story)",
+    "Actors": "Natalie Portman, Joel Edgerton, Ewan McGregor, Noah Emmerich",
+    "Plot": "A woman asks her ex-lover for help in order to save her outlaw husband from a gang out to kill him.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwNDk0NDkwMl5BMl5BanBnXkFtZTgwNzYyNjA3NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "43%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.9",
+    "imdbVotes": "19,423",
+    "imdbID": "tt2140037",
+    "Type": "movie",
+    "DVD": "26 Apr 2016",
+    "BoxOffice": "$976,847",
+    "Production": "Relativity Media",
+    "Website": "N/A",
+    "Response": "True"
+}

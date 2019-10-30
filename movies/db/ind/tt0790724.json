@@ -1,0 +1,40 @@
+{
+    "Title": "Jack Reacher",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "21 Dec 2012",
+    "Runtime": "130 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Christopher McQuarrie",
+    "Writer": "Lee Child (based on the book \"One Shot\" by), Christopher McQuarrie (written for the screen by)",
+    "Actors": "Tom Cruise, Rosamund Pike, Richard Jenkins, David Oyelowo",
+    "Plot": "A homicide investigator digs deeper into a case involving a trained military sniper who shot five random victims.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1NjUxMDI3OV5BMl5BanBnXkFtZTcwNjg1ODM3OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "7.0",
+    "imdbVotes": "289,155",
+    "imdbID": "tt0790724",
+    "Type": "movie",
+    "DVD": "07 May 2013",
+    "BoxOffice": "$80,033,643",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

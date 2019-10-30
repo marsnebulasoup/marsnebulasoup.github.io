@@ -1,0 +1,40 @@
+{
+    "Title": "The Color Purple",
+    "Year": "1985",
+    "Rated": "PG-13",
+    "Released": "07 Feb 1986",
+    "Runtime": "154 min",
+    "Genre": "Drama",
+    "Director": "Steven Spielberg",
+    "Writer": "Menno Meyjes (screenplay), Alice Walker (novel)",
+    "Actors": "Danny Glover, Whoopi Goldberg, Margaret Avery, Oprah Winfrey",
+    "Plot": "A black Southern woman struggles to find her identity after suffering abuse from her father and others over four decades.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 11 Oscars. Another 14 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDRkOWQ5NGUtYTVmOS00ZjNhLWEwODgtOGI2MmUxNTBkMjU0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.8",
+    "imdbVotes": "72,497",
+    "imdbID": "tt0088939",
+    "Type": "movie",
+    "DVD": "18 Feb 2003",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

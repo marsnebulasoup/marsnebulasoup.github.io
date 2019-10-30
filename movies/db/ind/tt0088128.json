@@ -1,0 +1,40 @@
+{
+    "Title": "Sixteen Candles",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "04 May 1984",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Romance",
+    "Director": "John Hughes",
+    "Writer": "John Hughes",
+    "Actors": "Molly Ringwald, Justin Henry, Michael Schoeffling, Haviland Morris",
+    "Plot": "A girl's \"sweet\" sixteenth birthday becomes anything but special, as she suffers from every embarrassment possible.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzNTkxMTkxMl5BMl5BanBnXkFtZTgwMjE3NjkzMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.1",
+    "imdbVotes": "96,129",
+    "imdbID": "tt0088128",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

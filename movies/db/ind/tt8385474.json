@@ -1,0 +1,40 @@
+{
+    "Title": "A Dog's Journey",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "17 May 2019",
+    "Runtime": "109 min",
+    "Genre": "Adventure, Comedy, Drama, Family, Fantasy",
+    "Director": "Gail Mancuso",
+    "Writer": "W. Bruce Cameron (book), W. Bruce Cameron (screenplay), Maya Forbes (screenplay), Cathryn Michon (screenplay), Wallace Wolodarsky (screenplay)",
+    "Actors": "Josh Gad, Dennis Quaid, Kathryn Prescott, Marg Helgenberger",
+    "Plot": "A dog finds the meaning of his own existence through the lives of the humans he meets.",
+    "Language": "English",
+    "Country": "China, India, Hong Kong, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjRhMWY0ODMtMmM3OC00ZGRmLWIyZjktZGQ0ZGE4MzcyZWE5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "7.4",
+    "imdbVotes": "8,700",
+    "imdbID": "tt8385474",
+    "Type": "movie",
+    "DVD": "06 Aug 2019",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Breakfast Club",
+    "Year": "1985",
+    "Rated": "R",
+    "Released": "15 Feb 1985",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama",
+    "Director": "John Hughes",
+    "Writer": "John Hughes",
+    "Actors": "Emilio Estevez, Paul Gleason, Anthony Michael Hall, John Kapelos",
+    "Plot": "Five high school students meet in Saturday detention and discover how they have a lot more in common than they thought.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTM5N2ZmZTMtNjlmOS00YzlkLTk3YjEtNTU1ZmQ5OTdhODZhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.9",
+    "imdbVotes": "323,987",
+    "imdbID": "tt0088847",
+    "Type": "movie",
+    "DVD": "02 Sep 2003",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

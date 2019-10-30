@@ -1,0 +1,40 @@
+{
+    "Title": "Genius",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "10 Jun 2016",
+    "Runtime": "104 min",
+    "Genre": "Biography, Drama",
+    "Director": "Michael Grandage",
+    "Writer": "John Logan (screenplay by), A. Scott Berg (based on the book 'Max Perkins: Editor of Genius' by)",
+    "Actors": "Colin Firth, Jude Law, Nicole Kidman, Laura Linney",
+    "Plot": "A chronicle of Max Perkins's time as the book editor at Scribner, where he oversaw works by Thomas Wolfe, Ernest Hemingway, F. Scott Fitzgerald and others.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMwNzM3NzY0M15BMl5BanBnXkFtZTgwODMwMjQ1ODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.5",
+    "imdbVotes": "16,053",
+    "imdbID": "tt1703957",
+    "Type": "movie",
+    "DVD": "06 Sep 2016",
+    "BoxOffice": "$1,358,018",
+    "Production": "Riverstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

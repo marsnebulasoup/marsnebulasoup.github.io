@@ -1,0 +1,40 @@
+{
+    "Title": "Brittany Runs a Marathon",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "24 Oct 2019",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Paul Downs Colaizzo",
+    "Writer": "Paul Downs Colaizzo",
+    "Actors": "Jillian Bell, Jennifer Dundas, Patch Darragh, Alice Lee",
+    "Plot": "A young woman decides to make positive changes in her life by training for the New York City Marathon.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDRlNTJmNGEtNWM0YS00OWI3LWFkNjUtMzg5MTJjODcyZGU3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "6.9",
+    "imdbVotes": "1,662",
+    "imdbID": "tt7671064",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

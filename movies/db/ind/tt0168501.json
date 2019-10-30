@@ -1,0 +1,40 @@
+{
+    "Title": "The Best Man",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "22 Oct 1999",
+    "Runtime": "120 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Malcolm D. Lee",
+    "Writer": "Malcolm D. Lee",
+    "Actors": "Taye Diggs, Nia Long, Morris Chestnut, Harold Perrineau",
+    "Plot": "Just before best friend's wedding the life of Chicago writer becomes crazy when his friend guesses that new book's story based on his bride's fervent past.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "7 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDkwZjcyM2EtMzMyMS00MzNiLWFjNWUtYjM2YmM4ZTc3OGJjXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.8",
+    "imdbVotes": "8,589",
+    "imdbID": "tt0168501",
+    "Type": "movie",
+    "DVD": "29 Feb 2000",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

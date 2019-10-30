@@ -1,0 +1,36 @@
+{
+    "Title": "The Package",
+    "Year": "2018",
+    "Rated": "TV-MA",
+    "Released": "10 Aug 2018",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Jake Szymanski",
+    "Writer": "Kevin Burrows, Matt Mider",
+    "Actors": "Daniel Doheny, Geraldine Viswanathan, Sadie Calvano, Luke Spencer Roberts",
+    "Plot": "When a group of teenage friends go on a spring break camping trip, an unfortunate accident sets off a race against time to save their friend's most prized possession.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNjY2RhMTUtNTQ1Mi00NmJmLTk4Y2QtYzA1YmM1ZDNiNGRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.5",
+    "imdbVotes": "11,179",
+    "imdbID": "tt7525778",
+    "Type": "movie",
+    "DVD": "10 Aug 2018",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

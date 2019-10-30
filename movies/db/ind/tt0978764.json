@@ -1,0 +1,40 @@
+{
+    "Title": "Sucker Punch",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "25 Mar 2011",
+    "Runtime": "110 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Zack Snyder",
+    "Writer": "Zack Snyder (screenplay), Steve Shibuya (screenplay), Zack Snyder (story)",
+    "Actors": "Emily Browning, Abbie Cornish, Jena Malone, Vanessa Hudgens",
+    "Plot": "A young girl is institutionalized by her abusive stepfather, retreating to an alternative reality as a coping strategy, envisioning a plan to help her escape.",
+    "Language": "English, German",
+    "Country": "USA, Canada",
+    "Awards": "1 win & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDEwNGRlNjQtZjI4OC00ZmMxLWEyYmQtNGI1NDk4YmUyYTNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "6.0",
+    "imdbVotes": "219,898",
+    "imdbID": "tt0978764",
+    "Type": "movie",
+    "DVD": "28 Jun 2011",
+    "BoxOffice": "$36,381,716",
+    "Production": "IMAX",
+    "Website": "N/A",
+    "Response": "True"
+}

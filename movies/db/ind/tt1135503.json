@@ -1,0 +1,40 @@
+{
+    "Title": "Julie & Julia",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "07 Aug 2009",
+    "Runtime": "118 min",
+    "Genre": "Biography, Drama, Romance",
+    "Director": "Nora Ephron",
+    "Writer": "Nora Ephron (screenplay), Julie Powell (book), Julia Child (book), Alex Prud'homme (book)",
+    "Actors": "Meryl Streep, Amy Adams, Stanley Tucci, Chris Messina",
+    "Plot": "Julia Child's story of her start in the cooking profession is intertwined with blogger Julie Powell's 2002 challenge to cook all the recipes in Child's first book.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 24 wins & 46 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzA4NjA2NjI2NV5BMl5BanBnXkFtZTcwOTEzNzI2Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.0",
+    "imdbVotes": "97,803",
+    "imdbID": "tt1135503",
+    "Type": "movie",
+    "DVD": "08 Dec 2009",
+    "BoxOffice": "$94,125,426",
+    "Production": "Sony/Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

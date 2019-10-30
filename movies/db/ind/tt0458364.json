@@ -1,0 +1,40 @@
+{
+    "Title": "The Ex",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "11 May 2007",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Jesse Peretz",
+    "Writer": "David Guion, Michael Handelman",
+    "Actors": "Zach Braff, Amanda Peet, Jason Bateman, Charles Grodin",
+    "Plot": "A slacker is forced to work for his father-in-law after his pregnant wife steps away from her high-paying job.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTcxNDcyOV5BMl5BanBnXkFtZTcwNTM5MjY0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "18%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.5",
+    "imdbVotes": "16,376",
+    "imdbID": "tt0458364",
+    "Type": "movie",
+    "DVD": "21 Aug 2007",
+    "BoxOffice": "$3,015,131",
+    "Production": "The Weinstein Co.",
+    "Website": "N/A",
+    "Response": "True"
+}

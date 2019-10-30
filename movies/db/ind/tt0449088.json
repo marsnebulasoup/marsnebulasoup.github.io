@@ -1,0 +1,40 @@
+{
+    "Title": "Pirates of the Caribbean: At World's End",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "25 May 2007",
+    "Runtime": "169 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Gore Verbinski",
+    "Writer": "Ted Elliott, Terry Rossio, Ted Elliott (characters), Terry Rossio (characters), Stuart Beattie (characters), Jay Wolpert (characters)",
+    "Actors": "Johnny Depp, Geoffrey Rush, Orlando Bloom, Keira Knightley",
+    "Plot": "Captain Barbossa, Will Turner and Elizabeth Swann must sail off the edge of the map, navigate treachery and betrayal, find Jack Sparrow, and make their final alliances for one last decisive battle.",
+    "Language": "Mandarin, English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 20 wins & 44 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyNjkxNzEyMl5BMl5BanBnXkFtZTYwMjc3MDE3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "7.1",
+    "imdbVotes": "563,481",
+    "imdbID": "tt0449088",
+    "Type": "movie",
+    "DVD": "04 Dec 2007",
+    "BoxOffice": "$309,404,152",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

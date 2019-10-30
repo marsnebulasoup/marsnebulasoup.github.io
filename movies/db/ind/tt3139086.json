@@ -1,0 +1,36 @@
+{
+    "Title": "Batman: Assault on Arkham",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "29 Jul 2014",
+    "Runtime": "76 min",
+    "Genre": "Animation, Action, Crime, Sci-Fi, Thriller",
+    "Director": "Jay Oliva, Ethan Spaulding",
+    "Writer": "Heath Corson, Bob Kane (Batman created by), Lew Schwartz (Deadshot co-created by), John Ostrander (Amanda Waller created by), John Byrne (Amanda Waller created by), Paul Dini (Harley Quinn created by), Bruce Timm (Harley Quinn created by)",
+    "Actors": "Kevin Conroy, Neal McDonough, Hynden Walch, Matthew Gray Gubler",
+    "Plot": "Batman works desperately to find a bomb planted by the Joker while Amanda Waller hires her newly formed Suicide Squad to break into Arkham Asylum to recover vital information stolen by the Riddler.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDU1ZGRiY2YtYmZjMi00ZDQwLWJjMWMtNzUwNDMwYjQ4ZTVhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "28,417",
+    "imdbID": "tt3139086",
+    "Type": "movie",
+    "DVD": "12 Aug 2014",
+    "BoxOffice": "N/A",
+    "Production": "WARNER BROTHERS PICTURES",
+    "Website": "N/A",
+    "Response": "True"
+}

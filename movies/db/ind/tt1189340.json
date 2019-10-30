@@ -1,0 +1,40 @@
+{
+    "Title": "The Lincoln Lawyer",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "18 Mar 2011",
+    "Runtime": "118 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Brad Furman",
+    "Writer": "John Romano (screenplay), Michael Connelly (novel)",
+    "Actors": "Matthew McConaughey, Marisa Tomei, Ryan Phillippe, William H. Macy",
+    "Plot": "A lawyer defending a wealthy man begins to believe his client is guilty of more than just one crime.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NDE4NTY5MV5BMl5BanBnXkFtZTcwODQyMTkxNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.3",
+    "imdbVotes": "198,511",
+    "imdbID": "tt1189340",
+    "Type": "movie",
+    "DVD": "12 Jul 2011",
+    "BoxOffice": "$57,900,000",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

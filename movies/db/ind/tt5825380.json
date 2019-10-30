@@ -1,0 +1,40 @@
+{
+    "Title": "Wonder Wheel",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "15 Dec 2017",
+    "Runtime": "101 min",
+    "Genre": "Drama",
+    "Director": "Woody Allen",
+    "Writer": "Woody Allen",
+    "Actors": "Justin Timberlake, Juno Temple, Robert C. Kirk, Kate Winslet",
+    "Plot": "On Coney Island in the 1950s, a lifeguard tells the story of a middle-aged carousel operator, his beleaguered wife, and the visitor who turns their lives upside-down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2NjAyMDIzMzleQTJeQWpwZ15BbWU4MDg1NTEwNjMy._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "31%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.2",
+    "imdbVotes": "21,052",
+    "imdbID": "tt5825380",
+    "Type": "movie",
+    "DVD": "06 Mar 2018",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

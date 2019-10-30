@@ -1,0 +1,40 @@
+{
+    "Title": "The Darjeeling Limited",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "26 Oct 2007",
+    "Runtime": "91 min",
+    "Genre": "Adventure, Comedy, Drama",
+    "Director": "Wes Anderson",
+    "Writer": "Wes Anderson, Roman Coppola, Jason Schwartzman",
+    "Actors": "Owen Wilson, Adrien Brody, Jason Schwartzman, Amara Karan",
+    "Plot": "A year after their father's funeral, three brothers travel across India by train in an attempt to bond with each other.",
+    "Language": "English, Hindi, German, Tibetan",
+    "Country": "USA",
+    "Awards": "4 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MTQ4MTgwOF5BMl5BanBnXkFtZTcwMDA3MDU1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.2",
+    "imdbVotes": "168,216",
+    "imdbID": "tt0838221",
+    "Type": "movie",
+    "DVD": "26 Feb 2008",
+    "BoxOffice": "$11,900,000",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

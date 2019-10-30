@@ -1,0 +1,40 @@
+{
+    "Title": "Car Wash",
+    "Year": "1976",
+    "Rated": "PG",
+    "Released": "22 Oct 1976",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michael Schultz",
+    "Writer": "Joel Schumacher",
+    "Actors": "Darrow Igus, Otis Day, James Spinks, Antonio Fargas",
+    "Plot": "A comedic take on the daily life of a car wash employees, chronicling their hopes, fears, joys, dreams and tribulations. And meeting a few eccentric costumers along the way.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 3 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q3MjVjM2EtYmExMS00YTRhLTllMjgtYWEyNGMyMDQ4NmI1XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.1",
+    "imdbVotes": "5,899",
+    "imdbID": "tt0074281",
+    "Type": "movie",
+    "DVD": "07 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

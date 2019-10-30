@@ -1,0 +1,40 @@
+{
+    "Title": "Shocker",
+    "Year": "1989",
+    "Rated": "R",
+    "Released": "27 Oct 1989",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Horror, Thriller",
+    "Director": "Wes Craven",
+    "Writer": "Wes Craven",
+    "Actors": "Mitch Pileggi, John Tesh, Heather Langenkamp, Peter Berg",
+    "Plot": "After being sent to the electric chair, a serial killer uses electricity to come back from the dead and carry out his vengeance on the football player who turned him in to the police.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOThlZDkyYWItY2YxMS00ZDBlLWE1ZjgtNWYxZWY5NGNmZDQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "5.5",
+    "imdbVotes": "13,668",
+    "imdbID": "tt0098320",
+    "Type": "movie",
+    "DVD": "16 Mar 1999",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

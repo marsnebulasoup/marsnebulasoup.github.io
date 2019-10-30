@@ -1,0 +1,40 @@
+{
+    "Title": "The Boss",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "08 Apr 2016",
+    "Runtime": "99 min",
+    "Genre": "Comedy",
+    "Director": "Ben Falcone",
+    "Writer": "Melissa McCarthy, Ben Falcone, Steve Mallory",
+    "Actors": "Melissa McCarthy, Kristen Bell, Peter Dinklage, Ella Anderson",
+    "Plot": "A titan of industry is sent to prison after she's caught insider trading. When she emerges ready to rebrand herself as America's latest sweetheart, not everyone she screwed over is so quick to forgive and forget.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQzNTUwNDU0OV5BMl5BanBnXkFtZTgwNzU5NTAwODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "21%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.4",
+    "imdbVotes": "40,104",
+    "imdbID": "tt2702724",
+    "Type": "movie",
+    "DVD": "26 Jul 2016",
+    "BoxOffice": "$54,489,847",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,36 @@
+{
+    "Title": "Domino",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "31 May 2019",
+    "Runtime": "89 min",
+    "Genre": "Crime, Thriller",
+    "Director": "Brian De Palma",
+    "Writer": "Petter Skavlan",
+    "Actors": "Nikolaj Coster-Waldau, S\u00f8ren Malling, Sus Wilkins, Paprika Steen",
+    "Plot": "A Copenhagen police officer seeks justice for his partner's murder by a mysterious man.",
+    "Language": "English",
+    "Country": "Denmark, France, Italy, Belgium, Netherlands",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzU5NTIwMjI2OF5BMl5BanBnXkFtZTgwNDg1MTE4NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.4/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "4.4",
+    "imdbVotes": "2,307",
+    "imdbID": "tt3282076",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

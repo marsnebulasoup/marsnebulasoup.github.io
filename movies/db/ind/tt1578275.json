@@ -1,0 +1,40 @@
+{
+    "Title": "The Dilemma",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "14 Jan 2011",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Ron Howard",
+    "Writer": "Allan Loeb",
+    "Actors": "Vince Vaughn, Kevin James, Jennifer Connelly, Winona Ryder",
+    "Plot": "A man discovers that his best friend's wife is having an affair.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg3MDUwMTI1OV5BMl5BanBnXkFtZTcwNzY0NDIxNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "5.3",
+    "imdbVotes": "48,888",
+    "imdbID": "tt1578275",
+    "Type": "movie",
+    "DVD": "03 May 2011",
+    "BoxOffice": "$48,430,355",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

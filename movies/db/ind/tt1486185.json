@@ -1,0 +1,40 @@
+{
+    "Title": "Red Riding Hood",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "11 Mar 2011",
+    "Runtime": "100 min",
+    "Genre": "Fantasy, Horror, Mystery, Romance, Thriller",
+    "Director": "Catherine Hardwicke",
+    "Writer": "David Leslie Johnson-McGoldrick",
+    "Actors": "Amanda Seyfried, Gary Oldman, Billy Burke, Shiloh Fernandez",
+    "Plot": "Set in a medieval village that is haunted by a werewolf, a young girl falls for an orphaned woodcutter, much to her family's displeasure.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4NjYyMzQ5MV5BMl5BanBnXkFtZTcwNjE5Mjc3NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "10%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "29/100"
+        }
+    ],
+    "Metascore": "29",
+    "imdbRating": "5.4",
+    "imdbVotes": "103,384",
+    "imdbID": "tt1486185",
+    "Type": "movie",
+    "DVD": "14 Jun 2011",
+    "BoxOffice": "$37,200,000",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

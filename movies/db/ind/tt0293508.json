@@ -1,0 +1,40 @@
+{
+    "Title": "The Phantom of the Opera",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "22 Dec 2004",
+    "Runtime": "143 min",
+    "Genre": "Drama, Musical, Romance, Thriller",
+    "Director": "Joel Schumacher",
+    "Writer": "Gaston Leroux (novel), Andrew Lloyd Webber (book), Andrew Lloyd Webber (screenplay), Joel Schumacher (screenplay)",
+    "Actors": "Gerard Butler, Emmy Rossum, Patrick Wilson, Miranda Richardson",
+    "Plot": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Op\u00e9ra House.",
+    "Language": "English, Italian",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 3 Oscars. Another 6 wins & 39 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDczNzg4OTM3MV5BMl5BanBnXkFtZTcwOTQzMTEzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "7.3",
+    "imdbVotes": "111,011",
+    "imdbID": "tt0293508",
+    "Type": "movie",
+    "DVD": "03 May 2005",
+    "BoxOffice": "$51,193,556",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

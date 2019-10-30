@@ -1,0 +1,36 @@
+{
+    "Title": "Cherry Falls",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "25 Aug 2000",
+    "Runtime": "92 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Geoffrey Wright",
+    "Writer": "Ken Selden",
+    "Actors": "Brittany Murphy, Jay Mohr, Michael Biehn, Jesse Bradford",
+    "Plot": "In the small town of Cherry Falls, a psychotic murderer is killing off the virgins of the local high school.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU4YzA1NGEtYmVhMy00ZGMwLThhY2YtNTUyN2RhNWNkNzI2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.2",
+    "imdbVotes": "11,570",
+    "imdbID": "tt0175526",
+    "Type": "movie",
+    "DVD": "30 Jan 2001",
+    "BoxOffice": "N/A",
+    "Production": "USA Films",
+    "Website": "N/A",
+    "Response": "True"
+}

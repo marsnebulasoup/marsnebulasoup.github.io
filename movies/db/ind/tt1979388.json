@@ -1,0 +1,40 @@
+{
+    "Title": "The Good Dinosaur",
+    "Year": "2015",
+    "Rated": "PG",
+    "Released": "25 Nov 2015",
+    "Runtime": "93 min",
+    "Genre": "Animation, Adventure, Comedy, Drama, Family, Fantasy",
+    "Director": "Peter Sohn",
+    "Writer": "Bob Peterson (original concept & development by), Peter Sohn (story by), Erik Benson (story by), Meg LeFauve (story by), Kelsey Mann (story by), Bob Peterson (story by), Meg LeFauve (screenplay by), Peter Hedges (additional screenplay material by), Adrian Molina (additional screenplay material by)",
+    "Actors": "Jeffrey Wright, Frances McDormand, Maleah Nipay-Padilla, Ryan Teeple",
+    "Plot": "In a world where dinosaurs and humans live side-by-side, an Apatosaurus named Arlo makes an unlikely human friend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 7 wins & 39 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5MTg2NjQ4MV5BMl5BanBnXkFtZTgwNzcxOTY5NjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.7",
+    "imdbVotes": "93,451",
+    "imdbID": "tt1979388",
+    "Type": "movie",
+    "DVD": "23 Feb 2016",
+    "BoxOffice": "$123,087,120",
+    "Production": "Disney/Pixar",
+    "Website": "N/A",
+    "Response": "True"
+}

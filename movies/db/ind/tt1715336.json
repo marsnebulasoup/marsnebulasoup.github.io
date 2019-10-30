@@ -1,0 +1,40 @@
+{
+    "Title": "Anna",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "24 Jan 2014",
+    "Runtime": "99 min",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Jorge Dorado",
+    "Writer": "Guy Holmes, Martha Holmes (story), Guy Holmes (screenplay by), Guy Holmes (story)",
+    "Actors": "Mark Strong, Saskia Reeves, Richard Dillane, Indira Varma",
+    "Plot": "A man with the ability to enter people's memories takes on the case of a brilliant, troubled sixteen-year-old girl to determine whether she is a sociopath or a victim of trauma.",
+    "Language": "English",
+    "Country": "Spain, USA, UK, France",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAwNDQwNjUxNV5BMl5BanBnXkFtZTgwODgzMjk2MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.5",
+    "imdbVotes": "20,049",
+    "imdbID": "tt1715336",
+    "Type": "movie",
+    "DVD": "04 Aug 2014",
+    "BoxOffice": "N/A",
+    "Production": "Vertical Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

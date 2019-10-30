@@ -1,0 +1,40 @@
+{
+    "Title": "Ocean's 11",
+    "Year": "1960",
+    "Rated": "Approved",
+    "Released": "04 Aug 1960",
+    "Runtime": "127 min",
+    "Genre": "Comedy, Crime, Music, Thriller",
+    "Director": "Lewis Milestone",
+    "Writer": "Harry Brown (screenplay), Charles Lederer (screenplay), George Clayton Johnson (story), Jack Golden Russell (story)",
+    "Actors": "Frank Sinatra, Dean Martin, Sammy Davis Jr., Peter Lawford",
+    "Plot": "Danny Ocean gathers a group of his World War II compatriots to pull off the ultimate Las Vegas heist. Together the eleven friends plan to rob five Las Vegas casinos in one night.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5MzU1ODQzOF5BMl5BanBnXkFtZTgwNTA2MDE3MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.6",
+    "imdbVotes": "18,543",
+    "imdbID": "tt0054135",
+    "Type": "movie",
+    "DVD": "13 May 2008",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

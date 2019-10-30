@@ -1,0 +1,40 @@
+{
+    "Title": "The Hunter",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "06 Oct 2011",
+    "Runtime": "100 min",
+    "Genre": "Adventure, Drama, Thriller",
+    "Director": "Daniel Nettheim",
+    "Writer": "Alice Addison (screenplay), Wain Fimeri (original adaptation), Daniel Nettheim (original adaptation), Julia Leigh (based on the novel by)",
+    "Actors": "Willem Dafoe, Frances O'Connor, Sam Neill, Morgan Davies",
+    "Plot": "Martin, a mercenary, is sent from Europe by a mysterious biotech company to the Tasmanian wilderness on a hunt for the last Tasmanian tiger.",
+    "Language": "English",
+    "Country": "Australia",
+    "Awards": "4 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI4Mzc0MTg4OV5BMl5BanBnXkFtZTcwNTc1NDQzNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.7",
+    "imdbVotes": "35,110",
+    "imdbID": "tt1703148",
+    "Type": "movie",
+    "DVD": "03 Jul 2012",
+    "BoxOffice": "$176,432",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

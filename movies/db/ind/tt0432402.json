@@ -1,0 +1,40 @@
+{
+    "Title": "Factory Girl",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "16 Feb 2007",
+    "Runtime": "90 min",
+    "Genre": "Biography, Drama",
+    "Director": "George Hickenlooper",
+    "Writer": "Captain Mauzner (screenplay), Simon Monjack (story), Aaron Richard Golub (story), Captain Mauzner (story)",
+    "Actors": "Sienna Miller, Guy Pearce, Hayden Christensen, Jimmy Fallon",
+    "Plot": "Based on the rise and fall of socialite Edie Sedgwick, concentrating on her relationships with Andy Warhol and a folk singer.",
+    "Language": "English, Slovak, French",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzg5Mzc4MTM0M15BMl5BanBnXkFtZTcwODU3ODM0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "19%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.4",
+    "imdbVotes": "20,140",
+    "imdbID": "tt0432402",
+    "Type": "movie",
+    "DVD": "17 Jul 2007",
+    "BoxOffice": "$1,566,027",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

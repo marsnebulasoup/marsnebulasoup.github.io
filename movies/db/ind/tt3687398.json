@@ -1,0 +1,40 @@
+{
+    "Title": "The Runner",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "07 Aug 2015",
+    "Runtime": "90 min",
+    "Genre": "Drama",
+    "Director": "Austin Stark",
+    "Writer": "Austin Stark",
+    "Actors": "Nicolas Cage, Sarah Paulson, Peter Fonda, Connie Nielsen",
+    "Plot": "In the aftermath of the 2010 BP oil spill, an idealistic but flawed politician is forced to confront his dysfunctional life after his career is destroyed in a sex scandal.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMDkwNDIyMV5BMl5BanBnXkFtZTgwNDU1OTEwNjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "4.7",
+    "imdbVotes": "4,660",
+    "imdbID": "tt3687398",
+    "Type": "movie",
+    "DVD": "25 Aug 2015",
+    "BoxOffice": "N/A",
+    "Production": "Alchemy",
+    "Website": "N/A",
+    "Response": "True"
+}

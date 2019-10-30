@@ -1,0 +1,40 @@
+{
+    "Title": "Jennifer's Body",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "18 Sep 2009",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Karyn Kusama",
+    "Writer": "Diablo Cody",
+    "Actors": "Megan Fox, Amanda Seyfried, Johnny Simmons, Adam Brody",
+    "Plot": "A newly possessed high school cheerleader turns into a succubus who specializes in killing her male classmates. Can her best friend put an end to the horror?",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxNzYwMjc1Ml5BMl5BanBnXkFtZTcwNDI3MDE3Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "5.2",
+    "imdbVotes": "107,868",
+    "imdbID": "tt1131734",
+    "Type": "movie",
+    "DVD": "29 Dec 2009",
+    "BoxOffice": "$16,031,583",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

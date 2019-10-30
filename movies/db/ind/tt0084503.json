@@ -1,0 +1,40 @@
+{
+    "Title": "Pink Floyd: The Wall",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "17 Sep 1982",
+    "Runtime": "95 min",
+    "Genre": "Animation, Drama, Fantasy, Music, Musical",
+    "Director": "Alan Parker",
+    "Writer": "Roger Waters (album \"The Wall\"), Roger Waters (screenplay)",
+    "Actors": "Bob Geldof, Christine Hargreaves, James Laurenson, Eleanor David",
+    "Plot": "A confined but troubled rock star descends into madness in the midst of his physical and social isolation from everyone.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "Won 2 BAFTA Film Awards. Another 1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDhlZTYxOTYtYTk3Ny00ZDljLTk3ZmItZTcxZWU5YTIyYmFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "8.1",
+    "imdbVotes": "71,458",
+    "imdbID": "tt0084503",
+    "Type": "movie",
+    "DVD": "02 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

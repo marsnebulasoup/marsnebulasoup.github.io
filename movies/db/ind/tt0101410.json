@@ -1,0 +1,40 @@
+{
+    "Title": "Barton Fink",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "21 Aug 1991",
+    "Runtime": "116 min",
+    "Genre": "Comedy, Drama, Thriller",
+    "Director": "Joel Coen, Ethan Coen",
+    "Writer": "Joel Coen, Ethan Coen",
+    "Actors": "John Turturro, John Goodman, Judy Davis, Michael Lerner",
+    "Plot": "A renowned New York playwright is enticed to California to write for the movies and discovers the hellish truth of Hollywood.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 3 Oscars. Another 15 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDMxMTctNDY0Zi00ZmNlLWFlYmQtODA2YjY4MDk4MjU1XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.7",
+    "imdbVotes": "106,017",
+    "imdbID": "tt0101410",
+    "Type": "movie",
+    "DVD": "20 May 2003",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

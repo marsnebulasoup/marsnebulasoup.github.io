@@ -1,0 +1,40 @@
+{
+    "Title": "Westworld",
+    "Year": "1973",
+    "Rated": "PG",
+    "Released": "15 Aug 1973",
+    "Runtime": "88 min",
+    "Genre": "Action, Sci-Fi, Thriller, Western",
+    "Director": "Michael Crichton",
+    "Writer": "Michael Crichton",
+    "Actors": "Yul Brynner, Richard Benjamin, James Brolin, Norman Bartold",
+    "Plot": "A robot malfunction creates havoc and terror for unsuspecting vacationers at a futuristic, adult-themed amusement park.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWY0NzM5MDAtYTg2NC00MDZjLTgwM2UtZjdiOTEzMjQ4MjU0L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.0",
+    "imdbVotes": "47,468",
+    "imdbID": "tt0070909",
+    "Type": "movie",
+    "DVD": "29 Sep 1998",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

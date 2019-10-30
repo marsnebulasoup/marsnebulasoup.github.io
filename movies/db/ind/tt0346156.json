@@ -1,0 +1,40 @@
+{
+    "Title": "Sky Captain and the World of Tomorrow",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "17 Sep 2004",
+    "Runtime": "106 min",
+    "Genre": "Action, Adventure, Crime, Fantasy, Mystery, Sci-Fi, Thriller",
+    "Director": "Kerry Conran",
+    "Writer": "Kerry Conran",
+    "Actors": "Gwyneth Paltrow, Jude Law, Giovanni Ribisi, Michael Gambon",
+    "Plot": "After New York City receives a series of attacks from giant flying robots, a reporter teams up with a pilot in search of their origin, as well as the reason for the disappearances of famous scientists around the world.",
+    "Language": "English, Tibetan, German",
+    "Country": "USA, UK, Italy",
+    "Awards": "8 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0NDQzMDA1NF5BMl5BanBnXkFtZTcwNTU3ODAzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.0",
+    "imdbVotes": "79,299",
+    "imdbID": "tt0346156",
+    "Type": "movie",
+    "DVD": "25 Jan 2005",
+    "BoxOffice": "$37,600,000",
+    "Production": "Paramount",
+    "Website": "N/A",
+    "Response": "True"
+}

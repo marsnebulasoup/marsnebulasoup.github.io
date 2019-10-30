@@ -1,0 +1,40 @@
+{
+    "Title": "Psycho II",
+    "Year": "1983",
+    "Rated": "R",
+    "Released": "03 Jun 1983",
+    "Runtime": "113 min",
+    "Genre": "Crime, Horror, Mystery, Thriller",
+    "Director": "Richard Franklin",
+    "Writer": "Tom Holland, Robert Bloch (characters)",
+    "Actors": "Anthony Perkins, Vera Miles, Meg Tilly, Robert Loggia",
+    "Plot": "After twenty-two years of psychiatric care, Norman Bates attempts to return to a life of solitude, but the specters of his crimes - and his mother - continue to haunt him.",
+    "Language": "English",
+    "Country": "USA, Australia",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDNhMThiN2QtZWVlOS00NzQ3LWE2Y2ItYjMxYjBmY2ExNDNlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.5",
+    "imdbVotes": "21,771",
+    "imdbID": "tt0086154",
+    "Type": "movie",
+    "DVD": "15 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

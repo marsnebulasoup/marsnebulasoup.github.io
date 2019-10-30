@@ -1,0 +1,40 @@
+{
+    "Title": "Spider-Man 2",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "30 Jun 2004",
+    "Runtime": "127 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Sam Raimi",
+    "Writer": "Stan Lee (comic book), Steve Ditko (comic book), Alfred Gough (screen story), Miles Millar (screen story), Michael Chabon (screen story), Alvin Sargent (screenplay)",
+    "Actors": "Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina",
+    "Plot": "Peter Parker is beset with troubles in his failing personal life as he battles a brilliant scientist named Doctor Otto Octavius.",
+    "Language": "English, Russian, Chinese",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 23 wins & 59 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.3",
+    "imdbVotes": "509,341",
+    "imdbID": "tt0316654",
+    "Type": "movie",
+    "DVD": "30 Nov 2004",
+    "BoxOffice": "$373,377,893",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

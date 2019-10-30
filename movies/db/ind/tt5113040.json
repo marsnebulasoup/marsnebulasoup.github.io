@@ -1,0 +1,40 @@
+{
+    "Title": "The Secret Life of Pets 2",
+    "Year": "2019",
+    "Rated": "PG",
+    "Released": "07 Jun 2019",
+    "Runtime": "86 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "Chris Renaud, Jonathan del Val(co-director)",
+    "Writer": "Brian Lynch",
+    "Actors": "Patton Oswalt, Kevin Hart, Harrison Ford, Eric Stonestreet",
+    "Plot": "Continuing the story of Max and his pet friends, following their secret lives after their owners leave them for work or school each day.",
+    "Language": "English",
+    "Country": "USA, France, Japan",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzdlMWQzZmItMDA5Ny00MGFjLTk0MDAtYjgzMmMyNTEwMzdhXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.5",
+    "imdbVotes": "28,497",
+    "imdbID": "tt5113040",
+    "Type": "movie",
+    "DVD": "13 Aug 2019",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Nashville",
+    "Year": "1975",
+    "Rated": "R",
+    "Released": "01 Jul 1975",
+    "Runtime": "160 min",
+    "Genre": "Comedy, Drama, Music",
+    "Director": "Robert Altman",
+    "Writer": "Joan Tewkesbury",
+    "Actors": "David Arkin, Barbara Baxley, Ned Beatty, Karen Black",
+    "Plot": "Over the course of a few hectic days, numerous interrelated people prepare for a political convention as secrets and lies are surfaced and revealed.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 22 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDY0MzE3YWQtZTAzMS00ZmRlLWE3NzYtMjk0NDlkMmE4N2U2XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "96/100"
+        }
+    ],
+    "Metascore": "96",
+    "imdbRating": "7.7",
+    "imdbVotes": "21,548",
+    "imdbID": "tt0073440",
+    "Type": "movie",
+    "DVD": "15 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Baby Boom",
+    "Year": "1987",
+    "Rated": "PG",
+    "Released": "30 Oct 1987",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Charles Shyer",
+    "Writer": "Nancy Meyers, Charles Shyer",
+    "Actors": "Diane Keaton, Sam Shepard, Harold Ramis, Kristina Kennedy",
+    "Plot": "The life of super-yuppie J.C. is thrown into turmoil when she inherits a baby from a distant relative.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NDY2ODMzOV5BMl5BanBnXkFtZTcwMjQ0MTcyNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.2",
+    "imdbVotes": "12,865",
+    "imdbID": "tt0092605",
+    "Type": "movie",
+    "DVD": "06 Feb 2001",
+    "BoxOffice": "N/A",
+    "Production": "MGM Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

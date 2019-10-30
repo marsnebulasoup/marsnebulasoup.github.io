@@ -1,0 +1,36 @@
+{
+    "Title": "The Pixar Story",
+    "Year": "2007",
+    "Rated": "G",
+    "Released": "28 Aug 2007",
+    "Runtime": "87 min",
+    "Genre": "Documentary",
+    "Director": "Leslie Iwerks",
+    "Writer": "Leslie Iwerks",
+    "Actors": "Stacy Keach, John Lasseter, Brad Bird, John Musker",
+    "Plot": "A look at the first years of Pixar Animation Studios - from the success of \"Toy Story\" and Pixar's promotion of talented people, to the building of its East Bay campus, the company's ...",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Primetime Emmy. Another 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIwMDQxOTQyMF5BMl5BanBnXkFtZTcwNDI5MTU1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.8",
+    "imdbVotes": "5,166",
+    "imdbID": "tt1059955",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

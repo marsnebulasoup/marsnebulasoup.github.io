@@ -1,0 +1,40 @@
+{
+    "Title": "Junior",
+    "Year": "1994",
+    "Rated": "PG-13",
+    "Released": "23 Nov 1994",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Romance, Sci-Fi",
+    "Director": "Ivan Reitman",
+    "Writer": "Kevin Wade, Chris Conrad",
+    "Actors": "Arnold Schwarzenegger, Danny DeVito, Emma Thompson, Frank Langella",
+    "Plot": "As part of a fertility research project, a male scientist agrees to carry a pregnancy in his own body.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDUwN2E1ODMtMjRiMS00Yzk0LTk1MWYtZjE4M2I5NzcyMmI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "4.6",
+    "imdbVotes": "61,724",
+    "imdbID": "tt0110216",
+    "Type": "movie",
+    "DVD": "15 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

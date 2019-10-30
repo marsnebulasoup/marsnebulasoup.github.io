@@ -1,0 +1,40 @@
+{
+    "Title": "Beverly Hills Ninja",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "17 Jan 1997",
+    "Runtime": "88 min",
+    "Genre": "Action, Comedy",
+    "Director": "Dennis Dugan",
+    "Writer": "Mark Feldberg, Mitchell Klebanoff",
+    "Actors": "Chris Farley, Nicollette Sheridan, Robin Shou, Nathaniel Parker",
+    "Plot": "A man tries to rescue a woman with a little help from his half brother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGU1NzQ1ZmItZGVmNC00NWQ4LWEwYTYtOTc4NWE1MmY0YTk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "27/100"
+        }
+    ],
+    "Metascore": "27",
+    "imdbRating": "5.5",
+    "imdbVotes": "36,243",
+    "imdbID": "tt0118708",
+    "Type": "movie",
+    "DVD": "06 Mar 2001",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Lodge",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "07 Feb 2020",
+    "Runtime": "100 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Severin Fiala, Veronika Franz",
+    "Writer": "Sergio Casci, Severin Fiala, Veronika Franz",
+    "Actors": "Riley Keough, Alicia Silverstone, Richard Armitage, Jaeden Martell",
+    "Plot": "A soon-to-be stepmom is snowed in with her fianc\u00e9's two children at a remote holiday village. Just as relations begin to thaw between the trio, some strange and frightening events take place.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzM1MTA3NTAwOV5BMl5BanBnXkFtZTgwNDA1NTYwODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.7",
+    "imdbVotes": "780",
+    "imdbID": "tt7347846",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+}

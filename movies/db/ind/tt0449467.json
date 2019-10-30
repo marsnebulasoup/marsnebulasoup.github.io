@@ -1,0 +1,40 @@
+{
+    "Title": "Babel",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "10 Nov 2006",
+    "Runtime": "143 min",
+    "Genre": "Drama",
+    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Writer": "Guillermo Arriaga, Guillermo Arriaga (idea), Alejandro G. I\u00f1\u00e1rritu (idea)",
+    "Actors": "Brad Pitt, Cate Blanchett, Mohamed Akhzam, Peter Wight",
+    "Plot": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.",
+    "Language": "English, Arabic, Spanish, Japanese, Berber languages, French, Russian, Japanese Sign Language",
+    "Country": "France, USA, Mexico",
+    "Awards": "Won 1 Oscar. Another 41 wins & 134 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTJkZDljNGYtNjRiNC00ZmY2LTg1NmItYTI1MTllNDQzMWVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.4",
+    "imdbVotes": "276,234",
+    "imdbID": "tt0449467",
+    "Type": "movie",
+    "DVD": "20 Feb 2007",
+    "BoxOffice": "$34,237,104",
+    "Production": "Paramount Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Legend",
+    "Year": "1985",
+    "Rated": "PG",
+    "Released": "18 Apr 1986",
+    "Runtime": "94 min",
+    "Genre": "Adventure, Fantasy, Romance",
+    "Director": "Ridley Scott",
+    "Writer": "William Hjortsberg",
+    "Actors": "Tom Cruise, Mia Sara, Tim Curry, David Bennent",
+    "Plot": "A young man must stop the Lord of Darkness from both destroying daylight and marrying the woman he loves.",
+    "Language": "English, Italian",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 1 win & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTAxZmQ4YzktNTI3Yi00MjgzLTg0YzMtODdmMWVmODUzNjJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "30/100"
+        }
+    ],
+    "Metascore": "30",
+    "imdbRating": "6.5",
+    "imdbVotes": "56,023",
+    "imdbID": "tt0089469",
+    "Type": "movie",
+    "DVD": "21 May 2002",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

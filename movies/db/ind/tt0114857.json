@@ -1,0 +1,40 @@
+{
+    "Title": "Virtuosity",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "04 Aug 1995",
+    "Runtime": "106 min",
+    "Genre": "Action, Crime, Sci-Fi, Thriller",
+    "Director": "Brett Leonard",
+    "Writer": "Eric Bernt",
+    "Actors": "Denzel Washington, Kelly Lynch, Russell Crowe, Stephen Spinella",
+    "Plot": "When a virtual reality simulation created using the personalities of multiple serial killers manages to escape into the real world, an ex-cop is tasked with stopping its reign of terror.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWRmMTNlZDEtZTExYi00Y2E4LTg5YjItODFlNWY0Mzc4MDZlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "32%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "5.6",
+    "imdbVotes": "26,584",
+    "imdbID": "tt0114857",
+    "Type": "movie",
+    "DVD": "25 May 1999",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

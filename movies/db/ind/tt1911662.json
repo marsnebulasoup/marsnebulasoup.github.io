@@ -1,0 +1,40 @@
+{
+    "Title": "Vehicle 19",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "07 Feb 2013",
+    "Runtime": "85 min",
+    "Genre": "Action, Thriller",
+    "Director": "Mukunda Michael Dewil",
+    "Writer": "Mukunda Michael Dewil",
+    "Actors": "Paul Walker, Naima McLean, Gys de Villiers, Leyla Haidarian",
+    "Plot": "In Johannesburg, an American parole breaker unknowingly picks up a rental car that will tie him to a web of corrupt local police.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk0NDU4ODc4OF5BMl5BanBnXkFtZTcwMjIwMTU1OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "23%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "29/100"
+        }
+    ],
+    "Metascore": "29",
+    "imdbRating": "4.9",
+    "imdbVotes": "14,045",
+    "imdbID": "tt1911662",
+    "Type": "movie",
+    "DVD": "23 Jul 2013",
+    "BoxOffice": "N/A",
+    "Production": "Arc Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

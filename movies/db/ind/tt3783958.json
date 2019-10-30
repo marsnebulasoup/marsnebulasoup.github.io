@@ -1,0 +1,40 @@
+{
+    "Title": "La La Land",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2016",
+    "Runtime": "128 min",
+    "Genre": "Comedy, Drama, Music, Musical, Romance",
+    "Director": "Damien Chazelle",
+    "Writer": "Damien Chazelle",
+    "Actors": "Ryan Gosling, Emma Stone, Ami\u00e9e Conn, Terry Walters",
+    "Plot": "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
+    "Language": "English",
+    "Country": "USA, Hong Kong",
+    "Awards": "Won 6 Oscars. Another 215 wins & 254 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzUzNDM2NzM2MV5BMl5BanBnXkFtZTgwNTM3NTg4OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "93/100"
+        }
+    ],
+    "Metascore": "93",
+    "imdbRating": "8.0",
+    "imdbVotes": "447,936",
+    "imdbID": "tt3783958",
+    "Type": "movie",
+    "DVD": "25 Apr 2017",
+    "BoxOffice": "$151,058,124",
+    "Production": "Liongate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

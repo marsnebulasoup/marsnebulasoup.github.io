@@ -1,0 +1,40 @@
+{
+    "Title": "Back to the Future Part III",
+    "Year": "1990",
+    "Rated": "PG",
+    "Released": "25 May 1990",
+    "Runtime": "118 min",
+    "Genre": "Adventure, Comedy, Sci-Fi, Western",
+    "Director": "Robert Zemeckis",
+    "Writer": "Robert Zemeckis (characters), Bob Gale (characters), Robert Zemeckis (story), Bob Gale (story), Bob Gale (screenplay)",
+    "Actors": "Michael J. Fox, Christopher Lloyd, Mary Steenburgen, Thomas F. Wilson",
+    "Plot": "Learning about the death of Doc Brown in 1885, Marty travels back in time to save him. But when the fuel tank on the time machine is punctured, the two must figure out a way to escape the Old West before Emmet is murdered.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjhlMGYxNmMtOWFmMi00Y2M2LWE5NWYtZTdlMDRlMGEzMDA3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.4",
+    "imdbVotes": "367,426",
+    "imdbID": "tt0099088",
+    "Type": "movie",
+    "DVD": "17 Dec 2002",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

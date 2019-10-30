@@ -1,0 +1,40 @@
+{
+    "Title": "A Good Year",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "10 Nov 2006",
+    "Runtime": "117 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Ridley Scott",
+    "Writer": "Marc Klein (screenplay), Peter Mayle (novel)",
+    "Actors": "Freddie Highmore, Albert Finney, Russell Crowe, Rafe Spall",
+    "Plot": "A British investment broker inherits his uncle's chateau and vineyard in Provence, where he spent much of his childhood. He discovers a new laid-back lifestyle as he tries to renovate the estate to be sold.",
+    "Language": "English, French, Russian",
+    "Country": "USA, UK",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODE4NDY3MjUxNV5BMl5BanBnXkFtZTYwMTMwODI3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "7.0",
+    "imdbVotes": "83,654",
+    "imdbID": "tt0401445",
+    "Type": "movie",
+    "DVD": "27 Feb 2007",
+    "BoxOffice": "$7,365,004",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

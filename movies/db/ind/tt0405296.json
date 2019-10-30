@@ -1,0 +1,40 @@
+{
+    "Title": "A Scanner Darkly",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "28 Jul 2006",
+    "Runtime": "100 min",
+    "Genre": "Animation, Crime, Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Richard Linklater",
+    "Writer": "Philip K. Dick (novel), Richard Linklater (screenplay)",
+    "Actors": "Rory Cochrane, Robert Downey Jr., Mitch Baker, Keanu Reeves",
+    "Plot": "An undercover cop in a not-too-distant future becomes involved with a dangerous new drug and begins to lose his own identity as a result.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTc2ZGI2MzEtODlkNC00MGQ4LTlkYjQtMDU0YTg1YTI0NDI1L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.1",
+    "imdbVotes": "101,931",
+    "imdbID": "tt0405296",
+    "Type": "movie",
+    "DVD": "19 Dec 2006",
+    "BoxOffice": "$5,281,537",
+    "Production": "Warner Independent Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

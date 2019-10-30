@@ -1,0 +1,40 @@
+{
+    "Title": "Lake Placid",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "16 Jul 1999",
+    "Runtime": "82 min",
+    "Genre": "Action, Comedy, Horror",
+    "Director": "Steve Miner",
+    "Writer": "David E. Kelley",
+    "Actors": "Bill Pullman, Bridget Fonda, Oliver Platt, Brendan Gleeson",
+    "Plot": "Three people attempt to stop a gigantic crocodile, who is terrorizing residents in Black Lake, Maine.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTYwYjlkYzUtNmU2YS00NmI0LTk2YTgtYmZkYWEzNDc5NzEwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "34/100"
+        }
+    ],
+    "Metascore": "34",
+    "imdbRating": "5.7",
+    "imdbVotes": "51,334",
+    "imdbID": "tt0139414",
+    "Type": "movie",
+    "DVD": "11 Jan 2000",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

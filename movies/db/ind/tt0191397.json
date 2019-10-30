@@ -1,0 +1,40 @@
+{
+    "Title": "The Replacements",
+    "Year": "2000",
+    "Rated": "PG-13",
+    "Released": "11 Aug 2000",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Sport",
+    "Director": "Howard Deutch",
+    "Writer": "Vince McKewin",
+    "Actors": "Keanu Reeves, Gene Hackman, Brooke Langton, Orlando Jones",
+    "Plot": "During a pro football strike, the owners hire substitute players.",
+    "Language": "English, American Sign Language",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGEwOWQzNmItM2FlNC00YTk3LTljNjYtNGQ1OTE2M2M4YzI0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "41%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "30/100"
+        }
+    ],
+    "Metascore": "30",
+    "imdbRating": "6.6",
+    "imdbVotes": "55,137",
+    "imdbID": "tt0191397",
+    "Type": "movie",
+    "DVD": "28 Nov 2000",
+    "BoxOffice": "$44,004,460",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

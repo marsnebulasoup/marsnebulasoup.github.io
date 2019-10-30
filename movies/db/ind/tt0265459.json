@@ -1,0 +1,36 @@
+{
+    "Title": "One Hour Photo",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "13 Sep 2002",
+    "Runtime": "96 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Mark Romanek",
+    "Writer": "Mark Romanek",
+    "Actors": "Robin Williams, Connie Nielsen, Michael Vartan, Dylan Smith",
+    "Plot": "A mentally unstable photo developer targets a middle-class family after his obsession with them becomes more sick and disturbing than any of them could imagine.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "6 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWVkMjAzY2QtZTA4Yi00OWZmLTliMzctZTkyODU4NTc3MmRjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.8",
+    "imdbVotes": "109,199",
+    "imdbID": "tt0265459",
+    "Type": "movie",
+    "DVD": "30 Aug 2005",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

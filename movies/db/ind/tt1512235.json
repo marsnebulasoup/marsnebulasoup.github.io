@@ -1,0 +1,40 @@
+{
+    "Title": "Super",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "10 Jun 2011",
+    "Runtime": "96 min",
+    "Genre": "Action, Comedy, Drama",
+    "Director": "James Gunn",
+    "Writer": "James Gunn",
+    "Actors": "Rainn Wilson, Ellen Page, Liv Tyler, Kevin Bacon",
+    "Plot": "After his wife falls under the influence of a drug dealer, an everyday guy transforms himself into Crimson Bolt, a superhero with the best intentions, but lacking in heroic skills.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxMDkxNjI1NF5BMl5BanBnXkFtZTcwMzE5Njc1NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.7",
+    "imdbVotes": "71,498",
+    "imdbID": "tt1512235",
+    "Type": "movie",
+    "DVD": "09 Aug 2011",
+    "BoxOffice": "$200,000",
+    "Production": "IFC Midnight",
+    "Website": "N/A",
+    "Response": "True"
+}

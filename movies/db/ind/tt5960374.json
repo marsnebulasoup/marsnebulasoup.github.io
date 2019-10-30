@@ -1,0 +1,40 @@
+{
+    "Title": "Vox Lux",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "20 Dec 2018",
+    "Runtime": "114 min",
+    "Genre": "Drama, Music",
+    "Director": "Brady Corbet",
+    "Writer": "Brady Corbet",
+    "Actors": "Natalie Portman, Jude Law, Stacy Martin, Jennifer Ehle",
+    "Plot": "An unusual set of circumstances brings unexpected success to a pop star.",
+    "Language": "English, Croatian, Chinese",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2YjVhNjMtMGQ4ZC00ZmUyLWJlZjAtNTgyZjhjZmQwNWUwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.0",
+    "imdbVotes": "11,647",
+    "imdbID": "tt5960374",
+    "Type": "movie",
+    "DVD": "05 Mar 2019",
+    "BoxOffice": "N/A",
+    "Production": "NEON",
+    "Website": "N/A",
+    "Response": "True"
+}

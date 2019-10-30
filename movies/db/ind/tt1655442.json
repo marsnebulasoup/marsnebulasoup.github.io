@@ -1,0 +1,40 @@
+{
+    "Title": "The Artist",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "20 Jan 2012",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michel Hazanavicius",
+    "Writer": "Michel Hazanavicius",
+    "Actors": "Jean Dujardin, B\u00e9r\u00e9nice Bejo, John Goodman, James Cromwell",
+    "Plot": "An egomaniacal film star develops a relationship with a young dancer against the backdrop of Hollywood's silent era.",
+    "Language": "English, French",
+    "Country": "France, Belgium, USA",
+    "Awards": "Won 5 Oscars. Another 145 wins & 188 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDUyZWU5N2UtOWFlMy00MTI0LTk0ZDYtMzFhNjljODBhZDA5XkEyXkFqcGdeQXVyNzA4ODc3ODU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "Metascore": "89",
+    "imdbRating": "7.9",
+    "imdbVotes": "219,051",
+    "imdbID": "tt1655442",
+    "Type": "movie",
+    "DVD": "26 Jun 2012",
+    "BoxOffice": "$44,667,095",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

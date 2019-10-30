@@ -1,0 +1,40 @@
+{
+    "Title": "Conan the Barbarian",
+    "Year": "1982",
+    "Rated": "R",
+    "Released": "14 May 1982",
+    "Runtime": "129 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "John Milius",
+    "Writer": "Robert E. Howard (based on the character created by), John Milius, Oliver Stone",
+    "Actors": "Arnold Schwarzenegger, James Earl Jones, Max von Sydow, Sandahl Bergman",
+    "Plot": "A young boy, Conan, becomes a slave after his parents are killed and tribe destroyed by a savage warlord and sorcerer, Thulsa Doom. When he grows up he becomes a fearless, invincible fighter. Set free, he plots revenge against Thulsa Doom.",
+    "Language": "English",
+    "Country": "USA, Spain, Mexico",
+    "Awards": "Won 1 Golden Globe. Another 1 win & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWIxMzQxZjAtMGFkNC00NzYwLWFiMGEtNzZhZjE5MmFiMmMyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.9",
+    "imdbVotes": "130,025",
+    "imdbID": "tt0082198",
+    "Type": "movie",
+    "DVD": "24 Feb 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

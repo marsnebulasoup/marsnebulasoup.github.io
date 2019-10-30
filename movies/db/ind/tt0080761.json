@@ -1,0 +1,40 @@
+{
+    "Title": "Friday the 13th",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "09 May 1980",
+    "Runtime": "95 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Sean S. Cunningham",
+    "Writer": "Victor Miller",
+    "Actors": "Betsy Palmer, Adrienne King, Jeannine Taylor, Robbi Morgan",
+    "Plot": "A group of camp counselors are stalked and murdered by an unknown assailant while trying to reopen a summer camp which, years before, was the site of a child's drowning.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWMxYTYzYWQtNGZmNy00MTg5LTk1N2MtNzQ5NjQxYjQ5NTJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "22/100"
+        }
+    ],
+    "Metascore": "22",
+    "imdbRating": "6.5",
+    "imdbVotes": "108,294",
+    "imdbID": "tt0080761",
+    "Type": "movie",
+    "DVD": "19 Oct 1999",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

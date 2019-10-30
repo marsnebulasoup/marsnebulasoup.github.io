@@ -1,0 +1,40 @@
+{
+    "Title": "My Super Ex-Girlfriend",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "21 Jul 2006",
+    "Runtime": "96 min",
+    "Genre": "Comedy, Romance, Sci-Fi",
+    "Director": "Ivan Reitman",
+    "Writer": "Don Payne",
+    "Actors": "Uma Thurman, Luke Wilson, Anna Faris, Rainn Wilson",
+    "Plot": "When a regular guy dumps a superhero for her neediness, she uses her powers to make his life a living hell.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4OTA4OTYyMl5BMl5BanBnXkFtZTcwMzU4NDQzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "5.1",
+    "imdbVotes": "59,576",
+    "imdbID": "tt0465624",
+    "Type": "movie",
+    "DVD": "19 Dec 2006",
+    "BoxOffice": "$22,432,518",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

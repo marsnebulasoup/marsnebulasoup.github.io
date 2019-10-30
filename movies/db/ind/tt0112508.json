@@ -1,0 +1,40 @@
+{
+    "Title": "Billy Madison",
+    "Year": "1995",
+    "Rated": "PG-13",
+    "Released": "10 Feb 1995",
+    "Runtime": "89 min",
+    "Genre": "Comedy",
+    "Director": "Tamra Davis",
+    "Writer": "Tim Herlihy, Adam Sandler",
+    "Actors": "Adam Sandler, Darren McGavin, Bridgette Wilson-Sampras, Bradley Whitford",
+    "Plot": "In order to inherit his fed up father's hotel empire, an immature and lazy man must repeat grades 1-12 all over again.",
+    "Language": "English, French, Spanish",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzcyMjZmNjctNGNhMS00ZmQxLWFkNzQtYTIxYjVkYmU1NmNmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "16/100"
+        }
+    ],
+    "Metascore": "16",
+    "imdbRating": "6.4",
+    "imdbVotes": "123,136",
+    "imdbID": "tt0112508",
+    "Type": "movie",
+    "DVD": "02 Jan 2002",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

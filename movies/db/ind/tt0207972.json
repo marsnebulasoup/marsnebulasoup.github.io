@@ -1,0 +1,32 @@
+{
+    "Title": "Annie",
+    "Year": "1999",
+    "Rated": "UNRATED",
+    "Released": "07 Nov 1999",
+    "Runtime": "90 min",
+    "Genre": "Family, Comedy, Musical",
+    "Director": "Rob Marshall",
+    "Writer": "Irene Mecchi (teleplay), Thomas Meehan (book), Martin Charnin (lyrics)",
+    "Actors": "Kathy Bates, Victor Garber, Alan Cumming, Audra McDonald",
+    "Plot": "A little orphan girl catches the attention of a kind man named Mr. Warbucks, who wants to adopt her, but the cruel, strict orphanage owner has a scheme to keep Annie - and her reward money.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 9 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI0MTA1Mzg2Nl5BMl5BanBnXkFtZTcwOTU4NTUyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.7",
+    "imdbVotes": "4,380",
+    "imdbID": "tt0207972",
+    "Type": "movie",
+    "DVD": "30 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "Disney-ABC Domestic Television",
+    "Website": "N/A",
+    "Response": "True"
+}

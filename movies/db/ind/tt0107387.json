@@ -1,0 +1,36 @@
+{
+    "Title": "Leprechaun",
+    "Year": "1993",
+    "Rated": "R",
+    "Released": "08 Jan 1993",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Director": "Mark Jones",
+    "Writer": "Mark Jones",
+    "Actors": "Warwick Davis, Jennifer Aniston, Ken Olandt, Mark Holton",
+    "Plot": "An evil, sadistic Leprechaun goes on a killing rampage in search of his beloved pot of gold.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTVhY2JhNzgtYzQxZS00YmEzLTk3ODQtZjlkYzVkN2E5MGU5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "23%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "4.8",
+    "imdbVotes": "21,315",
+    "imdbID": "tt0107387",
+    "Type": "movie",
+    "DVD": "20 Sep 1999",
+    "BoxOffice": "N/A",
+    "Production": "Trimark",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Diary of the Dead",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "22 Feb 2008",
+    "Runtime": "95 min",
+    "Genre": "Fantasy, Horror, Sci-Fi, Thriller",
+    "Director": "George A. Romero",
+    "Writer": "George A. Romero",
+    "Actors": "Todd Schroeder, Laura de Carteret, Amy Lalonde, Martin Roach",
+    "Plot": "A group of young film students run into real-life zombies while filming a horror movie of their own.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg5MjAxMjA2Nl5BMl5BanBnXkFtZTcwMjE1OTc1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "5.6",
+    "imdbVotes": "44,580",
+    "imdbID": "tt0848557",
+    "Type": "movie",
+    "DVD": "20 May 2008",
+    "BoxOffice": "$679,335",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

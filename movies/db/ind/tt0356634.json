@@ -1,0 +1,40 @@
+{
+    "Title": "Garfield",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "11 Jun 2004",
+    "Runtime": "80 min",
+    "Genre": "Animation, Comedy, Family, Fantasy",
+    "Director": "Peter Hewitt",
+    "Writer": "Jim Davis (comic strip \"Garfield\"), Joel Cohen, Alec Sokolow",
+    "Actors": "Breckin Meyer, Jennifer Love Hewitt, Stephen Tobolowsky, Bill Murray",
+    "Plot": "Jon Arbuckle buys a second pet, a dog named Odie. However, Odie is then abducted and it is up to Jon's cat, Garfield, to find and rescue the canine.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIzMTc1OTUxOV5BMl5BanBnXkFtZTYwNTMxODc3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "27/100"
+        }
+    ],
+    "Metascore": "27",
+    "imdbRating": "5.0",
+    "imdbVotes": "73,727",
+    "imdbID": "tt0356634",
+    "Type": "movie",
+    "DVD": "19 Oct 2004",
+    "BoxOffice": "$75,253,404",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

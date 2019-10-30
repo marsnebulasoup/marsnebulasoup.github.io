@@ -1,0 +1,40 @@
+{
+    "Title": "Scream 4",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "15 Apr 2011",
+    "Runtime": "111 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Wes Craven",
+    "Writer": "Kevin Williamson",
+    "Actors": "Lucy Hale, Roger Jackson, Shenae Grimes-Beech, Dane Farwell",
+    "Plot": "Ten years have passed, and Sidney Prescott, who has put herself back together thanks in part to her writing, is visited by the Ghostface Killer.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5OTcxNTUyNF5BMl5BanBnXkFtZTcwMDczMzE0NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.1",
+    "imdbVotes": "120,184",
+    "imdbID": "tt1262416",
+    "Type": "movie",
+    "DVD": "04 Oct 2011",
+    "BoxOffice": "$38,176,892",
+    "Production": "The Weinstein Company/Dimension",
+    "Website": "N/A",
+    "Response": "True"
+}

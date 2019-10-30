@@ -1,0 +1,40 @@
+{
+    "Title": "Elephant",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "14 Nov 2003",
+    "Runtime": "81 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Gus Van Sant",
+    "Writer": "Gus Van Sant",
+    "Actors": "Alex Frost, Eric Deulen, John Robinson, Elias McConnell",
+    "Plot": "Several ordinary high school students go through their daily routine as two others prepare for something more malevolent.",
+    "Language": "English, German",
+    "Country": "USA",
+    "Awards": "8 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWRhNDZkMzQtZDQ3Ny00NjdjLWJmZjAtMWQxNDQyZTYzZjU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.2",
+    "imdbVotes": "81,180",
+    "imdbID": "tt0363589",
+    "Type": "movie",
+    "DVD": "04 May 2004",
+    "BoxOffice": "$1,189,207",
+    "Production": "Fine Line Features",
+    "Website": "N/A",
+    "Response": "True"
+}

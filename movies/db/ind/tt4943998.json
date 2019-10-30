@@ -1,0 +1,36 @@
+{
+    "Title": "Deadwood: The Movie",
+    "Year": "2019",
+    "Rated": "TV-MA",
+    "Released": "31 May 2019",
+    "Runtime": "110 min",
+    "Genre": "Drama, Western",
+    "Director": "Daniel Minahan",
+    "Writer": "David Milch",
+    "Actors": "Timothy Olyphant, Ian McShane, Molly Parker, Paula Malcomson",
+    "Plot": "As the residents of Deadwood gather to commemorate Dakota's statehood in 1889, saloon owner Al Swearengen and Marshal Seth Bullock clash with Senator George Hearst.",
+    "Language": "N/A",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2Y1OGQ4ZjEtZWUzMi00MzZmLTk3MmEtMThiNjIwNzg4MjRkXkEyXkFqcGdeQXVyMTE5NDkxMA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.6",
+    "imdbVotes": "12,554",
+    "imdbID": "tt4943998",
+    "Type": "movie",
+    "DVD": "08 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "HBO Films",
+    "Website": "N/A",
+    "Response": "True"
+}

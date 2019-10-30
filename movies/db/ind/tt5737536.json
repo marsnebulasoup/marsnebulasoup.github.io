@@ -1,0 +1,40 @@
+{
+    "Title": "Future World",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "14 Jun 2018",
+    "Runtime": "90 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "James Franco, Bruce Thierry Cheung",
+    "Writer": "Jeremy Cheung, Jay Davis, Bruce Thierry Cheung",
+    "Actors": "James Franco, Suki Waterhouse, Jeff Wahlberg, Margarita Levieva",
+    "Plot": "A young boy searches a future world wasteland for a rumored cure for his dying mother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWMxMDZhNjEtYjA3ZS00MzE5LTkwN2MtNmNhMzJiNjQwMzQ1XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "10/100"
+        }
+    ],
+    "Metascore": "10",
+    "imdbRating": "3.2",
+    "imdbVotes": "4,610",
+    "imdbID": "tt5737536",
+    "Type": "movie",
+    "DVD": "10 Jul 2018",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate Premiere",
+    "Website": "N/A",
+    "Response": "True"
+}

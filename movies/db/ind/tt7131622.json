@@ -1,0 +1,40 @@
+{
+    "Title": "Once Upon a Time... in Hollywood",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "26 Jul 2019",
+    "Runtime": "161 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Quentin Tarantino",
+    "Writer": "Quentin Tarantino",
+    "Actors": "Leonardo DiCaprio, Brad Pitt, Margot Robbie, Emile Hirsch",
+    "Plot": "A faded television actor and his stunt double strive to achieve fame and success in the film industry during the final years of Hollywood's Golden Age in 1969 Los Angeles.",
+    "Language": "English, Italian, Spanish",
+    "Country": "USA, UK, China",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.0",
+    "imdbVotes": "200,902",
+    "imdbID": "tt7131622",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

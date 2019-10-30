@@ -1,0 +1,40 @@
+{
+    "Title": "Spy Kids",
+    "Year": "2001",
+    "Rated": "PG",
+    "Released": "30 Mar 2001",
+    "Runtime": "88 min",
+    "Genre": "Action, Adventure, Comedy, Family, Sci-Fi",
+    "Director": "Robert Rodriguez",
+    "Writer": "Robert Rodriguez",
+    "Actors": "Antonio Banderas, Carla Gugino, Alexa PenaVega, Daryl Sabara",
+    "Plot": "The children of secret-agent parents must save them from danger.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "2 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2JhODU1NmQtNjllYS00ZmQwLWEwZjYtMTE5NjA1M2YyMzdjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "71/100"
+        }
+    ],
+    "Metascore": "71",
+    "imdbRating": "5.4",
+    "imdbVotes": "101,270",
+    "imdbID": "tt0227538",
+    "Type": "movie",
+    "DVD": "18 Sep 2001",
+    "BoxOffice": "N/A",
+    "Production": "Dimension Films",
+    "Website": "N/A",
+    "Response": "True"
+}

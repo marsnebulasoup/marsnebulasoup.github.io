@@ -1,0 +1,40 @@
+{
+    "Title": "The Others",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "10 Aug 2001",
+    "Runtime": "104 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Alejandro Amen\u00e1bar",
+    "Writer": "Alejandro Amen\u00e1bar",
+    "Actors": "Nicole Kidman, Fionnula Flanagan, Christopher Eccleston, Alakina Mann",
+    "Plot": "A woman who lives in her darkened old family house with her two photosensitive children becomes convinced that the home is haunted.",
+    "Language": "English, French",
+    "Country": "Spain, USA, France, Italy",
+    "Awards": "Nominated for 1 Golden Globe. Another 28 wins & 51 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDE4Mzc3ODNeQTJeQWpwZ15BbWU4MDY2Mjg4MDcx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "7.6",
+    "imdbVotes": "317,734",
+    "imdbID": "tt0230600",
+    "Type": "movie",
+    "DVD": "14 May 2002",
+    "BoxOffice": "$96,080,075",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

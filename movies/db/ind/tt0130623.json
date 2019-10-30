@@ -1,0 +1,40 @@
+{
+    "Title": "Dinosaur",
+    "Year": "2000",
+    "Rated": "PG",
+    "Released": "19 May 2000",
+    "Runtime": "82 min",
+    "Genre": "Animation, Adventure, Family, Thriller",
+    "Director": "Eric Leighton, Ralph Zondag",
+    "Writer": "Thom Enriquez (story), John Harrison (story), Robert Nelson Jacobs (story), Ralph Zondag (story), John Harrison (screenplay), Robert Nelson Jacobs (screenplay), Walon Green (based on an earlier screenplay by), Gregory Gunter (creative development), Shirley Pierce (screenplay), Jonathan Roberts (additional story material), Rhett Reese (additional story material), Tamara Lusher Stocker (additional story)",
+    "Actors": "Alfre Woodard, Ossie Davis, Max Casella, Hayden Panettiere",
+    "Plot": "An orphaned dinosaur raised by lemurs joins an arduous trek to a sancturary after a meteorite shower destroys his family home.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWQ1NTZjMjUtODNmZS00NTVhLWFhM2ItNWZiOTdjMzdhZTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.5",
+    "imdbVotes": "48,722",
+    "imdbID": "tt0130623",
+    "Type": "movie",
+    "DVD": "30 Jan 2001",
+    "BoxOffice": "$135,606,304",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

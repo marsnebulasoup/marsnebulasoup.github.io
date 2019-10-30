@@ -1,0 +1,40 @@
+{
+    "Title": "The Cooler",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "16 Jan 2004",
+    "Runtime": "101 min",
+    "Genre": "Drama, Romance",
+    "Director": "Wayne Kramer",
+    "Writer": "Frank Hannah, Wayne Kramer",
+    "Actors": "William H. Macy, Alec Baldwin, Maria Bello, Shawn Hatosy",
+    "Plot": "In an old school Las Vegas casino, its top gambling jinx breaks his curse when he falls in love, much to his boss' consternation.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 9 wins & 25 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzOTI5MDcxMV5BMl5BanBnXkFtZTYwMDQwOTI3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.0",
+    "imdbVotes": "31,290",
+    "imdbID": "tt0318374",
+    "Type": "movie",
+    "DVD": "27 Apr 2004",
+    "BoxOffice": "$8,179,538",
+    "Production": "Lions Gate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

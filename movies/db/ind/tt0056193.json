@@ -1,0 +1,40 @@
+{
+    "Title": "Lolita",
+    "Year": "1962",
+    "Rated": "Not Rated",
+    "Released": "21 Jun 1962",
+    "Runtime": "153 min",
+    "Genre": "Crime, Drama, Romance",
+    "Director": "Stanley Kubrick",
+    "Writer": "Vladimir Nabokov (screenplay), Vladimir Nabokov (novel)",
+    "Actors": "James Mason, Shelley Winters, Sue Lyon, Gary Cockrell",
+    "Plot": "A middle-aged college professor becomes infatuated with a fourteen-year-old nymphet.",
+    "Language": "English, French, Spanish, German",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjliZjQ1NGMtNjU1MS00M2RmLThkN2UtM2NlNTJjM2FjYTk1XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.6",
+    "imdbVotes": "84,677",
+    "imdbID": "tt0056193",
+    "Type": "movie",
+    "DVD": "29 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

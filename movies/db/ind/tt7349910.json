@@ -1,0 +1,40 @@
+{
+    "Title": "Nightmare Cinema",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "10 Jul 2019",
+    "Runtime": "119 min",
+    "Genre": "Horror",
+    "Director": "Alejandro Brugu\u00e9s, Joe Dante, Mick Garris, Ry\u00fbhei Kitamura, David Slade",
+    "Writer": "Sandra Becerril, Alejandro Brugu\u00e9s, Lawrence C. Connolly, Mick Garris, Richard Christian Matheson, David Slade",
+    "Actors": "Mickey Rourke, Richard Chamberlain, Adam Godley, Orson Chaplin",
+    "Plot": "Five strangers converge at a haunted movie theater owned by The Projectionist (Mickey Rourke). Once inside, the audience members witness a series of screenings showing them their deepest fears and darkest secrets over five tales.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTk2NGE1YjItZWYyNS00YmJiLWJlNjgtYTJlMTQyNTg1MzZjXkEyXkFqcGdeQXVyMTI4Mjg4MjA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "5.4",
+    "imdbVotes": "1,726",
+    "imdbID": "tt7349910",
+    "Type": "movie",
+    "DVD": "21 Jun 2019",
+    "BoxOffice": "N/A",
+    "Production": "Cranked Up Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

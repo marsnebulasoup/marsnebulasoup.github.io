@@ -1,0 +1,40 @@
+{
+    "Title": "The Queen",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "17 Nov 2006",
+    "Runtime": "103 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Stephen Frears",
+    "Writer": "Peter Morgan",
+    "Actors": "Helen Mirren, James Cromwell, Alex Jennings, Roger Allam",
+    "Plot": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.",
+    "Language": "English, German, French",
+    "Country": "UK, USA, France, Italy",
+    "Awards": "Won 1 Oscar. Another 94 wins & 95 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTMxODg1Ml5BMl5BanBnXkFtZTcwMjEyMjczMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "91/100"
+        }
+    ],
+    "Metascore": "91",
+    "imdbRating": "7.3",
+    "imdbVotes": "98,853",
+    "imdbID": "tt0436697",
+    "Type": "movie",
+    "DVD": "24 Apr 2007",
+    "BoxOffice": "$56,222,759",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

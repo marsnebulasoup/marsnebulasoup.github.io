@@ -1,0 +1,36 @@
+{
+    "Title": "Brief Encounter",
+    "Year": "1945",
+    "Rated": "Not Rated",
+    "Released": "24 Aug 1946",
+    "Runtime": "86 min",
+    "Genre": "Drama, Romance",
+    "Director": "David Lean",
+    "Writer": "N/A",
+    "Actors": "Celia Johnson, Trevor Howard, Stanley Holloway, Joyce Carey",
+    "Plot": "Meeting a stranger in a railway station, a woman is tempted to cheat on her husband.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "Nominated for 3 Oscars. Another 3 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWQ0MGNjOTYtMWJlNi00YWMxLWFmMzktYjAyNTVkY2U1NWNhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.0",
+    "imdbVotes": "32,366",
+    "imdbID": "tt0037558",
+    "Type": "movie",
+    "DVD": "07 Sep 2004",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

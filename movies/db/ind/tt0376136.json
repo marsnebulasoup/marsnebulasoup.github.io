@@ -1,0 +1,40 @@
+{
+    "Title": "The Rum Diary",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "28 Oct 2011",
+    "Runtime": "119 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Bruce Robinson",
+    "Writer": "Bruce Robinson (screenplay), Hunter S. Thompson (novel)",
+    "Actors": "Johnny Depp, Aaron Eckhart, Michael Rispoli, Amber Heard",
+    "Plot": "American journalist Paul Kemp takes on a freelance job in Puerto Rico for a local newspaper during the 1960s and struggles to find a balance between island culture and the expatriates who live there.",
+    "Language": "English, Spanish, German",
+    "Country": "USA, UK",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM5ODA4MjYxM15BMl5BanBnXkFtZTcwMTM3NTE5Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.2",
+    "imdbVotes": "95,372",
+    "imdbID": "tt0376136",
+    "Type": "movie",
+    "DVD": "14 Feb 2012",
+    "BoxOffice": "$13,000,000.00",
+    "Production": "The Film District",
+    "Website": "http://www.rumdiarythemovie.com/",
+    "Response": "True"
+}

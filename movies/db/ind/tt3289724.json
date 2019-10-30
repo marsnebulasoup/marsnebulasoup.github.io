@@ -1,0 +1,40 @@
+{
+    "Title": "Welcome to Marwen",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "21 Dec 2018",
+    "Runtime": "116 min",
+    "Genre": "Biography, Comedy, Drama, Fantasy, Romance",
+    "Director": "Robert Zemeckis",
+    "Writer": "Robert Zemeckis (screenplay by), Caroline Thompson (screenplay by)",
+    "Actors": "Steve Carell, Falk Hentschel, Matt O'Leary, Nikolai Witschl",
+    "Plot": "A victim of a brutal attack finds a unique and beautiful therapeutic outlet to help him through his recovery process.",
+    "Language": "English, German, French, Russian",
+    "Country": "Japan, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxMjUwMjItMGIxYS00NTlmLTgxZTQtMzg2Yjc1ZWQ3YTYxXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.1",
+    "imdbVotes": "12,918",
+    "imdbID": "tt3289724",
+    "Type": "movie",
+    "DVD": "09 Apr 2019",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

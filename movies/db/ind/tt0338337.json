@@ -1,0 +1,40 @@
+{
+    "Title": "Paycheck",
+    "Year": "2003",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2003",
+    "Runtime": "119 min",
+    "Genre": "Action, Mystery, Sci-Fi, Thriller",
+    "Director": "John Woo",
+    "Writer": "Philip K. Dick (short story), Dean Georgaris (screenplay)",
+    "Actors": "Ben Affleck, Aaron Eckhart, Uma Thurman, Paul Giamatti",
+    "Plot": "What seemed like a breezy idea for an engineer to net him millions of dollars, leaves him on the run for his life and piecing together why he's being chased.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "3 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczMzU5NDk4MV5BMl5BanBnXkFtZTYwNDQxNzc3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "6.3",
+    "imdbVotes": "99,026",
+    "imdbID": "tt0338337",
+    "Type": "movie",
+    "DVD": "18 May 2004",
+    "BoxOffice": "$53,681,119",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

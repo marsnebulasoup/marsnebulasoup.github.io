@@ -1,0 +1,36 @@
+{
+    "Title": "The Mummy",
+    "Year": "1959",
+    "Rated": "Unrated",
+    "Released": "16 Dec 1959",
+    "Runtime": "88 min",
+    "Genre": "Adventure, Horror",
+    "Director": "Terence Fisher",
+    "Writer": "Jimmy Sangster (screenplay)",
+    "Actors": "Peter Cushing, Christopher Lee, Yvonne Furneaux, Eddie Byrne",
+    "Plot": "In 1895, British archaeologists find and open the tomb of Egyptian Princess Ananka with nefarious consequences.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2M3NzlkZTItYTFmZS00Y2RhLThlYTYtYTk1YjJiOTZiYWQyXkEyXkFqcGdeQXVyMTE2NzA0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "7,299",
+    "imdbID": "tt0053085",
+    "Type": "movie",
+    "DVD": "09 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "WARNER BROTHERS PICTURES",
+    "Website": "N/A",
+    "Response": "True"
+}

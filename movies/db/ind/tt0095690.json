@@ -1,0 +1,40 @@
+{
+    "Title": "Mystic Pizza",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "21 Oct 1988",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Donald Petrie",
+    "Writer": "Amy Holden Jones (story), Amy Holden Jones (screenplay), Perry Howze (screenplay), Randy Howze (screenplay), Alfred Uhry (screenplay)",
+    "Actors": "Annabeth Gish, Julia Roberts, Lili Taylor, Vincent D'Onofrio",
+    "Plot": "Three teenage girls come of age while working at a pizza parlor in the Connecticut town of Mystic.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1NDk1MTkzMF5BMl5BanBnXkFtZTcwMzY0MDQ1NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.2",
+    "imdbVotes": "22,696",
+    "imdbID": "tt0095690",
+    "Type": "movie",
+    "DVD": "14 Nov 2001",
+    "BoxOffice": "N/A",
+    "Production": "MGM Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

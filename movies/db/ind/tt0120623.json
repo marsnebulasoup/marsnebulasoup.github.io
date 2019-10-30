@@ -1,0 +1,40 @@
+{
+    "Title": "A Bug's Life",
+    "Year": "1998",
+    "Rated": "G",
+    "Released": "25 Nov 1998",
+    "Runtime": "95 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "John Lasseter, Andrew Stanton(co-director)",
+    "Writer": "John Lasseter (original story by), Andrew Stanton (original story by), Joe Ranft (original story by), Andrew Stanton (screenplay by), Don McEnery (screenplay by), Bob Shaw (screenplay by)",
+    "Actors": "Dave Foley, Kevin Spacey, Julia Louis-Dreyfus, Hayden Panettiere",
+    "Plot": "A misfit ant, looking for \"warriors\" to save his colony from greedy grasshoppers, recruits a group of bugs that turn out to be an inept circus troupe.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNThmZGY4NzgtMTM4OC00NzNkLWEwNmEtMjdhMGY5YTc1NDE4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.2",
+    "imdbVotes": "250,701",
+    "imdbID": "tt0120623",
+    "Type": "movie",
+    "DVD": "20 Apr 1999",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

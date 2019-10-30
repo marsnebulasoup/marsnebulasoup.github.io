@@ -1,0 +1,40 @@
+{
+    "Title": "Flight of the Phoenix",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "17 Dec 2004",
+    "Runtime": "113 min",
+    "Genre": "Action, Adventure, Drama, Thriller",
+    "Director": "John Moore",
+    "Writer": "Lukas Heller, Scott Frank (screenplay), Edward Burns (screenplay)",
+    "Actors": "Dennis Quaid, Tyrese Gibson, Giovanni Ribisi, Miranda Otto",
+    "Plot": "Survivors of a plane crash in the Mongolian desert work together to build a new plane.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyMjY4MzcwNF5BMl5BanBnXkFtZTcwNDQ5MzcyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.1",
+    "imdbVotes": "50,125",
+    "imdbID": "tt0377062",
+    "Type": "movie",
+    "DVD": "01 Mar 2005",
+    "BoxOffice": "$20,900,803",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

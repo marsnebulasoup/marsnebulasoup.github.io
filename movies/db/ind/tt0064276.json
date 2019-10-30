@@ -1,0 +1,40 @@
+{
+    "Title": "Easy Rider",
+    "Year": "1969",
+    "Rated": "R",
+    "Released": "26 Jun 1969",
+    "Runtime": "95 min",
+    "Genre": "Adventure, Drama",
+    "Director": "Dennis Hopper",
+    "Writer": "Peter Fonda, Dennis Hopper, Terry Southern",
+    "Actors": "Peter Fonda, Dennis Hopper, Antonio Mendoza, Phil Spector",
+    "Plot": "Through the open country and desert lands, two bikers head from L.A to New Orleans, and along the way, meet a man who bridges a counter-culture gap they are unaware of.",
+    "Language": "English, Spanish, Greek,  Ancient (to 1453)",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 8 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc2MjI2NDc4Ml5BMl5BanBnXkFtZTgwODI4NzU0MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.3",
+    "imdbVotes": "92,237",
+    "imdbID": "tt0064276",
+    "Type": "movie",
+    "DVD": "07 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

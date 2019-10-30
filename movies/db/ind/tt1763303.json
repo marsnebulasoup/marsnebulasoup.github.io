@@ -1,0 +1,40 @@
+{
+    "Title": "The First Time",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "07 Feb 2013",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jonathan Kasdan",
+    "Writer": "Jonathan Kasdan",
+    "Actors": "Britt Robertson, Dylan O'Brien, Craig Roberts, Joshua Malina",
+    "Plot": "A shy senior and a down-to-earth junior fall in love over one weekend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxNDI1OTY5NF5BMl5BanBnXkFtZTcwMDExOTY1OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.8",
+    "imdbVotes": "63,313",
+    "imdbID": "tt1763303",
+    "Type": "movie",
+    "DVD": "12 Mar 2013",
+    "BoxOffice": "$17,061",
+    "Production": "Samuel Goldwyn Films",
+    "Website": "N/A",
+    "Response": "True"
+}

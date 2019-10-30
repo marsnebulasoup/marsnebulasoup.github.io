@@ -1,0 +1,40 @@
+{
+    "Title": "Harry Potter and the Chamber of Secrets",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "15 Nov 2002",
+    "Runtime": "161 min",
+    "Genre": "Adventure, Family, Fantasy, Mystery",
+    "Director": "Chris Columbus",
+    "Writer": "J.K. Rowling (novel), Steve Kloves (screenplay)",
+    "Actors": "Daniel Radcliffe, Rupert Grint, Emma Watson, Richard Griffiths",
+    "Plot": "An ancient prophecy seems to be coming true when a mysterious presence begins stalking the corridors of a school of magic and leaving its victims paralyzed.",
+    "Language": "English",
+    "Country": "UK, USA, Germany",
+    "Awards": "Nominated for 3 BAFTA Film Awards. Another 11 wins & 42 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxODgwMDkxNV5BMl5BanBnXkFtZTYwMDk2MDg3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.4",
+    "imdbVotes": "503,755",
+    "imdbID": "tt0295297",
+    "Type": "movie",
+    "DVD": "11 Apr 2003",
+    "BoxOffice": "$261,835,892",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

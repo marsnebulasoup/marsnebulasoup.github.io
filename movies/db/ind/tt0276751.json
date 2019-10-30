@@ -1,0 +1,40 @@
+{
+    "Title": "About a Boy",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "17 May 2002",
+    "Runtime": "101 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Chris Weitz, Paul Weitz",
+    "Writer": "Nick Hornby (novel), Peter Hedges (screenplay), Chris Weitz (screenplay), Paul Weitz (screenplay)",
+    "Actors": "Hugh Grant, Nicholas Hoult, Sharon Small, Madison Cook",
+    "Plot": "A cynical, immature young man is taught how to act like a grown-up by a little boy.",
+    "Language": "English",
+    "Country": "UK, USA, France, Germany",
+    "Awards": "Nominated for 1 Oscar. Another 11 wins & 29 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2Mzg4MDAzNV5BMl5BanBnXkFtZTgwMjcxNTYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.0",
+    "imdbVotes": "162,997",
+    "imdbID": "tt0276751",
+    "Type": "movie",
+    "DVD": "14 Jan 2003",
+    "BoxOffice": "$40,566,655",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Scooby-Doo",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "14 Jun 2002",
+    "Runtime": "86 min",
+    "Genre": "Adventure, Comedy, Family, Fantasy, Mystery",
+    "Director": "Raja Gosnell",
+    "Writer": "James Gunn (screenplay), Craig Titley (story), James Gunn (story), William Hanna (characters), Joseph Barbera (characters)",
+    "Actors": "Freddie Prinze Jr., Sarah Michelle Gellar, Matthew Lillard, Linda Cardellini",
+    "Plot": "After an acrimonious break up, the Mystery Inc. gang are individually brought to an island resort to investigate strange goings on.",
+    "Language": "English",
+    "Country": "USA, Australia",
+    "Awards": "5 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4MzMzMTY0OF5BMl5BanBnXkFtZTYwNzM3MTg2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.0",
+    "imdbVotes": "89,564",
+    "imdbID": "tt0267913",
+    "Type": "movie",
+    "DVD": "08 Oct 2002",
+    "BoxOffice": "$153,300,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

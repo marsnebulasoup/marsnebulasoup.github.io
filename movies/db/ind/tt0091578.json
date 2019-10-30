@@ -1,0 +1,40 @@
+{
+    "Title": "My Beautiful Laundrette",
+    "Year": "1985",
+    "Rated": "R",
+    "Released": "04 Apr 1986",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Stephen Frears",
+    "Writer": "Hanif Kureishi (by)",
+    "Actors": "Daniel Day-Lewis, Richard Graham, Winston Graham, Dudley Thomas",
+    "Plot": "An ambitious Pakistani Briton and his white boyfriend strive for success and hope when they open a glamorous laundromat.",
+    "Language": "English, Urdu",
+    "Country": "UK",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI1NjE2ODAwOF5BMl5BanBnXkFtZTcwODU2NjE2NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "6.8",
+    "imdbVotes": "13,162",
+    "imdbID": "tt0091578",
+    "Type": "movie",
+    "DVD": "03 Jun 2003",
+    "BoxOffice": "N/A",
+    "Production": "Orion Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

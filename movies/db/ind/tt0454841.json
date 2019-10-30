@@ -1,0 +1,40 @@
+{
+    "Title": "The Hills Have Eyes",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "10 Mar 2006",
+    "Runtime": "107 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Alexandre Aja",
+    "Writer": "Wes Craven (based upon his film), Alexandre Aja (screenplay), Gr\u00e9gory Levasseur (screenplay)",
+    "Actors": "Maxime Giffard, Michael Bailey Smith, Tom Bower, Ted Levine",
+    "Plot": "A family falls victim to a group of mutated cannibals in a desert far away from civilization.",
+    "Language": "English",
+    "Country": "USA, France, Romania",
+    "Awards": "2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0MTg5MzEyOF5BMl5BanBnXkFtZTcwNDUyMzIzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.4",
+    "imdbVotes": "150,725",
+    "imdbID": "tt0454841",
+    "Type": "movie",
+    "DVD": "04 Mar 2008",
+    "BoxOffice": "$41,685,824",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

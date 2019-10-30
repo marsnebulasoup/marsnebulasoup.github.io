@@ -1,0 +1,40 @@
+{
+    "Title": "Speed Racer",
+    "Year": "2008",
+    "Rated": "PG",
+    "Released": "09 May 2008",
+    "Runtime": "135 min",
+    "Genre": "Action, Adventure, Comedy, Drama, Family, Sci-Fi, Sport",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Writer": "Lilly Wachowski, Lana Wachowski, Tatsuo Yoshida (animated series \"Speed Racer\")",
+    "Actors": "Emile Hirsch, Nicholas Elia, Susan Sarandon, Melissa Holroyd",
+    "Plot": "A young driver, Speed Racer, aspires to be champion of the racing world with the help of his family and his high-tech Mach 5 automobile.",
+    "Language": "English",
+    "Country": "USA, Australia, Germany",
+    "Awards": "13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWU4Y2RhYzMtYzIxZC00NmRlLTk0OTctNDg1NTg5Yjk4YjQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "6.0",
+    "imdbVotes": "65,891",
+    "imdbID": "tt0811080",
+    "Type": "movie",
+    "DVD": "16 Sep 2008",
+    "BoxOffice": "$43,929,341",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

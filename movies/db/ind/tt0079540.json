@@ -1,0 +1,40 @@
+{
+    "Title": "Meatballs",
+    "Year": "1979",
+    "Rated": "PG",
+    "Released": "29 Jun 1979",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Ivan Reitman",
+    "Writer": "Len Blum, Daniel Goldberg, Janis Allen, Harold Ramis",
+    "Actors": "Bill Murray, Harvey Atkin, Kate Lynch, Russ Banham",
+    "Plot": "Wacky hijinks of counselors and campers at a less-than-average summer camp.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "3 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTcwNWU5ZjItNDgxMy00NWI4LTg4ZTktZDQwNWMxNzkyZjViXkEyXkFqcGdeQXVyMDAyMTY3Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.2",
+    "imdbVotes": "17,671",
+    "imdbID": "tt0079540",
+    "Type": "movie",
+    "DVD": "23 Nov 1999",
+    "BoxOffice": "N/A",
+    "Production": "LionsGate Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

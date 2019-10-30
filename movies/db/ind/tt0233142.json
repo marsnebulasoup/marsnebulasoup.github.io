@@ -1,0 +1,40 @@
+{
+    "Title": "3000 Miles to Graceland",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "23 Feb 2001",
+    "Runtime": "125 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Demian Lichtenstein",
+    "Writer": "Richard Recco, Demian Lichtenstein, Kevin Bernhardt (story)",
+    "Actors": "Kurt Russell, Kevin Costner, Courteney Cox, Christian Slater",
+    "Plot": "A gang of ex-cons rob a casino during Elvis convention week.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTExMDA0NDAyOTReQTJeQWpwZ15BbWU2MDM4ODg3OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "21/100"
+        }
+    ],
+    "Metascore": "21",
+    "imdbRating": "6.0",
+    "imdbVotes": "42,120",
+    "imdbID": "tt0233142",
+    "Type": "movie",
+    "DVD": "07 Aug 2001",
+    "BoxOffice": "$15,346,114",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

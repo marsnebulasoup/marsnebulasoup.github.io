@@ -1,0 +1,40 @@
+{
+    "Title": "Stuart Little 2",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "19 Jul 2002",
+    "Runtime": "77 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Rob Minkoff",
+    "Writer": "E.B. White (characters from the book \"Stuart Little\"), Douglas Wick (story), Bruce Joel Rubin (story), Bruce Joel Rubin (screenplay)",
+    "Actors": "Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki",
+    "Plot": "Stuart and Snowbell set out across town to rescue a friend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYyNDg0Njc2Nl5BMl5BanBnXkFtZTYwMDc3NzQ3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "5.4",
+    "imdbVotes": "46,667",
+    "imdbID": "tt0243585",
+    "Type": "movie",
+    "DVD": "10 Dec 2002",
+    "BoxOffice": "$64,736,114",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

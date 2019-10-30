@@ -1,0 +1,40 @@
+{
+    "Title": "Scary Movie 4",
+    "Year": "2006",
+    "Rated": "PG-13",
+    "Released": "14 Apr 2006",
+    "Runtime": "83 min",
+    "Genre": "Comedy",
+    "Director": "David Zucker",
+    "Writer": "Craig Mazin (screenplay), Jim Abrahams (screenplay), Pat Proft (screenplay), Craig Mazin (story), Shawn Wayans (characters), Marlon Wayans (characters), Buddy Johnson (characters), Phil Beauman (characters), Jason Friedberg (characters), Aaron Seltzer (characters)",
+    "Actors": "Anna Faris, Regina Hall, Craig Bierko, Bill Pullman",
+    "Plot": "Cindy finds out the house she lives in is haunted by a little boy and goes on a quest to find out who killed him and why. Also, Alien \"Tr-iPods\" are invading the world and she has to uncover the secret in order to stop them.",
+    "Language": "English, Japanese",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmFkMzc2NTctN2U1Ni00MzE5LWJmMzMtYWQ4NjQyY2MzYmM1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.0",
+    "imdbVotes": "108,041",
+    "imdbID": "tt0362120",
+    "Type": "movie",
+    "DVD": "15 Aug 2006",
+    "BoxOffice": "$90,672,025",
+    "Production": "Weinstein Co.",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "American Factory",
+    "Year": "2019",
+    "Rated": "TV-14",
+    "Released": "21 Aug 2019",
+    "Runtime": "115 min",
+    "Genre": "Documentary",
+    "Director": "Steven Bognar, Julia Reichert",
+    "Writer": "N/A",
+    "Actors": "Junming 'Jimmy' Wang, Robert Allen, Sherrod Brown, Dave Burrows",
+    "Plot": "End 2008, GM closes a plant in Ohio. A Chinese billionaire/Fuyao Glass buys the plant 2014 and invests in auto glass production. There are 2000 jobs there by late 2016. USA meets PRChina.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWFkMDY1MjItZmNkOS00MDg2LWFlMjMtZWU3YmM0MmY3MWM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.6",
+    "imdbVotes": "3,112",
+    "imdbID": "tt9351980",
+    "Type": "movie",
+    "DVD": "21 Aug 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

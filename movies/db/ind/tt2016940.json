@@ -1,0 +1,40 @@
+{
+    "Title": "Man of Tai Chi",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "05 Jul 2013",
+    "Runtime": "105 min",
+    "Genre": "Action, Drama",
+    "Director": "Keanu Reeves",
+    "Writer": "Michael G. Cooney",
+    "Actors": "Tiger Hu Chen, Keanu Reeves, Karen Mok, Hai Yu",
+    "Plot": "A young martial artist's unparalleled Tai Chi skills land him in a highly lucrative underworld fight club.",
+    "Language": "Cantonese, English, Mandarin",
+    "Country": "USA, China, Hong Kong",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjcyYzQ1MzItYWI0My00NjE4LTk1YWEtNjc2NjIyOTliZjExXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "70%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.1",
+    "imdbVotes": "33,602",
+    "imdbID": "tt2016940",
+    "Type": "movie",
+    "DVD": "10 Dec 2013",
+    "BoxOffice": "$61,054",
+    "Production": "Radius-TWC",
+    "Website": "N/A",
+    "Response": "True"
+}

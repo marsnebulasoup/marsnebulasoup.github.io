@@ -1,0 +1,40 @@
+{
+    "Title": "Muppet Treasure Island",
+    "Year": "1996",
+    "Rated": "G",
+    "Released": "16 Feb 1996",
+    "Runtime": "99 min",
+    "Genre": "Action, Adventure, Comedy, Family, Musical, Romance",
+    "Director": "Brian Henson, David Lane",
+    "Writer": "Robert Louis Stevenson (novel), Jerry Juhl (screenplay), Kirk R. Thatcher (screenplay), James V. Hart (screenplay)",
+    "Actors": "Tim Curry, Billy Connolly, Jennifer Saunders, Kevin Bishop",
+    "Plot": "The Muppets' twist on the classic tale.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTlmNzhiMWEtOWVjZC00NmM0LTgxNDItMDJmYTkxYTZkY2FjXkEyXkFqcGdeQXVyNTUyMzE4Mzg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.0",
+    "imdbVotes": "19,475",
+    "imdbID": "tt0117110",
+    "Type": "movie",
+    "DVD": "04 Jun 2002",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

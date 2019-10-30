@@ -1,0 +1,40 @@
+{
+    "Title": "Great Expectations",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "08 Nov 2013",
+    "Runtime": "128 min",
+    "Genre": "Drama, Romance",
+    "Director": "Mike Newell",
+    "Writer": "David Nicholls (screenplay), Charles Dickens (novel)",
+    "Actors": "Toby Irvine, Ralph Fiennes, Jason Flemyng, Sally Hawkins",
+    "Plot": "A series of events change the orphaned Pip's life forever as he eagerly abandons his humble origins to begin a new life as a gentleman.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 2 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMzODMxNjA3NF5BMl5BanBnXkFtZTgwMDIzMzY0MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.4",
+    "imdbVotes": "11,568",
+    "imdbID": "tt1836808",
+    "Type": "movie",
+    "DVD": "15 Apr 2014",
+    "BoxOffice": "$258,656",
+    "Production": "Main Street Films",
+    "Website": "N/A",
+    "Response": "True"
+}

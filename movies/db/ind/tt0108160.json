@@ -1,0 +1,40 @@
+{
+    "Title": "Sleepless in Seattle",
+    "Year": "1993",
+    "Rated": "PG",
+    "Released": "25 Jun 1993",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Nora Ephron",
+    "Writer": "Jeff Arch (story), Nora Ephron (screenplay), David S. Ward (screenplay), Jeff Arch (screenplay)",
+    "Actors": "Tom Hanks, Ross Malinger, Rita Wilson, Victor Garber",
+    "Plot": "A recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 4 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWY1MDJkZGUtZTE2OS00ODZiLTlmNzQtMDZjNzM2ZjkwM2QxXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.8",
+    "imdbVotes": "147,633",
+    "imdbID": "tt0108160",
+    "Type": "movie",
+    "DVD": "26 Jun 1997",
+    "BoxOffice": "N/A",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

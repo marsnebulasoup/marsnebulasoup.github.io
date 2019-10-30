@@ -1,0 +1,40 @@
+{
+    "Title": "Baywatch",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "25 May 2017",
+    "Runtime": "116 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Seth Gordon",
+    "Writer": "Michael Berk (based on the series \"Baywatch\" created by), Douglas Schwartz (based on the series \"Baywatch\" created by), Gregory J. Bonann (based on the series \"Baywatch\" created by), Jay Scherick (story by), David Ronn (story by), Thomas Lennon (story by), Robert Ben Garant (story by), Damian Shannon (screenplay by), Mark Swift (screenplay by)",
+    "Actors": "Dwayne Johnson, Zac Efron, Priyanka Chopra, Alexandra Daddario",
+    "Plot": "Devoted lifeguard Mitch Buchannon butts heads with a brash new recruit, as they uncover a criminal plot that threatens the future of the bay.",
+    "Language": "English, Spanish",
+    "Country": "UK, China, USA",
+    "Awards": "3 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTA4MjQ0ODQzNF5BMl5BanBnXkFtZTgwNzA5NjYzMjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "18%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.5",
+    "imdbVotes": "143,549",
+    "imdbID": "tt1469304",
+    "Type": "movie",
+    "DVD": "29 Aug 2017",
+    "BoxOffice": "$58,009,442",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

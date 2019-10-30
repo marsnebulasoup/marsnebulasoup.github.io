@@ -1,0 +1,40 @@
+{
+    "Title": "Mamma Mia!",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "18 Jul 2008",
+    "Runtime": "108 min",
+    "Genre": "Comedy, Musical, Romance",
+    "Director": "Phyllida Lloyd",
+    "Writer": "Catherine Johnson (screenplay), Catherine Johnson (musical book)",
+    "Actors": "Amanda Seyfried, Stellan Skarsg\u00e5rd, Pierce Brosnan, Nancy Baldwin",
+    "Plot": "The story of a bride-to-be trying to find her real father told using hit songs by the popular 1970s group ABBA.",
+    "Language": "English, Greek",
+    "Country": "USA, UK, Germany",
+    "Awards": "Nominated for 2 Golden Globes. Another 15 wins & 24 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA2MDU0MjM0MzReQTJeQWpwZ15BbWU3MDYwNzgwNzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.4",
+    "imdbVotes": "198,272",
+    "imdbID": "tt0795421",
+    "Type": "movie",
+    "DVD": "16 Dec 2008",
+    "BoxOffice": "$143,704,210",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

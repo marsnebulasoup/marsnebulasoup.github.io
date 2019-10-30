@@ -1,0 +1,40 @@
+{
+    "Title": "The Equalizer 2",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "20 Jul 2018",
+    "Runtime": "121 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Antoine Fuqua",
+    "Writer": "Richard Wenk, Michael Sloan (based on the television series created by), Richard Lindheim (based on the television series created by)",
+    "Actors": "Denzel Washington, Pedro Pascal, Ashton Sanders, Orson Bean",
+    "Plot": "Robert McCall serves an unflinching justice for the exploited and oppressed, but how far will he go when that is someone he loves?",
+    "Language": "English, French, Turkish, Hebrew, Arabic, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2OTYzODQyMF5BMl5BanBnXkFtZTgwNjU3Njk5NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.7",
+    "imdbVotes": "107,765",
+    "imdbID": "tt3766354",
+    "Type": "movie",
+    "DVD": "11 Dec 2018",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

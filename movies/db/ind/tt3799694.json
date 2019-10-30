@@ -1,0 +1,40 @@
+{
+    "Title": "The Nice Guys",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "20 May 2016",
+    "Runtime": "116 min",
+    "Genre": "Action, Comedy, Crime, Mystery, Thriller",
+    "Director": "Shane Black",
+    "Writer": "Shane Black, Anthony Bagarozzi",
+    "Actors": "Russell Crowe, Ryan Gosling, Angourie Rice, Matt Bomer",
+    "Plot": "In 1970s Los Angeles, a mismatched pair of private eyes investigate a missing girl and the mysterious death of a porn star.",
+    "Language": "English, German",
+    "Country": "USA",
+    "Awards": "8 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjcwNDA5MDYyNl5BMl5BanBnXkFtZTgwNjg0NDkzNzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.4",
+    "imdbVotes": "247,981",
+    "imdbID": "tt3799694",
+    "Type": "movie",
+    "DVD": "23 Aug 2016",
+    "BoxOffice": "$32,261,515",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

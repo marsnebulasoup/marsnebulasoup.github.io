@@ -1,0 +1,40 @@
+{
+    "Title": "Nebraska",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "24 Jan 2014",
+    "Runtime": "115 min",
+    "Genre": "Adventure, Comedy, Drama",
+    "Director": "Alexander Payne",
+    "Writer": "Bob Nelson",
+    "Actors": "Bruce Dern, Will Forte, June Squibb, Bob Odenkirk",
+    "Plot": "An aging, booze-addled father makes the trip from Montana to Nebraska with his estranged son in order to claim a million-dollar Mega Sweepstakes Marketing prize.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 6 Oscars. Another 28 wins & 157 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQzODdlMDktNzU4ZC00N2M3LWFkYTAtYTM1NTE0ZWI5YTg4XkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.7",
+    "imdbVotes": "106,391",
+    "imdbID": "tt1821549",
+    "Type": "movie",
+    "DVD": "25 Feb 2014",
+    "BoxOffice": "$11,348,612",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

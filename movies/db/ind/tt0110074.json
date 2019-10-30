@@ -1,0 +1,40 @@
+{
+    "Title": "The Hudsucker Proxy",
+    "Year": "1994",
+    "Rated": "PG",
+    "Released": "11 Mar 1994",
+    "Runtime": "111 min",
+    "Genre": "Comedy, Drama, Fantasy",
+    "Director": "Joel Coen, Ethan Coen",
+    "Writer": "Ethan Coen, Joel Coen, Sam Raimi",
+    "Actors": "Tim Robbins, Jennifer Jason Leigh, Paul Newman, Charles Durning",
+    "Plot": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+    "Language": "English, Finnish",
+    "Country": "UK, Germany, USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzNkYzI4ZTYtZjJlZC00ZTVjLTk2MDYtYWMwODA0NmFiYTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.2",
+    "imdbVotes": "73,577",
+    "imdbID": "tt0110074",
+    "Type": "movie",
+    "DVD": "18 May 1999",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

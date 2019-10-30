@@ -1,0 +1,40 @@
+{
+    "Title": "Angel-A",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "21 Dec 2005",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Drama, Fantasy, Romance",
+    "Director": "Luc Besson",
+    "Writer": "Luc Besson",
+    "Actors": "Jamel Debbouze, Rie Rasmussen, Gilbert Melki, Serge Riaboukine",
+    "Plot": "A beautiful woman helps an inept scam artist get his game together.",
+    "Language": "French, Spanish",
+    "Country": "France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGMxOTMyYTktODNkZS00NmY5LWI0NmMtYWE4OGRiY2M2ZTA0XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "45%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "7.1",
+    "imdbVotes": "30,316",
+    "imdbID": "tt0473753",
+    "Type": "movie",
+    "DVD": "20 Nov 2007",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

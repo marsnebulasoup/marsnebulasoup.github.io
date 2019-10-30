@@ -1,0 +1,40 @@
+{
+    "Title": "Child's Play 3",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "30 Aug 1991",
+    "Runtime": "90 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Jack Bender",
+    "Writer": "Don Mancini (characters), Don Mancini",
+    "Actors": "Justin Whalin, Perrey Reeves, Jeremy Sylvers, Travis Fine",
+    "Plot": "Chucky returns for revenge against Andy, the young boy who defeated him, and now a teenager living in a military academy.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTRjYWVhNjAtMjIwOC00NjU3LTliZTAtMjczMmEwMzQ5Y2Y3XkEyXkFqcGdeQXVyMjQwNTU1NTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "27/100"
+        }
+    ],
+    "Metascore": "27",
+    "imdbRating": "5.1",
+    "imdbVotes": "33,184",
+    "imdbID": "tt0103956",
+    "Type": "movie",
+    "DVD": "07 Oct 2003",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

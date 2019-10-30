@@ -1,0 +1,40 @@
+{
+    "Title": "Gotti",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "14 Jun 2018",
+    "Runtime": "112 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Kevin Connolly",
+    "Writer": "Leo Rossi, Lem Dobbs",
+    "Actors": "John Travolta, Spencer Rocco Lofranco, Kelly Preston, Pruitt Taylor Vince",
+    "Plot": "The story of crime boss John Gotti and his son.",
+    "Language": "English",
+    "Country": "Canada, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyODI1NDMxOV5BMl5BanBnXkFtZTgwNDg0Njg0NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "24/100"
+        }
+    ],
+    "Metascore": "24",
+    "imdbRating": "4.8",
+    "imdbVotes": "11,417",
+    "imdbID": "tt1801552",
+    "Type": "movie",
+    "DVD": "25 Sep 2018",
+    "BoxOffice": "N/A",
+    "Production": "Vertical Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Evil",
+    "Year": "2003",
+    "Rated": "Not Rated",
+    "Released": "26 Sep 2003",
+    "Runtime": "113 min",
+    "Genre": "Drama",
+    "Director": "Mikael H\u00e5fstr\u00f6m",
+    "Writer": "Jan Guillou (novel), Hans Gunnarsson, Mikael H\u00e5fstr\u00f6m",
+    "Actors": "Andreas Wilson, Henrik Lundstr\u00f6m, Gustaf Skarsg\u00e5rd, Linda Zilliacus",
+    "Plot": "A teenage boy expelled from school for fighting arrives at a boarding school where the systematic bullying of younger students is encouraged as a means to maintain discipline, and decides to fight back.",
+    "Language": "Swedish, Finnish",
+    "Country": "Sweden, Denmark",
+    "Awards": "Nominated for 1 Oscar. Another 9 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzYwODUxNjkyMF5BMl5BanBnXkFtZTcwODUzNjQyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.8",
+    "imdbVotes": "33,748",
+    "imdbID": "tt0338309",
+    "Type": "movie",
+    "DVD": "27 Jun 2006",
+    "BoxOffice": "N/A",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

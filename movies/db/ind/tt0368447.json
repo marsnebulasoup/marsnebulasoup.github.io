@@ -1,0 +1,40 @@
+{
+    "Title": "The Village",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "30 Jul 2004",
+    "Runtime": "108 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "M. Night Shyamalan",
+    "Writer": "M. Night Shyamalan",
+    "Actors": "Bryce Dallas Howard, Joaquin Phoenix, Adrien Brody, William Hurt",
+    "Plot": "A series of events tests the beliefs of a small isolated countryside village.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 4 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWExMWYxN2MtYmU1YS00Mjk5LWI3OTEtYTg3NDIwZTA2MTE2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.5",
+    "imdbVotes": "230,913",
+    "imdbID": "tt0368447",
+    "Type": "movie",
+    "DVD": "11 Jan 2005",
+    "BoxOffice": "$114,170,863",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

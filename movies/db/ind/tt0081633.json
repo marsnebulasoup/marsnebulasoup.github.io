@@ -1,0 +1,40 @@
+{
+    "Title": "Time Bandits",
+    "Year": "1981",
+    "Rated": "PG",
+    "Released": "06 Nov 1981",
+    "Runtime": "110 min",
+    "Genre": "Adventure, Comedy, Fantasy, Sci-Fi",
+    "Director": "Terry Gilliam",
+    "Writer": "Michael Palin, Terry Gilliam",
+    "Actors": "John Cleese, Sean Connery, Shelley Duvall, Katherine Helmond",
+    "Plot": "A young boy accidentally joins a band of time travelling dwarves, as they jump from era to era looking for treasure to steal.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "1 win & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MDYwMzM0NF5BMl5BanBnXkFtZTcwODI3MTQ5OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.0",
+    "imdbVotes": "54,385",
+    "imdbID": "tt0081633",
+    "Type": "movie",
+    "DVD": "30 Mar 1999",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

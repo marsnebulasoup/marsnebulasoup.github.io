@@ -1,0 +1,40 @@
+{
+    "Title": "Kingsglaive: Final Fantasy XV",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "09 Jul 2016",
+    "Runtime": "110 min",
+    "Genre": "Animation, Action, Adventure, Drama, Fantasy, Sci-Fi",
+    "Director": "Takeshi Nozue",
+    "Writer": "Takashi Hasegawa",
+    "Actors": "Aaron Paul, Lena Headey, Sean Bean, Adrian Bouchet",
+    "Plot": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal which gives Lucis its magic and power.",
+    "Language": "English, Japanese, Chinese",
+    "Country": "Japan, USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTEwNzMxNTU5M15BMl5BanBnXkFtZTgwMzMyMjg3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "6.8",
+    "imdbVotes": "18,776",
+    "imdbID": "tt5595168",
+    "Type": "movie",
+    "DVD": "04 Oct 2016",
+    "BoxOffice": "$233,569",
+    "Production": "Square Enix Company",
+    "Website": "N/A",
+    "Response": "True"
+}

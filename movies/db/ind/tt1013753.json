@@ -1,0 +1,40 @@
+{
+    "Title": "Milk",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "30 Jan 2009",
+    "Runtime": "128 min",
+    "Genre": "Biography, Drama",
+    "Director": "Gus Van Sant",
+    "Writer": "Dustin Lance Black",
+    "Actors": "Sean Penn, Emile Hirsch, Josh Brolin, Diego Luna",
+    "Plot": "The story of Harvey Milk, and his struggles as an American gay activist who fought for gay rights and became California's first openly gay elected official.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 61 wins & 141 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI2OTM5NjUzMV5BMl5BanBnXkFtZTcwMzY1MTM5MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "84/100"
+        }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.5",
+    "imdbVotes": "157,406",
+    "imdbID": "tt1013753",
+    "Type": "movie",
+    "DVD": "10 Mar 2009",
+    "BoxOffice": "$31,716,847",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

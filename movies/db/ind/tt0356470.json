@@ -1,0 +1,40 @@
+{
+    "Title": "A Cinderella Story",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "16 Jul 2004",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Family, Romance",
+    "Director": "Mark Rosman",
+    "Writer": "Leigh Dunlap",
+    "Actors": "Hilary Duff, Jennifer Coolidge, Chad Michael Murray, Dan Byrd",
+    "Plot": "Routinely exploited by her wicked stepmother, the downtrodden Sam Montgomery is excited about the prospect of meeting her Internet beau at the school's Halloween dance.",
+    "Language": "English, German, Czech",
+    "Country": "USA, Canada",
+    "Awards": "6 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1NDI0OTkwNDNeQTJeQWpwZ15BbWU3MDQ3Nzc1MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "12%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "25/100"
+        }
+    ],
+    "Metascore": "25",
+    "imdbRating": "5.9",
+    "imdbVotes": "76,085",
+    "imdbID": "tt0356470",
+    "Type": "movie",
+    "DVD": "19 Oct 2004",
+    "BoxOffice": "$51,100,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

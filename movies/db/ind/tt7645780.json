@@ -1,0 +1,40 @@
+{
+    "Title": "The Wedding Guest",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "08 Mar 2019",
+    "Runtime": "96 min",
+    "Genre": "Thriller",
+    "Director": "Michael Winterbottom",
+    "Writer": "Michael Winterbottom",
+    "Actors": "Dev Patel, Radhika Apte, Jim Sarbh, Harish Khanna",
+    "Plot": "A story centered on a mysterious British Muslim man (Dev Patel) on his journey across Pakistan and India.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmM4MmQzYzMtMmEyMy00ODg1LWI2MWQtM2YyZGE5ZTAzMzg4XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "43%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "5.6",
+    "imdbVotes": "1,651",
+    "imdbID": "tt7645780",
+    "Type": "movie",
+    "DVD": "23 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

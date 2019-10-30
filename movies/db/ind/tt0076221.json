@@ -1,0 +1,40 @@
+{
+    "Title": "Jabberwocky",
+    "Year": "1977",
+    "Rated": "PG",
+    "Released": "15 Apr 1977",
+    "Runtime": "105 min",
+    "Genre": "Adventure, Comedy, Fantasy",
+    "Director": "Terry Gilliam",
+    "Writer": "Lewis Carroll (poem), Charles Alverson (screenplay), Terry Gilliam (screenplay)",
+    "Actors": "Michael Palin, Harry H. Corbett, John Le Mesurier, Warren Mitchell",
+    "Plot": "A young peasant, with no interest in adventure or fortune, is mistaken as the kingdom's only hope when a horrible monster threatens the countryside.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjdkN2RhMjYtNWM3Ny00NmE1LTkwN2EtNmQ2ZWMxYzEzYWFmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.2",
+    "imdbVotes": "12,105",
+    "imdbID": "tt0076221",
+    "Type": "movie",
+    "DVD": "23 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

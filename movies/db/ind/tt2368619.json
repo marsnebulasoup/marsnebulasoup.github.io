@@ -1,0 +1,40 @@
+{
+    "Title": "The Take",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "18 Nov 2016",
+    "Runtime": "92 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "James Watkins",
+    "Writer": "Andrew Baldwin, James Watkins",
+    "Actors": "Idris Elba, Richard Madden, Charlotte Le Bon, Kelly Reilly",
+    "Plot": "A young pickpocket and an unruly CIA agent team up on an anti-terrorist mission in France.",
+    "Language": "English, French",
+    "Country": "UK, France, USA, Luxembourg, Germany",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAyNDc3MDMwMDNeQTJeQWpwZ15BbWU4MDkyMzc5MjAy._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "48%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.3",
+    "imdbVotes": "32,186",
+    "imdbID": "tt2368619",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$41,546",
+    "Production": "High Top Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Tomorrowland",
+    "Year": "2015",
+    "Rated": "PG",
+    "Released": "22 May 2015",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Family, Fantasy, Mystery, Sci-Fi",
+    "Director": "Brad Bird",
+    "Writer": "Damon Lindelof (screenplay by), Brad Bird (screenplay by), Damon Lindelof (story by), Brad Bird (story by), Jeff Jensen (story by)",
+    "Actors": "George Clooney, Hugh Laurie, Britt Robertson, Raffey Cassidy",
+    "Plot": "Bound by a shared destiny, a teen bursting with scientific curiosity and a former boy-genius inventor embark on a mission to unearth the secrets of a place somewhere in time and space that exists in their collective memory.",
+    "Language": "English, French, Japanese",
+    "Country": "USA, Spain, France, UK",
+    "Awards": "2 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4OTgzNTkwNF5BMl5BanBnXkFtZTgwMzI3MDE3NDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.4",
+    "imdbVotes": "163,432",
+    "imdbID": "tt1964418",
+    "Type": "movie",
+    "DVD": "13 Oct 2015",
+    "BoxOffice": "$71,526,443",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

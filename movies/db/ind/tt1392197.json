@@ -1,0 +1,40 @@
+{
+    "Title": "Marmaduke",
+    "Year": "2010",
+    "Rated": "PG",
+    "Released": "04 Jun 2010",
+    "Runtime": "87 min",
+    "Genre": "Comedy, Family",
+    "Director": "Tom Dey",
+    "Writer": "Tim Rasmussen, Vince Di Meglio, Brad Anderson (comic), Phil Leeming (comic)",
+    "Actors": "Owen Wilson, Emma Stone, George Lopez, Christopher Mintz-Plasse",
+    "Plot": "A suburban family moves to a new neighborhood with their large, yet lovable Great Dane, who has a tendency to wreak havoc in his own oblivious way.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2ZkMGNmMmUtYzVlZS00YTNmLTg1YTUtMGZkN2I1NGMwNWY0XkEyXkFqcGdeQXVyNDgyODgxNjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "9%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "30/100"
+        }
+    ],
+    "Metascore": "30",
+    "imdbRating": "4.2",
+    "imdbVotes": "13,472",
+    "imdbID": "tt1392197",
+    "Type": "movie",
+    "DVD": "31 Aug 2010",
+    "BoxOffice": "$33,643,461",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

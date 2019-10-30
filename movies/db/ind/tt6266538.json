@@ -1,0 +1,40 @@
+{
+    "Title": "Vice",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "25 Dec 2018",
+    "Runtime": "132 min",
+    "Genre": "Biography, Comedy, Drama",
+    "Director": "Adam McKay",
+    "Writer": "Adam McKay",
+    "Actors": "Christian Bale, Amy Adams, Steve Carell, Sam Rockwell",
+    "Plot": "The story of Dick Cheney, an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush, reshaping the country and the globe in ways that we still feel today.",
+    "Language": "English, Arabic",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.2",
+    "imdbVotes": "87,501",
+    "imdbID": "tt6266538",
+    "Type": "movie",
+    "DVD": "02 Apr 2019",
+    "BoxOffice": "N/A",
+    "Production": "Annapurna Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

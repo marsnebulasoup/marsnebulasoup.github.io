@@ -1,0 +1,40 @@
+{
+    "Title": "Romy and Michele's High School Reunion",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "25 Apr 1997",
+    "Runtime": "92 min",
+    "Genre": "Comedy",
+    "Director": "David Mirkin",
+    "Writer": "Robin Schiff (play), Robin Schiff (screenplay)",
+    "Actors": "Mira Sorvino, Lisa Kudrow, Janeane Garofalo, Alan Cumming",
+    "Plot": "Two dim-witted, inseparable friends hit the road for their ten-year high school reunion and concoct an elaborate lie about their lives in order to impress their classmates.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTE0NjYxNV5BMl5BanBnXkFtZTgwMDA2Mzc2MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.2",
+    "imdbVotes": "39,527",
+    "imdbID": "tt0120032",
+    "Type": "movie",
+    "DVD": "15 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

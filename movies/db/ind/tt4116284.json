@@ -1,0 +1,40 @@
+{
+    "Title": "The Lego Batman Movie",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "10 Feb 2017",
+    "Runtime": "104 min",
+    "Genre": "Animation, Action, Comedy, Family",
+    "Director": "Chris McKay",
+    "Writer": "Seth Grahame-Smith (screenplay by), Chris McKenna (screenplay by), Erik Sommers (screenplay by), Jared Stern (screenplay by), John Whittington (screenplay by), Seth Grahame-Smith (story by), Bob Kane (Batman created by), Bill Finger (Batman created by), Jerry Siegel (Superman created by), Joe Shuster (Superman created by), William Moulton Marston (Wonder Woman created by), Ole Kirk Christiansen (based on LEGO Construction Toys created by), Godtfred Kirk Christiansen (based on LEGO Construction Toys created by), Jens Nygaard Knudsen (based on LEGO Construction Toys created by)",
+    "Actors": "Will Arnett, Michael Cera, Rosario Dawson, Ralph Fiennes",
+    "Plot": "A cooler-than-ever Bruce Wayne must deal with the usual suspects as they plan to rule Gotham City, while discovering that he has accidentally adopted a teenage orphan who wishes to become his sidekick.",
+    "Language": "English",
+    "Country": "USA, Denmark",
+    "Awards": "11 wins & 58 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcyNTEyOTY0M15BMl5BanBnXkFtZTgwOTAyNzU3MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.3",
+    "imdbVotes": "119,726",
+    "imdbID": "tt4116284",
+    "Type": "movie",
+    "DVD": "13 Jun 2017",
+    "BoxOffice": "$175,686,290",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

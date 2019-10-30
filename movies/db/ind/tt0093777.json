@@ -1,0 +1,40 @@
+{
+    "Title": "Prince of Darkness",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "23 Oct 1987",
+    "Runtime": "102 min",
+    "Genre": "Horror",
+    "Director": "John Carpenter",
+    "Writer": "John Carpenter",
+    "Actors": "Donald Pleasence, Jameson Parker, Victor Wong, Lisa Blount",
+    "Plot": "A research team finds a mysterious cylinder in a deserted church. If opened, it could mean the end of the world.",
+    "Language": "English, Latin",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmI1ODg4MjYtY2U4NS00NTRlLWJlMDEtYjY2YzJkNWVhMDdiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "58%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "50/100"
+        }
+    ],
+    "Metascore": "50",
+    "imdbRating": "6.7",
+    "imdbVotes": "33,414",
+    "imdbID": "tt0093777",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

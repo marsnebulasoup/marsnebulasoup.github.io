@@ -1,0 +1,40 @@
+{
+    "Title": "The Thing",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "14 Oct 2011",
+    "Runtime": "103 min",
+    "Genre": "Horror, Mystery, Sci-Fi",
+    "Director": "Matthijs van Heijningen Jr.",
+    "Writer": "Eric Heisserer, John W. Campbell Jr. (short story \"Who Goes There?\")",
+    "Actors": "Mary Elizabeth Winstead, Joel Edgerton, Ulrich Thomsen, Eric Christian Olsen",
+    "Plot": "At an Antarctica research site, the discovery of an alien craft leads to a confrontation between graduate student Kate Lloyd and scientist Dr. Sander Halvorson.",
+    "Language": "English, Norwegian, Danish",
+    "Country": "USA, Canada",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjI0MzUyNl5BMl5BanBnXkFtZTcwNjc1NzE5NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "6.2",
+    "imdbVotes": "113,467",
+    "imdbID": "tt0905372",
+    "Type": "movie",
+    "DVD": "31 Jan 2012",
+    "BoxOffice": "$16,907,450",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

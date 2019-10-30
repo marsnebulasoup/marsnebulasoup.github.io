@@ -1,0 +1,40 @@
+{
+    "Title": "Frankenweenie",
+    "Year": "2012",
+    "Rated": "PG",
+    "Released": "05 Oct 2012",
+    "Runtime": "87 min",
+    "Genre": "Animation, Comedy, Family, Horror, Sci-Fi",
+    "Director": "Tim Burton",
+    "Writer": "Leonard Ripps, Tim Burton (original idea), John August (screenplay)",
+    "Actors": "Catherine O'Hara, Martin Short, Martin Landau, Charlie Tahan",
+    "Plot": "When a boy's beloved dog passes away suddenly, he attempts to bring the animal back to life through a powerful science experiment.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 11 wins & 49 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2UwYWI3MTktM2MxNC00MjRhLTlkMWEtYTNjMjRkOTIwOTkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "6.9",
+    "imdbVotes": "90,773",
+    "imdbID": "tt1142977",
+    "Type": "movie",
+    "DVD": "08 Jan 2013",
+    "BoxOffice": "$35,287,788",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

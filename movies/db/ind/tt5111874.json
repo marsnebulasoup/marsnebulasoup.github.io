@@ -1,0 +1,40 @@
+{
+    "Title": "My Scientology Movie",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "10 Mar 2017",
+    "Runtime": "99 min",
+    "Genre": "Documentary",
+    "Director": "John Dower",
+    "Writer": "John Dower, Louis Theroux",
+    "Actors": "Louis Theroux, Tom Cruise, Marty Rathbun, Paz de la Huerta",
+    "Plot": "Louis Theroux documents his investigation into what goes on behind the scenes of the infamous Church of Scientology.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5NTI2NDc3NF5BMl5BanBnXkFtZTgwNDA3ODk2MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.7",
+    "imdbVotes": "11,106",
+    "imdbID": "tt5111874",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "$22,450",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

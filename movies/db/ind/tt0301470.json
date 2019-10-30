@@ -1,0 +1,40 @@
+{
+    "Title": "Jeepers Creepers 2",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "29 Aug 2003",
+    "Runtime": "104 min",
+    "Genre": "Horror",
+    "Director": "Victor Salva",
+    "Writer": "Victor Salva (characters), Victor Salva",
+    "Actors": "Ray Wise, Jonathan Breck, Garikayi Mutambirwa, Eric Nenninger",
+    "Plot": "Set a few days after the original, a championship basketball team's bus is attacked by The Creeper, the winged, flesh-eating terror, on the last day of his 23-day feeding frenzy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTIxNDI2NzQyNF5BMl5BanBnXkFtZTYwMTY5MTQ3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "23%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "5.6",
+    "imdbVotes": "55,122",
+    "imdbID": "tt0301470",
+    "Type": "movie",
+    "DVD": "23 Dec 2003",
+    "BoxOffice": "$35,200,000",
+    "Production": "MGM/UA",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Oranges",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "05 Oct 2012",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Julian Farino",
+    "Writer": "Ian Helfer, Jay Reiss",
+    "Actors": "Alia Shawkat, Hugh Laurie, Oliver Platt, Allison Janney",
+    "Plot": "The enduring friendship between the Walling and Ostroff families is tested when Nina, the prodigal Ostroff daughter, returns home for the holidays after a five-year absence and enters into an affair with David, head of the Walling family.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzOTAzODM3Nl5BMl5BanBnXkFtZTcwMjMzOTUzOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "31%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "5.8",
+    "imdbVotes": "12,115",
+    "imdbID": "tt1313139",
+    "Type": "movie",
+    "DVD": "07 May 2013",
+    "BoxOffice": "$261,662",
+    "Production": "ATO Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

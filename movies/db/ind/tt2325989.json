@@ -1,0 +1,36 @@
+{
+    "Title": "Teen Beach Movie",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "19 Jul 2013",
+    "Runtime": "110 min",
+    "Genre": "Family, Fantasy, Musical",
+    "Director": "Jeffrey Hornaday",
+    "Writer": "Vince Marcello (story by), Mark Landry (story by), Vince Marcello (teleplay by), Mark Landry (teleplay by), Robert Horn (teleplay by)",
+    "Actors": "Ross Lynch, Maia Mitchell, Gracie Gillam, Garrett Clayton",
+    "Plot": "Two surfing lovers, whose doomed relationship is nearing to a close, find themselves swept into a a dimension traversing wave that sends them into a beach movie musical in the 60's.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjc1OTU5NF5BMl5BanBnXkFtZTgwODIwMTEwMDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.9",
+    "imdbVotes": "8,431",
+    "imdbID": "tt2325989",
+    "Type": "movie",
+    "DVD": "30 Jul 2013",
+    "BoxOffice": "N/A",
+    "Production": "Rainforest Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

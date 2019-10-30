@@ -1,0 +1,40 @@
+{
+    "Title": "The Best Offer",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "01 Jan 2014",
+    "Runtime": "131 min",
+    "Genre": "Crime, Drama, Mystery, Romance",
+    "Director": "Giuseppe Tornatore",
+    "Writer": "Giuseppe Tornatore (story and screenplay)",
+    "Actors": "Geoffrey Rush, Jim Sturgess, Sylvia Hoeks, Donald Sutherland",
+    "Plot": "A lonely art expert working for a mysterious and reclusive heiress finds not only her art worth examining.",
+    "Language": "English",
+    "Country": "Italy",
+    "Awards": "25 wins & 26 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BM2IxMjFmNWEtNmEyNS00MmNmLTk5ZWYtYTY5YTA1NjgwNDFmXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "7.8",
+    "imdbVotes": "96,958",
+    "imdbID": "tt1924396",
+    "Type": "movie",
+    "DVD": "29 Apr 2014",
+    "BoxOffice": "$85,433",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

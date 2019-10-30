@@ -1,0 +1,40 @@
+{
+    "Title": "The Perks of Being a Wallflower",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "12 Oct 2012",
+    "Runtime": "103 min",
+    "Genre": "Drama",
+    "Director": "Stephen Chbosky",
+    "Writer": "Stephen Chbosky (screenplay by), Stephen Chbosky (based on his book)",
+    "Actors": "Logan Lerman, Dylan McDermott, Kate Walsh, Patrick de Ledebur",
+    "Plot": "An introvert freshman is taken under the wings of two seniors who welcome him to the real world.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "19 wins & 49 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzIxOTQyODU1OV5BMl5BanBnXkFtZTcwMDQ4Mjg4Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "8.0",
+    "imdbVotes": "428,392",
+    "imdbID": "tt1659337",
+    "Type": "movie",
+    "DVD": "12 Feb 2013",
+    "BoxOffice": "$14,900,000",
+    "Production": "Lionsgate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Song to Song",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "17 Mar 2017",
+    "Runtime": "129 min",
+    "Genre": "Drama, Music, Romance",
+    "Director": "Terrence Malick",
+    "Writer": "Terrence Malick",
+    "Actors": "Ryan Gosling, Rooney Mara, Michael Fassbender, Natalie Portman",
+    "Plot": "Two intersecting love triangles. Obsession and betrayal set against the music scene in Austin, Texas.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzI1MTg0MzEyOF5BMl5BanBnXkFtZTgwNzk4Mjk0MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "44%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "5.7",
+    "imdbVotes": "16,172",
+    "imdbID": "tt2062700",
+    "Type": "movie",
+    "DVD": "04 Jul 2017",
+    "BoxOffice": "$421,856",
+    "Production": "Broad Green Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

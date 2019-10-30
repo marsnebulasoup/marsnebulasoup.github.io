@@ -1,0 +1,40 @@
+{
+    "Title": "Spider",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "13 Nov 2002",
+    "Runtime": "98 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "David Cronenberg",
+    "Writer": "Patrick McGrath (novel), Patrick McGrath",
+    "Actors": "Ralph Fiennes, Miranda Richardson, Gabriel Byrne, Lynn Redgrave",
+    "Plot": "A mentally disturbed man takes residence in a halfway house. His mind gradually slips back into the realm created by his illness, where he replays a key part of his childhood.",
+    "Language": "English",
+    "Country": "Canada, UK, France",
+    "Awards": "13 wins & 24 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmY4OGRmNWMtNmIyNS00YWQ5LWJmMGUtMDI3MWRlMmQ0ZDQzL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "6.8",
+    "imdbVotes": "33,944",
+    "imdbID": "tt0278731",
+    "Type": "movie",
+    "DVD": "29 Jul 2003",
+    "BoxOffice": "$1,278,369",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

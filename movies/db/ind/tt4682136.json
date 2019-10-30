@@ -1,0 +1,40 @@
+{
+    "Title": "The Seagull",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "26 Jul 2018",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Michael Mayer",
+    "Writer": "Anton Chekhov (play), Stephen Karam (screenplay)",
+    "Actors": "Annette Bening, Corey Stoll, Glenn Fleshler, Billy Howle",
+    "Plot": "In the early 20th century, an aging actress and her lover visit the estate of her elderly brother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc5OTk3NDQ5MV5BMl5BanBnXkFtZTgwMDYxNDIyNTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "5.8",
+    "imdbVotes": "2,302",
+    "imdbID": "tt4682136",
+    "Type": "movie",
+    "DVD": "25 Sep 2018",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

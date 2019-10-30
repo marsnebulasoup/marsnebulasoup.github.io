@@ -1,0 +1,40 @@
+{
+    "Title": "Everybody Wants Some!!",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "07 Apr 2016",
+    "Runtime": "117 min",
+    "Genre": "Comedy",
+    "Director": "Richard Linklater",
+    "Writer": "Richard Linklater",
+    "Actors": "Blake Jenner, Juston Street, Ryan Guzman, Tyler Hoechlin",
+    "Plot": "In 1980, a group of college baseball players navigate their way through the freedoms and responsibilities of unsupervised adulthood.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NDcyNDE5N15BMl5BanBnXkFtZTgwNDA0MzQ1NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "87%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "6.9",
+    "imdbVotes": "48,579",
+    "imdbID": "tt2937696",
+    "Type": "movie",
+    "DVD": "12 Jul 2016",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

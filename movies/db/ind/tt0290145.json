@@ -1,0 +1,40 @@
+{
+    "Title": "Blue Car",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "02 May 2003",
+    "Runtime": "96 min",
+    "Genre": "Drama",
+    "Director": "Karen Moncrieff",
+    "Writer": "Karen Moncrieff",
+    "Actors": "David Strathairn, Agnes Bruckner, Margaret Colin, Frances Fisher",
+    "Plot": "A troubled young woman is encouraged by a teacher to enter a poetry contest.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM1MzczOTE1Nl5BMl5BanBnXkFtZTYwMjIwMDA3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.6",
+    "imdbVotes": "3,286",
+    "imdbID": "tt0290145",
+    "Type": "movie",
+    "DVD": "14 Oct 2003",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

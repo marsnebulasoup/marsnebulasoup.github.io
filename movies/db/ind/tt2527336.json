@@ -1,0 +1,40 @@
+{
+    "Title": "Star Wars: The Last Jedi",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "15 Dec 2017",
+    "Runtime": "152 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "Rian Johnson",
+    "Writer": "Rian Johnson, George Lucas (based on characters created by)",
+    "Actors": "Mark Hamill, Carrie Fisher, Adam Driver, Daisy Ridley",
+    "Plot": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 12 wins & 71 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "85/100"
+        }
+    ],
+    "Metascore": "85",
+    "imdbRating": "7.1",
+    "imdbVotes": "476,677",
+    "imdbID": "tt2527336",
+    "Type": "movie",
+    "DVD": "27 Mar 2018",
+    "BoxOffice": "$619,117,636",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

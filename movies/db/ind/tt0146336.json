@@ -1,0 +1,40 @@
+{
+    "Title": "Urban Legend",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "25 Sep 1998",
+    "Runtime": "99 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Jamie Blanks",
+    "Writer": "Silvio Horta",
+    "Actors": "Jared Leto, Alicia Witt, Rebecca Gayheart, Michael Rosenbaum",
+    "Plot": "A college student suspects a series of bizarre deaths are connected to certain urban legends.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWRlNDRiNWMtMjU4Yy00NDc5LWI1YTUtODNmN2ViOTMzN2EwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "19%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.5",
+    "imdbVotes": "56,207",
+    "imdbID": "tt0146336",
+    "Type": "movie",
+    "DVD": "22 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

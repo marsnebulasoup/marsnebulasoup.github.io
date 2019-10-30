@@ -1,0 +1,40 @@
+{
+    "Title": "I Know Who Killed Me",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "27 Jul 2007",
+    "Runtime": "105 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Chris Sivertson",
+    "Writer": "Jeff Hammond",
+    "Actors": "Bonnie Aarons, Lindsay Lohan, Michael Adler, Julia Ormond",
+    "Plot": "A young woman who was missing reappears, but she claims to be someone else entirely.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "8 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzZDA4MzMtNWIwOS00YzgxLWEyZjItZTNjYzM3NzBjNTBkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "9%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "16/100"
+        }
+    ],
+    "Metascore": "16",
+    "imdbRating": "3.6",
+    "imdbVotes": "25,145",
+    "imdbID": "tt0897361",
+    "Type": "movie",
+    "DVD": "27 Nov 2007",
+    "BoxOffice": "$7,233,485",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Raging Bull",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "19 Dec 1980",
+    "Runtime": "129 min",
+    "Genre": "Biography, Drama, Sport",
+    "Director": "Martin Scorsese",
+    "Writer": "Jake LaMotta (based on the book by), Joseph Carter (with), Peter Savage (with), Paul Schrader (screenplay), Mardik Martin (screenplay)",
+    "Actors": "Robert De Niro, Cathy Moriarty, Joe Pesci, Frank Vincent",
+    "Plot": "The life of boxer Jake LaMotta, whose violence and temper that led him to the top in the ring destroyed his life outside of it.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 22 wins & 26 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.2",
+    "imdbVotes": "294,131",
+    "imdbID": "tt0081398",
+    "Type": "movie",
+    "DVD": "01 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Room",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "03 Mar 2004",
+    "Runtime": "99 min",
+    "Genre": "Drama",
+    "Director": "Tommy Wiseau",
+    "Writer": "Tommy Wiseau",
+    "Actors": "Tommy Wiseau, Juliette Danielle, Greg Sestero, Philip Haldiman",
+    "Plot": "Johnny is a successful banker who lives happily in a San Francisco townhouse with his fianc\u00e9e, Lisa. One day, inexplicably, she gets bored with him and decides to seduce his best friend, Mark. From there, nothing will be the same again.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjEzN2FlYmYtNDkwMC00NGFkLWE5ODctYmE5NmYxNzE2MmRiXkEyXkFqcGdeQXVyMjMwODc5Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "26%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "9/100"
+        }
+    ],
+    "Metascore": "9",
+    "imdbRating": "3.7",
+    "imdbVotes": "74,330",
+    "imdbID": "tt0368226",
+    "Type": "movie",
+    "DVD": "17 Dec 2005",
+    "BoxOffice": "N/A",
+    "Production": "Chloe Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

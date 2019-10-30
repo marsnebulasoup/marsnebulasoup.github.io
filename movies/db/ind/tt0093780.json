@@ -1,0 +1,36 @@
+{
+    "Title": "The Principal",
+    "Year": "1987",
+    "Rated": "R",
+    "Released": "18 Sep 1987",
+    "Runtime": "109 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Christopher Cain",
+    "Writer": "Frank Deese",
+    "Actors": "Jim Belushi, Louis Gossett Jr., Rae Dawn Chong, Michael Wright",
+    "Plot": "A teacher is assigned to be the principal of a violent and crime-ridden high school.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjhhNTFjZmMtNzJiNy00YjQ1LTk5N2ItNGE4M2E5ZGEwYWQ2XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.3",
+    "imdbVotes": "8,301",
+    "imdbID": "tt0093780",
+    "Type": "movie",
+    "DVD": "30 Jul 2002",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

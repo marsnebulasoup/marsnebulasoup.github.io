@@ -1,0 +1,40 @@
+{
+    "Title": "How to Train Your Dragon 2",
+    "Year": "2014",
+    "Rated": "PG",
+    "Released": "13 Jun 2014",
+    "Runtime": "102 min",
+    "Genre": "Animation, Action, Adventure, Family, Fantasy",
+    "Director": "Dean DeBlois",
+    "Writer": "Dean DeBlois, Cressida Cowell (based upon the \"How to Train Your Dragon\" book series by)",
+    "Actors": "Jay Baruchel, Cate Blanchett, Gerard Butler, Craig Ferguson",
+    "Plot": "When Hiccup and Toothless discover an ice cave that is home to hundreds of new wild dragons and the mysterious Dragon Rider, the two friends find themselves at the center of a battle to protect the peace.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 60 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTAwODczN15BMl5BanBnXkFtZTgwMDk2NDA4MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.8",
+    "imdbVotes": "283,921",
+    "imdbID": "tt1646971",
+    "Type": "movie",
+    "DVD": "11 Nov 2014",
+    "BoxOffice": "$147,065,544",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "They Live",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "04 Nov 1988",
+    "Runtime": "94 min",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
+    "Director": "John Carpenter",
+    "Writer": "Ray Nelson (short story \"Eight O'Clock in the Morning\"), John Carpenter (screenplay)",
+    "Actors": "Roddy Piper, Keith David, Meg Foster, George 'Buck' Flower",
+    "Plot": "A drifter discovers a pair of sunglasses that allow him to wake up to the fact that aliens have taken over the Earth.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ3MjM3ODU1NV5BMl5BanBnXkFtZTgwMjU3NDU2MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "7.3",
+    "imdbVotes": "99,107",
+    "imdbID": "tt0096256",
+    "Type": "movie",
+    "DVD": "10 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "MCA/Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

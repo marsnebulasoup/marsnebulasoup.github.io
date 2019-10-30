@@ -1,0 +1,36 @@
+{
+    "Title": "Moby Dick",
+    "Year": "1956",
+    "Rated": "Not Rated",
+    "Released": "03 Oct 1956",
+    "Runtime": "116 min",
+    "Genre": "Adventure, Drama",
+    "Director": "John Huston",
+    "Writer": "Ray Bradbury (screenplay), John Huston (screenplay)",
+    "Actors": "Gregory Peck, Richard Basehart, Leo Genn, James Robertson Justice",
+    "Plot": "The sole survivor of a lost whaling ship relates the tale of his captain's self-destructive obsession to hunt the white whale, Moby Dick.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzIxOWRlYjQtODQ0MS00NjZhLWJiZTUtZmRjZWI3OGNmMTA1XkEyXkFqcGdeQXVyNTEwNDcxNDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.3",
+    "imdbVotes": "15,869",
+    "imdbID": "tt0049513",
+    "Type": "movie",
+    "DVD": "19 Jun 2001",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

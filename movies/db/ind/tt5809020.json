@@ -1,0 +1,32 @@
+{
+    "Title": "Handsome: A Netflix Mystery Movie",
+    "Year": "2017",
+    "Rated": "TV-MA",
+    "Released": "05 May 2017",
+    "Runtime": "80 min",
+    "Genre": "Comedy, Mystery",
+    "Director": "Jeff Garlin",
+    "Writer": "Andrea Seigel, Jeff Garlin",
+    "Actors": "Ava Acres, Armani GreatDane, Dino Battaglia, Brent Bradshaw",
+    "Plot": "Gene Handsome is an LA homicide detective who tries to make sense of his life as he solves crime. Handsome's knack for solving mysteries is matched only by his inability to make sense of his own problems.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzIyMzA5MDU3M15BMl5BanBnXkFtZTgwNjk1MjA4MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "3,189",
+    "imdbID": "tt5809020",
+    "Type": "movie",
+    "DVD": "05 May 2017",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

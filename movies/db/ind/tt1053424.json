@@ -1,0 +1,40 @@
+{
+    "Title": "Repo Men",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "19 Mar 2010",
+    "Runtime": "111 min",
+    "Genre": "Action, Adventure, Crime, Fantasy, Sci-Fi, Thriller",
+    "Director": "Miguel Sapochnik",
+    "Writer": "Eric Garcia (screenplay), Garrett Lerner (screenplay), Eric Garcia (novel)",
+    "Actors": "Jude Law, Forest Whitaker, Alice Braga, Liev Schreiber",
+    "Plot": "Set in the near future when artificial organs can be bought on credit, it revolves around a man who struggles to make the payments on a heart he has purchased. He must therefore go on the run before said ticker is repossessed.",
+    "Language": "English, Spanish",
+    "Country": "Canada, USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4MTUxODM0MV5BMl5BanBnXkFtZTcwMDg3MTgwMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "6.3",
+    "imdbVotes": "97,092",
+    "imdbID": "tt1053424",
+    "Type": "movie",
+    "DVD": "27 Jul 2010",
+    "BoxOffice": "$13,156,255",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

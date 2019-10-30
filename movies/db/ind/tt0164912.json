@@ -1,0 +1,40 @@
+{
+    "Title": "Stuart Little",
+    "Year": "1999",
+    "Rated": "PG",
+    "Released": "17 Dec 1999",
+    "Runtime": "84 min",
+    "Genre": "Adventure, Comedy, Family, Fantasy",
+    "Director": "Rob Minkoff",
+    "Writer": "E.B. White (book), M. Night Shyamalan (screenplay), Greg Brooker (screenplay)",
+    "Actors": "Michael J. Fox, Geena Davis, Hugh Laurie, Jonathan Lipnicki",
+    "Plot": "The Little family adopt a charming young mouse named Stuart, but the family cat wants rid of him.",
+    "Language": "English, Dutch",
+    "Country": "Germany, USA",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDJlZWZiODItMGE3NC00Yzg3LWFhYTYtZTI2YWNlNjExMDE4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "5.9",
+    "imdbVotes": "117,623",
+    "imdbID": "tt0164912",
+    "Type": "movie",
+    "DVD": "18 Apr 2000",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

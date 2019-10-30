@@ -1,0 +1,40 @@
+{
+    "Title": "Sleepover",
+    "Year": "2004",
+    "Rated": "PG",
+    "Released": "09 Jul 2004",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Family, Romance",
+    "Director": "Joe Nussbaum",
+    "Writer": "Elisa Bell",
+    "Actors": "Alexa PenaVega, Mika Boorem, Jane Lynch, Sam Huntington",
+    "Plot": "Four best friends, desperate to improve their social status, enter into an all-night scavenger hunt against the popular clique in their school.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4ODg1OTk2MjJeQTJeQWpwZ15BbWU3MDc4MzIyNzQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "5.3",
+    "imdbVotes": "14,543",
+    "imdbID": "tt0368975",
+    "Type": "movie",
+    "DVD": "23 Nov 2004",
+    "BoxOffice": "$8,070,311",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

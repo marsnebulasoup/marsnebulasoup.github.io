@@ -1,0 +1,40 @@
+{
+    "Title": "Shooter",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "23 Mar 2007",
+    "Runtime": "124 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Antoine Fuqua",
+    "Writer": "Jonathan Lemkin (screenplay), Stephen Hunter (novel)",
+    "Actors": "Mark Wahlberg, Michael Pe\u00f1a, Danny Glover, Kate Mara",
+    "Plot": "A marksman living in exile is coaxed back into action after learning of a plot to kill the President. Ultimately double-crossed and framed for the attempt, he goes on the run to find the real killer and the reason he was set up.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGRjMzY0OGItNDc4YS00OGNlLWI3MGYtZjRkNjdiNWUyNDY4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.2",
+    "imdbVotes": "294,950",
+    "imdbID": "tt0822854",
+    "Type": "movie",
+    "DVD": "26 Jun 2007",
+    "BoxOffice": "$47,000,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

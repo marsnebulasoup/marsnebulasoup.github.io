@@ -1,0 +1,40 @@
+{
+    "Title": "Enigma",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "07 Jun 2002",
+    "Runtime": "119 min",
+    "Genre": "Drama, Mystery, Romance, Thriller, War",
+    "Director": "Michael Apted",
+    "Writer": "Robert Harris (novel), Tom Stoppard (screenplay)",
+    "Actors": "Dougray Scott, Kate Winslet, Saffron Burrows, Jeremy Northam",
+    "Plot": "A young genius frantically races against time to crack an enemy code and solve the mystery surrounding the woman he loves.",
+    "Language": "English, German",
+    "Country": "UK, USA, Germany, Netherlands",
+    "Awards": "3 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTI5ODU3N2UtM2QzNS00NjM1LWExNzMtNjgzYWQ5MWNkYTJmXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.3",
+    "imdbVotes": "19,353",
+    "imdbID": "tt0157583",
+    "Type": "movie",
+    "DVD": "24 Sep 2002",
+    "BoxOffice": "N/A",
+    "Production": "Manhattan Pictures Internation",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Pay It Forward",
+    "Year": "2000",
+    "Rated": "PG-13",
+    "Released": "20 Oct 2000",
+    "Runtime": "123 min",
+    "Genre": "Drama",
+    "Director": "Mimi Leder",
+    "Writer": "Catherine Ryan Hyde (book), Leslie Dixon (screenplay)",
+    "Actors": "Kevin Spacey, Helen Hunt, Haley Joel Osment, Jay Mohr",
+    "Plot": "A young boy attempts to make the world a better place after his teacher gives him that chance.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjI3ODI5NDEwMl5BMl5BanBnXkFtZTYwNDYyMjU3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "7.2",
+    "imdbVotes": "107,908",
+    "imdbID": "tt0223897",
+    "Type": "movie",
+    "DVD": "15 May 2001",
+    "BoxOffice": "$32,801,029",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

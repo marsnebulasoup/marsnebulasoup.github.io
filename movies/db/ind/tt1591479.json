@@ -1,0 +1,40 @@
+{
+    "Title": "Act of Valor",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "24 Feb 2012",
+    "Runtime": "110 min",
+    "Genre": "Action, Adventure, Drama, Thriller, War",
+    "Director": "Mike McCoy, Scott Waugh",
+    "Writer": "Kurt Johnstad",
+    "Actors": "Rorke Denver, Dave, Sonny, Weimy",
+    "Plot": "An elite team of Navy SEALs embark on a covert mission to recover a kidnapped CIA agent.",
+    "Language": "English, Russian, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 1 win & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDQxMDAzM15BMl5BanBnXkFtZTcwNzEyNjgzNw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "26%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.5",
+    "imdbVotes": "64,184",
+    "imdbID": "tt1591479",
+    "Type": "movie",
+    "DVD": "05 Jun 2012",
+    "BoxOffice": "$65,800,000",
+    "Production": "Relativity Media",
+    "Website": "N/A",
+    "Response": "True"
+}

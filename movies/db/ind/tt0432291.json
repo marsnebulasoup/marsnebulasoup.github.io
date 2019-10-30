@@ -1,0 +1,40 @@
+{
+    "Title": "The Fog",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "14 Oct 2005",
+    "Runtime": "100 min",
+    "Genre": "Horror",
+    "Director": "Rupert Wainwright",
+    "Writer": "Cooper Layne (screenplay), John Carpenter, Debra Hill",
+    "Actors": "Tom Welling, Maggie Grace, Selma Blair, DeRay Davis",
+    "Plot": "A thick mist full of vengeful spirits haunts a prosperous island town off the coast of Oregon, as its inhabitants try to learn their town's dark secret in order to stop it.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzM3Njg0M15BMl5BanBnXkFtZTcwNzI1NDAzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "3.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "4%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "27/100"
+        }
+    ],
+    "Metascore": "27",
+    "imdbRating": "3.7",
+    "imdbVotes": "33,406",
+    "imdbID": "tt0432291",
+    "Type": "movie",
+    "DVD": "24 Jan 2006",
+    "BoxOffice": "$29,511,112",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

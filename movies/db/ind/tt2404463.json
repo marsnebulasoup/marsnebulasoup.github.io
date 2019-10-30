@@ -1,0 +1,40 @@
+{
+    "Title": "The Heat",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "28 Jun 2013",
+    "Runtime": "117 min",
+    "Genre": "Action, Comedy, Crime",
+    "Director": "Paul Feig",
+    "Writer": "Katie Dippold",
+    "Actors": "Sandra Bullock, Melissa McCarthy, Demi\u00e1n Bichir, Marlon Wayans",
+    "Plot": "An uptight FBI Special Agent is paired with a foul-mouthed Boston cop to take down a ruthless drug lord.",
+    "Language": "English, Spanish, Bulgarian",
+    "Country": "USA",
+    "Awards": "7 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2MDQ2ODM3MV5BMl5BanBnXkFtZTcwNDUzMTQ3OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.6",
+    "imdbVotes": "155,255",
+    "imdbID": "tt2404463",
+    "Type": "movie",
+    "DVD": "15 Oct 2013",
+    "BoxOffice": "$158,300,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

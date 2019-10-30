@@ -1,0 +1,40 @@
+{
+    "Title": "The Snowman",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "20 Oct 2017",
+    "Runtime": "119 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Tomas Alfredson",
+    "Writer": "Peter Straughan (screenplay by), Hossein Amini (screenplay by), S\u00f8ren Sveistrup (screenplay by), Jo Nesb\u00f8 (based on the novel by)",
+    "Actors": "Michael Fassbender, Rebecca Ferguson, Charlotte Gainsbourg, Jonas Karlsson",
+    "Plot": "Detective Harry Hole investigates the disappearance of a woman whose scarf is found wrapped around an ominous-looking snowman.",
+    "Language": "English, Russian",
+    "Country": "UK, USA, China, Sweden, Japan",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDg1NjYyMTEyOF5BMl5BanBnXkFtZTgwNzY4MDMyMzI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "7%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "23/100"
+        }
+    ],
+    "Metascore": "23",
+    "imdbRating": "5.1",
+    "imdbVotes": "50,883",
+    "imdbID": "tt1758810",
+    "Type": "movie",
+    "DVD": "16 Jan 2018",
+    "BoxOffice": "$6,658,715",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

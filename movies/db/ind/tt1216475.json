@@ -1,0 +1,40 @@
+{
+    "Title": "Cars 2",
+    "Year": "2011",
+    "Rated": "G",
+    "Released": "24 Jun 2011",
+    "Runtime": "106 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Sport",
+    "Director": "John Lasseter, Bradford Lewis(co-director)",
+    "Writer": "John Lasseter (original story by), Bradford Lewis (original story by), Dan Fogelman (original story by), Ben Queen (screenplay by)",
+    "Actors": "Larry the Cable Guy, Owen Wilson, Michael Caine, Emily Mortimer",
+    "Plot": "Star race car Lightning McQueen and his pal Mater head overseas to compete in the World Grand Prix race. But the road to the championship becomes rocky as Mater gets caught up in an intriguing adventure of his own: international espionage.",
+    "Language": "English, Japanese, Italian, French",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 1 win & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzNTc3MTU3M15BMl5BanBnXkFtZTcwMzIxNTc3NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.1",
+    "imdbVotes": "143,385",
+    "imdbID": "tt1216475",
+    "Type": "movie",
+    "DVD": "01 Nov 2011",
+    "BoxOffice": "$191,450,875",
+    "Production": "Walt Disney Pictures/PIXAR",
+    "Website": "N/A",
+    "Response": "True"
+}

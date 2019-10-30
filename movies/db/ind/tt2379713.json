@@ -1,0 +1,40 @@
+{
+    "Title": "Spectre",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "06 Nov 2015",
+    "Runtime": "148 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Sam Mendes",
+    "Writer": "John Logan (screenplay by), Neal Purvis (screenplay by), Robert Wade (screenplay by), Jez Butterworth (screenplay by), John Logan (story by), Neal Purvis (story by), Robert Wade (story by), Ian Fleming (based on characters created by)",
+    "Actors": "Daniel Craig, Christoph Waltz, L\u00e9a Seydoux, Ralph Fiennes",
+    "Plot": "A cryptic message from 007's past sends him pitted against a mysterious terrorist organization called Spectre, and learns of its involvement in previous events of his most dangerous missions.",
+    "Language": "English, Spanish, Italian, German, French",
+    "Country": "UK, USA",
+    "Awards": "Won 1 Oscar. Another 7 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ1MDE1NzgtNTQ4OC00ZjliLTllZDAtN2IyOTVmMTc5YjUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.8",
+    "imdbVotes": "357,470",
+    "imdbID": "tt2379713",
+    "Type": "movie",
+    "DVD": "09 Feb 2016",
+    "BoxOffice": "$208,777,731",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

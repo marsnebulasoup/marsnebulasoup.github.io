@@ -1,0 +1,32 @@
+{
+    "Title": "The Suite Life Movie",
+    "Year": "2011",
+    "Rated": "Not Rated",
+    "Released": "25 Mar 2011",
+    "Runtime": "79 min",
+    "Genre": "Adventure, Comedy, Crime, Drama, Family, Sci-Fi",
+    "Director": "Sean McNamara",
+    "Writer": "Danny Kallis (characters), Jim Geoghan (characters), Michael Saltzman, Robert Horn",
+    "Actors": "Cole Sprouse, Dylan Sprouse, Brenda Song, Debby Ryan",
+    "Plot": "A doctor approaches Zack and Cody and tells them that they would be ideal for the Gemini Project, a massive project studying the effects of twins.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTczODczNzE1NF5BMl5BanBnXkFtZTgwNjkxNTA2MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "2,886",
+    "imdbID": "tt1754799",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

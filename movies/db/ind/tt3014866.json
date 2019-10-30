@@ -1,0 +1,40 @@
+{
+    "Title": "Criminal",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "15 Apr 2016",
+    "Runtime": "113 min",
+    "Genre": "Action, Crime, Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Ariel Vromen",
+    "Writer": "Douglas Cook, David Weisberg",
+    "Actors": "Kevin Costner, Gary Oldman, Tommy Lee Jones, Ryan Reynolds",
+    "Plot": "In a last-ditch effort to stop a diabolical plot, a dead CIA operative's memories, secrets, and skills are implanted into a death-row inmate in hopes that he will complete the operative's mission.",
+    "Language": "English, French",
+    "Country": "USA, UK, Bulgaria",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0ODc4Mzk2OF5BMl5BanBnXkFtZTgwNDk2MDkyODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "6.3",
+    "imdbVotes": "53,177",
+    "imdbID": "tt3014866",
+    "Type": "movie",
+    "DVD": "26 Jul 2016",
+    "BoxOffice": "N/A",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

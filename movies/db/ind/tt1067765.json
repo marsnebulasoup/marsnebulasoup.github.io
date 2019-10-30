@@ -1,0 +1,40 @@
+{
+    "Title": "Adult World",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "14 Feb 2014",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Scott Coffey",
+    "Writer": "Andy Cochran",
+    "Actors": "Emma Roberts, Summer Shelton, Chris Riggi, Shannon Woodward",
+    "Plot": "A naive college graduate, Amy, who believes she's destined to be a great poet, begrudgingly accepts a job in a shop while she pursues a mentorship with reclusive writer Rat Billings.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzNDY1NjgzOV5BMl5BanBnXkFtZTgwNzMzMDEwMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.1",
+    "imdbVotes": "16,068",
+    "imdbID": "tt1067765",
+    "Type": "movie",
+    "DVD": "09 Jun 2014",
+    "BoxOffice": "$16,740",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

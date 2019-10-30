@@ -1,0 +1,40 @@
+{
+    "Title": "Selena",
+    "Year": "1997",
+    "Rated": "PG",
+    "Released": "21 Mar 1997",
+    "Runtime": "127 min",
+    "Genre": "Biography, Drama, Music",
+    "Director": "Gregory Nava",
+    "Writer": "Gregory Nava",
+    "Actors": "Jennifer Lopez, Jackie Guerra, Constance Marie, Alex Meneses",
+    "Plot": "The true story of Selena Quintanilla-Perez, a Texas-born Tejano singer who rose from cult status to performing at the Astrodome, as well as having chart topping albums on the Latin music charts.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 8 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGE0Y2RlNmQtZDY0Ni00Njk5LWFiZWUtMzc5N2VlZTBhOGE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.7",
+    "imdbVotes": "22,711",
+    "imdbID": "tt0120094",
+    "Type": "movie",
+    "DVD": "23 Sep 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

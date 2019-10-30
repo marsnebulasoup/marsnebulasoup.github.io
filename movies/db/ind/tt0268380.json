@@ -1,0 +1,40 @@
+{
+    "Title": "Ice Age",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "15 Mar 2002",
+    "Runtime": "81 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy",
+    "Director": "Chris Wedge, Carlos Saldanha(co-director)",
+    "Writer": "Michael J. Wilson (story), Michael Berg (screenplay), Michael J. Wilson (screenplay), Peter Ackerman (screenplay), James Bresnahan (additional story), Doug Compton (additional story), Jeff Siergey (additional story), Mike Thurmeier (additional story), Galen T. Chu (additional story), Xeth Feinberg (additional story)",
+    "Actors": "Ray Romano, John Leguizamo, Denis Leary, Goran Visnjic",
+    "Plot": "Set during the Ice Age, a sabertooth tiger, a sloth, and a wooly mammoth find a lost human infant, and they try to return him to his tribe.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 29 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmYxZWY2NzgtYzJjZC00MDFmLTgxZTctMjRiYjdjY2FhODg3XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.5",
+    "imdbVotes": "409,953",
+    "imdbID": "tt0268380",
+    "Type": "movie",
+    "DVD": "26 Nov 2002",
+    "BoxOffice": "$176,400,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

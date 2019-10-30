@@ -1,0 +1,40 @@
+{
+    "Title": "Sleuth",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "23 Nov 2007",
+    "Runtime": "88 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Kenneth Branagh",
+    "Writer": "Anthony Shaffer (adapted from the play by), Harold Pinter (screenplay)",
+    "Actors": "Michael Caine, Jude Law, Harold Pinter",
+    "Plot": "On his sprawling country estate, an aging writer matches wits with the struggling actor who has stolen his wife's heart.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTgyZmQxMmQtMWE0ZC00ZmMyLWI2MzQtYmVjYTE3MGJkZjE2XkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "6.5",
+    "imdbVotes": "29,251",
+    "imdbID": "tt0857265",
+    "Type": "movie",
+    "DVD": "11 Mar 2008",
+    "BoxOffice": "$205,005",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

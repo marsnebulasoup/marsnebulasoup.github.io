@@ -1,0 +1,40 @@
+{
+    "Title": "Ginger Snaps",
+    "Year": "2000",
+    "Rated": "Not Rated",
+    "Released": "11 May 2001",
+    "Runtime": "108 min",
+    "Genre": "Drama, Fantasy, Horror",
+    "Director": "John Fawcett",
+    "Writer": "Karen Walton (story), John Fawcett (story), Karen Walton",
+    "Actors": "Emily Perkins, Katharine Isabelle, Kris Lemche, Mimi Rogers",
+    "Plot": "Two death-obsessed sisters, outcasts in their suburban neighborhood, must deal with the tragic consequences when one of them is bitten by a deadly werewolf.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "8 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjY4OWNjYWQtODM2NC00MDk3LTgzMDgtM2QzZWFmYTNlNDk2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.8",
+    "imdbVotes": "38,788",
+    "imdbID": "tt0210070",
+    "Type": "movie",
+    "DVD": "23 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "DEJ Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

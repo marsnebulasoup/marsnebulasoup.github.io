@@ -1,0 +1,40 @@
+{
+    "Title": "Cronos",
+    "Year": "1993",
+    "Rated": "R",
+    "Released": "01 May 1994",
+    "Runtime": "94 min",
+    "Genre": "Horror",
+    "Director": "Guillermo del Toro",
+    "Writer": "Guillermo del Toro",
+    "Actors": "Federico Luppi, Ron Perlman, Claudio Brook, Margarita Isabel",
+    "Plot": "A mysterious device designed to provide its owner with eternal life resurfaces after four hundred years, leaving a trail of destruction in its path.",
+    "Language": "Spanish, English",
+    "Country": "Mexico",
+    "Awards": "22 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzBjOWUxMTItYWY1OC00Zjg5LTlhYWMtMjI3YjUyMjVkMWFmXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.7",
+    "imdbVotes": "24,803",
+    "imdbID": "tt0104029",
+    "Type": "movie",
+    "DVD": "26 Oct 1994",
+    "BoxOffice": "N/A",
+    "Production": "Trimark",
+    "Website": "N/A",
+    "Response": "True"
+}

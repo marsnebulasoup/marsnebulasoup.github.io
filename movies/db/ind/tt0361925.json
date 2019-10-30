@@ -1,0 +1,40 @@
+{
+    "Title": "Welcome to Mooseport",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "20 Feb 2004",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Donald Petrie",
+    "Writer": "Doug Richardson (story), Tom Schulman (screenplay)",
+    "Actors": "Gene Hackman, Ray Romano, Marcia Gay Harden, Maura Tierney",
+    "Plot": "A US president who has retired after two terms in office returns to his hometown of Mooseport, Maine and decides to run for Mayor against another local candidate.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk1NzI1NTczM15BMl5BanBnXkFtZTYwMTYwMTk2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "13%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "5.2",
+    "imdbVotes": "11,634",
+    "imdbID": "tt0361925",
+    "Type": "movie",
+    "DVD": "25 May 2004",
+    "BoxOffice": "$14,244,145",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

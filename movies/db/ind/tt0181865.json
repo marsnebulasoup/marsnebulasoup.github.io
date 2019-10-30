@@ -1,0 +1,40 @@
+{
+    "Title": "Traffic",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "05 Jan 2001",
+    "Runtime": "147 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Steven Soderbergh",
+    "Writer": "Simon Moore (miniseries Traffik), Stephen Gaghan (screenplay)",
+    "Actors": "Benicio Del Toro, Jacob Vargas, Andrew Chavez, Michael Saucedo",
+    "Plot": "A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is a crack addict. Two DEA agents protect an informant. A jailed drug baron's wife attempts to carry on the family business.",
+    "Language": "English, Spanish",
+    "Country": "USA, Mexico, Germany",
+    "Awards": "Won 4 Oscars. Another 69 wins & 83 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDA2YjNkMjEtZjcwNy00ZTc5LWEzNDItMjE0ODlmMDAzNDFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.6",
+    "imdbVotes": "187,926",
+    "imdbID": "tt0181865",
+    "Type": "movie",
+    "DVD": "29 May 2001",
+    "BoxOffice": "$123,836,420",
+    "Production": "USA Films",
+    "Website": "N/A",
+    "Response": "True"
+}

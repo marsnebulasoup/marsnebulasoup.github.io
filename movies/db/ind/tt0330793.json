@@ -1,0 +1,40 @@
+{
+    "Title": "The Punisher",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "16 Apr 2004",
+    "Runtime": "124 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Jonathan Hensleigh",
+    "Writer": "Jonathan Hensleigh, Michael France",
+    "Actors": "A. Russell Andrews, Omar Avila, James Carpinello, Mark Collie",
+    "Plot": "An undercover FBI agent becomes a vigilante assassin and sets out to unleash his wrath upon the corrupt businessman who slaughtered his entire family at a reunion.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "29%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "6.4",
+    "imdbVotes": "143,946",
+    "imdbID": "tt0330793",
+    "Type": "movie",
+    "DVD": "07 Sep 2004",
+    "BoxOffice": "$33,682,273",
+    "Production": "Lions Gate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

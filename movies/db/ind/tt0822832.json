@@ -1,0 +1,40 @@
+{
+    "Title": "Marley & Me",
+    "Year": "2008",
+    "Rated": "PG",
+    "Released": "25 Dec 2008",
+    "Runtime": "115 min",
+    "Genre": "Comedy, Drama, Family",
+    "Director": "David Frankel",
+    "Writer": "Scott Frank (screenplay), Don Roos (screenplay), John Grogan (book)",
+    "Actors": "Owen Wilson, Jennifer Aniston, Eric Dane, Kathleen Turner",
+    "Plot": "A family learns important life lessons from their adorable, but naughty and neurotic dog.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTlkYmM2NjAtMDkyZi00M2JiLThjZmItMjUzZDhiMDg2NGJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.1",
+    "imdbVotes": "138,635",
+    "imdbID": "tt0822832",
+    "Type": "movie",
+    "DVD": "31 Mar 2009",
+    "BoxOffice": "$143,084,510",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

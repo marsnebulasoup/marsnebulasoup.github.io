@@ -1,0 +1,40 @@
+{
+    "Title": "John Dies at the End",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "25 Jan 2013",
+    "Runtime": "99 min",
+    "Genre": "Comedy, Horror, Sci-Fi",
+    "Director": "Don Coscarelli",
+    "Writer": "Don Coscarelli (written for the screen by), David Wong (based on the story by)",
+    "Actors": "Chase Williamson, Rob Mayes, Paul Giamatti, Clancy Brown",
+    "Plot": "A new street drug that sends its users across time and dimensions has one drawback: some people return no longer human. Can two college drop-outs save humanity from this silent, otherworldly invasion?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyNzIyNzc0MV5BMl5BanBnXkFtZTcwOTM5ODg1OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.4",
+    "imdbVotes": "34,811",
+    "imdbID": "tt1783732",
+    "Type": "movie",
+    "DVD": "02 Apr 2013",
+    "BoxOffice": "$141,307",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Wild Life",
+    "Year": "2016",
+    "Rated": "PG",
+    "Released": "09 Sep 2016",
+    "Runtime": "91 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "Vincent Kesteloot, Ben Stassen, Mimi Maynard",
+    "Writer": "Domonic Paris",
+    "Actors": "Matthias Schweigh\u00f6fer, Kaya Yanar, Ilka Bessin, Dieter Hallervorden",
+    "Plot": "A daring parrot recounts how Robinson Crusoe came to be stranded on a tropical island.",
+    "Language": "English, French, German",
+    "Country": "Belgium, France",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA4OTE0MjAwNl5BMl5BanBnXkFtZTgwMjY4Mzg2OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "17%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "5.3",
+    "imdbVotes": "5,213",
+    "imdbID": "tt4731008",
+    "Type": "movie",
+    "DVD": "29 Nov 2016",
+    "BoxOffice": "$7,965,609",
+    "Production": "StudioCanal",
+    "Website": "N/A",
+    "Response": "True"
+}

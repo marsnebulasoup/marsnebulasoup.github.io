@@ -1,0 +1,40 @@
+{
+    "Title": "Larry Crowne",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "01 Jul 2011",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Tom Hanks",
+    "Writer": "Tom Hanks, Nia Vardalos",
+    "Actors": "Tom Hanks, Sarah Mahoney, Roxana Ortega, Randall Park",
+    "Plot": "After losing his job, a middle-aged man reinvents himself by going back to college.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjQ4MzlmZDUtN2ViMi00ZTAwLWFkMmItNGRlZmM1NjQ1ZmJjXkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "6.1",
+    "imdbVotes": "59,837",
+    "imdbID": "tt1583420",
+    "Type": "movie",
+    "DVD": "15 Nov 2011",
+    "BoxOffice": "$35,565,975",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

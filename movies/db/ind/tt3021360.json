@@ -1,0 +1,40 @@
+{
+    "Title": "Faults",
+    "Year": "2014",
+    "Rated": "Not Rated",
+    "Released": "06 Mar 2015",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "Riley Stearns",
+    "Writer": "Riley Stearns",
+    "Actors": "Leland Orser, Mary Elizabeth Winstead, Chris Ellis, Jon Gries",
+    "Plot": "A man who debunks mind control techniques as a profession must help a couple whose daughter has recently joined a cult.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODYyOTMyNjMzMl5BMl5BanBnXkFtZTgwODgwNjQ3NDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.7",
+    "imdbVotes": "7,135",
+    "imdbID": "tt3021360",
+    "Type": "movie",
+    "DVD": "03 Aug 2015",
+    "BoxOffice": "N/A",
+    "Production": "Screen Media Films",
+    "Website": "N/A",
+    "Response": "True"
+}

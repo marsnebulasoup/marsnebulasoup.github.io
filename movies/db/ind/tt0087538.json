@@ -1,0 +1,40 @@
+{
+    "Title": "The Karate Kid",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "22 Jun 1984",
+    "Runtime": "126 min",
+    "Genre": "Action, Drama, Family, Sport",
+    "Director": "John G. Avildsen",
+    "Writer": "Robert Mark Kamen",
+    "Actors": "Ralph Macchio, Pat Morita, Elisabeth Shue, Martin Kove",
+    "Plot": "A boy and his mother move to California for a new job. He struggles to fit in, as a group of karate students starts to bully him for dating a rich girl from their clique. It's up to the Japanese landlord, Miyagi, to teach him karate.",
+    "Language": "English, Japanese",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTkzY2YzNmYtY2ViMS00MThiLWFlYTEtOWQ1OTBiOGEwMTdhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.2",
+    "imdbVotes": "161,000",
+    "imdbID": "tt0087538",
+    "Type": "movie",
+    "DVD": "14 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

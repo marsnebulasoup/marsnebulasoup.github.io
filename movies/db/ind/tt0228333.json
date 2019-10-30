@@ -1,0 +1,40 @@
+{
+    "Title": "Ghosts of Mars",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "24 Aug 2001",
+    "Runtime": "98 min",
+    "Genre": "Action, Horror, Sci-Fi",
+    "Director": "John Carpenter",
+    "Writer": "Larry Sulkis, John Carpenter",
+    "Actors": "Natasha Henstridge, Ice Cube, Jason Statham, Clea DuVall",
+    "Plot": "In 2176, a Martian police unit is sent to pick up a highly dangerous criminal at a remote mining post. Upon arrival, the cops find that the post has become a charnel house.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGFlNzNmY2ItYmZjMi00ZjQ1LWJjMmMtODM5MWQ0NzI3NzBhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "21%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "4.9",
+    "imdbVotes": "48,752",
+    "imdbID": "tt0228333",
+    "Type": "movie",
+    "DVD": "04 Dec 2001",
+    "BoxOffice": "$7,307,616",
+    "Production": "Sony",
+    "Website": "N/A",
+    "Response": "True"
+}

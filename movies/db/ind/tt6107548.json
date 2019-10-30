@@ -1,0 +1,40 @@
+{
+    "Title": "Late Night",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "14 Jun 2019",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Nisha Ganatra",
+    "Writer": "Mindy Kaling (screenplay by)",
+    "Actors": "Emma Thompson, Mindy Kaling, John Lithgow, Hugh Dancy",
+    "Plot": "A late night talk show host suspects that she may soon lose her long-running show.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjZmOTEwMGEtOWVmMy00Njg4LWI1OGEtMGYwN2VmYzJiYzAzXkEyXkFqcGdeQXVyODE1MjMyNzI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.6",
+    "imdbVotes": "10,077",
+    "imdbID": "tt6107548",
+    "Type": "movie",
+    "DVD": "06 Sep 2019",
+    "BoxOffice": "N/A",
+    "Production": "Amazon Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

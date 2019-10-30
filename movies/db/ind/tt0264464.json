@@ -1,0 +1,40 @@
+{
+    "Title": "Catch Me If You Can",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "25 Dec 2002",
+    "Runtime": "141 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Steven Spielberg",
+    "Writer": "Jeff Nathanson (screenplay), Frank Abagnale Jr. (book), Stan Redding (book)",
+    "Actors": "Leonardo DiCaprio, Tom Hanks, Christopher Walken, Martin Sheen",
+    "Plot": "A seasoned FBI agent pursues Frank Abagnale Jr. who, before his 19th birthday, successfully forged millions of dollars' worth of checks while posing as a Pan Am pilot, a doctor, and a legal prosecutor.",
+    "Language": "English, French",
+    "Country": "USA, Canada",
+    "Awards": "Nominated for 2 Oscars. Another 13 wins & 41 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "8.1",
+    "imdbVotes": "737,762",
+    "imdbID": "tt0264464",
+    "Type": "movie",
+    "DVD": "06 May 2003",
+    "BoxOffice": "$164,400,000",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

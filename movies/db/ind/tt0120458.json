@@ -1,0 +1,40 @@
+{
+    "Title": "Virus",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "15 Jan 1999",
+    "Runtime": "99 min",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
+    "Director": "John Bruno",
+    "Writer": "Chuck Pfarrer (creator: Dark Horse Comic Book series: \"Virus\"), Chuck Pfarrer (screenplay), Dennis Feldman (screenplay)",
+    "Actors": "Jamie Lee Curtis, William Baldwin, Donald Sutherland, Joanna Pacula",
+    "Plot": "When the crew of an American tugboat boards an abandoned Russian research vessel, the alien life form aboard regards them as a virus which must be destroyed.",
+    "Language": "English, Russian",
+    "Country": "USA, UK, Germany, Japan, France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGRiMmNmZGMtOGMwZi00MjMwLTkzZTQtNDViODE2ZmFiZWUzXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "10%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "19/100"
+        }
+    ],
+    "Metascore": "19",
+    "imdbRating": "5.0",
+    "imdbVotes": "24,968",
+    "imdbID": "tt0120458",
+    "Type": "movie",
+    "DVD": "20 Jul 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Matrix Reloaded",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "15 May 2003",
+    "Runtime": "138 min",
+    "Genre": "Action, Sci-Fi",
+    "Director": "Lana Wachowski, Lilly Wachowski",
+    "Writer": "Lilly Wachowski, Lana Wachowski, Lilly Wachowski (characters), Lana Wachowski (characters)",
+    "Actors": "Ray Anthony, Christine Anu, Andy Arness, Alima Ashton-Sheibu",
+    "Plot": "Following the events of The Matrix (1999), Neo and the rebel leaders estimate they have 72 hours until 250,000 probes discover Zion and destroy it and its inhabitants. Neo must decide how he can save Trinity from a dark fate in his dreams.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "8 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODE0MzZhZTgtYzkwYi00YmI5LThlZWYtOWRmNWE5ODk0NzMxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.2",
+    "imdbVotes": "485,741",
+    "imdbID": "tt0234215",
+    "Type": "movie",
+    "DVD": "14 Oct 2003",
+    "BoxOffice": "$281,500,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

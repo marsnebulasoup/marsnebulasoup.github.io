@@ -1,0 +1,40 @@
+{
+    "Title": "Frank",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "05 Sep 2014",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Music",
+    "Director": "Lenny Abrahamson",
+    "Writer": "Jon Ronson, Peter Straughan, Jon Ronson (newspaper article)",
+    "Actors": "Domhnall Gleeson, Moira Brooker, Paul Butterworth, Phil Kingston",
+    "Plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+    "Language": "English, French, German",
+    "Country": "UK, Ireland",
+    "Awards": "13 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.0",
+    "imdbVotes": "70,726",
+    "imdbID": "tt1605717",
+    "Type": "movie",
+    "DVD": "09 Dec 2014",
+    "BoxOffice": "N/A",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

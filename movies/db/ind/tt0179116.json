@@ -1,0 +1,40 @@
+{
+    "Title": "But I'm a Cheerleader",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "11 Aug 2000",
+    "Runtime": "85 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jamie Babbit",
+    "Writer": "Brian Peterson (screenplay), Jamie Babbit (story)",
+    "Actors": "Natasha Lyonne, Michelle Williams, Brandt Wille, Bud Cort",
+    "Plot": "A naive teenager is sent to rehab camp when her straitlaced parents and friends suspect her of being a lesbian.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmZjNGVmYmItZWFmNi00ODQ1LThmZTUtMzYzMGJlMjZjMGFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "6.6",
+    "imdbVotes": "23,801",
+    "imdbID": "tt0179116",
+    "Type": "movie",
+    "DVD": "03 Oct 2000",
+    "BoxOffice": "$175,182",
+    "Production": "Lions Gate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

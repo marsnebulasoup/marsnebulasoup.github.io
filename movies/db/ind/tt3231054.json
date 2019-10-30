@@ -1,0 +1,40 @@
+{
+    "Title": "Risen",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "19 Feb 2016",
+    "Runtime": "107 min",
+    "Genre": "Action, Drama, History, Mystery",
+    "Director": "Kevin Reynolds",
+    "Writer": "Kevin Reynolds (screenplay), Paul Aiello (screenplay), Paul Aiello (story)",
+    "Actors": "Joseph Fiennes, Tom Felton, Peter Firth, Cliff Curtis",
+    "Plot": "In 33 AD, a Roman Tribune in Judea is tasked to find the missing body of Jesus Christ, who rose from the dead.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzNjQ1Mzk2MjNeQTJeQWpwZ15BbWU4MDU0MDk1Mjcx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.2",
+    "imdbVotes": "23,167",
+    "imdbID": "tt3231054",
+    "Type": "movie",
+    "DVD": "24 May 2016",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

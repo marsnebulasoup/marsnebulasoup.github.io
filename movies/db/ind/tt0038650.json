@@ -1,0 +1,40 @@
+{
+    "Title": "It's a Wonderful Life",
+    "Year": "1946",
+    "Rated": "PG",
+    "Released": "07 Jan 1947",
+    "Runtime": "130 min",
+    "Genre": "Drama, Family, Fantasy",
+    "Director": "Frank Capra",
+    "Writer": "Frances Goodrich (screenplay), Albert Hackett (screenplay), Frank Capra (screenplay), Jo Swerling (additional scenes), Philip Van Doren Stern (story)",
+    "Actors": "James Stewart, Donna Reed, Lionel Barrymore, Thomas Mitchell",
+    "Plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Nominated for 5 Oscars. Another 6 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "89/100"
+        }
+    ],
+    "Metascore": "89",
+    "imdbRating": "8.6",
+    "imdbVotes": "364,290",
+    "imdbID": "tt0038650",
+    "Type": "movie",
+    "DVD": "19 Sep 1995",
+    "BoxOffice": "N/A",
+    "Production": "Liberty Films",
+    "Website": "N/A",
+    "Response": "True"
+}

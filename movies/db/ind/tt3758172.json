@@ -1,0 +1,40 @@
+{
+    "Title": "Jungle",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "20 Oct 2017",
+    "Runtime": "115 min",
+    "Genre": "Biography, Drama, Thriller",
+    "Director": "Greg McLean",
+    "Writer": "Yossi Ghinsberg (book), Justin Monjo (screenplay)",
+    "Actors": "Daniel Radcliffe, Yasmin Kassim, Luis Jose Lopez, Lily Sullivan",
+    "Plot": "A group of friends join a guide for a trek into the Bolivian jungle, searching for an Indian village. The men soon realize that the jungle is a difficult place to be.",
+    "Language": "English, Spanish, German",
+    "Country": "Australia, Colombia, UK",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDE4OTk4MTk0M15BMl5BanBnXkFtZTgwODQ4MTg0MzI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "6.7",
+    "imdbVotes": "37,937",
+    "imdbID": "tt3758172",
+    "Type": "movie",
+    "DVD": "21 Nov 2017",
+    "BoxOffice": "N/A",
+    "Production": "Momentum Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

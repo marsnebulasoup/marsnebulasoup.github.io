@@ -1,0 +1,40 @@
+{
+    "Title": "Prime",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "28 Oct 2005",
+    "Runtime": "105 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Ben Younger",
+    "Writer": "Ben Younger",
+    "Actors": "Uma Thurman, Meryl Streep, Bryan Greenberg, Jon Abrahams",
+    "Plot": "A career driven professional from Manhattan is wooed by a young painter, who also happens to be the son of her psychoanalyst.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMDg4MjUyNV5BMl5BanBnXkFtZTYwMTgwNDU3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.2",
+    "imdbVotes": "38,364",
+    "imdbID": "tt0387514",
+    "Type": "movie",
+    "DVD": "07 Mar 2006",
+    "BoxOffice": "$22,728,025",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

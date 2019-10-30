@@ -1,0 +1,36 @@
+{
+    "Title": "The Perfect Date",
+    "Year": "2019",
+    "Rated": "TV-14",
+    "Released": "12 Apr 2019",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Chris Nelson",
+    "Writer": "Steve Bloom, Randall Green",
+    "Actors": "Noah Centineo, Laura Marano, Odiseas Georgiadis, Camila Mendes",
+    "Plot": "To save up for college, Brooks Rattigan creates an app where anyone can pay him to play the perfect stand-in boyfriend for any occasion.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGRhOWM5MzQtM2FlNi00Zjc5LThmZmUtZTI2NzY0MTA1YjM2XkEyXkFqcGdeQXVyODQwODA1MjY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "24,027",
+    "imdbID": "tt8201170",
+    "Type": "movie",
+    "DVD": "12 Apr 2019",
+    "BoxOffice": "N/A",
+    "Production": "Netflix",
+    "Website": "N/A",
+    "Response": "True"
+}

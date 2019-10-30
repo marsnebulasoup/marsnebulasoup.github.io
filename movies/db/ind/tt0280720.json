@@ -1,0 +1,40 @@
+{
+    "Title": "The Guru",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "14 Feb 2003",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Music, Romance",
+    "Director": "Daisy von Scherler Mayer",
+    "Writer": "Tracey Jackson",
+    "Actors": "Jimi Mistry, Heather Graham, Marisa Tomei, Michael McKean",
+    "Plot": "A young man leaves India to find fame and fortune in America where he unexpectedly becomes a sex guru.",
+    "Language": "English, Hindi",
+    "Country": "UK, France, USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg4NzY2MDk0Nl5BMl5BanBnXkFtZTYwNTUxMTg5._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "5.4",
+    "imdbVotes": "14,436",
+    "imdbID": "tt0280720",
+    "Type": "movie",
+    "DVD": "03 Jun 2003",
+    "BoxOffice": "$2,867,996",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

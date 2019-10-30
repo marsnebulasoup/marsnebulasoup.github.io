@@ -1,0 +1,40 @@
+{
+    "Title": "Made",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "31 Aug 2001",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Crime, Drama, Thriller",
+    "Director": "Jon Favreau",
+    "Writer": "Jon Favreau",
+    "Actors": "Jon Favreau, Vince Vaughn, Joe Goossen, Famke Janssen",
+    "Plot": "Two aspiring boxers, lifelong friends, get involved in a money-laundering scheme through a low-level organized crime group.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODU1ZTFjN2EtZmZkYS00MWIzLThlZjEtMzExMGY1ZjIxMGY3XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.4",
+    "imdbVotes": "16,287",
+    "imdbID": "tt0227005",
+    "Type": "movie",
+    "DVD": "27 Nov 2001",
+    "BoxOffice": "$3,673,981",
+    "Production": "Artisan Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

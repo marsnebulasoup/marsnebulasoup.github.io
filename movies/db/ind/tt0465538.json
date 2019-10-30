@@ -1,0 +1,40 @@
+{
+    "Title": "Michael Clayton",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "12 Oct 2007",
+    "Runtime": "119 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Tony Gilroy",
+    "Writer": "Tony Gilroy",
+    "Actors": "Tom Wilkinson, Michael O'Keefe, Sydney Pollack, Danielle Skraastad",
+    "Plot": "A law firm brings in its \"fixer\" to remedy the situation after a lawyer has a breakdown while representing a chemical company that he knows is guilty in a multibillion-dollar class action suit.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 26 wins & 110 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc0NTU5MjI2MV5BMl5BanBnXkFtZTcwMTg5NTQzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "82/100"
+        }
+    ],
+    "Metascore": "82",
+    "imdbRating": "7.2",
+    "imdbVotes": "149,872",
+    "imdbID": "tt0465538",
+    "Type": "movie",
+    "DVD": "19 Feb 2008",
+    "BoxOffice": "$48,976,323",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

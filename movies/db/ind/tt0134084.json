@@ -1,0 +1,40 @@
+{
+    "Title": "Scream 3",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "04 Feb 2000",
+    "Runtime": "116 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Wes Craven",
+    "Writer": "Kevin Williamson (characters), Ehren Kruger",
+    "Actors": "Liev Schreiber, Beth Toussaint, Roger Jackson, Kelly Rutherford",
+    "Plot": "While Sidney and her friends visit the Hollywood set of Stab 3, the third film based on the Woodsboro murders, another Ghostface killer rises to terrorize them.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDljNmI1YzctNjJlZC00NzZlLWFlZTgtMDE4MjJiMDk0ZGY4XkEyXkFqcGdeQXVyMjg3MDQ0Mjk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "39%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.5",
+    "imdbVotes": "115,910",
+    "imdbID": "tt0134084",
+    "Type": "movie",
+    "DVD": "04 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "Dimension Films",
+    "Website": "N/A",
+    "Response": "True"
+}

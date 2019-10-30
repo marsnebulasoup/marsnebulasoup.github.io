@@ -1,0 +1,40 @@
+{
+    "Title": "L.A. Confidential",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "19 Sep 1997",
+    "Runtime": "138 min",
+    "Genre": "Crime, Drama, Mystery, Thriller",
+    "Director": "Curtis Hanson",
+    "Writer": "James Ellroy (novel), Brian Helgeland (screenplay), Curtis Hanson (screenplay)",
+    "Actors": "Kevin Spacey, Russell Crowe, Guy Pearce, James Cromwell",
+    "Plot": "As corruption grows in 1950s Los Angeles, three policemen -- one strait-laced, one brutal, and one sleazy -- investigate a series of murders with their own brand of justice.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 85 wins & 82 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "99%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "90/100"
+        }
+    ],
+    "Metascore": "90",
+    "imdbRating": "8.2",
+    "imdbVotes": "500,766",
+    "imdbID": "tt0119488",
+    "Type": "movie",
+    "DVD": "22 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

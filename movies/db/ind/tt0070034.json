@@ -1,0 +1,40 @@
+{
+    "Title": "Enter the Dragon",
+    "Year": "1973",
+    "Rated": "R",
+    "Released": "19 Aug 1973",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Robert Clouse",
+    "Writer": "Michael Allin",
+    "Actors": "Bruce Lee, John Saxon, Jim Kelly, Ahna Capri",
+    "Plot": "A martial artist agrees to spy on a reclusive crime lord using his invitation to a tournament there as cover.",
+    "Language": "English, Cantonese",
+    "Country": "Hong Kong, USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGZiMTkyNzQtMDdmZi00ZDNkLWE4YTAtZGNlNTIzYzQyMGM2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.7",
+    "imdbVotes": "90,030",
+    "imdbID": "tt0070034",
+    "Type": "movie",
+    "DVD": "18 May 2004",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

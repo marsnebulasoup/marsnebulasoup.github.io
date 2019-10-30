@@ -1,0 +1,40 @@
+{
+    "Title": "Tsotsi",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "31 Mar 2006",
+    "Runtime": "94 min",
+    "Genre": "Crime, Drama",
+    "Director": "Gavin Hood",
+    "Writer": "Gavin Hood, Athol Fugard (novel)",
+    "Actors": "Presley Chweneyagae, Terry Pheto, Kenneth Nkosi, Mothusi Magano",
+    "Plot": "Six days in the violent life of a young Johannesburg gang leader.",
+    "Language": "Zulu, Xhosa, Afrikaans, English",
+    "Country": "UK, South Africa",
+    "Awards": "Won 1 Oscar. Another 16 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjEzZjhkZDMtZDk0ZS00YWNlLWE3MmMtNzgxN2NjYWFhZTExXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.2",
+    "imdbVotes": "26,922",
+    "imdbID": "tt0468565",
+    "Type": "movie",
+    "DVD": "18 Jul 2006",
+    "BoxOffice": "$2,753,840",
+    "Production": "Miramax",
+    "Website": "N/A",
+    "Response": "True"
+}

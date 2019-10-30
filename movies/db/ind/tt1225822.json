@@ -1,0 +1,40 @@
+{
+    "Title": "Extract",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "04 Sep 2009",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Crime, Romance",
+    "Director": "Mike Judge",
+    "Writer": "Mike Judge",
+    "Actors": "Jason Bateman, Mila Kunis, Kristen Wiig, Ben Affleck",
+    "Plot": "Joel, the owner of an extract plant, tries to contend with myriad personal and professional problems, such as his potentially unfaithful wife and employees who want to take advantage of him.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgzNzU3OTQ4NV5BMl5BanBnXkFtZTcwOTY3MzA4Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.1",
+    "imdbVotes": "42,996",
+    "imdbID": "tt1225822",
+    "Type": "movie",
+    "DVD": "22 Dec 2009",
+    "BoxOffice": "$10,642,511",
+    "Production": "Miramax",
+    "Website": "N/A",
+    "Response": "True"
+}

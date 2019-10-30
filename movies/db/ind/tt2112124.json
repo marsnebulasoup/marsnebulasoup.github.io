@@ -1,0 +1,40 @@
+{
+    "Title": "Chennai Express",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "08 Aug 2013",
+    "Runtime": "141 min",
+    "Genre": "Action, Comedy",
+    "Director": "Rohit Shetty",
+    "Writer": "K. Subhash (story), Yunus Sajawal (screenplay), Robin Bhatt (additional screenplay), Farhad Samji (dialogue), Sajid (dialogue)",
+    "Actors": "Deepika Padukone, Shah Rukh Khan, Sathyaraj, Nikitin Dheer",
+    "Plot": "A man heading towards Rameshwaram via Chennai express to immerse his late grandfather's ashes unwillingly gets caught amidst goons after helping their boss's daughter and them board the train.",
+    "Language": "Hindi, Tamil, English, Marathi",
+    "Country": "India",
+    "Awards": "28 wins & 55 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGFmMzQwNzEtZTIwNy00Nzc4LTk1YzEtYWFmNWUxZDYwODcwL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.0",
+    "imdbVotes": "45,354",
+    "imdbID": "tt2112124",
+    "Type": "movie",
+    "DVD": "13 May 2014",
+    "BoxOffice": "N/A",
+    "Production": "UTV Communications",
+    "Website": "N/A",
+    "Response": "True"
+}

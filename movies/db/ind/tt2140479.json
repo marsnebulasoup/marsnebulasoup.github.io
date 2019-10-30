@@ -1,0 +1,40 @@
+{
+    "Title": "The Accountant",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "14 Oct 2016",
+    "Runtime": "128 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Gavin O'Connor",
+    "Writer": "Bill Dubuque",
+    "Actors": "Ben Affleck, Anna Kendrick, J.K. Simmons, Jon Bernthal",
+    "Plot": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
+    "Language": "English, Indonesian, French",
+    "Country": "USA",
+    "Awards": "3 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNjFmN2UwYWEtMmNiNi00YTU5LThiM2YtMmU4YzYzYTA3YWFjXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "7.3",
+    "imdbVotes": "238,958",
+    "imdbID": "tt2140479",
+    "Type": "movie",
+    "DVD": "10 Jan 2017",
+    "BoxOffice": "$86,198,014",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

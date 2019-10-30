@@ -1,0 +1,40 @@
+{
+    "Title": "The Rainmaker",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "21 Nov 1997",
+    "Runtime": "135 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Francis Ford Coppola",
+    "Writer": "John Grisham (novel), Francis Ford Coppola (screenplay), Michael Herr (narration)",
+    "Actors": "Matt Damon, Danny DeVito, Claire Danes, Jon Voight",
+    "Plot": "An underdog lawyer takes on a fraudulent insurance company.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Nominated for 1 Golden Globe. Another 2 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjdlMjI2ZjgtN2ViOS00ZmI0LWE0ZTMtZjg1ZjczYWYzOGZjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.2",
+    "imdbVotes": "57,014",
+    "imdbID": "tt0119978",
+    "Type": "movie",
+    "DVD": "17 Nov 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

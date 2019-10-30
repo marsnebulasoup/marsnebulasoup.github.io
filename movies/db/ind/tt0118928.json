@@ -1,0 +1,40 @@
+{
+    "Title": "Dante's Peak",
+    "Year": "1997",
+    "Rated": "PG-13",
+    "Released": "07 Feb 1997",
+    "Runtime": "108 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Roger Donaldson",
+    "Writer": "Leslie Bohem",
+    "Actors": "Pierce Brosnan, Linda Hamilton, Jamie Ren\u00e9e Smith, Jeremy Foley",
+    "Plot": "A vulcanologist arrives at a countryside town recently named the second most desirable place to live in America, and discovers that the long dormant volcano, Dante's Peak, may wake up at any moment.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1MWM3Y2MtM2YyMS00ZGI1LTgwMGQtMzczYjA5ZThmZTQ1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.9",
+    "imdbVotes": "75,584",
+    "imdbID": "tt0118928",
+    "Type": "movie",
+    "DVD": "20 Jan 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

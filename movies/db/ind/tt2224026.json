@@ -1,0 +1,40 @@
+{
+    "Title": "Home",
+    "Year": "2015",
+    "Rated": "PG",
+    "Released": "27 Mar 2015",
+    "Runtime": "94 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",
+    "Director": "Tim Johnson",
+    "Writer": "Tom J. Astle (screenplay by), Matt Ember (screenplay by), Adam Rex (book)",
+    "Actors": "Jim Parsons, Rihanna, Steve Martin, Jennifer Lopez",
+    "Plot": "An alien on the run from his own people makes friends with a girl. He tries to help her on her quest, but can be an interference.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "2 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExOTQ4MDMyMV5BMl5BanBnXkFtZTgwMTE3NDM2MzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.6",
+    "imdbVotes": "87,078",
+    "imdbID": "tt2224026",
+    "Type": "movie",
+    "DVD": "28 Jul 2015",
+    "BoxOffice": "$157,801,252",
+    "Production": "DreamWorks Animation",
+    "Website": "N/A",
+    "Response": "True"
+}

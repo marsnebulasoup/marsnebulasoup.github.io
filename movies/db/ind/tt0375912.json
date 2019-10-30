@@ -1,0 +1,40 @@
+{
+    "Title": "Layer Cake",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "03 Jun 2005",
+    "Runtime": "105 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "Matthew Vaughn",
+    "Writer": "J.J. Connolly (screenplay), J.J. Connolly (novel)",
+    "Actors": "Daniel Craig, Tom Hardy, Jamie Foreman, Sally Hawkins",
+    "Plot": "A successful cocaine dealer gets two tough assignments from his boss on the eve of his planned early retirement.",
+    "Language": "English, Romanian",
+    "Country": "UK",
+    "Awards": "2 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI5MTE1OTAzOV5BMl5BanBnXkFtZTcwNDc2OTgyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "7.3",
+    "imdbVotes": "156,355",
+    "imdbID": "tt0375912",
+    "Type": "movie",
+    "DVD": "23 Aug 2005",
+    "BoxOffice": "$2,277,736",
+    "Production": "Sony Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

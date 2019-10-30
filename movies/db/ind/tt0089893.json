@@ -1,0 +1,40 @@
+{
+    "Title": "Red Sonja",
+    "Year": "1985",
+    "Rated": "PG-13",
+    "Released": "03 Jul 1985",
+    "Runtime": "89 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Richard Fleischer",
+    "Writer": "Robert E. Howard (based on the character created by), Clive Exton, George MacDonald Fraser",
+    "Actors": "Arnold Schwarzenegger, Brigitte Nielsen, Sandahl Bergman, Paul L. Smith",
+    "Plot": "The fearless female warrior Red Sonja sets out to avenge her family's murder and rid her kingdom of the tyrannical rule of evil Queen Gedren.",
+    "Language": "English",
+    "Country": "USA, Netherlands",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGEyYTE3MDYtMzNkNC00YzQ1LTk3ODYtY2ZlM2I0ZWU1NWFkXkEyXkFqcGdeQXVyNDc2NjEyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.1",
+    "imdbVotes": "36,491",
+    "imdbID": "tt0089893",
+    "Type": "movie",
+    "DVD": "06 Jul 2004",
+    "BoxOffice": "N/A",
+    "Production": "MGM/UA",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Goldfinch",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "13 Sep 2019",
+    "Runtime": "149 min",
+    "Genre": "Drama",
+    "Director": "John Crowley",
+    "Writer": "Peter Straughan (screenplay by), Donna Tartt (based on the novel by)",
+    "Actors": "Oakes Fegley, Ansel Elgort, Nicole Kidman, Jeffrey Wright",
+    "Plot": "A boy in New York is taken in by a wealthy Upper East Side family after his mother is killed in a bombing at the Metropolitan Museum of Art.",
+    "Language": "English, Ukrainian, German, French",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmNmUzNTctYTA3Mi00ZTg3LWFmMWMtYzU2ZjA3NDRmODIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.3",
+    "imdbVotes": "3,252",
+    "imdbID": "tt3864056",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

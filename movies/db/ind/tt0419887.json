@@ -1,0 +1,40 @@
+{
+    "Title": "The Kite Runner",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "11 Jan 2008",
+    "Runtime": "128 min",
+    "Genre": "Drama",
+    "Director": "Marc Forster",
+    "Writer": "David Benioff (screenplay), Khaled Hosseini (novel)",
+    "Actors": "Khalid Abdalla, Atossa Leoni, Shaun Toub, Sayed Jafar Masihullah Gharibzada",
+    "Plot": "After spending years in California, Amir returns to his homeland in Afghanistan to help his old friend Hassan, whose son is in trouble.",
+    "Language": "Dari, English, Pushto, Russian, Urdu",
+    "Country": "USA, China, UK, Afghanistan",
+    "Awards": "Nominated for 1 Oscar. Another 6 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWM5Yzg4ODctM2ViMC00ZGEzLWI2YzEtZDYwY2E4YTBhYTY1XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.6",
+    "imdbVotes": "75,024",
+    "imdbID": "tt0419887",
+    "Type": "movie",
+    "DVD": "25 Mar 2008",
+    "BoxOffice": "$15,690,103",
+    "Production": "Paramount Vantage",
+    "Website": "N/A",
+    "Response": "True"
+}

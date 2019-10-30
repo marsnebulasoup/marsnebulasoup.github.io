@@ -1,0 +1,40 @@
+{
+    "Title": "Brick",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "14 Apr 2006",
+    "Runtime": "110 min",
+    "Genre": "Action, Crime, Drama, Mystery, Thriller",
+    "Director": "Rian Johnson",
+    "Writer": "Rian Johnson",
+    "Actors": "Joseph Gordon-Levitt, Nora Zehetner, Lukas Haas, Noah Fleiss",
+    "Plot": "A teenage loner pushes his way into the underworld of a high school crime ring to investigate the disappearance of his ex-girlfriend.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "11 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk4MjQzMzA2N15BMl5BanBnXkFtZTcwMTU2MzIzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.3",
+    "imdbVotes": "95,833",
+    "imdbID": "tt0393109",
+    "Type": "movie",
+    "DVD": "08 Aug 2006",
+    "BoxOffice": "$1,973,180",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

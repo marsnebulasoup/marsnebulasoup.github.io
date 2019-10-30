@@ -1,0 +1,40 @@
+{
+    "Title": "Thirteen",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "19 Sep 2003",
+    "Runtime": "100 min",
+    "Genre": "Drama",
+    "Director": "Catherine Hardwicke",
+    "Writer": "Catherine Hardwicke, Nikki Reed",
+    "Actors": "Nikki Reed, Evan Rachel Wood, Vanessa Hudgens, Holly Hunter",
+    "Plot": "A thirteen-year-old girl's relationship with her mother is put to the test as she discovers drugs, sex, and petty crime in the company of her cool but troubled best friend.",
+    "Language": "English, Spanish, Portuguese",
+    "Country": "USA, UK",
+    "Awards": "Nominated for 1 Oscar. Another 14 wins & 48 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYzNDYxNzY2MF5BMl5BanBnXkFtZTYwNzk2NTc3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.8",
+    "imdbVotes": "76,585",
+    "imdbID": "tt0328538",
+    "Type": "movie",
+    "DVD": "27 Jan 2004",
+    "BoxOffice": "$4,500,238",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

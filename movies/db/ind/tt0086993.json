@@ -1,0 +1,40 @@
+{
+    "Title": "The Bounty",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "04 May 1984",
+    "Runtime": "132 min",
+    "Genre": "Adventure, Drama, History, Romance",
+    "Director": "Roger Donaldson",
+    "Writer": "Richard Hough (book), Robert Bolt (screenplay)",
+    "Actors": "Mel Gibson, Anthony Hopkins, Laurence Olivier, Edward Fox",
+    "Plot": "Fed up with their Captain's harsh discipline, a sailing ship's crew decides to take action.",
+    "Language": "English",
+    "Country": "UK, USA, New Zealand",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYmNlNmVhZWEtYWYzOC00ZWZkLWE4YjQtMGIxM2E1OGUwNTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.0",
+    "imdbVotes": "22,430",
+    "imdbID": "tt0086993",
+    "Type": "movie",
+    "DVD": "21 Nov 2000",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

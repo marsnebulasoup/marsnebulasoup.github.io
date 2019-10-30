@@ -1,0 +1,40 @@
+{
+    "Title": "The Rocky Horror Picture Show",
+    "Year": "1975",
+    "Rated": "R",
+    "Released": "31 Aug 1975",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Musical",
+    "Director": "Jim Sharman",
+    "Writer": "Richard O'Brien (original musical play), Jim Sharman (screenplay), Richard O'Brien (screenplay)",
+    "Actors": "Tim Curry, Susan Sarandon, Barry Bostwick, Richard O'Brien",
+    "Plot": "A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "3 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGIzYjM3YzMtMjk5ZS00NDY2LTllMjEtNjYwZjhmMDNhMDBkXkEyXkFqcGdeQXVyODUzMjQxMTA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.4",
+    "imdbVotes": "123,678",
+    "imdbID": "tt0073629",
+    "Type": "movie",
+    "DVD": "03 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

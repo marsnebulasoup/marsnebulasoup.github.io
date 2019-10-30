@@ -1,0 +1,40 @@
+{
+    "Title": "Million Dollar Baby",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "28 Jan 2005",
+    "Runtime": "132 min",
+    "Genre": "Drama, Sport",
+    "Director": "Clint Eastwood",
+    "Writer": "Paul Haggis (screenplay), F.X. Toole (stories)",
+    "Actors": "Clint Eastwood, Hilary Swank, Morgan Freeman, Jay Baruchel",
+    "Plot": "A determined woman works with a hardened boxing trainer to become a professional.",
+    "Language": "English, Irish",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 63 wins & 83 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.1",
+    "imdbVotes": "594,574",
+    "imdbID": "tt0405159",
+    "Type": "movie",
+    "DVD": "12 Jul 2005",
+    "BoxOffice": "$100,422,786",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

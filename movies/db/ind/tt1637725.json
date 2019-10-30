@@ -1,0 +1,40 @@
+{
+    "Title": "Ted",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "29 Jun 2012",
+    "Runtime": "106 min",
+    "Genre": "Comedy",
+    "Director": "Seth MacFarlane",
+    "Writer": "Seth MacFarlane (screenplay by), Alec Sulkin (screenplay by), Wellesley Wild (screenplay by), Seth MacFarlane (story by)",
+    "Actors": "Mark Wahlberg, Mila Kunis, Seth MacFarlane, Joel McHale",
+    "Plot": "John Bennett, a man whose childhood wish of bringing his teddy bear to life came true, now must decide between keeping the relationship with the bear or his girlfriend, Lori.",
+    "Language": "English, Japanese",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 13 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTU0ODcxMV5BMl5BanBnXkFtZTcwOTMxNTUwOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.9",
+    "imdbVotes": "544,197",
+    "imdbID": "tt1637725",
+    "Type": "movie",
+    "DVD": "11 Dec 2012",
+    "BoxOffice": "$218,100,000",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

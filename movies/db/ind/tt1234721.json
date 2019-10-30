@@ -1,0 +1,40 @@
+{
+    "Title": "RoboCop",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "12 Feb 2014",
+    "Runtime": "117 min",
+    "Genre": "Action, Crime, Sci-Fi, Thriller",
+    "Director": "Jos\u00e9 Padilha",
+    "Writer": "Joshua Zetumer, Edward Neumeier, Michael Miner, Edward Neumeier, Michael Miner",
+    "Actors": "Joel Kinnaman, Gary Oldman, Michael Keaton, Abbie Cornish",
+    "Plot": "In 2028 Detroit, when Alex Murphy, a loving husband, father and good cop, is critically injured in the line of duty, the multinational conglomerate OmniCorp sees their chance for a part-man, part-robot police officer.",
+    "Language": "English, Persian, Ukrainian",
+    "Country": "USA",
+    "Awards": "4 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyOTUzMTcxN15BMl5BanBnXkFtZTgwMjkyOTc1MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.2",
+    "imdbVotes": "207,831",
+    "imdbID": "tt1234721",
+    "Type": "movie",
+    "DVD": "03 Jun 2014",
+    "BoxOffice": "$50,666,882",
+    "Production": "Sony Pictures Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

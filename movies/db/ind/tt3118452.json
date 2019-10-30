@@ -1,0 +1,36 @@
+{
+    "Title": "Circle",
+    "Year": "2015",
+    "Rated": "Not Rated",
+    "Released": "16 Oct 2015",
+    "Runtime": "87 min",
+    "Genre": "Drama, Horror, Mystery, Sci-Fi, Thriller",
+    "Director": "Aaron Hann, Mario Miscione",
+    "Writer": "Aaron Hann, Mario Miscione",
+    "Actors": "Allegra Masters, Aimee McKay, Ashley Key, Autumn Federici",
+    "Plot": "Held captive and faced with their imminent executions, fifty strangers are forced to choose the one person among them who deserves to live.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0Mjg0MjUwOF5BMl5BanBnXkFtZTgwNjk0NzQ4NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.0",
+    "imdbVotes": "32,671",
+    "imdbID": "tt3118452",
+    "Type": "movie",
+    "DVD": "05 Jul 2016",
+    "BoxOffice": "N/A",
+    "Production": "Taggart Productions",
+    "Website": "N/A",
+    "Response": "True"
+}

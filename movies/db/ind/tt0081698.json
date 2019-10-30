@@ -1,0 +1,40 @@
+{
+    "Title": "Used Cars",
+    "Year": "1980",
+    "Rated": "R",
+    "Released": "11 Jul 1980",
+    "Runtime": "113 min",
+    "Genre": "Comedy",
+    "Director": "Robert Zemeckis",
+    "Writer": "Robert Zemeckis, Bob Gale",
+    "Actors": "Kurt Russell, Jack Warden, Gerrit Graham, Frank McRae",
+    "Plot": "When the owner of a struggling used car lot is killed, it's up to the lot's hot-shot salesman to save the property from falling into the hands of the owner's ruthless brother and used-car rival.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTAzOTBhNTAtMzY5MS00YjcwLWIzYWItNWI1NzQ4YjcxY2E2XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.7",
+    "imdbVotes": "12,624",
+    "imdbID": "tt0081698",
+    "Type": "movie",
+    "DVD": "05 Feb 2002",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

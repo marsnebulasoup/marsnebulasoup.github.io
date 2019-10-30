@@ -1,0 +1,40 @@
+{
+    "Title": "Butter",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "18 Oct 2012",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Jim Field Smith",
+    "Writer": "Jason A. Micallef",
+    "Actors": "Jennifer Garner, Ty Burrell, Garrett Schenck, Kristen Schaal",
+    "Plot": "In Iowa, an adopted girl discovers her talent for butter carving and finds herself pitted against an ambitious local woman in their town's annual contest.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxMjY1NzI4M15BMl5BanBnXkFtZTcwNTg4MTMzOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "34%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.2",
+    "imdbVotes": "19,432",
+    "imdbID": "tt1349451",
+    "Type": "movie",
+    "DVD": "04 Dec 2012",
+    "BoxOffice": "$70,931",
+    "Production": "Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

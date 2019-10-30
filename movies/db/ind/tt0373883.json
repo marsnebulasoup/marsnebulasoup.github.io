@@ -1,0 +1,40 @@
+{
+    "Title": "Halloween",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "31 Aug 2007",
+    "Runtime": "109 min",
+    "Genre": "Horror",
+    "Director": "Rob Zombie",
+    "Writer": "Rob Zombie (screenplay), John Carpenter, Debra Hill",
+    "Actors": "Malcolm McDowell, Brad Dourif, Tyler Mane, Daeg Faerch",
+    "Plot": "After being committed for 17 years, Michael Myers, now a grown man and still very dangerous, escapes from the mental institution and immediately returns to Haddonfield to find his baby sister, Laurie.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMzOTg4MzcxNF5BMl5BanBnXkFtZTcwMzY5MDE1MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.1",
+    "imdbVotes": "103,653",
+    "imdbID": "tt0373883",
+    "Type": "movie",
+    "DVD": "18 Dec 2007",
+    "BoxOffice": "$58,192,545.00",
+    "Production": "MGM",
+    "Website": "http://www.halloweenmovies.com/",
+    "Response": "True"
+}

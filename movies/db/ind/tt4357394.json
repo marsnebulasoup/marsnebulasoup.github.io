@@ -1,0 +1,40 @@
+{
+    "Title": "Tau",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "29 Jun 2018",
+    "Runtime": "97 min",
+    "Genre": "Sci-Fi, Thriller",
+    "Director": "Federico D'Alessandro",
+    "Writer": "Noga Landau",
+    "Actors": "Maika Monroe, Ed Skrein, Gary Oldman, Fiston Barek",
+    "Plot": "A woman is held captive by a scientist in a futuristic smart house, and hopes to escape by reasoning with the Artificial Intelligence that controls the house.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmYzYWNhYWQtNjg0MS00NWU5LTgyZGUtYzViNjgwY2NjY2YwXkEyXkFqcGdeQXVyNjYzMzU4OTg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.8",
+    "imdbVotes": "21,680",
+    "imdbID": "tt4357394",
+    "Type": "movie",
+    "DVD": "29 Jun 2018",
+    "BoxOffice": "N/A",
+    "Production": "Addictive Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

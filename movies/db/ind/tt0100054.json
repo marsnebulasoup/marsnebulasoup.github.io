@@ -1,0 +1,40 @@
+{
+    "Title": "Lord of the Flies",
+    "Year": "1990",
+    "Rated": "R",
+    "Released": "16 Mar 1990",
+    "Runtime": "90 min",
+    "Genre": "Adventure, Drama, Thriller",
+    "Director": "Harry Hook",
+    "Writer": "William Golding (novel), Jay Presson Allen (screenplay)",
+    "Actors": "Balthazar Getty, Chris Furrh, Danuel Pipoly, James Badge Dale",
+    "Plot": "Stranded on an island, a group of schoolboys degenerate into savagery.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDczN2I3NzItNjdlMS00YmNhLTkyODQtZGI1YWQ0NmViMTgwXkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "6.4",
+    "imdbVotes": "26,297",
+    "imdbID": "tt0100054",
+    "Type": "movie",
+    "DVD": "20 Nov 2001",
+    "BoxOffice": "N/A",
+    "Production": "Nelson Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

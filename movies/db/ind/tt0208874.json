@@ -1,0 +1,40 @@
+{
+    "Title": "The Contender",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "13 Oct 2000",
+    "Runtime": "126 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Rod Lurie",
+    "Writer": "Rod Lurie",
+    "Actors": "Gary Oldman, Joan Allen, Jeff Bridges, Christian Slater",
+    "Plot": "Senator Laine Hanson is a contender for U.S. Vice President, but information and disinformation about her past surfaces that threatens to derail her confirmation.",
+    "Language": "English",
+    "Country": "USA, Germany, UK",
+    "Awards": "Nominated for 2 Oscars. Another 1 win & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTIzYTA5MDEtY2I0OS00OGJhLTlmMDctZWRlMGRjYzAxZDQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.9",
+    "imdbVotes": "22,041",
+    "imdbID": "tt0208874",
+    "Type": "movie",
+    "DVD": "27 Feb 2001",
+    "BoxOffice": "$16,120,906",
+    "Production": "Dreamworks Distribution",
+    "Website": "N/A",
+    "Response": "True"
+}

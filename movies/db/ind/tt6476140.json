@@ -1,0 +1,40 @@
+{
+    "Title": "Serenity",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "25 Jan 2019",
+    "Runtime": "106 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Steven Knight",
+    "Writer": "Steven Knight",
+    "Actors": "Matthew McConaughey, Anne Hathaway, Diane Lane, Jason Clarke",
+    "Plot": "A fishing boat captain juggles facing his mysterious past and finding himself ensnared in a reality where nothing is what it seems.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2VjNGFkZmUtMTI1MS00YmRiLTg1MmUtYzI0ODM1OWRkMjIyXkEyXkFqcGdeQXVyOTIxNTAyMzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.3",
+    "imdbVotes": "25,234",
+    "imdbID": "tt6476140",
+    "Type": "movie",
+    "DVD": "30 Apr 2019",
+    "BoxOffice": "N/A",
+    "Production": "Aviron Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,36 @@
+{
+    "Title": "Romeo and Juliet",
+    "Year": "1968",
+    "Rated": "PG",
+    "Released": "08 Oct 1968",
+    "Runtime": "138 min",
+    "Genre": "Drama, Romance",
+    "Director": "Franco Zeffirelli",
+    "Writer": "William Shakespeare (play), Franco Brusati (screenplay), Masolino D'Amico (screenplay), Franco Zeffirelli (screenplay)",
+    "Actors": "Leonard Whiting, Olivia Hussey, John McEnery, Milo O'Shea",
+    "Plot": "When two young members of feuding families meet, forbidden love ensues.",
+    "Language": "English, French",
+    "Country": "UK, Italy",
+    "Awards": "Won 2 Oscars. Another 14 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkyMjIzOTcwOF5BMl5BanBnXkFtZTgwNzk2NjYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.6",
+    "imdbVotes": "27,496",
+    "imdbID": "tt0063518",
+    "Type": "movie",
+    "DVD": "23 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

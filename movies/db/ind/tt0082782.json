@@ -1,0 +1,40 @@
+{
+    "Title": "My Bloody Valentine",
+    "Year": "1981",
+    "Rated": "R",
+    "Released": "11 Feb 1981",
+    "Runtime": "90 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "George Mihalka",
+    "Writer": "Stephen A. Miller (story concept), John Beaird",
+    "Actors": "Paul Kelman, Lori Hallier, Neil Affleck, Keith Knight",
+    "Plot": "A decades-old folk tale surrounding a deranged murderer killing those who celebrate Valentine's Day turns out to be true to legend when a group defies the killer's order and people start turning up dead.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGFjOWQ5NDQtNzlkNy00OTY0LTllYmItMjU1ZGNiOWRmMzM1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.2",
+    "imdbVotes": "15,981",
+    "imdbID": "tt0082782",
+    "Type": "movie",
+    "DVD": "03 Sep 2002",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

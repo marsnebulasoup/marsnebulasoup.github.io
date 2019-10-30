@@ -1,0 +1,40 @@
+{
+    "Title": "A Beautiful Mind",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "04 Jan 2002",
+    "Runtime": "135 min",
+    "Genre": "Biography, Drama",
+    "Director": "Ron Howard",
+    "Writer": "Akiva Goldsman, Sylvia Nasar (book)",
+    "Actors": "Russell Crowe, Ed Harris, Jennifer Connelly, Christopher Plummer",
+    "Plot": "After John Nash, a brilliant but asocial mathematician, accepts secret work in cryptography, his life takes a turn for the nightmarish.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 33 wins & 67 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "74%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "8.2",
+    "imdbVotes": "783,624",
+    "imdbID": "tt0268978",
+    "Type": "movie",
+    "DVD": "25 Jun 2002",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

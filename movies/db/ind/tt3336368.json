@@ -1,0 +1,40 @@
+{
+    "Title": "Maya the Bee Movie",
+    "Year": "2014",
+    "Rated": "G",
+    "Released": "08 Mar 2015",
+    "Runtime": "89 min",
+    "Genre": "Animation, Adventure, Comedy, Family",
+    "Director": "Alexs Stadermann",
+    "Writer": "Waldemar Bonsels (characters), Fin Edquist, Fin Edquist, Martin Quaden (script translation), Marcus Sauermann, Marcus Sauermann",
+    "Actors": "Kodi Smit-McPhee, Richard Roxburgh, Noah Taylor, Miriam Margolyes",
+    "Plot": "Maya is a little bee with a big heart! Join her on an epic adventure.",
+    "Language": "English",
+    "Country": "Australia, Germany",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3NTYyMjQwMV5BMl5BanBnXkFtZTgwNzk5MjQxMzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "47%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "49/100"
+        }
+    ],
+    "Metascore": "49",
+    "imdbRating": "5.9",
+    "imdbVotes": "1,687",
+    "imdbID": "tt3336368",
+    "Type": "movie",
+    "DVD": "18 May 2015",
+    "BoxOffice": "N/A",
+    "Production": "Shout! Factory",
+    "Website": "N/A",
+    "Response": "True"
+}

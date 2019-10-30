@@ -1,0 +1,40 @@
+{
+    "Title": "Bad Boys",
+    "Year": "1983",
+    "Rated": "R",
+    "Released": "25 Mar 1983",
+    "Runtime": "123 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Rick Rosenthal",
+    "Writer": "Richard Di Lello",
+    "Actors": "Sean Penn, Reni Santoni, Jim Moody, Eric Gurry",
+    "Plot": "Chicago crime kid Mick O'Brien is sent to reform school after accidentally killing a rival's kid brother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGNhNTUxNGMtMTBlOC00MWYwLWFmNjMtYmVhOThjMWU1YjM2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.2",
+    "imdbVotes": "12,865",
+    "imdbID": "tt0085210",
+    "Type": "movie",
+    "DVD": "15 Mar 2000",
+    "BoxOffice": "N/A",
+    "Production": "HBO Video",
+    "Website": "N/A",
+    "Response": "True"
+}

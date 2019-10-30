@@ -1,0 +1,40 @@
+{
+    "Title": "Comet",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "05 Dec 2014",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Drama, Romance, Sci-Fi",
+    "Director": "Sam Esmail",
+    "Writer": "Sam Esmail",
+    "Actors": "Justin Long, Kayla Servi, Eric Winter, Emmy Rossum",
+    "Plot": "Set in a parallel universe, Comet bounces back and forth over the course of an unlikely but perfectly paired couple's six-year relationship.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgwMTE4NzAwOF5BMl5BanBnXkFtZTgwNzE0MjkxMzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "42%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.8",
+    "imdbVotes": "16,452",
+    "imdbID": "tt2965412",
+    "Type": "movie",
+    "DVD": "28 Jul 2015",
+    "BoxOffice": "N/A",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

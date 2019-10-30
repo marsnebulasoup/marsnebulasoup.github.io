@@ -1,0 +1,40 @@
+{
+    "Title": "300",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "09 Mar 2007",
+    "Runtime": "117 min",
+    "Genre": "Action, Drama, Fantasy, War",
+    "Director": "Zack Snyder",
+    "Writer": "Zack Snyder (screenplay), Kurt Johnstad (screenplay), Michael B. Gordon (screenplay), Frank Miller (graphic novel), Lynn Varley (graphic novel)",
+    "Actors": "Gerard Butler, Lena Headey, Dominic West, David Wenham",
+    "Plot": "King Leonidas of Sparta and a force of 300 men fight the Persians at Thermopylae in 480 B.C.",
+    "Language": "English",
+    "Country": "USA, Canada, Bulgaria",
+    "Awards": "17 wins & 45 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjc4OTc0ODgwNV5BMl5BanBnXkFtZTcwNjM1ODE0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "7.7",
+    "imdbVotes": "699,694",
+    "imdbID": "tt0416449",
+    "Type": "movie",
+    "DVD": "31 Jul 2007",
+    "BoxOffice": "$210,500,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "In Good Company",
+    "Year": "2004",
+    "Rated": "PG-13",
+    "Released": "14 Jan 2005",
+    "Runtime": "109 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Paul Weitz",
+    "Writer": "Paul Weitz",
+    "Actors": "Dennis Quaid, Topher Grace, Scarlett Johansson, Marg Helgenberger",
+    "Plot": "A middle-aged ad exec is faced with a new boss who's nearly half his age... and who also happens to be sleeping with his daughter.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjlhOTg4MzQtYWFjOS00MTc0LWIxMjYtN2E1MjA5OWU2ODk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.4",
+    "imdbVotes": "52,056",
+    "imdbID": "tt0385267",
+    "Type": "movie",
+    "DVD": "10 May 2005",
+    "BoxOffice": "$45,489,752",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "25th Hour",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "10 Jan 2003",
+    "Runtime": "135 min",
+    "Genre": "Drama",
+    "Director": "Spike Lee",
+    "Writer": "David Benioff (novel), David Benioff (screenplay)",
+    "Actors": "Edward Norton, Philip Seymour Hoffman, Barry Pepper, Rosario Dawson",
+    "Plot": "Cornered by the DEA, convicted New York drug dealer Montgomery Brogan reevaluates his life in the 24 remaining hours before facing a seven-year jail term.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 4 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmE0YjdlYTktMTU4Ni00Mjk2LWI3NWMtM2RjNmFiOTk4YjYxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.6",
+    "imdbVotes": "163,869",
+    "imdbID": "tt0307901",
+    "Type": "movie",
+    "DVD": "20 May 2003",
+    "BoxOffice": "N/A",
+    "Production": "Touchstone Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

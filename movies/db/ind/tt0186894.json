@@ -1,0 +1,40 @@
+{
+    "Title": "Bounce",
+    "Year": "2000",
+    "Rated": "PG-13",
+    "Released": "17 Nov 2000",
+    "Runtime": "106 min",
+    "Genre": "Drama, Romance",
+    "Director": "Don Roos",
+    "Writer": "Don Roos",
+    "Actors": "Ben Affleck, Gwyneth Paltrow, Natasha Henstridge, Edward Edwards",
+    "Plot": "A man switches plane tickets with another man who dies in that plane in a crash. The man falls in love with the deceased one's wife.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDhjMmJiOWUtYzU5Yy00YWYzLTg3MzItNDFjYTVmMGFkMWQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.7",
+    "imdbVotes": "19,266",
+    "imdbID": "tt0186894",
+    "Type": "movie",
+    "DVD": "10 Apr 2001",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

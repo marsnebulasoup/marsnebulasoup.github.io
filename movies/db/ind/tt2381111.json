@@ -1,0 +1,40 @@
+{
+    "Title": "Brooklyn",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "25 Nov 2015",
+    "Runtime": "117 min",
+    "Genre": "Drama, Romance",
+    "Director": "John Crowley",
+    "Writer": "Nick Hornby, Colm T\u00f3ib\u00edn (novel)",
+    "Actors": "Saoirse Ronan, Hugh Gormley, Brid Brennan, Maeve McGrath",
+    "Plot": "An Irish immigrant lands in 1950s Brooklyn, where she quickly falls into a romance with a local. When her past catches up with her, however, she must choose between two countries and the lives that exist within.",
+    "Language": "English, Latin, Irish",
+    "Country": "UK, Canada, Ireland",
+    "Awards": "Nominated for 3 Oscars. Another 37 wins & 152 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzE4MDk5NzEyOV5BMl5BanBnXkFtZTgwNDM4NDA3NjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "7.5",
+    "imdbVotes": "119,422",
+    "imdbID": "tt2381111",
+    "Type": "movie",
+    "DVD": "15 Mar 2016",
+    "BoxOffice": "$30,459,009",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

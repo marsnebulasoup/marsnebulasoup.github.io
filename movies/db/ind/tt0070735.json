@@ -1,0 +1,40 @@
+{
+    "Title": "The Sting",
+    "Year": "1973",
+    "Rated": "PG",
+    "Released": "25 Dec 1973",
+    "Runtime": "129 min",
+    "Genre": "Comedy, Crime, Drama",
+    "Director": "George Roy Hill",
+    "Writer": "David S. Ward",
+    "Actors": "Paul Newman, Robert Redford, Robert Shaw, Charles Durning",
+    "Plot": "Two grifters team up to pull off the ultimate con.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 7 Oscars. Another 11 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.3",
+    "imdbVotes": "224,181",
+    "imdbID": "tt0070735",
+    "Type": "movie",
+    "DVD": "06 Sep 2005",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

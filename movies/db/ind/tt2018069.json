@@ -1,0 +1,40 @@
+{
+    "Title": "Our House",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "27 Jul 2018",
+    "Runtime": "90 min",
+    "Genre": "Drama, Horror, Sci-Fi, Thriller",
+    "Director": "Anthony Scott Burns",
+    "Writer": "Nathan Parker (screenplay by), Matt Osterman (based on the original motion picture \"Ghost from the Machine\" by)",
+    "Actors": "John Ralston, Thomas Mann, Percy Hynes White, Lucius Hoyos",
+    "Plot": "A young genius accidentally invents a device that amplifies the paranormal activity within his family's house, possibly bringing back the spirits of loved ones, and unleashing things far worse.",
+    "Language": "English",
+    "Country": "Canada, Germany, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzk0MWNkMGItMmNjNC00YThkLThmOGMtMDFmMjUyMTVjZDZiXkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "5.3",
+    "imdbVotes": "4,394",
+    "imdbID": "tt2018069",
+    "Type": "movie",
+    "DVD": "30 Oct 2018",
+    "BoxOffice": "N/A",
+    "Production": "IFC Midnight",
+    "Website": "N/A",
+    "Response": "True"
+}

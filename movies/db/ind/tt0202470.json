@@ -1,0 +1,36 @@
+{
+    "Title": "Rock Star",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "07 Sep 2001",
+    "Runtime": "105 min",
+    "Genre": "Drama, Music",
+    "Director": "Stephen Herek",
+    "Writer": "John Stockwell",
+    "Actors": "Mark Wahlberg, Jennifer Aniston, Dominic West, Jason Bonham",
+    "Plot": "Lead singer of a tribute band becomes lead singer of the real band he idolizes.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzAxNzNmMzMtYTU4Ni00Y2IxLTk4MGEtZGExNmFiMzBjN2MyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.3",
+    "imdbVotes": "39,249",
+    "imdbID": "tt0202470",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

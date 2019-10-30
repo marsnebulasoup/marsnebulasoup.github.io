@@ -1,0 +1,40 @@
+{
+    "Title": "Mars Attacks!",
+    "Year": "1996",
+    "Rated": "PG-13",
+    "Released": "13 Dec 1996",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Sci-Fi",
+    "Director": "Tim Burton",
+    "Writer": "Len Brown (trading card series), Woody Gelman (trading card series), Wally Wood (trading card series), Bob Powell (trading card series), Norman Saunders (trading card series), Jonathan Gems (screen story), Jonathan Gems (screenplay)",
+    "Actors": "Jack Nicholson, Glenn Close, Annette Bening, Pierce Brosnan",
+    "Plot": "Earth is invaded by Martians with unbeatable weapons and a cruel sense of humor.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "3 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNThlMjBmOWItNjljZi00ZGU4LWJkZjgtNWU1ZjI1MTg4MzczXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.3",
+    "imdbVotes": "199,228",
+    "imdbID": "tt0116996",
+    "Type": "movie",
+    "DVD": "24 Jun 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

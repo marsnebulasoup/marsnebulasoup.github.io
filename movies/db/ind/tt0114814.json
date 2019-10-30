@@ -1,0 +1,40 @@
+{
+    "Title": "The Usual Suspects",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "15 Sep 1995",
+    "Runtime": "106 min",
+    "Genre": "Crime, Mystery, Thriller",
+    "Director": "Bryan Singer",
+    "Writer": "Christopher McQuarrie",
+    "Actors": "Stephen Baldwin, Gabriel Byrne, Benicio Del Toro, Kevin Pollak",
+    "Plot": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "Language": "English, Hungarian, Spanish, French",
+    "Country": "USA, Germany",
+    "Awards": "Won 2 Oscars. Another 32 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "8.5",
+    "imdbVotes": "922,194",
+    "imdbID": "tt0114814",
+    "Type": "movie",
+    "DVD": "09 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "Gramercy Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,36 @@
+{
+    "Title": "The Super",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "19 Oct 2018",
+    "Runtime": "90 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Stephan Rick",
+    "Writer": "John J. McLaughlin",
+    "Actors": "Patrick John Flueger, Val Kilmer, Louisa Krause, Mattea Conforti",
+    "Plot": "A man becomes the superintendent of a large New York City apartment building where people mysteriously go missing.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTAyYzI0ZjUtODQwZS00MTYxLThjOTMtY2RjZTE0ODk0MGJjXkEyXkFqcGdeQXVyNjk1OTk0Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.0",
+    "imdbVotes": "11,452",
+    "imdbID": "tt5884784",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

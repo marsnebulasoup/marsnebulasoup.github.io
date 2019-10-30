@@ -1,0 +1,40 @@
+{
+    "Title": "The Hollars",
+    "Year": "2016",
+    "Rated": "PG-13",
+    "Released": "26 Aug 2016",
+    "Runtime": "88 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "John Krasinski",
+    "Writer": "Jim Strouse",
+    "Actors": "Margo Martindale, Sharlto Copley, Richard Jenkins, John Krasinski",
+    "Plot": "A man returns to his small hometown after learning that his mother has fallen ill and is about to undergo surgery.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUyODk3ODUyMV5BMl5BanBnXkFtZTgwMDQ4NjI0OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.5",
+    "imdbVotes": "10,389",
+    "imdbID": "tt3714720",
+    "Type": "movie",
+    "DVD": "06 Dec 2016",
+    "BoxOffice": "$1,016,965",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

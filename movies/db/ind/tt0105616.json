@@ -1,0 +1,36 @@
+{
+    "Title": "Tom and Jerry: The Movie",
+    "Year": "1992",
+    "Rated": "G",
+    "Released": "30 Jul 1993",
+    "Runtime": "84 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Musical",
+    "Director": "Phil Roman",
+    "Writer": "Dennis Marks (screenplay)",
+    "Actors": "Richard Kind, Dana Hill, Anndi McAfee, Tony Jay",
+    "Plot": "Tom and Jerry must save a girl from her evil aunt.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjMxYjU0NmUtOTg0NC00ZGQ5LWEwZjEtZTU4OTgwMzAwYjk5XkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.4",
+    "imdbVotes": "8,443",
+    "imdbID": "tt0105616",
+    "Type": "movie",
+    "DVD": "12 Mar 2002",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

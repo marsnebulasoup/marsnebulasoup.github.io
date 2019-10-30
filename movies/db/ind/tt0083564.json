@@ -1,0 +1,40 @@
+{
+    "Title": "Annie",
+    "Year": "1982",
+    "Rated": "PG",
+    "Released": "18 Jun 1982",
+    "Runtime": "127 min",
+    "Genre": "Comedy, Drama, Family, Musical",
+    "Director": "John Huston",
+    "Writer": "Carol Sobieski (screenplay), Thomas Meehan (book), Martin Charnin (play)",
+    "Actors": "Albert Finney, Carol Burnett, Ann Reinking, Tim Curry",
+    "Plot": "A young orphan girl's adventures in finding a family that will take her.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 2 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzU2YzA3NTYtNDg3OS00YTg3LThiODctZTQ3MzhkZDVjZDNlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "6.6",
+    "imdbVotes": "37,210",
+    "imdbID": "tt0083564",
+    "Type": "movie",
+    "DVD": "12 Dec 2000",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

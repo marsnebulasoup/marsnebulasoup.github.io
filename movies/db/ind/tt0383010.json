@@ -1,0 +1,40 @@
+{
+    "Title": "The Three Stooges",
+    "Year": "2012",
+    "Rated": "PG",
+    "Released": "13 Apr 2012",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Family",
+    "Director": "Bobby Farrelly, Peter Farrelly",
+    "Writer": "Mike Cerrone, Bobby Farrelly, Peter Farrelly",
+    "Actors": "Sean Hayes, Will Sasso, Chris Diamantopoulos, Jane Lynch",
+    "Plot": "While trying to save their childhood orphanage, Moe, Larry and Curly inadvertently stumble into a murder plot and wind up starring in a reality television show.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDRiNTAwNmYtZWY0Ni00MzI4LTg5OTYtZDdjYjNlM2E2ZmRkXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "5.0",
+    "imdbVotes": "28,846",
+    "imdbID": "tt0383010",
+    "Type": "movie",
+    "DVD": "17 Jul 2012",
+    "BoxOffice": "$41,800,000",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

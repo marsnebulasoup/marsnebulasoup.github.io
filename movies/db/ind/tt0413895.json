@@ -1,0 +1,40 @@
+{
+    "Title": "Charlotte's Web",
+    "Year": "2006",
+    "Rated": "G",
+    "Released": "15 Dec 2006",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Family, Fantasy",
+    "Director": "Gary Winick",
+    "Writer": "Susannah Grant (screenplay), Karey Kirkpatrick (screenplay), Earl Hamner Jr. (film story), E.B. White (book)",
+    "Actors": "Julia Roberts, Steve Buscemi, John Cleese, Oprah Winfrey",
+    "Plot": "Wilbur the pig is scared of the end of the season, because he knows that come that time, he will end up on the dinner table. He hatches a plan with Charlotte, a spider that lives in his pen, to ensure that this will never happen.",
+    "Language": "English",
+    "Country": "USA, Germany, Australia",
+    "Awards": "9 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTUzMTAzMl5BMl5BanBnXkFtZTcwNTE0NTcyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.3",
+    "imdbVotes": "34,319",
+    "imdbID": "tt0413895",
+    "Type": "movie",
+    "DVD": "03 Apr 2007",
+    "BoxOffice": "$82,100,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Pretty in Pink",
+    "Year": "1986",
+    "Rated": "PG-13",
+    "Released": "28 Feb 1986",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Howard Deutch",
+    "Writer": "John Hughes",
+    "Actors": "Molly Ringwald, Harry Dean Stanton, Jon Cryer, Annie Potts",
+    "Plot": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGE3ZmVjMzMtMDcxNi00YjM5LTg3NjMtZWMxYjlhNTk2MmZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.8",
+    "imdbVotes": "68,855",
+    "imdbID": "tt0091790",
+    "Type": "movie",
+    "DVD": "20 Aug 2002",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

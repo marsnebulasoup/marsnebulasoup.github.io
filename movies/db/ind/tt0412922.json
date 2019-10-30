@@ -1,0 +1,40 @@
+{
+    "Title": "Little Manhattan",
+    "Year": "2005",
+    "Rated": "PG",
+    "Released": "05 Jan 2006",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Family, Romance",
+    "Director": "Mark Levin",
+    "Writer": "Jennifer Flackett",
+    "Actors": "Josh Hutcherson, Charlotte Ray Rosenberg, Bradley Whitford, Cynthia Nixon",
+    "Plot": "A 10-year-old boy and an 11-year-old girl find love in New York City.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3NzEzNzE0N15BMl5BanBnXkFtZTcwNjMxMjEzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "7.6",
+    "imdbVotes": "21,245",
+    "imdbID": "tt0412922",
+    "Type": "movie",
+    "DVD": "04 Apr 2006",
+    "BoxOffice": "$378,710",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

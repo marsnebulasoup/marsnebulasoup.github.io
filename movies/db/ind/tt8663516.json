@@ -1,0 +1,36 @@
+{
+    "Title": "Child's Play",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "21 Jun 2019",
+    "Runtime": "90 min",
+    "Genre": "Horror",
+    "Director": "Lars Klevberg",
+    "Writer": "Tyler Burton Smith (screenplay by), Don Mancini (based on characters created by)",
+    "Actors": "Aubrey Plaza, Mark Hamill, Tim Matheson, Gabriel Bateman",
+    "Plot": "A mother gives her 13-year-old son a toy doll for his birthday, unaware of its more sinister nature.",
+    "Language": "English, Vietnamese",
+    "Country": "France, Canada, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTNlNjIxNjktOWUyMS00YWY5LWEwZGItMjZmODJlZWNiZGM2XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "5.9",
+    "imdbVotes": "26,376",
+    "imdbID": "tt8663516",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

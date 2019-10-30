@@ -1,0 +1,40 @@
+{
+    "Title": "Adam",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "28 Aug 2009",
+    "Runtime": "99 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Max Mayer",
+    "Writer": "Max Mayer",
+    "Actors": "Hugh Dancy, Rose Byrne, Peter Gallagher, Amy Irving",
+    "Plot": "Adam, a lonely man with Asperger's Syndrome, develops a relationship with his upstairs neighbor, Beth.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTkzNzk4NDYwNl5BMl5BanBnXkFtZTcwOTE2MTY1Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "7.2",
+    "imdbVotes": "32,679",
+    "imdbID": "tt1185836",
+    "Type": "movie",
+    "DVD": "02 Feb 2010",
+    "BoxOffice": "$2,121,118",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

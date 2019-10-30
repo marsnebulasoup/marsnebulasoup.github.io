@@ -1,0 +1,40 @@
+{
+    "Title": "Saw V",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "24 Oct 2008",
+    "Runtime": "92 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "David Hackl",
+    "Writer": "Patrick Melton (screenplay), Marcus Dunstan (screenplay)",
+    "Actors": "Tobin Bell, Costas Mandylor, Scott Patterson, Betsy Russell",
+    "Plot": "Following Jigsaw's grisly demise, Mark Hoffman is commended as a hero, but Agent Strahm is suspicious, and delves into Hoffman's past. Meanwhile, another group of people are put through a series of gruesome tests.",
+    "Language": "English",
+    "Country": "USA, Canada",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc2ZWQ4YTYtZDY0Zi00YzkxLTgxNTMtMTE3MDE3NzQyNjc2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "13%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "20/100"
+        }
+    ],
+    "Metascore": "20",
+    "imdbRating": "5.8",
+    "imdbVotes": "108,285",
+    "imdbID": "tt1132626",
+    "Type": "movie",
+    "DVD": "20 Jan 2009",
+    "BoxOffice": "$56,729,973",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

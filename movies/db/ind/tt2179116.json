@@ -1,0 +1,40 @@
+{
+    "Title": "The Kings of Summer",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "23 Aug 2013",
+    "Runtime": "95 min",
+    "Genre": "Adventure, Comedy, Drama",
+    "Director": "Jordan Vogt-Roberts",
+    "Writer": "Chris Galletta",
+    "Actors": "Nick Robinson, Gabriel Basso, Moises Arias, Nick Offerman",
+    "Plot": "Three teenage friends, in the ultimate act of independence, decide to spend their summer building a house in the woods and living off the land.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3ODA1NTI0MV5BMl5BanBnXkFtZTcwOTE4OTUzOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.1",
+    "imdbVotes": "74,098",
+    "imdbID": "tt2179116",
+    "Type": "movie",
+    "DVD": "24 Sep 2013",
+    "BoxOffice": "$1,300,000",
+    "Production": "CBS Films",
+    "Website": "N/A",
+    "Response": "True"
+}

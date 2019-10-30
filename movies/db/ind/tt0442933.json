@@ -1,0 +1,40 @@
+{
+    "Title": "Beowulf",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "16 Nov 2007",
+    "Runtime": "115 min",
+    "Genre": "Animation, Action, Adventure, Fantasy",
+    "Director": "Robert Zemeckis",
+    "Writer": "Neil Gaiman (screenplay), Roger Avary (screenplay), Anonymous (epic poem \"Beowulf\")",
+    "Actors": "Robin Wright, Anthony Hopkins, Paul Baker, John Bilezikjian",
+    "Plot": "The warrior Beowulf (Ray Winstone) must fight and defeat the monster Grendel (Crispin Glover), who is terrorizing Denmark, and later, Grendel's Mother (Angelina Jolie), who begins killing out of revenge.",
+    "Language": "English, Old English",
+    "Country": "USA, UK",
+    "Awards": "3 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUzMjM0MTc3MF5BMl5BanBnXkFtZTcwNzU0ODMyMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.2",
+    "imdbVotes": "156,240",
+    "imdbID": "tt0442933",
+    "Type": "movie",
+    "DVD": "13 Feb 2007",
+    "BoxOffice": "$82,200,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

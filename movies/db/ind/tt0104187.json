@@ -1,0 +1,40 @@
+{
+    "Title": "Encino Man",
+    "Year": "1992",
+    "Rated": "PG",
+    "Released": "22 May 1992",
+    "Runtime": "88 min",
+    "Genre": "Comedy",
+    "Director": "Les Mayfield",
+    "Writer": "George Zaloom (story), Shawn Schepps (story), Shawn Schepps (screenplay)",
+    "Actors": "Sean Astin, Brendan Fraser, Pauly Shore, Megan Ward",
+    "Plot": "When they find a frozen caveman in their back yard, two high school outcasts thaw him and introduce him to modern life while he in turn gets them to actually enjoy life.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjc5OGIzYTUtYjFkYy00NDcxLTgwMzUtNzRlMTJmZjZkZDQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "25/100"
+        }
+    ],
+    "Metascore": "25",
+    "imdbRating": "5.8",
+    "imdbVotes": "35,195",
+    "imdbID": "tt0104187",
+    "Type": "movie",
+    "DVD": "15 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "Hollywood Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

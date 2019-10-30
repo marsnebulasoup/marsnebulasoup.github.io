@@ -1,0 +1,40 @@
+{
+    "Title": "The Duchess",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "10 Oct 2008",
+    "Runtime": "110 min",
+    "Genre": "Biography, Drama, History, Romance",
+    "Director": "Saul Dibb",
+    "Writer": "Jeffrey Hatcher (screenplay), Anders Thomas Jensen (screenplay), Saul Dibb (screenplay), Amanda Foreman (book)",
+    "Actors": "Keira Knightley, Ralph Fiennes, Charlotte Rampling, Dominic Cooper",
+    "Plot": "A chronicle of the life of 18th-century aristocrat Georgiana, Duchess of Devonshire, who was reviled for her extravagant political and personal life.",
+    "Language": "English",
+    "Country": "UK, Italy, France, USA",
+    "Awards": "Won 1 Oscar. Another 7 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU1MTQzMjgzNl5BMl5BanBnXkFtZTcwNTQxMzk3MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.9",
+    "imdbVotes": "73,543",
+    "imdbID": "tt0864761",
+    "Type": "movie",
+    "DVD": "27 Jan 2009",
+    "BoxOffice": "$13,800,000",
+    "Production": "Paramount Vantage",
+    "Website": "N/A",
+    "Response": "True"
+}

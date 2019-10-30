@@ -1,0 +1,40 @@
+{
+    "Title": "Jay and Silent Bob Strike Back",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "24 Aug 2001",
+    "Runtime": "104 min",
+    "Genre": "Comedy",
+    "Director": "Kevin Smith",
+    "Writer": "Kevin Smith (characters), Kevin Smith",
+    "Actors": "Jason Mewes, Kevin Smith, Ben Affleck, Jeff Anderson",
+    "Plot": "The comic \"Bluntman and Chronic\" is based on real-life stoners Jay and Silent Bob, so when they get no profit from a big-screen adaptation, they set out to wreck the movie.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2EyYWEwZmQtZWU0Yy00M2Y3LThiZTktOTQxZDUxY2ZjOTYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.8",
+    "imdbVotes": "142,861",
+    "imdbID": "tt0261392",
+    "Type": "movie",
+    "DVD": "26 Feb 2002",
+    "BoxOffice": "$29,885,424",
+    "Production": "Dimension Films",
+    "Website": "N/A",
+    "Response": "True"
+}

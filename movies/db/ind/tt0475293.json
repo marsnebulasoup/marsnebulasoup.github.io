@@ -1,0 +1,36 @@
+{
+    "Title": "High School Musical",
+    "Year": "2006",
+    "Rated": "TV-G",
+    "Released": "20 Jan 2006",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama, Family, Music, Musical, Romance",
+    "Director": "Kenny Ortega",
+    "Writer": "Peter Barsocchini",
+    "Actors": "Zac Efron, Vanessa Hudgens, Ashley Tisdale, Lucas Grabeel",
+    "Plot": "A popular high school athlete and an academically gifted girl get roles in the school musical and develop a friendship that threatens East High's social order.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Won 2 Primetime Emmys. Another 8 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3MWEyNTYtOTY1OC00MTljLWI3OGUtMmU1ZDc2OTYxNDQ4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTczNjQwOTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.3",
+    "imdbVotes": "74,280",
+    "imdbID": "tt0475293",
+    "Type": "movie",
+    "DVD": "23 May 2006",
+    "BoxOffice": "N/A",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Godfather Part III",
+    "Year": "1990",
+    "Rated": "R",
+    "Released": "25 Dec 1990",
+    "Runtime": "162 min",
+    "Genre": "Crime, Drama",
+    "Director": "Francis Ford Coppola",
+    "Writer": "Mario Puzo, Francis Ford Coppola",
+    "Actors": "Al Pacino, Diane Keaton, Talia Shire, Andy Garcia",
+    "Plot": "In the midst of trying to legitimize his business dealings in New York City and Italy in 1979, aging Mafia Don Michael Corleone seeks to avow for his sins, while taking his nephew Vincent Mancini under his wing.",
+    "Language": "English, Italian, German, Latin",
+    "Country": "USA",
+    "Awards": "Nominated for 7 Oscars. Another 6 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTc1YjhiNzktMjEyNS00YmNhLWExYjItZDhkNWJjZjYxOWZiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.6",
+    "imdbVotes": "331,738",
+    "imdbID": "tt0099674",
+    "Type": "movie",
+    "DVD": "24 May 2005",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

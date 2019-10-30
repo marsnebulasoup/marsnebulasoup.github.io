@@ -1,0 +1,40 @@
+{
+    "Title": "Jetsons: The Movie",
+    "Year": "1990",
+    "Rated": "G",
+    "Released": "06 Jul 1990",
+    "Runtime": "82 min",
+    "Genre": "Animation, Comedy, Family, Musical, Sci-Fi",
+    "Director": "Joseph Barbera, William Hanna",
+    "Writer": "Dennis Marks, Carl Sautter (additional dialogue)",
+    "Actors": "George O'Hanlon, Mel Blanc, Penny Singleton, Tiffany",
+    "Plot": "George Jetson is forced to uproot his family when Mr. Spacely promotes him to take charge of a new factory on a distant planet.",
+    "Language": "English",
+    "Country": "USA, Taiwan",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ3MGRhZTAtZDEwYy00NjBhLTkzNDktYzY4M2JjZDQxMmRhXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "5.6",
+    "imdbVotes": "4,378",
+    "imdbID": "tt0099878",
+    "Type": "movie",
+    "DVD": "28 Apr 2009",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

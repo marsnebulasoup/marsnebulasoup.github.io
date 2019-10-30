@@ -1,0 +1,40 @@
+{
+    "Title": "Atomic Blonde",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "28 Jul 2017",
+    "Runtime": "115 min",
+    "Genre": "Action, Mystery, Thriller",
+    "Director": "David Leitch",
+    "Writer": "Kurt Johnstad (screenplay by), Antony Johnston (based on the Oni Press graphic novel series \"The Coldest City\" written by), Sam Hart (based on the Oni Press graphic novel series \"The Coldest City\" illustrated by)",
+    "Actors": "Charlize Theron, James McAvoy, Eddie Marsan, John Goodman",
+    "Plot": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+    "Language": "English, German, Russian, Swedish",
+    "Country": "Germany, Sweden, USA, Hungary",
+    "Awards": "6 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.7",
+    "imdbVotes": "156,440",
+    "imdbID": "tt2406566",
+    "Type": "movie",
+    "DVD": "14 Nov 2017",
+    "BoxOffice": "$51,536,935",
+    "Production": "Focus Features",
+    "Website": "N/A",
+    "Response": "True"
+}

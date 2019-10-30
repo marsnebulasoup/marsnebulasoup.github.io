@@ -1,0 +1,40 @@
+{
+    "Title": "Chariots of Fire",
+    "Year": "1981",
+    "Rated": "PG",
+    "Released": "09 Apr 1982",
+    "Runtime": "125 min",
+    "Genre": "Biography, Drama, Sport",
+    "Director": "Hugh Hudson",
+    "Writer": "Colin Welland (original screenplay)",
+    "Actors": "Nicholas Farrell, Nigel Havers, Ian Charleson, Ben Cross",
+    "Plot": "Two British track athletes, one a determined Jew, and the other a devout Christian, compete in the 1924 Olympics.",
+    "Language": "English, French",
+    "Country": "UK",
+    "Awards": "Won 4 Oscars. Another 14 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjNlNDFmM2ItMDE0Zi00MWNiLTljOWQtZGQ1YTQ2ZWUzZDU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.2",
+    "imdbVotes": "50,250",
+    "imdbID": "tt0082158",
+    "Type": "movie",
+    "DVD": "27 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

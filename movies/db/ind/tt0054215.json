@@ -1,0 +1,40 @@
+{
+    "Title": "Psycho",
+    "Year": "1960",
+    "Rated": "R",
+    "Released": "08 Sep 1960",
+    "Runtime": "109 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Alfred Hitchcock",
+    "Writer": "Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)",
+    "Actors": "Anthony Perkins, Vera Miles, John Gavin, Janet Leigh",
+    "Plot": "A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 5 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "97/100"
+        }
+    ],
+    "Metascore": "97",
+    "imdbRating": "8.5",
+    "imdbVotes": "552,280",
+    "imdbID": "tt0054215",
+    "Type": "movie",
+    "DVD": "06 Mar 2001",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Galaxy Quest",
+    "Year": "1999",
+    "Rated": "PG",
+    "Released": "25 Dec 1999",
+    "Runtime": "102 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Dean Parisot",
+    "Writer": "David Howard (story), David Howard (screenplay), Robert Gordon (screenplay)",
+    "Actors": "Tim Allen, Sigourney Weaver, Alan Rickman, Tony Shalhoub",
+    "Plot": "The alumni cast of a space opera television series have to play their roles as the real thing when an alien race needs their help. However, they also have to defend both Earth and the alien race from a reptilian warlord.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "7 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmZlNTY5YjQtZTU5ZC00MzcyLWI1NDMtNjA0ZjQxMmQwYjJmL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.3",
+    "imdbVotes": "139,319",
+    "imdbID": "tt0177789",
+    "Type": "movie",
+    "DVD": "02 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

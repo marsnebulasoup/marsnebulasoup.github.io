@@ -1,0 +1,40 @@
+{
+    "Title": "The Apartment",
+    "Year": "1960",
+    "Rated": "Not Rated",
+    "Released": "16 Sep 1960",
+    "Runtime": "125 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Billy Wilder",
+    "Writer": "Billy Wilder, I.A.L. Diamond",
+    "Actors": "Jack Lemmon, Shirley MacLaine, Fred MacMurray, Ray Walston",
+    "Plot": "A man tries to rise in his company by letting its executives use his apartment for trysts, but complications and a romance of his own ensue.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 5 Oscars. Another 19 wins & 8 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "94/100"
+        }
+    ],
+    "Metascore": "94",
+    "imdbRating": "8.3",
+    "imdbVotes": "148,405",
+    "imdbID": "tt0053604",
+    "Type": "movie",
+    "DVD": "19 Jun 2001",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Quiz Show",
+    "Year": "1994",
+    "Rated": "PG-13",
+    "Released": "07 Oct 1994",
+    "Runtime": "133 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Robert Redford",
+    "Writer": "Paul Attanasio (screenplay), Richard N. Goodwin (book)",
+    "Actors": "John Turturro, Rob Morrow, Ralph Fiennes, Paul Scofield",
+    "Plot": "A young lawyer, Richard Goodwin, investigates a potentially fixed game show. Charles Van Doren, a big time show winner, is under Goodwin's investigation.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 6 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTYxNjdjMzUtYzAyNC00NWJhLWFlM2EtNWM4NDBhZmQ1YjJiXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "7.5",
+    "imdbVotes": "61,597",
+    "imdbID": "tt0110932",
+    "Type": "movie",
+    "DVD": "06 Mar 2001",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Internationa",
+    "Website": "N/A",
+    "Response": "True"
+}

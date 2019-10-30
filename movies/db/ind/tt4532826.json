@@ -1,0 +1,40 @@
+{
+    "Title": "Robin Hood",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "21 Nov 2018",
+    "Runtime": "116 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Otto Bathurst",
+    "Writer": "Ben Chandler (screenplay by), David James Kelly (screenplay by), Ben Chandler (story by)",
+    "Actors": "Taron Egerton, Jamie Foxx, Ben Mendelsohn, Eve Hewson",
+    "Plot": "A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.",
+    "Language": "English, Arabic",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGQzZDM0NGUtZGE1NS00ZjQwLTk0N2EtMWI0NTgxYTkwYWQ4XkEyXkFqcGdeQXVyNDMzMzI5MjM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "15%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.3",
+    "imdbVotes": "49,465",
+    "imdbID": "tt4532826",
+    "Type": "movie",
+    "DVD": "05 Feb 2019",
+    "BoxOffice": "N/A",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

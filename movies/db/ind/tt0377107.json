@@ -1,0 +1,40 @@
+{
+    "Title": "Proof",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "07 Oct 2005",
+    "Runtime": "100 min",
+    "Genre": "Drama, Mystery",
+    "Director": "John Madden",
+    "Writer": "David Auburn (play), David Auburn (screenplay), Rebecca Miller (screenplay)",
+    "Actors": "Gwyneth Paltrow, Anthony Hopkins, Jake Gyllenhaal, Danny McCarthy",
+    "Plot": "The daughter of a brilliant but mentally disturbed mathematician, recently deceased, tries to come to grips with her possible inheritance: his insanity. Complicating matters are one of her father's ex-students, who wants to search through his papers, and her estranged sister, who shows up to help settle his affairs.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 4 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTMxMjM0MTY4Nl5BMl5BanBnXkFtZTcwMDU4MjEzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.7",
+    "imdbVotes": "41,349",
+    "imdbID": "tt0377107",
+    "Type": "movie",
+    "DVD": "14 Feb 2006",
+    "BoxOffice": "$7,468,700",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

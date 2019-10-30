@@ -1,0 +1,40 @@
+{
+    "Title": "Synecdoche, New York",
+    "Year": "2008",
+    "Rated": "R",
+    "Released": "21 Nov 2008",
+    "Runtime": "124 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Charlie Kaufman",
+    "Writer": "Charlie Kaufman",
+    "Actors": "Philip Seymour Hoffman, Catherine Keener, Sadie Goldstein, Tom Noonan",
+    "Plot": "A theatre director struggles with his work, and the women in his life, as he creates a life-size replica of New York City inside a warehouse as part of his new play.",
+    "Language": "English, German",
+    "Country": "USA",
+    "Awards": "8 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0MjIyOTI3MF5BMl5BanBnXkFtZTcwODM5NTY5MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "68%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.6",
+    "imdbVotes": "74,259",
+    "imdbID": "tt0383028",
+    "Type": "movie",
+    "DVD": "31 Mar 2009",
+    "BoxOffice": "$3,000,000",
+    "Production": "Sydney Kimmel Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

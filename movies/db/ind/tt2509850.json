@@ -1,0 +1,40 @@
+{
+    "Title": "The Rewrite",
+    "Year": "2014",
+    "Rated": "Not Rated",
+    "Released": "13 Feb 2015",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Marc Lawrence",
+    "Writer": "Marc Lawrence",
+    "Actors": "Hugh Grant, Whit Baldwin, Vanessa Wasche, Enid Graham",
+    "Plot": "An Oscar-winning writer in a slump leaves Hollywood to teach screenwriting at a college on the East Coast, where he falls for a single mom taking classes there.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQyMDAyODUxOV5BMl5BanBnXkFtZTgwODcxMDMxNDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "6.2",
+    "imdbVotes": "17,049",
+    "imdbID": "tt2509850",
+    "Type": "movie",
+    "DVD": "31 Mar 2015",
+    "BoxOffice": "$324,889",
+    "Production": "RLJE/Image Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

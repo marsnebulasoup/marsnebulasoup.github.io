@@ -1,0 +1,40 @@
+{
+    "Title": "One Night at McCool's",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "27 Apr 2001",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Harald Zwart",
+    "Writer": "Stan Seidel",
+    "Actors": "Matt Dillon, Mary Jo Smith, Michael Douglas, Paul Reiser",
+    "Plot": "Every man has a different recollection of the beautiful young woman who wreaked havoc on their lives during one heated night.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZmE1OTg1ZmItNGMyOC00MzA5LTgyMWEtYmE0MzcwNjE3Y2MwXkEyXkFqcGdeQXVyNjU0NTI0Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.1",
+    "imdbVotes": "27,667",
+    "imdbID": "tt0203755",
+    "Type": "movie",
+    "DVD": "09 Oct 2001",
+    "BoxOffice": "$5,689,784",
+    "Production": "USA Films",
+    "Website": "N/A",
+    "Response": "True"
+}

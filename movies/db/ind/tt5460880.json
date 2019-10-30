@@ -1,0 +1,40 @@
+{
+    "Title": "Ideal Home",
+    "Year": "2018",
+    "Rated": "Not Rated",
+    "Released": "06 Jul 2018",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Andrew Fleming",
+    "Writer": "Andrew Fleming",
+    "Actors": "Steve Coogan, Paul Rudd, Jesse Luken, Evan Bittencourt",
+    "Plot": "A bickering gay couple must now deal with the unexpected task of raising a ten-year-old boy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU5NzkxMTQ5Ml5BMl5BanBnXkFtZTgwODg5Mzk0NTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.5",
+    "imdbVotes": "6,678",
+    "imdbID": "tt5460880",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Brainstorm Media",
+    "Website": "N/A",
+    "Response": "True"
+}

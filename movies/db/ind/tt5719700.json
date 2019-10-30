@@ -1,0 +1,40 @@
+{
+    "Title": "Home Again",
+    "Year": "2017",
+    "Rated": "PG-13",
+    "Released": "08 Sep 2017",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Hallie Meyers-Shyer",
+    "Writer": "Hallie Meyers-Shyer",
+    "Actors": "Reese Witherspoon, Michael Sheen, Candice Bergen, Pico Alexander",
+    "Plot": "Life for a single mom in Los Angeles takes an unexpected turn when she allows three young guys to move in with her.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDMxNTQ0NjIwOV5BMl5BanBnXkFtZTgwODE5NjA5MjI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "5.8",
+    "imdbVotes": "24,072",
+    "imdbID": "tt5719700",
+    "Type": "movie",
+    "DVD": "12 Dec 2017",
+    "BoxOffice": "$26,353,346",
+    "Production": "Open Road Films",
+    "Website": "N/A",
+    "Response": "True"
+}

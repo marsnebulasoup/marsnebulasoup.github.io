@@ -1,0 +1,40 @@
+{
+    "Title": "The Player",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "08 May 1992",
+    "Runtime": "124 min",
+    "Genre": "Comedy, Crime, Drama, Thriller",
+    "Director": "Robert Altman",
+    "Writer": "Michael Tolkin (screenplay), Michael Tolkin (novel)",
+    "Actors": "Tim Robbins, Greta Scacchi, Fred Ward, Whoopi Goldberg",
+    "Plot": "A Hollywood studio executive is being sent death threats by a writer whose script he rejected, but which one?",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 24 wins & 29 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjM5MDg0MjU3Ml5BMl5BanBnXkFtZTgwODQ0NjYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.5",
+    "imdbVotes": "50,324",
+    "imdbID": "tt0105151",
+    "Type": "movie",
+    "DVD": "16 Jul 1997",
+    "BoxOffice": "N/A",
+    "Production": "Fine Line Features",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Easy A",
+    "Year": "2010",
+    "Rated": "PG-13",
+    "Released": "17 Sep 2010",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Will Gluck",
+    "Writer": "Bert V. Royal",
+    "Actors": "Emma Stone, Penn Badgley, Amanda Bynes, Dan Byrd",
+    "Plot": "A clean-cut high school student relies on the school's rumor mill to advance her social and financial standing.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 9 wins & 20 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE1MzU1Mjg1OF5BMl5BanBnXkFtZTcwNDc3NDQ2Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.1",
+    "imdbVotes": "336,019",
+    "imdbID": "tt1282140",
+    "Type": "movie",
+    "DVD": "21 Dec 2010",
+    "BoxOffice": "$58,401,464",
+    "Production": "Sony Pictures/Screen Gems",
+    "Website": "N/A",
+    "Response": "True"
+}

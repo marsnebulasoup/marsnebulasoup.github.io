@@ -1,0 +1,40 @@
+{
+    "Title": "Flight",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "02 Nov 2012",
+    "Runtime": "138 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Robert Zemeckis",
+    "Writer": "John Gatins",
+    "Actors": "Nadine Velazquez, Denzel Washington, Carter Cabassa, Adam C. Edwards",
+    "Plot": "An airline pilot saves almost all his passengers on his malfunctioning airliner which eventually crashed, but an investigation into the accident reveals something troubling.",
+    "Language": "English",
+    "Country": "USA, United Arab Emirates",
+    "Awards": "Nominated for 2 Oscars. Another 16 wins & 42 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxMjI1OTMxNl5BMl5BanBnXkFtZTcwNjc3NTY1OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.3",
+    "imdbVotes": "307,505",
+    "imdbID": "tt1907668",
+    "Type": "movie",
+    "DVD": "05 Feb 2013",
+    "BoxOffice": "$89,400,000",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

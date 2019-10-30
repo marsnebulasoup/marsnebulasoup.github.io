@@ -1,0 +1,40 @@
+{
+    "Title": "Grizzly Man",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "02 Sep 2005",
+    "Runtime": "103 min",
+    "Genre": "Documentary, Biography",
+    "Director": "Werner Herzog",
+    "Writer": "Werner Herzog",
+    "Actors": "Werner Herzog, Carol Dexter, Val Dexter, Sam Egli",
+    "Plot": "A devastating and heart-rending take on grizzly bear activists Timothy Treadwell and Amie Huguenard, who were killed in October of 2003 while living among grizzly bears in Alaska.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "21 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODc3NTAxMTY1MV5BMl5BanBnXkFtZTcwOTE4NjUzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "Metascore": "87",
+    "imdbRating": "7.8",
+    "imdbVotes": "49,027",
+    "imdbID": "tt0427312",
+    "Type": "movie",
+    "DVD": "26 Dec 2005",
+    "BoxOffice": "$2,899,138",
+    "Production": "Lions Gate Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

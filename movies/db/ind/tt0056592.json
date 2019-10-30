@@ -1,0 +1,40 @@
+{
+    "Title": "To Kill a Mockingbird",
+    "Year": "1962",
+    "Rated": "Not Rated",
+    "Released": "16 Mar 1963",
+    "Runtime": "129 min",
+    "Genre": "Crime, Drama",
+    "Director": "Robert Mulligan",
+    "Writer": "Harper Lee (based on her novel \"To Kill a Mockingbird\"), Horton Foote (screenplay)",
+    "Actors": "Gregory Peck, John Megna, Frank Overton, Rosemary Murphy",
+    "Plot": "Atticus Finch, a lawyer in the Depression-era South, defends a black man against an undeserved rape charge, and his children against prejudice.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 3 Oscars. Another 10 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "88/100"
+        }
+    ],
+    "Metascore": "88",
+    "imdbRating": "8.3",
+    "imdbVotes": "276,469",
+    "imdbID": "tt0056592",
+    "Type": "movie",
+    "DVD": "28 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal International Pictur",
+    "Website": "N/A",
+    "Response": "True"
+}

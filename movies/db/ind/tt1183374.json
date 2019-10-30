@@ -1,0 +1,36 @@
+{
+    "Title": "Pet",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "02 Dec 2016",
+    "Runtime": "94 min",
+    "Genre": "Horror, Thriller",
+    "Director": "Carles Torrens",
+    "Writer": "Jeremy Slater",
+    "Actors": "Dominic Monaghan, Ksenia Solo, Jennette McCurdy, Da'Vone McDonald",
+    "Plot": "A man bumps into an old crush and holds her captive underneath the animal shelter where he works.",
+    "Language": "English",
+    "Country": "Spain, USA",
+    "Awards": "3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg5NTE3MzUyOV5BMl5BanBnXkFtZTgwOTQ2ODI0MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "5.7",
+    "imdbVotes": "14,327",
+    "imdbID": "tt1183374",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

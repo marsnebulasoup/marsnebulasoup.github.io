@@ -1,0 +1,40 @@
+{
+    "Title": "The Mighty Ducks",
+    "Year": "1992",
+    "Rated": "PG",
+    "Released": "02 Oct 1992",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Family, Sport",
+    "Director": "Stephen Herek",
+    "Writer": "Steven Brill",
+    "Actors": "Emilio Estevez, Joss Ackland, Lane Smith, Heidi Kling",
+    "Plot": "A self-centered Minnesota lawyer is sentenced to community service coaching a rag tag youth hockey team.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTc4YzQ4NTMtZjc2Yy00OWY1LWIxNGMtZTJkMmFiN2M4ZGViL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "23%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.5",
+    "imdbVotes": "53,970",
+    "imdbID": "tt0104868",
+    "Type": "movie",
+    "DVD": "11 Apr 2000",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

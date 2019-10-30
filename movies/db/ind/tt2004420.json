@@ -1,0 +1,40 @@
+{
+    "Title": "Neighbors",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "09 May 2014",
+    "Runtime": "97 min",
+    "Genre": "Comedy",
+    "Director": "Nicholas Stoller",
+    "Writer": "Andrew Jay Cohen, Brendan O'Brien",
+    "Actors": "Seth Rogen, Rose Byrne, Elise Vargas, Zoey Vargas",
+    "Plot": "After they are forced to live next to a fraternity house, a couple with a newborn baby do whatever they can to take them down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "6 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0OTkzODgyNF5BMl5BanBnXkFtZTgwOTA3OTE4MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "6.3",
+    "imdbVotes": "270,228",
+    "imdbID": "tt2004420",
+    "Type": "movie",
+    "DVD": "23 Sep 2014",
+    "BoxOffice": "$134,413,041",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

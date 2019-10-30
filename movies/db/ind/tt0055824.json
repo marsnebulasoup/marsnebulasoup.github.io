@@ -1,0 +1,40 @@
+{
+    "Title": "Cape Fear",
+    "Year": "1962",
+    "Rated": "Passed",
+    "Released": "20 May 1962",
+    "Runtime": "106 min",
+    "Genre": "Drama, Thriller",
+    "Director": "J. Lee Thompson",
+    "Writer": "John D. MacDonald (novel), James R. Webb (screenplay)",
+    "Actors": "Gregory Peck, Robert Mitchum, Polly Bergen, Lori Martin",
+    "Plot": "A lawyer's family is stalked by a man he once helped put in jail.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWNlMTJmMWUtYjk0MC00M2U4LWI1ODItZDgxNDZiODFmNjc5XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "7.7",
+    "imdbVotes": "24,177",
+    "imdbID": "tt0055824",
+    "Type": "movie",
+    "DVD": "18 Sep 2001",
+    "BoxOffice": "N/A",
+    "Production": "Universal International Pictur",
+    "Website": "N/A",
+    "Response": "True"
+}

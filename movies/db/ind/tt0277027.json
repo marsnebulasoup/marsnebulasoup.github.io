@@ -1,0 +1,40 @@
+{
+    "Title": "I Am Sam",
+    "Year": "2001",
+    "Rated": "PG-13",
+    "Released": "25 Jan 2002",
+    "Runtime": "132 min",
+    "Genre": "Drama",
+    "Director": "Jessie Nelson",
+    "Writer": "Kristine Johnson, Jessie Nelson",
+    "Actors": "Sean Penn, Michelle Pfeiffer, Dakota Fanning, Dianne Wiest",
+    "Plot": "A mentally handicapped man fights for custody of his 7-year-old daughter and in the process teaches his cold-hearted lawyer the value of love and family.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 8 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzEyNzc0NjctZjJiZC00MWI1LWJlOTMtYWZkZDAzNzQ0ZDNkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "35%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "28/100"
+        }
+    ],
+    "Metascore": "28",
+    "imdbRating": "7.6",
+    "imdbVotes": "136,877",
+    "imdbID": "tt0277027",
+    "Type": "movie",
+    "DVD": "18 Jun 2002",
+    "BoxOffice": "$40,270,895",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Cyrus",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "16 Jul 2010",
+    "Runtime": "91 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Jay Duplass, Mark Duplass",
+    "Writer": "Mark Duplass, Jay Duplass",
+    "Actors": "John C. Reilly, Jonah Hill, Marisa Tomei, Catherine Keener",
+    "Plot": "John and Molly, a divorced middle aged man and a single mother meet at a friends party and start up a small relationship, all John has to do now is meet Molly's son... Cyrus",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MDU4NzUwMF5BMl5BanBnXkFtZTcwOTM4MDgzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "80%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "6.3",
+    "imdbVotes": "32,830",
+    "imdbID": "tt1336617",
+    "Type": "movie",
+    "DVD": "14 Dec 2010",
+    "BoxOffice": "$7,455,447",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+}

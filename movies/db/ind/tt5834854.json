@@ -1,0 +1,40 @@
+{
+    "Title": "Mary",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "11 Oct 2019",
+    "Runtime": "84 min",
+    "Genre": "Horror",
+    "Director": "Michael Goi",
+    "Writer": "Anthony Jaswinski",
+    "Actors": "Gary Oldman, Emily Mortimer, Jennifer Esposito, Manuel Garcia-Rulfo",
+    "Plot": "A family looking to start a charter-boat business buys a ship that holds terrifying secrets once out on isolated waters.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzk1MGYyYmQtZjA3NC00ZWZiLTg1NWMtMjEwNTVlODM5OWVkXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.3",
+    "imdbVotes": "62",
+    "imdbID": "tt5834854",
+    "Type": "movie",
+    "DVD": "11 Oct 2019",
+    "BoxOffice": "N/A",
+    "Production": "RLJE Films",
+    "Website": "N/A",
+    "Response": "True"
+}

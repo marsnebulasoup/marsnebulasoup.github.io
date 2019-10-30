@@ -1,0 +1,40 @@
+{
+    "Title": "Cube",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "11 Jul 1998",
+    "Runtime": "90 min",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Vincenzo Natali",
+    "Writer": "Andr\u00e9 Bijelic, Vincenzo Natali, Graeme Manson",
+    "Actors": "Nicole de Boer, Nicky Guadagni, David Hewlett, Andrew Miller",
+    "Plot": "6 complete strangers of widely varying personality characteristics are involuntarily placed in an endless maze containing deadly traps.",
+    "Language": "English, German",
+    "Country": "Canada",
+    "Awards": "13 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTIyZGM3NDItMTNmNS00Yzc4LTg2MzItOWY4MTE1NDlmZDIyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "7.2",
+    "imdbVotes": "195,657",
+    "imdbID": "tt0123755",
+    "Type": "movie",
+    "DVD": "15 Apr 2003",
+    "BoxOffice": "N/A",
+    "Production": "Trimark Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

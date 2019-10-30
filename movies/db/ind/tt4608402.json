@@ -1,0 +1,36 @@
+{
+    "Title": "Confirmation",
+    "Year": "2016",
+    "Rated": "TV-14",
+    "Released": "16 Apr 2016",
+    "Runtime": "110 min",
+    "Genre": "Biography, Drama, History",
+    "Director": "Rick Famuyiwa",
+    "Writer": "Susannah Grant",
+    "Actors": "Kerry Washington, Wendell Pierce, Greg Kinnear, Jeffrey Wright",
+    "Plot": "Judge Clarence Thomas' nomination to the United States Supreme Court is called into question when Anita Hill, a former colleague, testifies that he sexually harassed her.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 3 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg2MjMwMDkyMF5BMl5BanBnXkFtZTgwNjA4MTY2ODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "4,384",
+    "imdbID": "tt4608402",
+    "Type": "movie",
+    "DVD": "02 Aug 2016",
+    "BoxOffice": "N/A",
+    "Production": "ABC Signature Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Furious 7",
+    "Year": "2015",
+    "Rated": "PG-13",
+    "Released": "03 Apr 2015",
+    "Runtime": "137 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "James Wan",
+    "Writer": "Chris Morgan, Gary Scott Thompson (characters)",
+    "Actors": "Vin Diesel, Paul Walker, Jason Statham, Michelle Rodriguez",
+    "Plot": "Deckard Shaw seeks revenge against Dominic Toretto and his family for his comatose brother.",
+    "Language": "English, Thai, Arabic, Spanish",
+    "Country": "USA, China, Japan, Canada, United Arab Emirates",
+    "Awards": "Nominated for 1 Golden Globe. Another 28 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.2",
+    "imdbVotes": "340,252",
+    "imdbID": "tt2820852",
+    "Type": "movie",
+    "DVD": "15 Sep 2015",
+    "BoxOffice": "$316,986,481",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Midnight Run",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "20 Jul 1988",
+    "Runtime": "126 min",
+    "Genre": "Action, Comedy, Crime, Thriller",
+    "Director": "Martin Brest",
+    "Writer": "George Gallo",
+    "Actors": "Robert De Niro, Charles Grodin, Yaphet Kotto, John Ashton",
+    "Plot": "An accountant is chased by bounty hunters, the F.B.I., and the Mafia after jumping bail.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGIwM2JhNmQtYzQ5ZC00NzdkLTgwZjItMDRiN2QxM2ViMzk0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "96%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "7.5",
+    "imdbVotes": "66,130",
+    "imdbID": "tt0095631",
+    "Type": "movie",
+    "DVD": "24 Jun 1998",
+    "BoxOffice": "N/A",
+    "Production": "MCA Universal Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

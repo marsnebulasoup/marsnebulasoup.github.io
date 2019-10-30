@@ -1,0 +1,40 @@
+{
+    "Title": "Message from the King",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "04 Aug 2017",
+    "Runtime": "102 min",
+    "Genre": "Thriller",
+    "Director": "Fabrice du Welz",
+    "Writer": "Oliver Butcher, Stephen Cornwell",
+    "Actors": "Chadwick Boseman, Luke Evans, Alfred Molina, Teresa Palmer",
+    "Plot": "A mysterious outsider from South Africa, named Jacob King, arrives in Los Angeles to look for his missing younger sister.",
+    "Language": "English, Armenian",
+    "Country": "UK, France, Belgium, USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzdkODAxMjItODFmNC00NWMwLTg5MzYtYTQ3NTU2YTlkNzdkXkEyXkFqcGdeQXVyNzMzODUxODE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "40%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.4",
+    "imdbVotes": "9,927",
+    "imdbID": "tt1712192",
+    "Type": "movie",
+    "DVD": "21 Jul 2017",
+    "BoxOffice": "N/A",
+    "Production": "MFTK",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Karate Kid",
+    "Year": "2010",
+    "Rated": "PG",
+    "Released": "11 Jun 2010",
+    "Runtime": "140 min",
+    "Genre": "Action, Drama, Family, Sport",
+    "Director": "Harald Zwart",
+    "Writer": "Christopher Murphey (screenplay), Robert Mark Kamen (story)",
+    "Actors": "Jaden Smith, Jackie Chan, Taraji P. Henson, Wenwen Han",
+    "Plot": "Work causes a single mother to move to China with her young son; in his new home, the boy embraces kung fu, taught to him by a master.",
+    "Language": "English, Mandarin",
+    "Country": "USA, China",
+    "Awards": "5 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0ODg3ODEyMF5BMl5BanBnXkFtZTcwNjI1MTgxMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "66%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.2",
+    "imdbVotes": "149,458",
+    "imdbID": "tt1155076",
+    "Type": "movie",
+    "DVD": "05 Oct 2010",
+    "BoxOffice": "$176,591,618",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

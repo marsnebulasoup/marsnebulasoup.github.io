@@ -1,0 +1,40 @@
+{
+    "Title": "10,000 BC",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "07 Mar 2008",
+    "Runtime": "109 min",
+    "Genre": "Action, Adventure, Drama, Fantasy, History",
+    "Director": "Roland Emmerich",
+    "Writer": "Roland Emmerich, Harald Kloser",
+    "Actors": "Steven Strait, Camilla Belle, Cliff Curtis, Joel Virgel",
+    "Plot": "In the prehistoric past, D'Leh is a mammoth hunter who bonds with the beautiful Evolet. When warriors on horseback capture Evolet and the tribesmen, D'Leh must embark on an odyssey to save his true love.",
+    "Language": "English",
+    "Country": "USA, South Africa",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc2NDMzNDY4Ml5BMl5BanBnXkFtZTYwNzM2Njk3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "8%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "34/100"
+        }
+    ],
+    "Metascore": "34",
+    "imdbRating": "5.1",
+    "imdbVotes": "121,138",
+    "imdbID": "tt0443649",
+    "Type": "movie",
+    "DVD": "24 Jun 2008",
+    "BoxOffice": "$94,700,000",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

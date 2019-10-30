@@ -1,0 +1,40 @@
+{
+    "Title": "Tammy",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "02 Jul 2014",
+    "Runtime": "97 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Ben Falcone",
+    "Writer": "Melissa McCarthy, Ben Falcone",
+    "Actors": "Melissa McCarthy, Susan Sarandon, Kathy Bates, Allison Janney",
+    "Plot": "After losing her job and learning that her husband has been unfaithful, a woman hits the road with her profane, hard-drinking grandmother.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIyMDg1ODM5OV5BMl5BanBnXkFtZTgwMTM4NzgxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "39/100"
+        }
+    ],
+    "Metascore": "39",
+    "imdbRating": "4.9",
+    "imdbVotes": "45,045",
+    "imdbID": "tt2103254",
+    "Type": "movie",
+    "DVD": "11 Nov 2014",
+    "BoxOffice": "$51,033,986",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

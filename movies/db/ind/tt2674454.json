@@ -1,0 +1,40 @@
+{
+    "Title": "Churchill",
+    "Year": "2017",
+    "Rated": "PG",
+    "Released": "02 Jun 2017",
+    "Runtime": "105 min",
+    "Genre": "Biography, Drama, History, War",
+    "Director": "Jonathan Teplitzky",
+    "Writer": "Alex von Tunzelmann",
+    "Actors": "Brian Cox, Miranda Richardson, John Slattery, Julian Wadham",
+    "Plot": "96 hours before the World War II invasion of Normandy, British Prime Minister Winston Churchill struggles with his severe reservations with Operation Overlord and his increasingly marginalized role in the war effort.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGYyN2IyMzctZGNiMi00Y2VmLWFjNGItYTk3NzdkNDAwYTUyXkEyXkFqcGdeQXVyNzY1NzQ2MDk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "6.4",
+    "imdbVotes": "12,435",
+    "imdbID": "tt2674454",
+    "Type": "movie",
+    "DVD": "03 Oct 2017",
+    "BoxOffice": "$1,279,681",
+    "Production": "Cohen Media Group",
+    "Website": "N/A",
+    "Response": "True"
+}

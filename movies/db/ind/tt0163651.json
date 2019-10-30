@@ -1,0 +1,40 @@
+{
+    "Title": "American Pie",
+    "Year": "1999",
+    "Rated": "R",
+    "Released": "09 Jul 1999",
+    "Runtime": "95 min",
+    "Genre": "Comedy",
+    "Director": "Paul Weitz, Chris Weitz",
+    "Writer": "Adam Herz",
+    "Actors": "Jason Biggs, Jennifer Coolidge, Shannon Elizabeth, Alyson Hannigan",
+    "Plot": "Four teenage boys enter a pact to lose their virginity by prom night.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.0",
+    "imdbVotes": "356,886",
+    "imdbID": "tt0163651",
+    "Type": "movie",
+    "DVD": "21 Dec 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

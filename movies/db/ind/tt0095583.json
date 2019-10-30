@@ -1,0 +1,40 @@
+{
+    "Title": "Maniac Cop",
+    "Year": "1988",
+    "Rated": "R",
+    "Released": "13 May 1988",
+    "Runtime": "85 min",
+    "Genre": "Action, Crime, Horror, Mystery",
+    "Director": "William Lustig",
+    "Writer": "Larry Cohen",
+    "Actors": "Tom Atkins, Bruce Campbell, Laurene Landon, Richard Roundtree",
+    "Plot": "A killer dressed in a police uniform begins murdering innocent people on the streets of New York City.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjNlYTVhNTUtMzBhMi00MzcxLTg4M2MtMzRhZDkwM2YwMDM3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.0",
+    "imdbVotes": "12,571",
+    "imdbID": "tt0095583",
+    "Type": "movie",
+    "DVD": "31 Mar 1998",
+    "BoxOffice": "N/A",
+    "Production": "Trans World Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

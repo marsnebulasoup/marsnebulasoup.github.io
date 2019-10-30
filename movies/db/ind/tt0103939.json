@@ -1,0 +1,40 @@
+{
+    "Title": "Chaplin",
+    "Year": "1992",
+    "Rated": "PG-13",
+    "Released": "08 Jan 1993",
+    "Runtime": "143 min",
+    "Genre": "Biography, Comedy, Drama",
+    "Director": "Richard Attenborough",
+    "Writer": "David Robinson (book), Charles Chaplin (book), Diana Hawkins (story), William Boyd (screenplay), Bryan Forbes (screenplay), William Goldman (screenplay)",
+    "Actors": "Robert Downey Jr., Geraldine Chaplin, Paul Rhys, John Thaw",
+    "Plot": "A movie about the troubled and controversial life of the master comedy filmmaker Charlie Chaplin.",
+    "Language": "English",
+    "Country": "UK, France, Italy, Japan, USA",
+    "Awards": "Nominated for 3 Oscars. Another 3 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGQ3ZjI3NjgtMjU4OS00OTBiLWE4YmUtYWY4ZTljNTlkNGNjXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "7.6",
+    "imdbVotes": "50,305",
+    "imdbID": "tt0103939",
+    "Type": "movie",
+    "DVD": "25 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "Columbia TriStar",
+    "Website": "N/A",
+    "Response": "True"
+}

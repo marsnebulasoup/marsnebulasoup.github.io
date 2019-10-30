@@ -1,0 +1,40 @@
+{
+    "Title": "Be Cool",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "04 Mar 2005",
+    "Runtime": "118 min",
+    "Genre": "Comedy, Crime, Drama, Music, Romance",
+    "Director": "F. Gary Gray",
+    "Writer": "Elmore Leonard (novel), Peter Steinfeld (screenplay)",
+    "Actors": "John Travolta, Uma Thurman, Vince Vaughn, Cedric the Entertainer",
+    "Plot": "Disenchanted with the movie industry, Chili Palmer tries the music industry, meeting and romancing a widow of a music executive on the way.",
+    "Language": "English, Russian",
+    "Country": "USA",
+    "Awards": "1 win & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUxNDc4MzAyNV5BMl5BanBnXkFtZTYwMzQ1NDc2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.6",
+    "imdbVotes": "65,249",
+    "imdbID": "tt0377471",
+    "Type": "movie",
+    "DVD": "07 Jun 2005",
+    "BoxOffice": "$55,590,667",
+    "Production": "MGM/UA",
+    "Website": "N/A",
+    "Response": "True"
+}

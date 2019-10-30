@@ -1,0 +1,40 @@
+{
+    "Title": "The Merchant of Venice",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "18 Feb 2005",
+    "Runtime": "131 min",
+    "Genre": "Drama, Romance",
+    "Director": "Michael Radford",
+    "Writer": "William Shakespeare (play), Michael Radford (screenplay)",
+    "Actors": "Al Pacino, Jeremy Irons, Joseph Fiennes, Lynn Collins",
+    "Plot": "In 16th century Venice, when a merchant must default on a large loan from an abused Jewish moneylender for a friend with romantic ambitions, the bitterly vengeful creditor demands a gruesome payment instead.",
+    "Language": "English, Italian",
+    "Country": "USA, Italy, Luxembourg, UK",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 2 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGJiNGUxZGYtM2U2YS00ZjJlLThlNjQtYTVkNWUxZGRmYTk4XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.0",
+    "imdbVotes": "33,337",
+    "imdbID": "tt0379889",
+    "Type": "movie",
+    "DVD": "10 May 2005",
+    "BoxOffice": "$3,300,000",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

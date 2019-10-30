@@ -1,0 +1,40 @@
+{
+    "Title": "Wing Commander",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Released": "12 Mar 1999",
+    "Runtime": "100 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Chris Roberts",
+    "Writer": "Chris Roberts (characters), Chris Roberts (story), Kevin Droney (screen story), Kevin Droney (screenplay)",
+    "Actors": "Freddie Prinze Jr., Saffron Burrows, Matthew Lillard, Tch\u00e9ky Karyo",
+    "Plot": "Blair, a fighter pilot, joins an interstellar war to fight the evil Kilrathi who are trying to destroy the universe.",
+    "Language": "English",
+    "Country": "USA, Luxembourg",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc1MDI1MDMyN15BMl5BanBnXkFtZTcwMzgzMTIyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "10%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "21/100"
+        }
+    ],
+    "Metascore": "21",
+    "imdbRating": "4.3",
+    "imdbVotes": "15,749",
+    "imdbID": "tt0131646",
+    "Type": "movie",
+    "DVD": "18 Dec 2001",
+    "BoxOffice": "N/A",
+    "Production": "Twentieth Century Fox Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

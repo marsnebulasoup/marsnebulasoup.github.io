@@ -1,0 +1,40 @@
+{
+    "Title": "Winter's Bone",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "16 Jul 2010",
+    "Runtime": "100 min",
+    "Genre": "Drama, Mystery",
+    "Director": "Debra Granik",
+    "Writer": "Debra Granik (screenplay), Anne Rosellini (screenplay), Daniel Woodrell (novel)",
+    "Actors": "Jennifer Lawrence, Isaiah Stone, Ashlee Thompson, Valerie Richards",
+    "Plot": "An unflinching Ozark Mountain girl hacks through dangerous social terrain as she hunts down her drug-dealing father while trying to keep her family intact.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 4 Oscars. Another 63 wins & 120 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA0OTM3MDMxNF5BMl5BanBnXkFtZTcwMDY1MjI0Mw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "90/100"
+        }
+    ],
+    "Metascore": "90",
+    "imdbRating": "7.2",
+    "imdbVotes": "129,029",
+    "imdbID": "tt1399683",
+    "Type": "movie",
+    "DVD": "26 Oct 2010",
+    "BoxOffice": "$6,200,000",
+    "Production": "Roadside Attractions",
+    "Website": "N/A",
+    "Response": "True"
+}

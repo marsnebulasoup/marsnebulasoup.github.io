@@ -1,0 +1,40 @@
+{
+    "Title": "New World",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "21 Feb 2013",
+    "Runtime": "134 min",
+    "Genre": "Crime, Drama",
+    "Director": "Hoon-jung Park",
+    "Writer": "Hoon-jung Park (screenplay)",
+    "Actors": "Jung-jae Lee, Min-sik Choi, Jung-min Hwang, Sung-woong Park",
+    "Plot": "An undercover cop finds it difficult to play both a cop and a goon.",
+    "Language": "Korean, Mandarin",
+    "Country": "South Korea",
+    "Awards": "8 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxODg5ODMxOV5BMl5BanBnXkFtZTcwNzkwMzYyOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "7.6",
+    "imdbVotes": "18,020",
+    "imdbID": "tt2625030",
+    "Type": "movie",
+    "DVD": "23 Jul 2013",
+    "BoxOffice": "$296,512",
+    "Production": "Well Go USA",
+    "Website": "N/A",
+    "Response": "True"
+}

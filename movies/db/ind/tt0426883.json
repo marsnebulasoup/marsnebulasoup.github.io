@@ -1,0 +1,40 @@
+{
+    "Title": "Alpha Dog",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "12 Jan 2007",
+    "Runtime": "122 min",
+    "Genre": "Biography, Crime, Drama, Thriller",
+    "Director": "Nick Cassavetes",
+    "Writer": "Nick Cassavetes",
+    "Actors": "Bruce Willis, Matthew Barry, Emile Hirsch, Fernando Vargas",
+    "Plot": "Johnny and a couple pals kidnap Jake's 15-year-old brother, Zach, then assigns his buddy Frankie to be Zach's minder. They develop a brotherly friendship. Zach parties with his captors as things begin to spin out of control.",
+    "Language": "English",
+    "Country": "Germany, USA",
+    "Awards": "1 win & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjExODMyNzQzMl5BMl5BanBnXkFtZTYwNzMwNTg3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.9",
+    "imdbVotes": "95,888",
+    "imdbID": "tt0426883",
+    "Type": "movie",
+    "DVD": "01 May 2007",
+    "BoxOffice": "$15,133,185",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

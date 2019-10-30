@@ -1,0 +1,40 @@
+{
+    "Title": "The Muppet Movie",
+    "Year": "1979",
+    "Rated": "G",
+    "Released": "22 Jun 1979",
+    "Runtime": "95 min",
+    "Genre": "Adventure, Comedy, Family, Musical",
+    "Director": "James Frawley",
+    "Writer": "Jerry Juhl, Jack Burns",
+    "Actors": "Jim Henson, Frank Oz, Jerry Nelson, Richard Hunt",
+    "Plot": "Kermit and his newfound friends trek across America to find success in Hollywood, but a frog legs merchant is after Kermit.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 2 Oscars. Another 3 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGQ0OGM5YjItYzYyMi00NmVmLWI3ODMtMTY2NGRkZmI5MWU2XkEyXkFqcGdeQXVyMzI0NDc4ODY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "74/100"
+        }
+    ],
+    "Metascore": "74",
+    "imdbRating": "7.6",
+    "imdbVotes": "30,027",
+    "imdbID": "tt0079588",
+    "Type": "movie",
+    "DVD": "05 Jun 2001",
+    "BoxOffice": "N/A",
+    "Production": "Associated Film Distributors",
+    "Website": "N/A",
+    "Response": "True"
+}

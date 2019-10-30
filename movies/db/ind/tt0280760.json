@@ -1,0 +1,40 @@
+{
+    "Title": "Igby Goes Down",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "04 Oct 2002",
+    "Runtime": "98 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Burr Steers",
+    "Writer": "Burr Steers",
+    "Actors": "Kieran Culkin, Claire Danes, Jeff Goldblum, Jared Harris",
+    "Plot": "A young man's peculiar upbringing renders him unable to competently cope with the struggle of growing up.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 7 wins & 15 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTUwNTk2NjY0NF5BMl5BanBnXkFtZTcwMjQ3MTI0NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.9",
+    "imdbVotes": "31,093",
+    "imdbID": "tt0280760",
+    "Type": "movie",
+    "DVD": "04 Feb 2003",
+    "BoxOffice": "$4,624,014",
+    "Production": "United Artists Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

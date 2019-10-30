@@ -1,0 +1,40 @@
+{
+    "Title": "Fantastic Four",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "08 Jul 2005",
+    "Runtime": "106 min",
+    "Genre": "Action, Adventure, Fantasy, Sci-Fi",
+    "Director": "Tim Story",
+    "Writer": "Mark Frost, Michael France, Stan Lee (Marvel comic book), Jack Kirby (Marvel comic book)",
+    "Actors": "Ioan Gruffudd, Jessica Alba, Chris Evans, Michael Chiklis",
+    "Plot": "A group of astronauts gain superpowers after a cosmic radiation exposure and must use them to oppose the plans of their enemy, Doctor Victor Von Doom.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "3 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWU1ZjFjMTctYjA5ZC00YTBkLTkzZjUtZWEyMjgxY2MxYWM4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.7",
+    "imdbVotes": "299,932",
+    "imdbID": "tt0120667",
+    "Type": "movie",
+    "DVD": "06 Dec 2005",
+    "BoxOffice": "$154,485,963",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "The Last Picture Show",
+    "Year": "1971",
+    "Rated": "R",
+    "Released": "22 Oct 1971",
+    "Runtime": "118 min",
+    "Genre": "Drama",
+    "Director": "Peter Bogdanovich",
+    "Writer": "Larry McMurtry (screenplay), Peter Bogdanovich (screenplay), Larry McMurtry (novel)",
+    "Actors": "Timothy Bottoms, Jeff Bridges, Cybill Shepherd, Ben Johnson",
+    "Plot": "In 1951, a group of high schoolers come of age in a bleak, isolated, atrophied West Texas town that is slowly dying, both culturally and economically.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 2 Oscars. Another 16 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmVjNzZkZjQtYmM5ZC00M2I0LWJhNzktNDk3MGU1NWMxMjFjXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "93/100"
+        }
+    ],
+    "Metascore": "93",
+    "imdbRating": "8.0",
+    "imdbVotes": "38,457",
+    "imdbID": "tt0067328",
+    "Type": "movie",
+    "DVD": "30 Nov 1999",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

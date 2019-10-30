@@ -1,0 +1,40 @@
+{
+    "Title": "The Scribbler",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "06 Nov 2014",
+    "Runtime": "88 min",
+    "Genre": "Mystery, Sci-Fi, Thriller",
+    "Director": "John Suits",
+    "Writer": "Dan Schaffer",
+    "Actors": "Katie Cassidy, Garret Dillahunt, Michelle Trachtenberg, Michael Imperioli",
+    "Plot": "A young woman is facing her destructive multiple personalities using an experimental new procedure known as \"The Siamese Burn.\"",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjQwNzg3NDI2MF5BMl5BanBnXkFtZTgwNTg1OTc1MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "50%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "32/100"
+        }
+    ],
+    "Metascore": "32",
+    "imdbRating": "5.4",
+    "imdbVotes": "4,543",
+    "imdbID": "tt2396721",
+    "Type": "movie",
+    "DVD": "20 Oct 2014",
+    "BoxOffice": "N/A",
+    "Production": "Xlrator Media",
+    "Website": "N/A",
+    "Response": "True"
+}

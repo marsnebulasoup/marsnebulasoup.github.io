@@ -1,0 +1,40 @@
+{
+    "Title": "Dave",
+    "Year": "1993",
+    "Rated": "PG-13",
+    "Released": "07 May 1993",
+    "Runtime": "110 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Ivan Reitman",
+    "Writer": "Gary Ross",
+    "Actors": "Kevin Kline, Sigourney Weaver, Frank Langella, Kevin Dunn",
+    "Plot": "To avoid a potentially explosive scandal when the U.S. President goes into a coma, an affable temp agency owner with an uncanny resemblance is put in his place.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOGVlM2I0NDUtYjQ4ZC00NTJjLTkzZGUtZGM5NGZjZDQwOWZkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.8",
+    "imdbVotes": "46,458",
+    "imdbID": "tt0106673",
+    "Type": "movie",
+    "DVD": "28 Apr 1998",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

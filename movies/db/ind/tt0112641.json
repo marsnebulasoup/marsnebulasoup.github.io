@@ -1,0 +1,40 @@
+{
+    "Title": "Casino",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "22 Nov 1995",
+    "Runtime": "178 min",
+    "Genre": "Crime, Drama",
+    "Director": "Martin Scorsese",
+    "Writer": "Nicholas Pileggi (book), Nicholas Pileggi (screenplay), Martin Scorsese (screenplay)",
+    "Actors": "Robert De Niro, Sharon Stone, Joe Pesci, James Woods",
+    "Plot": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive, compete against each other over a gambling empire, and over a fast living and fast loving socialite.",
+    "Language": "English",
+    "Country": "USA, France",
+    "Awards": "Nominated for 1 Oscar. Another 3 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "8.2",
+    "imdbVotes": "423,109",
+    "imdbID": "tt0112641",
+    "Type": "movie",
+    "DVD": "24 Feb 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

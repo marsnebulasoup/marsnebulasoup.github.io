@@ -1,0 +1,40 @@
+{
+    "Title": "Superman II",
+    "Year": "1980",
+    "Rated": "PG",
+    "Released": "19 Jun 1981",
+    "Runtime": "127 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Richard Lester, Richard Donner",
+    "Writer": "Jerry Siegel (character created by: Superman), Joe Shuster (character created by: Superman), Mario Puzo (story by), Mario Puzo (screenplay by), David Newman (screenplay by), Leslie Newman (screenplay by)",
+    "Actors": "Gene Hackman, Christopher Reeve, Ned Beatty, Jackie Cooper",
+    "Plot": "Superman agrees to sacrifice his powers to start a relationship with Lois Lane, unaware that three Kryptonian criminals he inadvertently released are conquering Earth.",
+    "Language": "English, French, Russian",
+    "Country": "USA, UK, Canada",
+    "Awards": "3 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWUzNDJjMDUtNGEzMi00YThlLTlkMmEtNjVlOGQwOWM3MjM3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "87/100"
+        }
+    ],
+    "Metascore": "87",
+    "imdbRating": "6.8",
+    "imdbVotes": "92,406",
+    "imdbID": "tt0081573",
+    "Type": "movie",
+    "DVD": "01 May 2001",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

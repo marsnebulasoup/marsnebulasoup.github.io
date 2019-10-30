@@ -1,0 +1,40 @@
+{
+    "Title": "Muriel's Wedding",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "31 Mar 1995",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Drama",
+    "Director": "P.J. Hogan",
+    "Writer": "P.J. Hogan",
+    "Actors": "Sophie Lee, Roz Hammond, Toni Collette, Belinda Jarrett",
+    "Plot": "A young social outcast in Australia steals money from her parents to finance a vacation where she hopes to find happiness, and perhaps love.",
+    "Language": "English",
+    "Country": "Australia, France",
+    "Awards": "Nominated for 1 Golden Globe. Another 8 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTU2M2Q0YzktZGE4MC00YTQ1LWJmZGUtYzdjZTdiODBkY2ZmXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "7.2",
+    "imdbVotes": "32,327",
+    "imdbID": "tt0110598",
+    "Type": "movie",
+    "DVD": "18 May 1999",
+    "BoxOffice": "N/A",
+    "Production": "Miramax",
+    "Website": "N/A",
+    "Response": "True"
+}

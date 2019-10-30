@@ -1,0 +1,40 @@
+{
+    "Title": "Jerry Maguire",
+    "Year": "1996",
+    "Rated": "R",
+    "Released": "13 Dec 1996",
+    "Runtime": "139 min",
+    "Genre": "Comedy, Drama, Romance, Sport",
+    "Director": "Cameron Crowe",
+    "Writer": "Cameron Crowe",
+    "Actors": "Tom Cruise, Cuba Gooding Jr., Ren\u00e9e Zellweger, Kelly Preston",
+    "Plot": "When a sports agent has a moral epiphany and is fired for expressing it, he decides to put his new philosophy to the test as an independent agent with the only athlete who stays with him and his former secretary.",
+    "Language": "English, American Sign Language",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 25 wins & 41 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.3",
+    "imdbVotes": "225,803",
+    "imdbID": "tt0116695",
+    "Type": "movie",
+    "DVD": "24 Jun 1997",
+    "BoxOffice": "N/A",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

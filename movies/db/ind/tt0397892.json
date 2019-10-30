@@ -1,0 +1,40 @@
+{
+    "Title": "Bolt",
+    "Year": "2008",
+    "Rated": "PG",
+    "Released": "21 Nov 2008",
+    "Runtime": "96 min",
+    "Genre": "Animation, Adventure, Comedy, Drama, Family",
+    "Director": "Byron Howard, Chris Williams",
+    "Writer": "Dan Fogelman (screenplay by), Chris Williams (screenplay by)",
+    "Actors": "John Travolta, Miley Cyrus, Susie Essman, Mark Walton",
+    "Plot": "The canine star of a fictional sci-fi/action show that believes his powers are real embarks on a cross country trek to save his co-star from a threat he believes is just as real.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 1 win & 30 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQyNDE5NjQ1N15BMl5BanBnXkFtZTcwMDExMTAwMg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "6.8",
+    "imdbVotes": "177,200",
+    "imdbID": "tt0397892",
+    "Type": "movie",
+    "DVD": "24 Mar 2009",
+    "BoxOffice": "$114,053,579",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

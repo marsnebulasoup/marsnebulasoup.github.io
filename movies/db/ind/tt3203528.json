@@ -1,0 +1,40 @@
+{
+    "Title": "Bad Samaritan",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "04 May 2018",
+    "Runtime": "110 min",
+    "Genre": "Crime, Horror, Thriller",
+    "Director": "Dean Devlin",
+    "Writer": "Brandon Boyce",
+    "Actors": "David Tennant, Robert Sheehan, Kerry Condon, Carlito Olivero",
+    "Plot": "A pair of burglars stumble upon a woman being held captive in a home they intended to rob.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTk3NWI3NTktMjBkYi00OGJlLWE1MmItNjlkZTExMTZmZDdhXkEyXkFqcGdeQXVyMjU4ODU0MzU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.4",
+    "imdbVotes": "14,803",
+    "imdbID": "tt3203528",
+    "Type": "movie",
+    "DVD": "14 Aug 2018",
+    "BoxOffice": "N/A",
+    "Production": "Electric Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Enemy",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "06 Feb 2014",
+    "Runtime": "91 min",
+    "Genre": "Mystery, Thriller",
+    "Director": "Denis Villeneuve",
+    "Writer": "Jos\u00e9 Saramago (novel), Javier Gull\u00f3n",
+    "Actors": "Jake Gyllenhaal, M\u00e9lanie Laurent, Sarah Gadon, Isabella Rossellini",
+    "Plot": "A man seeks out his exact look-alike after spotting him in a movie.",
+    "Language": "English",
+    "Country": "Canada, Spain, France",
+    "Awards": "16 wins & 23 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2NzA5NjE4N15BMl5BanBnXkFtZTgwMjQ4NzMxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "71%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.9",
+    "imdbVotes": "147,843",
+    "imdbID": "tt2316411",
+    "Type": "movie",
+    "DVD": "24 Jun 2014",
+    "BoxOffice": "$455,421",
+    "Production": "A24 and DIRECTV",
+    "Website": "N/A",
+    "Response": "True"
+}

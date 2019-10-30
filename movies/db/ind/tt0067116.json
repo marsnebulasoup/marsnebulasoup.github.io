@@ -1,0 +1,40 @@
+{
+    "Title": "The French Connection",
+    "Year": "1971",
+    "Rated": "R",
+    "Released": "09 Oct 1971",
+    "Runtime": "104 min",
+    "Genre": "Action, Crime, Drama, Thriller",
+    "Director": "William Friedkin",
+    "Writer": "Ernest Tidyman (screenplay by), Robin Moore (based on the book by)",
+    "Actors": "Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco",
+    "Plot": "A pair of NYC cops in the Narcotics Bureau stumble onto a drug smuggling job with a French connection.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Won 5 Oscars. Another 17 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTZhY2E3NmItMGIwNi00OTA2LThkYmEtODFiZTM0NGI0ZWU5XkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "94/100"
+        }
+    ],
+    "Metascore": "94",
+    "imdbRating": "7.7",
+    "imdbVotes": "101,107",
+    "imdbID": "tt0067116",
+    "Type": "movie",
+    "DVD": "25 Sep 2001",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

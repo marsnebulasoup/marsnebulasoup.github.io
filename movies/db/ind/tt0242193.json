@@ -1,0 +1,40 @@
+{
+    "Title": "Bully",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "12 Dec 2001",
+    "Runtime": "108 min",
+    "Genre": "Biography, Crime, Drama",
+    "Director": "Larry Clark",
+    "Writer": "Jim Schutze (book), David McKenna (screenplay), Roger Pullis (screenplay)",
+    "Actors": "Brad Renfro, Bijou Phillips, Rachel Miner, Nick Stahl",
+    "Plot": "A pack of na\u00efve teenagers conspire to murder a mutual friend, whose aggressive demeanor has proved too much.",
+    "Language": "English",
+    "Country": "USA, France, UK",
+    "Awards": "3 wins & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGY2NjNkYjEtY2M5Ni00NzQwLTk1MjctYjEzOWFmNWE2NGZjL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "54%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "45/100"
+        }
+    ],
+    "Metascore": "45",
+    "imdbRating": "6.9",
+    "imdbVotes": "33,018",
+    "imdbID": "tt0242193",
+    "Type": "movie",
+    "DVD": "29 Jan 2002",
+    "BoxOffice": "N/A",
+    "Production": "Lions Gate Films",
+    "Website": "N/A",
+    "Response": "True"
+}

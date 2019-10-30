@@ -1,0 +1,40 @@
+{
+    "Title": "Eloise",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "03 Feb 2017",
+    "Runtime": "89 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Robert Legato",
+    "Writer": "Christopher Borrelli",
+    "Actors": "Chace Crawford, Eliza Dushku, Brandon T. Jackson, P.J. Byrne",
+    "Plot": "Four friends break into an abandoned insane asylum in search of a death certificate which will grant one of them a large inheritance. However, finding it soon becomes the least of their worries in a place haunted by dark memories.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2ODgwNDk2NV5BMl5BanBnXkFtZTgwNDU1MTg3MDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "0%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "15/100"
+        }
+    ],
+    "Metascore": "15",
+    "imdbRating": "4.5",
+    "imdbVotes": "3,408",
+    "imdbID": "tt3692652",
+    "Type": "movie",
+    "DVD": "03 Feb 2017",
+    "BoxOffice": "N/A",
+    "Production": "Vinson Films",
+    "Website": "N/A",
+    "Response": "True"
+}

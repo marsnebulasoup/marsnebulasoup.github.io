@@ -1,0 +1,40 @@
+{
+    "Title": "Alita: Battle Angel",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "14 Feb 2019",
+    "Runtime": "122 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Robert Rodriguez",
+    "Writer": "James Cameron (screenplay by), Laeta Kalogridis (screenplay by), Yukito Kishiro (based on the graphic novel series \"Gunnm\" by)",
+    "Actors": "Rosa Salazar, Christoph Waltz, Jennifer Connelly, Mahershala Ali",
+    "Plot": "A deactivated cyborg is revived, but cannot remember anything of her past life and goes on a quest to find out who she is.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzVhMjcxYjYtOTVhOS00MzQ1LWFiNTAtZmY2ZmJjNjIxMjllXkEyXkFqcGdeQXVyNTc5OTMwOTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "7.4",
+    "imdbVotes": "163,225",
+    "imdbID": "tt0437086",
+    "Type": "movie",
+    "DVD": "09 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "http://www.AlitaBattleAngel.com",
+    "Response": "True"
+}

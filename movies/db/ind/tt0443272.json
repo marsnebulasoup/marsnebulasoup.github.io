@@ -1,0 +1,40 @@
+{
+    "Title": "Lincoln",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "16 Nov 2012",
+    "Runtime": "150 min",
+    "Genre": "Biography, Drama, History, War",
+    "Director": "Steven Spielberg",
+    "Writer": "Tony Kushner (screenplay by), Doris Kearns Goodwin (based in part on the book \"Team of Rivals: The Political Genius of Abraham Lincoln\" by)",
+    "Actors": "Daniel Day-Lewis, Sally Field, David Strathairn, Joseph Gordon-Levitt",
+    "Plot": "As the American Civil War continues to rage, America's president struggles with continuing carnage on the battlefield as he fights with many inside his own cabinet on the decision to emancipate the slaves.",
+    "Language": "English",
+    "Country": "USA, India",
+    "Awards": "Won 2 Oscars. Another 108 wins & 242 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzNzczMDUyNV5BMl5BanBnXkFtZTcwNjM2ODEzOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "7.3",
+    "imdbVotes": "231,474",
+    "imdbID": "tt0443272",
+    "Type": "movie",
+    "DVD": "26 Mar 2013",
+    "BoxOffice": "$129,477,447",
+    "Production": "Dreamworks Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

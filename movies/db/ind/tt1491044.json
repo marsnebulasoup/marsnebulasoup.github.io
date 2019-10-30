@@ -1,0 +1,40 @@
+{
+    "Title": "The Iceman",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "02 May 2013",
+    "Runtime": "106 min",
+    "Genre": "Biography, Crime, Drama, Thriller",
+    "Director": "Ariel Vromen",
+    "Writer": "Morgan Land (screenplay), Ariel Vromen (screenplay), Anthony Bruno (book), Jim Thebaut (documentary \"The Iceman Tapes: Conversations with a Killer\")",
+    "Actors": "Michael Shannon, Winona Ryder, Chris Evans, Ray Liotta",
+    "Plot": "The story of Richard Kuklinski, the notorious contract killer and family man. When finally arrested in 1986, neither his wife nor daughters had any clue about his real profession.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDQyMjM5MTc2OF5BMl5BanBnXkFtZTgwMzg1NTMxMjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "6.8",
+    "imdbVotes": "66,457",
+    "imdbID": "tt1491044",
+    "Type": "movie",
+    "DVD": "03 Sep 2013",
+    "BoxOffice": "$1,900,000",
+    "Production": "Millennium Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

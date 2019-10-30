@@ -1,0 +1,40 @@
+{
+    "Title": "City Lights",
+    "Year": "1931",
+    "Rated": "G",
+    "Released": "07 Mar 1931",
+    "Runtime": "87 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Charles Chaplin",
+    "Writer": "Charles Chaplin",
+    "Actors": "Virginia Cherrill, Florence Lee, Harry Myers, Al Ernest Garcia",
+    "Plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "99/100"
+        }
+    ],
+    "Metascore": "99",
+    "imdbRating": "8.5",
+    "imdbVotes": "151,081",
+    "imdbID": "tt0021749",
+    "Type": "movie",
+    "DVD": "08 Feb 2000",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

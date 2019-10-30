@@ -1,0 +1,40 @@
+{
+    "Title": "Gothika",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "21 Nov 2003",
+    "Runtime": "98 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "Mathieu Kassovitz",
+    "Writer": "Sebastian Gutierrez",
+    "Actors": "Halle Berry, Robert Downey Jr., Charles S. Dutton, John Carroll Lynch",
+    "Plot": "A depressed female psychiatrist wakes up as a patient in the asylum where she worked, with no memory of why she is there or what she has done.",
+    "Language": "English",
+    "Country": "USA, France, Canada, Spain",
+    "Awards": "3 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDA4OTAxNF5BMl5BanBnXkFtZTcwMTI5NjQzMw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "38/100"
+        }
+    ],
+    "Metascore": "38",
+    "imdbRating": "5.8",
+    "imdbVotes": "101,567",
+    "imdbID": "tt0348836",
+    "Type": "movie",
+    "DVD": "23 Mar 2004",
+    "BoxOffice": "$59,537,388",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

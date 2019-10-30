@@ -1,0 +1,40 @@
+{
+    "Title": "Legend",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "20 Nov 2015",
+    "Runtime": "132 min",
+    "Genre": "Biography, Crime, Drama, Thriller",
+    "Director": "Brian Helgeland",
+    "Writer": "Brian Helgeland, John Pearson (book)",
+    "Actors": "Paul Anderson, Tom Hardy, Christopher Eccleston, Joshua Hill",
+    "Plot": "Identical twin gangsters Ronald and Reginald Kray terrorize London during the 1960s.",
+    "Language": "English",
+    "Country": "UK, France, USA",
+    "Awards": "6 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDQ4MGY0NWUtY2MxOC00YzI5LTg0OTEtZjNmY2Q2ZmM0MTA1XkEyXkFqcGdeQXVyNTQzOTc3MTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "6.9",
+    "imdbVotes": "142,716",
+    "imdbID": "tt3569230",
+    "Type": "movie",
+    "DVD": "01 Mar 2016",
+    "BoxOffice": "$14,146,549",
+    "Production": "Universal Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

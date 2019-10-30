@@ -1,0 +1,40 @@
+{
+    "Title": "The Kitchen",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "09 Aug 2019",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Drama",
+    "Director": "Andrea Berloff",
+    "Writer": "Ollie Masters (comic book series), Ming Doyle (comic book series), Andrea Berloff",
+    "Actors": "Melissa McCarthy, Tiffany Haddish, Elisabeth Moss, Domhnall Gleeson",
+    "Plot": "The wives of New York gangsters in Hell's Kitchen in the 1970s continue to operate their husbands' rackets after they're locked up in prison.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "22%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.2",
+    "imdbVotes": "3,320",
+    "imdbID": "tt5822564",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

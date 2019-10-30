@@ -1,0 +1,40 @@
+{
+    "Title": "Scream 2",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "12 Dec 1997",
+    "Runtime": "120 min",
+    "Genre": "Horror, Mystery",
+    "Director": "Wes Craven",
+    "Writer": "Kevin Williamson (characters), Kevin Williamson",
+    "Actors": "Jada Pinkett Smith, Omar Epps, Paulette Patterson, Rasila Schroeder",
+    "Plot": "Two years after the first series of murders, as Sydney acclimates to college life, someone donning the Ghostface costume begins a new string of killings.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDNlM2E2OTUtZTRhZi00ZDU1LWIxODAtN2E5OGZiNmIwMDIwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.2",
+    "imdbVotes": "146,894",
+    "imdbID": "tt0120082",
+    "Type": "movie",
+    "DVD": "17 Jul 2001",
+    "BoxOffice": "N/A",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

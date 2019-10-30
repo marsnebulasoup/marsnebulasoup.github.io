@@ -1,0 +1,40 @@
+{
+    "Title": "Wind Chill",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "03 Aug 2007",
+    "Runtime": "91 min",
+    "Genre": "Drama, Horror, Thriller",
+    "Director": "Gregory Jacobs",
+    "Writer": "Joe Gangemi, Steven Katz",
+    "Actors": "Emily Blunt, Ashton Holmes, Martin Donovan, Ned Bellamy",
+    "Plot": "Two college students share a ride home for the holidays, but when they break down on a deserted stretch of road, they are preyed upon by the ghosts of people who have died there.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzc1Y2UyZDktN2RlYS00ZDc2LTg3NDgtNTUwODYwOWQ4OTcyXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "5.8",
+    "imdbVotes": "20,809",
+    "imdbID": "tt0486051",
+    "Type": "movie",
+    "DVD": "04 Sep 2007",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

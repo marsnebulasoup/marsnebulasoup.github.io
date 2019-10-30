@@ -1,0 +1,40 @@
+{
+    "Title": "Sky High",
+    "Year": "2005",
+    "Rated": "PG",
+    "Released": "29 Jul 2005",
+    "Runtime": "100 min",
+    "Genre": "Adventure, Comedy, Family, Sci-Fi",
+    "Director": "Mike Mitchell",
+    "Writer": "Paul Hernandez, Robert Schooley, Mark McCorkle",
+    "Actors": "Michael Angarano, Kurt Russell, Kelly Preston, Danielle Panabaker",
+    "Plot": "Set in an era where superheroes are commonly known and accepted, young William Stronghold, the son of the Commander and Jetstream, tries to find a balance between being a normal teenager and an extraordinary being.",
+    "Language": "English, Cantonese",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjA2NmY1OTQtMjE4Mi00NGRkLWFmODUtM2Q3ZTRlYjZhNWYwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.1",
+    "imdbVotes": "73,415",
+    "imdbID": "tt0405325",
+    "Type": "movie",
+    "DVD": "29 Nov 2005",
+    "BoxOffice": "$63,939,454",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

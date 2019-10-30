@@ -1,0 +1,40 @@
+{
+    "Title": "A Sound of Thunder",
+    "Year": "2005",
+    "Rated": "PG-13",
+    "Released": "02 Sep 2005",
+    "Runtime": "101 min",
+    "Genre": "Action, Adventure, Horror, Sci-Fi, Thriller",
+    "Director": "Peter Hyams",
+    "Writer": "Ray Bradbury (short story), Thomas Dean Donnelly (screen story), Joshua Oppenheimer (screen story), Thomas Dean Donnelly (screenplay), Joshua Oppenheimer (screenplay), Gregory Poirier (screenplay)",
+    "Actors": "Armin Rohde, Heike Makatsch, Jemima Rooper, David Oyelowo",
+    "Plot": "When a scientist sent back to the prehistoric era strays off the path he causes a chain of events that alters history in disastrous ways.",
+    "Language": "English, Mandarin",
+    "Country": "Czech Republic, UK, Germany, USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZGU2YTE5M2ItZTMzYS00ZWNmLTkxMTQtNGZmNGQ1YTMyZjdkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzA3Njg4MzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "6%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "24/100"
+        }
+    ],
+    "Metascore": "24",
+    "imdbRating": "4.2",
+    "imdbVotes": "18,267",
+    "imdbID": "tt0318081",
+    "Type": "movie",
+    "DVD": "28 Mar 2006",
+    "BoxOffice": "$1,717,608",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

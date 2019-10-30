@@ -1,0 +1,40 @@
+{
+    "Title": "The Ward",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "08 Jul 2011",
+    "Runtime": "89 min",
+    "Genre": "Horror, Mystery, Thriller",
+    "Director": "John Carpenter",
+    "Writer": "Michael Rasmussen, Shawn Rasmussen",
+    "Actors": "Amber Heard, Mamie Gummer, Danielle Panabaker, Laura-Leigh",
+    "Plot": "An institutionalized young woman becomes terrorized by a ghost.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY3NDE3NzQxNV5BMl5BanBnXkFtZTcwMjYxMzI1NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "38/100"
+        }
+    ],
+    "Metascore": "38",
+    "imdbRating": "5.6",
+    "imdbVotes": "38,768",
+    "imdbID": "tt1369706",
+    "Type": "movie",
+    "DVD": "16 Aug 2011",
+    "BoxOffice": "N/A",
+    "Production": "Arc Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

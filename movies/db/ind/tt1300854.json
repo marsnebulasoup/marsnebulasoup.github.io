@@ -1,0 +1,40 @@
+{
+    "Title": "Iron Man 3",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "03 May 2013",
+    "Runtime": "130 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Shane Black",
+    "Writer": "Drew Pearce (screenplay by), Shane Black (screenplay by), Stan Lee (based on the Marvel comic book by), Don Heck (based on the Marvel comic book by), Larry Lieber (based on the Marvel comic book by), Jack Kirby (based on the Marvel comic book by), Warren Ellis (based on the \"Extremis\" mini-series written by), Adi Granov (based on the \"Extremis\" mini-series illustrated by)",
+    "Actors": "Robert Downey Jr., Gwyneth Paltrow, Don Cheadle, Guy Pearce",
+    "Plot": "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 17 wins & 61 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE5MzcyNjk1M15BMl5BanBnXkFtZTcwMjQ4MjcxOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "79%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "7.2",
+    "imdbVotes": "706,865",
+    "imdbID": "tt1300854",
+    "Type": "movie",
+    "DVD": "24 Sep 2013",
+    "BoxOffice": "$408,992,272",
+    "Production": "Walt Disney Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

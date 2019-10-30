@@ -1,0 +1,36 @@
+{
+    "Title": "Sneakers",
+    "Year": "1992",
+    "Rated": "PG-13",
+    "Released": "11 Sep 1992",
+    "Runtime": "126 min",
+    "Genre": "Comedy, Crime, Drama, Mystery, Thriller",
+    "Director": "Phil Alden Robinson",
+    "Writer": "Phil Alden Robinson, Lawrence Lasker, Walter F. Parkes",
+    "Actors": "Jo Marr, Gary Hershberger, Robert Redford, Sidney Poitier",
+    "Plot": "A security pro finds his past coming back to haunt him, when he and his unique team are tasked with retrieving a particularly important item.",
+    "Language": "English, Russian, Chinese",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWM2OWI0OTAtYTVlOC00YTA0LTllMTItNWM5OTIwZDJlYWFmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.1",
+    "imdbVotes": "49,621",
+    "imdbID": "tt0105435",
+    "Type": "movie",
+    "DVD": "31 Mar 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

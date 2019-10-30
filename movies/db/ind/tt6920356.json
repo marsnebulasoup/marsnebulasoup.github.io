@@ -1,0 +1,40 @@
+{
+    "Title": "The Souvenir",
+    "Year": "2019",
+    "Rated": "R",
+    "Released": "30 Aug 2019",
+    "Runtime": "120 min",
+    "Genre": "Drama, Mystery, Romance",
+    "Director": "Joanna Hogg",
+    "Writer": "Joanna Hogg (screenplay)",
+    "Actors": "Neil Young, Tosin Cole, Jack McMullen, Tilda Swinton",
+    "Plot": "A young film student in the early '80s becomes romantically involved with a complicated and untrustworthy man.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk2NjY3NDYzN15BMl5BanBnXkFtZTgwOTUxNzg0NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "92/100"
+        }
+    ],
+    "Metascore": "92",
+    "imdbRating": "6.5",
+    "imdbVotes": "3,118",
+    "imdbID": "tt6920356",
+    "Type": "movie",
+    "DVD": "30 Jul 2019",
+    "BoxOffice": "N/A",
+    "Production": "A24",
+    "Website": "N/A",
+    "Response": "True"
+}

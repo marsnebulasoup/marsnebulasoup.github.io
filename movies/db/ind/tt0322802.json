@@ -1,0 +1,40 @@
+{
+    "Title": "Jackass: The Movie",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "25 Oct 2002",
+    "Runtime": "87 min",
+    "Genre": "Documentary, Action, Comedy",
+    "Director": "Jeff Tremaine",
+    "Writer": "Jeff Tremaine (concepts by), Spike Jonze (concepts by), Johnny Knoxville (concepts by), Bam Margera (concepts by), Steve-O (concepts by), Preston Lacy (concepts by), Chris Pontius (concepts by), Dave England (concepts by), Ryan Dunn (concepts by), Ehren McGhehey (concepts by), Brandon DiCamillo (concepts by), Dimitry Elyashkevich (concepts by), Whitey McConnaughy (concepts by), Sean Cliver (concepts by), Loomis Fall (concepts by), Tim Payne (concepts by), Anne Zogby (concepts by), Phil Clapp (concepts by), Vernon Chatman (concepts by)",
+    "Actors": "Johnny Knoxville, Bam Margera, Steve-O, Chris Pontius",
+    "Plot": "Johnny Knoxville and his band of maniacs perform a variety of stunts and gross-out gags on the big screen for the first time.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTgwMmU0YzktOGNhNi00MDcyLTg1OGEtZGQwM2RlMTAyYzhlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "49%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.6",
+    "imdbVotes": "77,404",
+    "imdbID": "tt0322802",
+    "Type": "movie",
+    "DVD": "25 Mar 2003",
+    "BoxOffice": "$64,209,101",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

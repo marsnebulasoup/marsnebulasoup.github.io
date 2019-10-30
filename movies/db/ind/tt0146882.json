@@ -1,0 +1,40 @@
+{
+    "Title": "High Fidelity",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "31 Mar 2000",
+    "Runtime": "113 min",
+    "Genre": "Comedy, Drama, Music, Romance",
+    "Director": "Stephen Frears",
+    "Writer": "Nick Hornby (book), D.V. DeVincentis (screenplay), Steve Pink (screenplay), John Cusack (screenplay), Scott Rosenberg (screenplay)",
+    "Actors": "John Cusack, Iben Hjejle, Todd Louiso, Jack Black",
+    "Plot": "Rob, a record store owner and compulsive list maker, recounts his top five breakups, including the one in progress.",
+    "Language": "English, Danish",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 3 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxMTI1ODYyOV5BMl5BanBnXkFtZTYwNjQyOTI3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.5",
+    "imdbVotes": "159,902",
+    "imdbID": "tt0146882",
+    "Type": "movie",
+    "DVD": "19 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

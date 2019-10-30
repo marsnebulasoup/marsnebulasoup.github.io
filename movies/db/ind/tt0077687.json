@@ -1,0 +1,36 @@
+{
+    "Title": "The Hobbit",
+    "Year": "1977",
+    "Rated": "TV-PG",
+    "Released": "27 Nov 1977",
+    "Runtime": "90 min",
+    "Genre": "Animation, Adventure, Family, Fantasy, Musical",
+    "Director": "Jules Bass, Arthur Rankin Jr.",
+    "Writer": "J.R.R. Tolkien (novel), Romeo Muller (adapted for the screen by)",
+    "Actors": "Orson Bean, Richard Boone, Hans Conried, John Huston",
+    "Plot": "A homebody hobbit in Middle Earth gets talked into joining a quest with a group of dwarves to recover their treasure from a dragon.",
+    "Language": "English",
+    "Country": "USA, Japan",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmNjZjEyZTgtM2M4Mi00OTQwLTliMTctYjNhOGNkNmFjZDM4XkEyXkFqcGdeQXVyNTc4Njg5MjA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.8",
+    "imdbVotes": "11,721",
+    "imdbID": "tt0077687",
+    "Type": "movie",
+    "DVD": "11 Sep 2001",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Room",
+    "Year": "2015",
+    "Rated": "R",
+    "Released": "22 Jan 2016",
+    "Runtime": "118 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Lenny Abrahamson",
+    "Writer": "Emma Donoghue (screenplay by), Emma Donoghue (based on the novel by)",
+    "Actors": "Brie Larson, Jacob Tremblay, Sean Bridgers, Wendy Crewson",
+    "Plot": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "Language": "English",
+    "Country": "Ireland, Canada, UK, USA",
+    "Awards": "Won 1 Oscar. Another 103 wins & 136 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.2",
+    "imdbVotes": "326,290",
+    "imdbID": "tt3170832",
+    "Type": "movie",
+    "DVD": "01 Mar 2016",
+    "BoxOffice": "$14,677,654",
+    "Production": "Element Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

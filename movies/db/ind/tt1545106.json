@@ -1,0 +1,40 @@
+{
+    "Title": "Vamps",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "02 Nov 2012",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Horror, Romance",
+    "Director": "Amy Heckerling",
+    "Writer": "Amy Heckerling",
+    "Actors": "Alicia Silverstone, Krysten Ritter, Larry Wilmore, Bettina Bresnan",
+    "Plot": "Two female vampires in modern-day New York City are faced with daunting romantic possibilities.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0ODkwMzI0NV5BMl5BanBnXkFtZTcwMDc4OTc2OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "56%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "5.1",
+    "imdbVotes": "8,934",
+    "imdbID": "tt1545106",
+    "Type": "movie",
+    "DVD": "13 Nov 2012",
+    "BoxOffice": "$2,741",
+    "Production": "Anchor Bay Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

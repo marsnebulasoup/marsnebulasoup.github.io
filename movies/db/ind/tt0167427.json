@@ -1,0 +1,40 @@
+{
+    "Title": "Superstar",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Released": "08 Oct 1999",
+    "Runtime": "81 min",
+    "Genre": "Comedy, Romance",
+    "Director": "Bruce McCulloch",
+    "Writer": "Molly Shannon (character), Steve Koren",
+    "Actors": "Molly Shannon, Will Ferrell, Elaine Hendrix, Harland Williams",
+    "Plot": "A nerdy Catholic schoolgirl, Mary Katherine Gallagher, dreams of superstardom.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q2YjFlMzYtYjVlMC00MmZmLTg5MzQtZjUyYmY2N2U5MjIxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "32%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "5.1",
+    "imdbVotes": "17,072",
+    "imdbID": "tt0167427",
+    "Type": "movie",
+    "DVD": "11 Apr 2000",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

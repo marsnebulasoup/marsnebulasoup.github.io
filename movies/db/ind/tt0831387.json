@@ -1,0 +1,40 @@
+{
+    "Title": "Godzilla",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "16 May 2014",
+    "Runtime": "123 min",
+    "Genre": "Action, Adventure, Sci-Fi, Thriller",
+    "Director": "Gareth Edwards",
+    "Writer": "Max Borenstein (screenplay), Dave Callaham (story), Ishir\u00f4 Honda (based on the character created by), Takeo Murata (based on the character created by), Shigeru Kayama (based on the character created by)",
+    "Actors": "Aaron Taylor-Johnson, CJ Adams, Ken Watanabe, Bryan Cranston",
+    "Plot": "The world is beset by the appearance of monstrous creatures, but one of them may be the only one who can save humanity.",
+    "Language": "English, Japanese",
+    "Country": "USA, Japan",
+    "Awards": "6 wins & 31 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2E4ZDgxN2YtZjExMS00MWE5LTg3NjQtNTkxMzJhOTA3MDQ4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.4",
+    "imdbVotes": "358,258",
+    "imdbID": "tt0831387",
+    "Type": "movie",
+    "DVD": "16 Sep 2014",
+    "BoxOffice": "$172,962,996",
+    "Production": "Warner Bros Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

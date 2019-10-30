@@ -1,0 +1,40 @@
+{
+    "Title": "Midnight in Paris",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "10 Jun 2011",
+    "Runtime": "94 min",
+    "Genre": "Comedy, Fantasy, Romance",
+    "Director": "Woody Allen",
+    "Writer": "Woody Allen",
+    "Actors": "Owen Wilson, Rachel McAdams, Kurt Fuller, Mimi Kennedy",
+    "Plot": "While on a trip to Paris with his fianc\u00e9e's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s everyday at midnight.",
+    "Language": "English, French, Spanish, German",
+    "Country": "Spain, USA, France",
+    "Awards": "Won 1 Oscar. Another 24 wins & 101 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "93%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.7",
+    "imdbVotes": "361,585",
+    "imdbID": "tt1605783",
+    "Type": "movie",
+    "DVD": "20 Dec 2011",
+    "BoxOffice": "$55,400,000",
+    "Production": "Sony Pictures Classics",
+    "Website": "N/A",
+    "Response": "True"
+}

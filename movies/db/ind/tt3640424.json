@@ -1,0 +1,40 @@
+{
+    "Title": "Allied",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "23 Nov 2016",
+    "Runtime": "124 min",
+    "Genre": "Action, Drama, Romance, Thriller, War",
+    "Director": "Robert Zemeckis",
+    "Writer": "Steven Knight",
+    "Actors": "Brad Pitt, Vincent Ebrahim, Xavier de Guillebon, Marion Cotillard",
+    "Plot": "In 1942, a Canadian intelligence officer in North Africa encounters a female French Resistance fighter on a deadly mission behind enemy lines. When they reunite in London, their relationship is tested by the pressures of war.",
+    "Language": "English, French, German, Arabic",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Oscar. Another 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWEyMzg4ZWUtYmZhMC00Yjk2LWEyYjktODVmN2M3YTA2ZmNjXkEyXkFqcGdeQXVyNjQ2Mjg3OTI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.1",
+    "imdbVotes": "129,286",
+    "imdbID": "tt3640424",
+    "Type": "movie",
+    "DVD": "28 Feb 2017",
+    "BoxOffice": "$40,069,087",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

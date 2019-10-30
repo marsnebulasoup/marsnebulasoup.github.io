@@ -1,0 +1,40 @@
+{
+    "Title": "Spider-Man: Far from Home",
+    "Year": "2019",
+    "Rated": "PG-13",
+    "Released": "02 Jul 2019",
+    "Runtime": "129 min",
+    "Genre": "Action, Adventure, Sci-Fi",
+    "Director": "Jon Watts",
+    "Writer": "Chris McKenna, Erik Sommers, Stan Lee (based on the Marvel comic book by), Steve Ditko (based on the Marvel comic book by)",
+    "Actors": "Tom Holland, Samuel L. Jackson, Jake Gyllenhaal, Marisa Tomei",
+    "Plot": "Following the events of Avengers: Endgame (2019), Spider-Man must step up to take on new threats in a world that has changed forever.",
+    "Language": "Italian, Czech, English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.6",
+    "imdbVotes": "221,516",
+    "imdbID": "tt6320628",
+    "Type": "movie",
+    "DVD": "17 Sep 2019",
+    "BoxOffice": "N/A",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

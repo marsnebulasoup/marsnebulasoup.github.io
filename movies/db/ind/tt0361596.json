@@ -1,0 +1,40 @@
+{
+    "Title": "Fahrenheit 9/11",
+    "Year": "2004",
+    "Rated": "R",
+    "Released": "25 Jun 2004",
+    "Runtime": "122 min",
+    "Genre": "Documentary, Drama, War",
+    "Director": "Michael Moore",
+    "Writer": "Michael Moore",
+    "Actors": "Ben Affleck, Stevie Wonder, George W. Bush, James Baker III",
+    "Plot": "Michael Moore's view on what happened to the United States after September 11; and how the Bush Administration allegedly used the tragic event to push forward its agenda for unjust wars in Afghanistan and Iraq.",
+    "Language": "English, Arabic",
+    "Country": "USA",
+    "Awards": "29 wins & 16 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjAyODU1NzM0NF5BMl5BanBnXkFtZTcwNjI1MjYyMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.5",
+    "imdbVotes": "123,084",
+    "imdbID": "tt0361596",
+    "Type": "movie",
+    "DVD": "05 Oct 2004",
+    "BoxOffice": "$119,078,393",
+    "Production": "Lions Gate",
+    "Website": "N/A",
+    "Response": "True"
+}

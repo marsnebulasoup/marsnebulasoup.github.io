@@ -1,0 +1,36 @@
+{
+    "Title": "Dracula",
+    "Year": "1931",
+    "Rated": "Passed",
+    "Released": "14 Feb 1931",
+    "Runtime": "75 min",
+    "Genre": "Fantasy, Horror",
+    "Director": "Tod Browning, Karl Freund",
+    "Writer": "Bram Stoker (by), Hamilton Deane (from the play adapted by), John L. Balderston (from the play adapted by), Garrett Fort (play)",
+    "Actors": "Bela Lugosi, Helen Chandler, David Manners, Dwight Frye",
+    "Plot": "The ancient vampire Count Dracula arrives in England and begins to prey upon the virtuous young Mina.",
+    "Language": "English, Hungarian, Latin",
+    "Country": "USA",
+    "Awards": "3 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2M4YjQyODMtNDMxMy00YWNmLWFlMGQtMWM4NzgzNDZkOTkxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.5",
+    "imdbVotes": "42,233",
+    "imdbID": "tt0021814",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Blackfish",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "18 Oct 2013",
+    "Runtime": "83 min",
+    "Genre": "Documentary, News",
+    "Director": "Gabriela Cowperthwaite",
+    "Writer": "Gabriela Cowperthwaite, Eli B. Despres, Tim Zimmermann",
+    "Actors": "Tilikum, John Hargrove, Samantha Berg, Mark Simmons",
+    "Plot": "A documentary following the controversial captivity of killer whales, and its dangers for both humans and whales.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 1 BAFTA Film Award. Another 6 wins & 38 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTkyNTkwMzkxMl5BMl5BanBnXkFtZTcwMzAwOTE2OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "98%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.1",
+    "imdbVotes": "57,461",
+    "imdbID": "tt2545118",
+    "Type": "movie",
+    "DVD": "12 Nov 2013",
+    "BoxOffice": "$1,279,789",
+    "Production": "Magnolia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

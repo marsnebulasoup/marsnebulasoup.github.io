@@ -1,0 +1,40 @@
+{
+    "Title": "Runner Runner",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "04 Oct 2013",
+    "Runtime": "88 min",
+    "Genre": "Crime, Thriller",
+    "Director": "Brad Furman",
+    "Writer": "Brian Koppelman, David Levien",
+    "Actors": "Justin Timberlake, Ben Affleck, Gemma Arterton, Anthony Mackie",
+    "Plot": "When a poor college student who cracks an online poker game goes bust, he arranges a face-to-face with the man he thinks cheated him, a sly offshore entrepreneur.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzVlOGZmNDAtY2MxZi00NzE1LWI2NTYtZTU2Yjk3ODk0ZmQxXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "8%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "5.6",
+    "imdbVotes": "58,664",
+    "imdbID": "tt2364841",
+    "Type": "movie",
+    "DVD": "07 Jan 2014",
+    "BoxOffice": "$19,316,646",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

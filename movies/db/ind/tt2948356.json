@@ -1,0 +1,40 @@
+{
+    "Title": "Zootopia",
+    "Year": "2016",
+    "Rated": "PG",
+    "Released": "04 Mar 2016",
+    "Runtime": "108 min",
+    "Genre": "Animation, Adventure, Comedy, Crime, Family, Mystery",
+    "Director": "Byron Howard, Rich Moore, Jared Bush(co-director)",
+    "Writer": "Byron Howard (story by), Rich Moore (story by), Jared Bush (story by), Jim Reardon (story by), Josie Trinidad (story by), Phil Johnston (story by), Jennifer Lee (story by), Jared Bush (screenplay by), Phil Johnston (screenplay by)",
+    "Actors": "Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",
+    "Plot": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 45 wins & 65 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "78/100"
+        }
+    ],
+    "Metascore": "78",
+    "imdbRating": "8.0",
+    "imdbVotes": "394,091",
+    "imdbID": "tt2948356",
+    "Type": "movie",
+    "DVD": "07 Jun 2016",
+    "BoxOffice": "$341,264,012",
+    "Production": "Walt Disney Animation Studios",
+    "Website": "N/A",
+    "Response": "True"
+}

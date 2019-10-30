@@ -1,0 +1,40 @@
+{
+    "Title": "The Maltese Falcon",
+    "Year": "1941",
+    "Rated": "Not Rated",
+    "Released": "18 Oct 1941",
+    "Runtime": "100 min",
+    "Genre": "Film-Noir, Mystery",
+    "Director": "John Huston",
+    "Writer": "John Huston (screen play by), Dashiell Hammett (based upon the novel by)",
+    "Actors": "Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre",
+    "Plot": "A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 3 Oscars. Another 4 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjIwNGM1ZTUtOThjYS00NDdiLTk2ZDYtNGY5YjJkNzliM2JjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "100%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "96/100"
+        }
+    ],
+    "Metascore": "96",
+    "imdbRating": "8.0",
+    "imdbVotes": "142,421",
+    "imdbID": "tt0033870",
+    "Type": "movie",
+    "DVD": "15 Feb 2000",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

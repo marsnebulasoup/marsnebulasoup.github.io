@@ -1,0 +1,40 @@
+{
+    "Title": "Disconnect",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "05 Jul 2013",
+    "Runtime": "115 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Henry Alex Rubin",
+    "Writer": "Andrew Stern",
+    "Actors": "Jason Bateman, Hope Davis, Frank Grillo, Michael Nyqvist",
+    "Plot": "A drama centered on a group of people searching for human connections in today's wired world.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ4ZmFiMmItZjliNS00M2VlLTg0ZGUtY2NjOGNhMTVjY2M0XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "70%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.5",
+    "imdbVotes": "70,663",
+    "imdbID": "tt1433811",
+    "Type": "movie",
+    "DVD": "17 Sep 2013",
+    "BoxOffice": "$1,400,000",
+    "Production": "LD Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Amores Perros",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "13 Apr 2001",
+    "Runtime": "154 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Alejandro G. I\u00f1\u00e1rritu",
+    "Writer": "Guillermo Arriaga",
+    "Actors": "Emilio Echevarr\u00eda, Gael Garc\u00eda Bernal, Goya Toledo, \u00c1lvaro Guerrero",
+    "Plot": "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+    "Language": "Spanish",
+    "Country": "Mexico",
+    "Awards": "Nominated for 1 Oscar. Another 54 wins & 22 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMWJhOTg5MWQtYTJjMi00YmFkLTg4ODgtYmU2YWVhODQ4ZDM3XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "92%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "8.1",
+    "imdbVotes": "209,816",
+    "imdbID": "tt0245712",
+    "Type": "movie",
+    "DVD": "25 Sep 2001",
+    "BoxOffice": "$4,856,342",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

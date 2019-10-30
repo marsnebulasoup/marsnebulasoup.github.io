@@ -1,0 +1,40 @@
+{
+    "Title": "Tucker and Dale vs Evil",
+    "Year": "2010",
+    "Rated": "R",
+    "Released": "09 Dec 2010",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Horror",
+    "Director": "Eli Craig",
+    "Writer": "Eli Craig, Morgan Jurgenson",
+    "Actors": "Tyler Labine, Alan Tudyk, Katrina Bowden, Jesse Moss",
+    "Plot": "Affable hillbillies Tucker and Dale are on vacation at their dilapidated mountain cabin when they are mistaken for murderers by a group of preppy college students.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "10 wins & 14 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODQ5NDQ0MjkwMF5BMl5BanBnXkFtZTcwNDg1OTU4NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "7.5",
+    "imdbVotes": "156,245",
+    "imdbID": "tt1465522",
+    "Type": "movie",
+    "DVD": "29 Nov 2011",
+    "BoxOffice": "$154,232",
+    "Production": "Magnet Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

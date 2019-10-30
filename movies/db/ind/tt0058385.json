@@ -1,0 +1,40 @@
+{
+    "Title": "My Fair Lady",
+    "Year": "1964",
+    "Rated": "G",
+    "Released": "25 Dec 1964",
+    "Runtime": "170 min",
+    "Genre": "Drama, Family, Musical, Romance",
+    "Director": "George Cukor",
+    "Writer": "Alan Jay Lerner (book), George Bernard Shaw (from a play by), Alan Jay Lerner (screenplay)",
+    "Actors": "Audrey Hepburn, Rex Harrison, Stanley Holloway, Wilfrid Hyde-White",
+    "Plot": "Snobbish phonetics Professor Henry Higgins (Sir Rex Harrison) agrees to a wager that he can make flower girl Eliza Doolittle (Audrey Hepburn) presentable in high society.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 8 Oscars. Another 16 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGM0ZTU3NmItZmRmMy00YWNjLWEzMWItYzg3MzcwZmM5NjdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "94%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "95/100"
+        }
+    ],
+    "Metascore": "95",
+    "imdbRating": "7.8",
+    "imdbVotes": "80,965",
+    "imdbID": "tt0058385",
+    "Type": "movie",
+    "DVD": "05 Aug 2003",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

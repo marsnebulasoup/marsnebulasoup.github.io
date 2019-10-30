@@ -1,0 +1,40 @@
+{
+    "Title": "Cell",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "10 Jun 2016",
+    "Runtime": "98 min",
+    "Genre": "Action, Drama, Horror, Sci-Fi, Thriller",
+    "Director": "Tod Williams",
+    "Writer": "Stephen King (based on the novel by), Stephen King (screenplay by), Adam Alleca (screenplay by)",
+    "Actors": "John Cusack, Samuel L. Jackson, Isabelle Fuhrman, Clark Sarullo",
+    "Plot": "When a mysterious cell phone signal causes apocalyptic chaos, an artist is determined to reunite with his young son in New England.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEzNTQ2OTYxMjheQTJeQWpwZ15BbWU4MDc0OTkzNzgx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "11%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "38/100"
+        }
+    ],
+    "Metascore": "38",
+    "imdbRating": "4.3",
+    "imdbVotes": "22,830",
+    "imdbID": "tt0775440",
+    "Type": "movie",
+    "DVD": "27 Sep 2016",
+    "BoxOffice": "N/A",
+    "Production": "Saban Films",
+    "Website": "N/A",
+    "Response": "True"
+}

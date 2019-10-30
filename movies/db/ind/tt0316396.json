@@ -1,0 +1,40 @@
+{
+    "Title": "Peter Pan",
+    "Year": "2003",
+    "Rated": "PG",
+    "Released": "25 Dec 2003",
+    "Runtime": "113 min",
+    "Genre": "Adventure, Family, Fantasy, Romance",
+    "Director": "P.J. Hogan",
+    "Writer": "J.M. Barrie (play), P.J. Hogan (screenplay), Michael Goldenberg (screenplay)",
+    "Actors": "Jason Isaacs, Jeremy Sumpter, Rachel Hurd-Wood, Lynn Redgrave",
+    "Plot": "The Darling family children receive a visit from Peter Pan, who takes them to Never Never Land where an ongoing war with the evil Pirate Captain Hook is taking place.",
+    "Language": "English, North American Indian",
+    "Country": "UK, Australia, USA, New Zealand",
+    "Awards": "3 wins & 13 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0ODI2MzA0NV5BMl5BanBnXkFtZTYwNjUzMzg2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.8",
+    "imdbVotes": "62,405",
+    "imdbID": "tt0316396",
+    "Type": "movie",
+    "DVD": "04 May 2004",
+    "BoxOffice": "$48,417,850",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Sin City: A Dame to Kill For",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "22 Aug 2014",
+    "Runtime": "102 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Frank Miller, Robert Rodriguez",
+    "Writer": "Frank Miller, Frank Miller (graphic novels)",
+    "Actors": "Mickey Rourke, Jessica Alba, Josh Brolin, Joseph Gordon-Levitt",
+    "Plot": "Some of Sin City's most hard-boiled citizens cross paths with a few of its more reviled inhabitants.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "3 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5ODYwNjgxMF5BMl5BanBnXkFtZTgwMTcwNzAyMjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "43%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.5",
+    "imdbVotes": "143,098",
+    "imdbID": "tt0458481",
+    "Type": "movie",
+    "DVD": "18 Nov 2014",
+    "BoxOffice": "$11,064,709",
+    "Production": "Dimension Films",
+    "Website": "N/A",
+    "Response": "True"
+}

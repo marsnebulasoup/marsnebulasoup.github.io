@@ -1,0 +1,40 @@
+{
+    "Title": "JFK",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "20 Dec 1991",
+    "Runtime": "189 min",
+    "Genre": "Drama, History, Thriller",
+    "Director": "Oliver Stone",
+    "Writer": "Oliver Stone (screenplay), Zachary Sklar (screenplay), Jim Garrison (book), Jim Marrs (book)",
+    "Actors": "Sally Kirkland, Anthony Ramirez, Ray LePere, Steve Reed",
+    "Plot": "New Orleans District Attorney Jim Garrison discovers there's more to the Kennedy assassination than the official story.",
+    "Language": "English, Spanish",
+    "Country": "France, USA",
+    "Awards": "Won 2 Oscars. Another 17 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYjYyODExMDctZjgwYy00ZjQwLWI4OWYtOGFlYjA4ZjEzNmY1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "8.0",
+    "imdbVotes": "132,472",
+    "imdbID": "tt0102138",
+    "Type": "movie",
+    "DVD": "27 Aug 1997",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros.",
+    "Website": "N/A",
+    "Response": "True"
+}

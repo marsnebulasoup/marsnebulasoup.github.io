@@ -1,0 +1,40 @@
+{
+    "Title": "Evil Dead",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "05 Apr 2013",
+    "Runtime": "91 min",
+    "Genre": "Fantasy, Horror, Thriller",
+    "Director": "Fede Alvarez",
+    "Writer": "Fede Alvarez (screenplay by), Rodo Sayagues (screenplay by), Sam Raimi (based on the motion picture \"The Evil Dead\",  written by)",
+    "Actors": "Jane Levy, Shiloh Fernandez, Lou Taylor Pucci, Jessica Lucas",
+    "Plot": "Five friends head to a remote cabin, where the discovery of a Book of the Dead leads them to unwittingly summon up demons living in the nearby woods.",
+    "Language": "English, Welsh",
+    "Country": "USA",
+    "Awards": "6 wins & 18 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNTQ3OTkwNTgyN15BMl5BanBnXkFtZTcwNTAzOTAzOQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.5",
+    "imdbVotes": "148,249",
+    "imdbID": "tt1288558",
+    "Type": "movie",
+    "DVD": "16 Jul 2013",
+    "BoxOffice": "$54,200,000",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

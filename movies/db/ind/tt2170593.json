@@ -1,0 +1,40 @@
+{
+    "Title": "St. Vincent",
+    "Year": "2014",
+    "Rated": "PG-13",
+    "Released": "24 Oct 2014",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Theodore Melfi",
+    "Writer": "Theodore Melfi (screenplay)",
+    "Actors": "Bill Murray, Melissa McCarthy, Naomi Watts, Chris O'Dowd",
+    "Plot": "A young boy whose parents have just divorced finds an unlikely friend and mentor in the misanthropic, bawdy, hedonistic war veteran who lives next door.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Golden Globes. Another 6 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTk5NzI5OTA4MF5BMl5BanBnXkFtZTgwNjc4NTM3MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.2",
+    "imdbVotes": "90,360",
+    "imdbID": "tt2170593",
+    "Type": "movie",
+    "DVD": "17 Feb 2015",
+    "BoxOffice": "$33,454,313",
+    "Production": "The Weinstein Company",
+    "Website": "N/A",
+    "Response": "True"
+}

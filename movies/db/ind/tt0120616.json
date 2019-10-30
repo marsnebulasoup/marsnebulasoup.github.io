@@ -1,0 +1,40 @@
+{
+    "Title": "The Mummy",
+    "Year": "1999",
+    "Rated": "PG-13",
+    "Released": "07 May 1999",
+    "Runtime": "124 min",
+    "Genre": "Action, Adventure, Fantasy",
+    "Director": "Stephen Sommers",
+    "Writer": "Stephen Sommers (screen story), Lloyd Fonvielle (screen story), Kevin Jarre (screen story), Stephen Sommers (screenplay)",
+    "Actors": "Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",
+    "Plot": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreck havoc as he searches for the reincarnation of his long-lost love.",
+    "Language": "English, Egyptian (Ancient), Arabic, Chinese, Hebrew, Hungarian",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTJiYjBhZDgtMjhiOC00MTIzLThlNGMtMmI1NjIwM2M3YTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "7.0",
+    "imdbVotes": "371,033",
+    "imdbID": "tt0120616",
+    "Type": "movie",
+    "DVD": "28 Sep 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

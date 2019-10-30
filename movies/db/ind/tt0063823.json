@@ -1,0 +1,40 @@
+{
+    "Title": "Yellow Submarine",
+    "Year": "1968",
+    "Rated": "G",
+    "Released": "13 Nov 1968",
+    "Runtime": "85 min",
+    "Genre": "Animation, Adventure, Comedy, Family, Fantasy, Musical",
+    "Director": "George Dunning",
+    "Writer": "Lee Minoff (original story), John Lennon (based upon a song by), Paul McCartney (based upon a song by), Lee Minoff (screenplay), Al Brodax (screenplay), Jack Mendelsohn (screenplay), Erich Segal (screenplay)",
+    "Actors": "The Beatles, Paul Angelis, John Clive, Dick Emery",
+    "Plot": "The Beatles agree to accompany Captain Fred (Lance Percival) in his Yellow Submarine and go to Pepperland to free it from the music hating Blue Meanies.",
+    "Language": "English",
+    "Country": "UK, USA",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGExODFmMjQtZTgxOC00ZDE0LWJmM2MtOTQzM2YzNDZlMzNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "97%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "79/100"
+        }
+    ],
+    "Metascore": "79",
+    "imdbRating": "7.4",
+    "imdbVotes": "22,910",
+    "imdbID": "tt0063823",
+    "Type": "movie",
+    "DVD": "05 Jun 2012",
+    "BoxOffice": "N/A",
+    "Production": "Independent Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

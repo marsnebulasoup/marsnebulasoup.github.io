@@ -1,0 +1,40 @@
+{
+    "Title": "The Trust",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "13 May 2016",
+    "Runtime": "92 min",
+    "Genre": "Comedy, Crime, Drama, Thriller",
+    "Director": "Alex Brewer, Benjamin Brewer",
+    "Writer": "Benjamin Brewer, Adam Hirsch",
+    "Actors": "Nicolas Cage, Elijah Wood, Sky Ferreira, Eric Heister",
+    "Plot": "A pair of cops investigating a drug invasion stumble upon a mysterious bank vault.",
+    "Language": "English, German",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA4NjE3OTk1MzdeQTJeQWpwZ15BbWU4MDMwMTk1Mjgx._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "5.4",
+    "imdbVotes": "16,386",
+    "imdbID": "tt3733774",
+    "Type": "movie",
+    "DVD": "02 Aug 2016",
+    "BoxOffice": "N/A",
+    "Production": "Hassell Free Production",
+    "Website": "N/A",
+    "Response": "True"
+}

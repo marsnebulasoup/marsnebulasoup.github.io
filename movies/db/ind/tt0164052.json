@@ -1,0 +1,40 @@
+{
+    "Title": "Hollow Man",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "04 Aug 2000",
+    "Runtime": "112 min",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
+    "Director": "Paul Verhoeven",
+    "Writer": "Gary Scott Thompson (story), Andrew W. Marlowe (story), Andrew W. Marlowe (screenplay)",
+    "Actors": "Elisabeth Shue, Kevin Bacon, Josh Brolin, Kim Dickens",
+    "Plot": "When the leader of a team of scientists volunteers to be the test subject for their experiment in human invisibility, he slowly unravels and turns against them, with horrific consequences.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Nominated for 1 Oscar. Another 7 wins & 11 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM1MjM2Y2QtOTMyOS00ZTE4LWFiZTEtMjBjMjg3NmE0ZjMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "28%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "24/100"
+        }
+    ],
+    "Metascore": "24",
+    "imdbRating": "5.8",
+    "imdbVotes": "116,381",
+    "imdbID": "tt0164052",
+    "Type": "movie",
+    "DVD": "08 May 2001",
+    "BoxOffice": "$72,055,301",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

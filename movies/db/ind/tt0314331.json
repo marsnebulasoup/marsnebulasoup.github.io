@@ -1,0 +1,40 @@
+{
+    "Title": "Love Actually",
+    "Year": "2003",
+    "Rated": "R",
+    "Released": "14 Nov 2003",
+    "Runtime": "135 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Richard Curtis",
+    "Writer": "Richard Curtis",
+    "Actors": "Bill Nighy, Gregor Fisher, Rory MacGregor, Colin Firth",
+    "Plot": "Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic month before Christmas in London, England.",
+    "Language": "English, Portuguese, French",
+    "Country": "UK, USA, France",
+    "Awards": "Nominated for 2 Golden Globes. Another 10 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.6",
+    "imdbVotes": "389,601",
+    "imdbID": "tt0314331",
+    "Type": "movie",
+    "DVD": "27 Apr 2004",
+    "BoxOffice": "$59,365,105",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

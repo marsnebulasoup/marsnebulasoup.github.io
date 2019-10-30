@@ -1,0 +1,40 @@
+{
+    "Title": "The X Files",
+    "Year": "1998",
+    "Rated": "PG-13",
+    "Released": "19 Jun 1998",
+    "Runtime": "121 min",
+    "Genre": "Drama, Mystery, Sci-Fi, Thriller",
+    "Director": "Rob Bowman",
+    "Writer": "Chris Carter (story), Frank Spotnitz (story), Chris Carter (screenplay)",
+    "Actors": "David Duchovny, Gillian Anderson, John Neville, William B. Davis",
+    "Plot": "Mulder and Scully must fight the government in a conspiracy and find the truth about an alien colonization of Earth.",
+    "Language": "English, Arabic",
+    "Country": "USA",
+    "Awards": "6 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDhkYTM1MmEtNTFhMC00NDEyLWI1MGQtMTkzMTcwMmM3ZTkzXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "65%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "60/100"
+        }
+    ],
+    "Metascore": "60",
+    "imdbRating": "7.0",
+    "imdbVotes": "96,662",
+    "imdbID": "tt0120902",
+    "Type": "movie",
+    "DVD": "04 May 1999",
+    "BoxOffice": "N/A",
+    "Production": "Twentieth Century Fox Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

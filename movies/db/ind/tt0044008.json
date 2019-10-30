@@ -1,0 +1,36 @@
+{
+    "Title": "A Christmas Carol",
+    "Year": "1951",
+    "Rated": "Not Rated",
+    "Released": "02 Dec 1951",
+    "Runtime": "86 min",
+    "Genre": "Drama, Fantasy",
+    "Director": "Brian Desmond Hurst",
+    "Writer": "Charles Dickens (adapted from \"A Christmas Carol\"), Noel Langley (adaptation), Noel Langley (screenplay)",
+    "Actors": "Alastair Sim, Kathleen Harrison, Mervyn Johns, Hermione Baddeley",
+    "Plot": "Old bitter miser Ebenezer Scrooge (Alastair Sim) is given a chance for redemption when he is haunted by three ghosts on Christmas Eve.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTM0MWMyYzgtMTJiMS00MjNiLWJhN2EtOGRiYmRkMGEwMzkwXkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "8.1",
+    "imdbVotes": "18,195",
+    "imdbID": "tt0044008",
+    "Type": "movie",
+    "DVD": "03 Nov 1998",
+    "BoxOffice": "N/A",
+    "Production": "United Artists",
+    "Website": "N/A",
+    "Response": "True"
+}

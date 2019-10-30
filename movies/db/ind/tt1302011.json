@@ -1,0 +1,40 @@
+{
+    "Title": "Kung Fu Panda 2",
+    "Year": "2011",
+    "Rated": "PG",
+    "Released": "26 May 2011",
+    "Runtime": "90 min",
+    "Genre": "Animation, Action, Adventure, Comedy, Family, Fantasy",
+    "Director": "Jennifer Yuh Nelson",
+    "Writer": "Jonathan Aibel, Glenn Berger",
+    "Actors": "Jack Black, Angelina Jolie, Dustin Hoffman, Gary Oldman",
+    "Plot": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 46 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYzQ0ZWIxZjAtYWI3Yy00MGM0LWFjOGYtNzcyYThiOTA3ODI1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "67/100"
+        }
+    ],
+    "Metascore": "67",
+    "imdbRating": "7.2",
+    "imdbVotes": "233,383",
+    "imdbID": "tt1302011",
+    "Type": "movie",
+    "DVD": "13 Dec 2011",
+    "BoxOffice": "$165,230,261",
+    "Production": "Paramount Studios/Dreamworks",
+    "Website": "N/A",
+    "Response": "True"
+}

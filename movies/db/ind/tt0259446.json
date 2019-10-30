@@ -1,0 +1,40 @@
+{
+    "Title": "My Big Fat Greek Wedding",
+    "Year": "2002",
+    "Rated": "PG",
+    "Released": "02 Aug 2002",
+    "Runtime": "95 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Joel Zwick",
+    "Writer": "Nia Vardalos",
+    "Actors": "Nia Vardalos, Michael Constantine, Christina Eleusiniotis, Kaylee Vieira",
+    "Plot": "A young Greek woman falls in love with a non-Greek and struggles to get her family to accept him while she comes to terms with her heritage and cultural identity.",
+    "Language": "English, Greek",
+    "Country": "Canada, USA",
+    "Awards": "Nominated for 1 Oscar. Another 20 wins & 28 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzcwOWU4NGEtYjUyMy00MDNlLThiN2MtYzFlMjk4Y2FhNjlmXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "6.5",
+    "imdbVotes": "114,684",
+    "imdbID": "tt0259446",
+    "Type": "movie",
+    "DVD": "11 Feb 2003",
+    "BoxOffice": "$241,250,669",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

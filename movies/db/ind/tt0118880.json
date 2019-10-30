@@ -1,0 +1,40 @@
+{
+    "Title": "Con Air",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "06 Jun 1997",
+    "Runtime": "115 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Simon West",
+    "Writer": "Scott Rosenberg",
+    "Actors": "Colm Meaney, Mykelti Williamson, Nick Chinlund, Renoly Santiago",
+    "Plot": "Newly paroled ex-con and former U.S. Ranger Cameron Poe finds himself trapped in a prisoner transport plane when the passengers seize control.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 7 wins & 9 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGZmNGIxMTYtMmVjMy00YzhkLWIyOTktNTExZGFiYjNiNzdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "55%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "52/100"
+        }
+    ],
+    "Metascore": "52",
+    "imdbRating": "6.9",
+    "imdbVotes": "260,815",
+    "imdbID": "tt0118880",
+    "Type": "movie",
+    "DVD": "24 Mar 1998",
+    "BoxOffice": "N/A",
+    "Production": "Disney",
+    "Website": "N/A",
+    "Response": "True"
+}

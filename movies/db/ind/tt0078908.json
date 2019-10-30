@@ -1,0 +1,40 @@
+{
+    "Title": "The Brood",
+    "Year": "1979",
+    "Rated": "R",
+    "Released": "25 May 1979",
+    "Runtime": "92 min",
+    "Genre": "Horror, Sci-Fi",
+    "Director": "David Cronenberg",
+    "Writer": "David Cronenberg",
+    "Actors": "Oliver Reed, Samantha Eggar, Art Hindle, Henry Beckman",
+    "Plot": "A man tries to uncover an unconventional psychologist's therapy techniques on his institutionalized wife, amidst a series of brutal murders.",
+    "Language": "English",
+    "Country": "Canada",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY0YzY5N2MtZTI2MS00N2E0LWJiYzQtMWU4ZWFkN2MzNjlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "6.8",
+    "imdbVotes": "23,129",
+    "imdbID": "tt0078908",
+    "Type": "movie",
+    "DVD": "26 Aug 2003",
+    "BoxOffice": "N/A",
+    "Production": "New World",
+    "Website": "N/A",
+    "Response": "True"
+}

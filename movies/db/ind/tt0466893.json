@@ -1,0 +1,40 @@
+{
+    "Title": "Margaret",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "01 Jun 2012",
+    "Runtime": "150 min",
+    "Genre": "Drama",
+    "Director": "Kenneth Lonergan",
+    "Writer": "Kenneth Lonergan",
+    "Actors": "Anna Paquin, J. Smith-Cameron, Mark Ruffalo, Jeannie Berlin",
+    "Plot": "A young woman witnesses a bus accident, and is caught up in the aftermath, where the question of whether or not it was intentional affects many people's lives.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "9 wins & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYWFiMTIyMjEtY2M4ZC00NDlkLWFiMWUtMDdhNTVhMjM0YjU3XkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.4",
+    "imdbVotes": "14,907",
+    "imdbID": "tt0466893",
+    "Type": "movie",
+    "DVD": "10 Jul 2012",
+    "BoxOffice": "$46,495",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Mr. Holland's Opus",
+    "Year": "1995",
+    "Rated": "PG",
+    "Released": "19 Jan 1996",
+    "Runtime": "143 min",
+    "Genre": "Drama, Music",
+    "Director": "Stephen Herek",
+    "Writer": "Patrick Sheane Duncan",
+    "Actors": "Richard Dreyfuss, Glenne Headly, Jay Thomas, Olympia Dukakis",
+    "Plot": "A frustrated composer finds fulfillment as a high school music teacher.",
+    "Language": "English, American Sign Language",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDZhNDRlZjAtYzdhNy00ZjU1LWFlMDYtNjA5NjliM2Y5ZmVjL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "7.3",
+    "imdbVotes": "33,781",
+    "imdbID": "tt0113862",
+    "Type": "movie",
+    "DVD": "24 Aug 1999",
+    "BoxOffice": "N/A",
+    "Production": "N/A",
+    "Website": "N/A",
+    "Response": "True"
+}

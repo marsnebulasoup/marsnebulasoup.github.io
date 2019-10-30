@@ -1,0 +1,40 @@
+{
+    "Title": "The Crossing Guard",
+    "Year": "1995",
+    "Rated": "R",
+    "Released": "16 Nov 1995",
+    "Runtime": "111 min",
+    "Genre": "Drama, Thriller",
+    "Director": "Sean Penn",
+    "Writer": "Sean Penn",
+    "Actors": "Jack Nicholson, David Morse, Anjelica Huston, Robin Wright",
+    "Plot": "Freddy Gale is a seedy jeweller who has sworn to kill the drunk driver who killed his little girl.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjkwNWMyZjQtNmU5MS00ZWE1LWE3NzMtNGZjNTlhYzcwNjIzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "6.3",
+    "imdbVotes": "12,132",
+    "imdbID": "tt0112744",
+    "Type": "movie",
+    "DVD": "16 Nov 1999",
+    "BoxOffice": "N/A",
+    "Production": "Miramax",
+    "Website": "N/A",
+    "Response": "True"
+}

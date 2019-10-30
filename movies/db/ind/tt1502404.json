@@ -1,0 +1,40 @@
+{
+    "Title": "Drive Angry",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "25 Feb 2011",
+    "Runtime": "104 min",
+    "Genre": "Action, Crime, Fantasy, Sci-Fi, Thriller",
+    "Director": "Patrick Lussier",
+    "Writer": "Todd Farmer, Patrick Lussier",
+    "Actors": "Nicolas Cage, Amber Heard, William Fichtner, Billy Burke",
+    "Plot": "A vengeful father escapes from hell and chases after the men who killed his daughter and kidnapped his granddaughter.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIwNTM4Njg2NF5BMl5BanBnXkFtZTcwNDQwMTAwNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "46%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "44/100"
+        }
+    ],
+    "Metascore": "44",
+    "imdbRating": "5.4",
+    "imdbVotes": "91,096",
+    "imdbID": "tt1502404",
+    "Type": "movie",
+    "DVD": "31 May 2011",
+    "BoxOffice": "$10,706,786",
+    "Production": "Summit Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

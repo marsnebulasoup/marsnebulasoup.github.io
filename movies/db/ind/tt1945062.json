@@ -1,0 +1,40 @@
+{
+    "Title": "About Cherry",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "09 Aug 2012",
+    "Runtime": "98 min",
+    "Genre": "Drama",
+    "Director": "Stephen Elliott",
+    "Writer": "Stephen Elliott, Lorelei Lee",
+    "Actors": "Ashley Hinshaw, Lili Taylor, Dev Patel, Diane Farr",
+    "Plot": "A troubled young woman moves to San Francisco, where she becomes involved in pornography and aligns herself with a cocaine-addicted lawyer.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM4MTA3MTk0MF5BMl5BanBnXkFtZTcwNDI0NjAyOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "4.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "33/100"
+        }
+    ],
+    "Metascore": "33",
+    "imdbRating": "4.8",
+    "imdbVotes": "9,291",
+    "imdbID": "tt1945062",
+    "Type": "movie",
+    "DVD": "15 Jan 2013",
+    "BoxOffice": "$2,760",
+    "Production": "IFC Films",
+    "Website": "N/A",
+    "Response": "True"
+}

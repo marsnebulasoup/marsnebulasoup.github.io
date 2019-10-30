@@ -1,0 +1,36 @@
+{
+    "Title": "Hamlet",
+    "Year": "1948",
+    "Rated": "Not Rated",
+    "Released": "12 Aug 1948",
+    "Runtime": "154 min",
+    "Genre": "Drama",
+    "Director": "Laurence Olivier",
+    "Writer": "William Shakespeare (by)",
+    "Actors": "John Laurie, Esmond Knight, Anthony Quayle, Niall MacGinnis",
+    "Plot": "Prince Hamlet struggles over whether or not he should kill his uncle, whom he suspects has murdered his father, the former King.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "Won 4 Oscars. Another 11 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTA5NjYyOV5BMl5BanBnXkFtZTcwMjI5MjkzNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "7.7",
+    "imdbVotes": "14,083",
+    "imdbID": "tt0040416",
+    "Type": "movie",
+    "DVD": "19 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "Universal",
+    "Website": "N/A",
+    "Response": "True"
+}

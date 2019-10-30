@@ -1,0 +1,40 @@
+{
+    "Title": "The Rookie",
+    "Year": "2002",
+    "Rated": "G",
+    "Released": "29 Mar 2002",
+    "Runtime": "127 min",
+    "Genre": "Drama, Family, Sport",
+    "Director": "John Lee Hancock",
+    "Writer": "Mike Rich",
+    "Actors": "Dennis Quaid, Rachel Griffiths, Jay Hernandez, Beth Grant",
+    "Plot": "A Texas baseball coach makes the major league after agreeing to try out if his high school team made the playoffs.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDYyODhiNmQtYzI2Ni00NDRjLWIwYzYtN2M5MjM4YTYwNzM4L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "6.9",
+    "imdbVotes": "30,200",
+    "imdbID": "tt0265662",
+    "Type": "movie",
+    "DVD": "27 Aug 2002",
+    "BoxOffice": "$75,456,736",
+    "Production": "Buena Vista Distribution Compa",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Romeo & Juliet",
+    "Year": "2013",
+    "Rated": "PG-13",
+    "Released": "11 Oct 2013",
+    "Runtime": "113 min",
+    "Genre": "Drama, Romance",
+    "Director": "Carlo Carlei",
+    "Writer": "Arthur Brooke, Julian Fellowes (screenplay), William Shakespeare (play)",
+    "Actors": "Damian Lewis, Laura Morante, Tomas Arana, Kodi Smit-McPhee",
+    "Plot": "Romeo and Juliet secretly wed despite the sworn contempt their families hold for each other. It is not long, however, before a chain of fateful events changes the lives of both families forever.",
+    "Language": "English, Latin",
+    "Country": "UK, Italy, Switzerland",
+    "Awards": "2 wins & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3MjQwOTg4MTheQTJeQWpwZ15BbWU3MDM3NDE0OTk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "24%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "5.8",
+    "imdbVotes": "10,440",
+    "imdbID": "tt1645131",
+    "Type": "movie",
+    "DVD": "04 Feb 2014",
+    "BoxOffice": "$1,161,089",
+    "Production": "Relativity Media",
+    "Website": "N/A",
+    "Response": "True"
+}

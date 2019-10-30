@@ -1,0 +1,40 @@
+{
+    "Title": "The Tigger Movie",
+    "Year": "2000",
+    "Rated": "G",
+    "Released": "11 Feb 2000",
+    "Runtime": "77 min",
+    "Genre": "Animation, Comedy, Drama, Family, Musical",
+    "Director": "Jun Falkenstein",
+    "Writer": "Eddie Guzelian (story), Jun Falkenstein (screenplay), A.A. Milne (characters)",
+    "Actors": "Jim Cummings, Nikita Hopkins, Ken Sansom, John Fiedler",
+    "Plot": "Tigger goes looking through the hundred-acre-wood to find his family.",
+    "Language": "English",
+    "Country": "USA, Japan",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5NDIyODU4M15BMl5BanBnXkFtZTYwODA5MzY2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "62%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "53/100"
+        }
+    ],
+    "Metascore": "53",
+    "imdbRating": "6.3",
+    "imdbVotes": "15,993",
+    "imdbID": "tt0220099",
+    "Type": "movie",
+    "DVD": "22 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

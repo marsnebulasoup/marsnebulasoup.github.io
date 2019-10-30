@@ -1,0 +1,40 @@
+{
+    "Title": "Stolen",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "06 Sep 2012",
+    "Runtime": "96 min",
+    "Genre": "Action, Crime, Thriller",
+    "Director": "Simon West",
+    "Writer": "David Guggenheim",
+    "Actors": "Nicolas Cage, Josh Lucas, Danny Huston, Malin Akerman",
+    "Plot": "A former thief frantically searches for his missing daughter, who has been kidnapped and locked in the trunk of a taxi.",
+    "Language": "English, Swedish",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzY0ODM1NzU0OV5BMl5BanBnXkFtZTcwNTExNjIyOA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "20%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.5",
+    "imdbVotes": "41,675",
+    "imdbID": "tt1656186",
+    "Type": "movie",
+    "DVD": "08 Jan 2013",
+    "BoxOffice": "$289,773",
+    "Production": "Millennium Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

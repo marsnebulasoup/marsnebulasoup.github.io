@@ -1,0 +1,40 @@
+{
+    "Title": "Swimming with Sharks",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "21 Apr 1995",
+    "Runtime": "93 min",
+    "Genre": "Comedy, Crime",
+    "Director": "George Huang",
+    "Writer": "George Huang",
+    "Actors": "Kevin Spacey, Frank Whaley, Michelle Forbes, Benicio Del Toro",
+    "Plot": "A young, naive Hollywood studio assistant finally turns the tables on his incredibly abusive producer boss.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZjNhZmVmZGQtMTQ3OS00YWEzLThjMWUtMWFiNjA3YzQ1Yjg0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "78%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "7.1",
+    "imdbVotes": "21,047",
+    "imdbID": "tt0114594",
+    "Type": "movie",
+    "DVD": "18 Aug 1998",
+    "BoxOffice": "N/A",
+    "Production": "Trimark",
+    "Website": "N/A",
+    "Response": "True"
+}

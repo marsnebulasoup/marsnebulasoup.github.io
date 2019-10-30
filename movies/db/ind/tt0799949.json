@@ -1,0 +1,40 @@
+{
+    "Title": "Epic Movie",
+    "Year": "2007",
+    "Rated": "PG-13",
+    "Released": "26 Jan 2007",
+    "Runtime": "86 min",
+    "Genre": "Adventure, Comedy",
+    "Director": "Jason Friedberg, Aaron Seltzer",
+    "Writer": "Jason Friedberg, Aaron Seltzer",
+    "Actors": "Kal Penn, Adam Campbell, Jennifer Coolidge, Jayma Mays",
+    "Plot": "A spoof on previous years' epic movies (The Da Vinci Code (2006), The Chronicles of Narnia: The Lion, the Witch and the Wardrobe (2005) + 20 more), TV series, music videos and celebs. 4 orphans are on an epic adventure.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA3NDM5ODU3NzleQTJeQWpwZ15BbWU3MDgyMjgyNDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "2.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "2%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "17/100"
+        }
+    ],
+    "Metascore": "17",
+    "imdbRating": "2.4",
+    "imdbVotes": "98,805",
+    "imdbID": "tt0799949",
+    "Type": "movie",
+    "DVD": "22 May 2007",
+    "BoxOffice": "$39,666,075",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

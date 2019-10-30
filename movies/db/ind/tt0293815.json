@@ -1,0 +1,40 @@
+{
+    "Title": "Friday After Next",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "22 Nov 2002",
+    "Runtime": "85 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Marcus Raboy",
+    "Writer": "Ice Cube (characters), DJ Pooh (characters), Ice Cube",
+    "Actors": "Ice Cube, Mike Epps, John Witherspoon, Don 'D.C.' Curry",
+    "Plot": "Two cousins work nights at a local mall as security guards. When their house is robbed on Christmas Eve they team up to track the robber down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTE5NTI3OTYyN15BMl5BanBnXkFtZTYwNjUxNTg2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "26%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.8",
+    "imdbVotes": "24,116",
+    "imdbID": "tt0293815",
+    "Type": "movie",
+    "DVD": "25 Mar 2003",
+    "BoxOffice": "$32,983,713",
+    "Production": "New Line Cinema",
+    "Website": "N/A",
+    "Response": "True"
+}

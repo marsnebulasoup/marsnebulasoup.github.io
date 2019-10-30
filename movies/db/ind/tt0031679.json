@@ -1,0 +1,40 @@
+{
+    "Title": "Mr. Smith Goes to Washington",
+    "Year": "1939",
+    "Rated": "Not Rated",
+    "Released": "19 Oct 1939",
+    "Runtime": "129 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Frank Capra",
+    "Writer": "Sidney Buchman (screen play), Lewis R. Foster (story)",
+    "Actors": "Jean Arthur, James Stewart, Claude Rains, Edward Arnold",
+    "Plot": "A naive man is appointed to fill a vacancy in the United States Senate. His plans promptly collide with political corruption, but he doesn't back down.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 4 wins & 12 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "85%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "73/100"
+        }
+    ],
+    "Metascore": "73",
+    "imdbRating": "8.1",
+    "imdbVotes": "99,766",
+    "imdbID": "tt0031679",
+    "Type": "movie",
+    "DVD": "21 Aug 2007",
+    "BoxOffice": "N/A",
+    "Production": "ITVS",
+    "Website": "N/A",
+    "Response": "True"
+}

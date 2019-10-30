@@ -1,0 +1,40 @@
+{
+    "Title": "Mulholland Drive",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "19 Oct 2001",
+    "Runtime": "147 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "David Lynch",
+    "Writer": "David Lynch",
+    "Actors": "Naomi Watts, Jeanne Bates, Dan Birnbaum, Laura Harring",
+    "Plot": "After a car wreck on the winding Mulholland Drive renders a woman amnesiac, she and a perky Hollywood-hopeful search for clues and answers across Los Angeles in a twisting venture beyond dreams and reality.",
+    "Language": "English, Spanish",
+    "Country": "France, USA",
+    "Awards": "Nominated for 1 Oscar. Another 47 wins & 57 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNWM2MDZmMDgtYjViOS00YzBmLWE4YzctMDMyYTQ2YTc4MmVkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "83%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "83/100"
+        }
+    ],
+    "Metascore": "83",
+    "imdbRating": "7.9",
+    "imdbVotes": "295,956",
+    "imdbID": "tt0166924",
+    "Type": "movie",
+    "DVD": "09 Apr 2002",
+    "BoxOffice": "$7,077,663",
+    "Production": "Universal Focus",
+    "Website": "N/A",
+    "Response": "True"
+}

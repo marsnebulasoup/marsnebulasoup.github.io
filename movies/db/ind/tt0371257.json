@@ -1,0 +1,40 @@
+{
+    "Title": "Stay",
+    "Year": "2005",
+    "Rated": "R",
+    "Released": "21 Oct 2005",
+    "Runtime": "99 min",
+    "Genre": "Drama, Mystery, Thriller",
+    "Director": "Marc Forster",
+    "Writer": "David Benioff",
+    "Actors": "Ewan McGregor, Ryan Gosling, Kate Burton, Naomi Watts",
+    "Plot": "This movie focuses on the attempts of a psychiatrist to prevent one of his patients from committing suicide while trying to maintain his own grip on reality.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjdkNzk1MTUtZGVlYS00MzgyLWFkZjYtMWI4ODg3MzEyNmY4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "6.8",
+    "imdbVotes": "70,917",
+    "imdbID": "tt0371257",
+    "Type": "movie",
+    "DVD": "28 Mar 2006",
+    "BoxOffice": "$3,349,167",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

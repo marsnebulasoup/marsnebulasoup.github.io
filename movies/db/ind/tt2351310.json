@@ -1,0 +1,40 @@
+{
+    "Title": "Flu",
+    "Year": "2013",
+    "Rated": "Not Rated",
+    "Released": "15 Aug 2013",
+    "Runtime": "122 min",
+    "Genre": "Action, Drama",
+    "Director": "Sung-su Kim",
+    "Writer": "Young-jong Lee (screenplay), Sung-soo Kim (screenplay), Jae-ho Jung (story)",
+    "Actors": "Hyuk Jang, Soo Ae, Roxanne Aparicio, Tom Bauer",
+    "Plot": "Chaos ensues when a lethal, airborne virus infects the population of a South Korean city less than 20 kilometers from Seoul.",
+    "Language": "Korean, English, Filipino",
+    "Country": "South Korea",
+    "Awards": "1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4NzI2OTg5NV5BMl5BanBnXkFtZTgwNjQ3MDgyMjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.8",
+    "imdbVotes": "5,554",
+    "imdbID": "tt2351310",
+    "Type": "movie",
+    "DVD": "17 Mar 2014",
+    "BoxOffice": "N/A",
+    "Production": "CJ Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

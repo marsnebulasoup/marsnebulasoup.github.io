@@ -1,0 +1,40 @@
+{
+    "Title": "The Texas Chain Saw Massacre",
+    "Year": "1974",
+    "Rated": "R",
+    "Released": "04 Oct 1974",
+    "Runtime": "83 min",
+    "Genre": "Horror",
+    "Director": "Tobe Hooper",
+    "Writer": "Kim Henkel (screenplay by), Tobe Hooper (screenplay by), Kim Henkel (story by)",
+    "Actors": "Marilyn Burns, Allen Danziger, Paul A. Partain, William Vail",
+    "Plot": "Two siblings and three of their friends en route to visit their grandfather's grave in Texas end up falling victim to a family of cannibalistic psychopaths And must survive the terrors of leatherface and his family.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDI3OWE0ZWMtNGJjOS00N2E4LWFiOTAtZjQ4OTNiNzIwN2NkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "75/100"
+        }
+    ],
+    "Metascore": "75",
+    "imdbRating": "7.5",
+    "imdbVotes": "123,592",
+    "imdbID": "tt0072271",
+    "Type": "movie",
+    "DVD": "13 Oct 1993",
+    "BoxOffice": "N/A",
+    "Production": "Bryanston Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

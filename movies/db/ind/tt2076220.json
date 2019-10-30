@@ -1,0 +1,40 @@
+{
+    "Title": "Holy Motors",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "04 Jul 2012",
+    "Runtime": "115 min",
+    "Genre": "Drama, Fantasy",
+    "Director": "Leos Carax",
+    "Writer": "Leos Carax (screenplay)",
+    "Actors": "Denis Lavant, Edith Scob, Eva Mendes, Kylie Minogue",
+    "Plot": "From dawn to dusk, a few hours in the shadowy life of a mystic man named Monsieur Oscar.",
+    "Language": "French, English, Chinese",
+    "Country": "France, Germany",
+    "Awards": "29 wins & 68 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "91%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "84/100"
+        }
+    ],
+    "Metascore": "84",
+    "imdbRating": "7.1",
+    "imdbVotes": "37,532",
+    "imdbID": "tt2076220",
+    "Type": "movie",
+    "DVD": "26 Feb 2013",
+    "BoxOffice": "$641,054",
+    "Production": "Indomina Releasing",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Hotel Artemis",
+    "Year": "2018",
+    "Rated": "R",
+    "Released": "08 Jun 2018",
+    "Runtime": "94 min",
+    "Genre": "Action, Crime, Drama, Sci-Fi, Thriller",
+    "Director": "Drew Pearce",
+    "Writer": "Drew Pearce",
+    "Actors": "Jodie Foster, Sterling K. Brown, Sofia Boutella, Jeff Goldblum",
+    "Plot": "Set in riot-torn, near-future Los Angeles, 'Hotel Artemis' follows the Nurse, who runs a secret, members-only emergency room for criminals.",
+    "Language": "English, French",
+    "Country": "UK, USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDhhNWE3NmQtY2Y1OC00MzQ4LWJhNjktZWEzNjEzMTE3YWIyXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "58/100"
+        }
+    ],
+    "Metascore": "58",
+    "imdbRating": "6.1",
+    "imdbVotes": "34,754",
+    "imdbID": "tt5834262",
+    "Type": "movie",
+    "DVD": "09 Oct 2018",
+    "BoxOffice": "N/A",
+    "Production": "Global Road Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "BASEketball",
+    "Year": "1998",
+    "Rated": "R",
+    "Released": "31 Jul 1998",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Sport",
+    "Director": "David Zucker",
+    "Writer": "David Zucker, Robert LoCash, Lewis Friedman, Jeff Wright",
+    "Actors": "Trey Parker, Matt Stone, Dian Bachar, Yasmine Bleeth",
+    "Plot": "Two childhood friends are pro athletes of a national sport called BASEketball, a hybrid of baseball and basketball, and must deal with a greedy businessman scheming against their team.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMmZjZDg2ZjItYTVkNC00YWRmLThmZTMtNTYxNTI5MWM4NjU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "42%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "38/100"
+        }
+    ],
+    "Metascore": "38",
+    "imdbRating": "6.5",
+    "imdbVotes": "54,363",
+    "imdbID": "tt0131857",
+    "Type": "movie",
+    "DVD": "29 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

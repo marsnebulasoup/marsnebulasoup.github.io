@@ -1,0 +1,40 @@
+{
+    "Title": "Aquamarine",
+    "Year": "2006",
+    "Rated": "PG",
+    "Released": "03 Mar 2006",
+    "Runtime": "104 min",
+    "Genre": "Comedy, Family, Fantasy, Romance",
+    "Director": "Elizabeth Allen Rosenbaum",
+    "Writer": "John Quaintance (screenplay), Jessica Bendinger (screenplay), Alice Hoffman (novel)",
+    "Actors": "Emma Roberts, JoJo, Sara Paxton, Jake McDorman",
+    "Plot": "Two teenage girls discover a mermaid in their beach club's swimming pool.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ5MTc5OTk1OF5BMl5BanBnXkFtZTcwMDc1NTIzMQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "51%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "51/100"
+        }
+    ],
+    "Metascore": "51",
+    "imdbRating": "5.3",
+    "imdbVotes": "36,083",
+    "imdbID": "tt0429591",
+    "Type": "movie",
+    "DVD": "13 Jun 2006",
+    "BoxOffice": "$18,562,160",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

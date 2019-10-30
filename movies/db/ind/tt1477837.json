@@ -1,0 +1,40 @@
+{
+    "Title": "Cedar Rapids",
+    "Year": "2011",
+    "Rated": "R",
+    "Released": "18 Mar 2011",
+    "Runtime": "87 min",
+    "Genre": "Comedy",
+    "Director": "Miguel Arteta",
+    "Writer": "Phil Johnston",
+    "Actors": "Ed Helms, John C. Reilly, Anne Heche, Isiah Whitlock Jr.",
+    "Plot": "Tim Lippe has no idea what he's in for when he's sent to Cedar Rapids, Iowa to represent his company at an annual insurance convention, where he soon finds himself under the \"guidance\" of three convention veterans.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDUwMjQ3MzQwM15BMl5BanBnXkFtZTcwMDAzNjUyNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "86%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "6.2",
+    "imdbVotes": "34,989",
+    "imdbID": "tt1477837",
+    "Type": "movie",
+    "DVD": "21 Jun 2011",
+    "BoxOffice": "$6,800,000",
+    "Production": "Fox Searchlight Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

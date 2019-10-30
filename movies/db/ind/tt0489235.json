@@ -1,0 +1,40 @@
+{
+    "Title": "My Name Is Bruce",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "13 Apr 2007",
+    "Runtime": "84 min",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Director": "Bruce Campbell",
+    "Writer": "Mark Verheiden",
+    "Actors": "Bruce Campbell, Grace Thorsen, Taylor Sharpe, Ted Raimi",
+    "Plot": "Mistaken for his character Ash from the 'Evil Dead' trilogy, Bruce Campbell is forced to fight a real monster in a small Oregon town.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQxMDg2Nzk2Nl5BMl5BanBnXkFtZTcwNDg4NjI5MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "38%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "6.2",
+    "imdbVotes": "23,047",
+    "imdbID": "tt0489235",
+    "Type": "movie",
+    "DVD": "10 Feb 2009",
+    "BoxOffice": "$200,000",
+    "Production": "Image Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

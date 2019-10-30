@@ -1,0 +1,40 @@
+{
+    "Title": "Toys",
+    "Year": "1992",
+    "Rated": "PG-13",
+    "Released": "18 Dec 1992",
+    "Runtime": "118 min",
+    "Genre": "Adventure, Comedy, Drama, Family, Fantasy",
+    "Director": "Barry Levinson",
+    "Writer": "Valerie Curtin, Barry Levinson",
+    "Actors": "Robin Williams, Michael Gambon, Joan Cusack, Robin Wright",
+    "Plot": "When a military general inherits a toy making company and begins making war toys, his employees band together to stop him before he ruins the name of Zevo Toys forever.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 2 Oscars. Another 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFmMTllM2EtZTNlOC00NGY3LTg1YWItZGIzOTU3Mzk3YmNkL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.1",
+    "imdbVotes": "29,433",
+    "imdbID": "tt0105629",
+    "Type": "movie",
+    "DVD": "16 Oct 2001",
+    "BoxOffice": "N/A",
+    "Production": "Twentieth Century Fox Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

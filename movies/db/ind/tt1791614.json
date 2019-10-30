@@ -1,0 +1,40 @@
+{
+    "Title": "Struck by Lightning",
+    "Year": "2012",
+    "Rated": "Not Rated",
+    "Released": "11 Jan 2013",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Brian Dannelly",
+    "Writer": "Chris Colfer",
+    "Actors": "Rebel Wilson, Chris Colfer, Allison Janney, Scott Bailey",
+    "Plot": "A high schooler recounts the way he blackmailed his fellow classmates into contributing to his literary magazine.",
+    "Language": "English, Spanish",
+    "Country": "USA, Mexico",
+    "Awards": "2 wins.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTEyMDk3MzA2MTheQTJeQWpwZ15BbWU3MDIxODc3Nzg@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "41/100"
+        }
+    ],
+    "Metascore": "41",
+    "imdbRating": "6.3",
+    "imdbVotes": "14,162",
+    "imdbID": "tt1791614",
+    "Type": "movie",
+    "DVD": "21 May 2013",
+    "BoxOffice": "$100,000",
+    "Production": "Tribeca Film",
+    "Website": "N/A",
+    "Response": "True"
+}

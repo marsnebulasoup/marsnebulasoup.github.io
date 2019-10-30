@@ -1,0 +1,40 @@
+{
+    "Title": "Spring Breakers",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "22 Mar 2013",
+    "Runtime": "94 min",
+    "Genre": "Crime, Drama",
+    "Director": "Harmony Korine",
+    "Writer": "Harmony Korine",
+    "Actors": "James Franco, Selena Gomez, Vanessa Hudgens, Ashley Benson",
+    "Plot": "Four college girls hold up a restaurant in order to fund their spring break vacation. While partying, drinking, and taking drugs, they are arrested, only to be bailed out by a drug and arms dealer.",
+    "Language": "English",
+    "Country": "USA, France",
+    "Awards": "11 wins & 32 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNDBmYjU3NzAtZGVkNS00N2E3LWEyNTgtMjIwMTczYTE0M2Y4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "67%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "63/100"
+        }
+    ],
+    "Metascore": "63",
+    "imdbRating": "5.3",
+    "imdbVotes": "128,405",
+    "imdbID": "tt2101441",
+    "Type": "movie",
+    "DVD": "09 Jul 2013",
+    "BoxOffice": "$13,900,000",
+    "Production": "A24 Films",
+    "Website": "N/A",
+    "Response": "True"
+}

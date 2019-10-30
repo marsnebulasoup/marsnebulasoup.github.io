@@ -1,0 +1,40 @@
+{
+    "Title": "Air Force One",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "25 Jul 1997",
+    "Runtime": "124 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Wolfgang Petersen",
+    "Writer": "Andrew W. Marlowe",
+    "Actors": "Harrison Ford, Gary Oldman, Glenn Close, Wendy Crewson",
+    "Plot": "Communist Radicals hijack Air Force One with The U.S. President and his family on board. The Vice President negotiates from Washington D.C., while the President, a Veteran, fights to rescue the hostages on board.",
+    "Language": "English, Russian",
+    "Country": "USA, Germany",
+    "Awards": "Nominated for 2 Oscars. Another 7 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTk5NWE2ZjAtZmRmOS00ZGYzLWI5ZmUtMDcwODI0YWY0MTRlL2ltYWdlXkEyXkFqcGdeQXVyNjQzNDI3NzY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "61/100"
+        }
+    ],
+    "Metascore": "61",
+    "imdbRating": "6.5",
+    "imdbVotes": "169,688",
+    "imdbID": "tt0118571",
+    "Type": "movie",
+    "DVD": "01 Feb 1998",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

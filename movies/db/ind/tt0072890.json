@@ -1,0 +1,40 @@
+{
+    "Title": "Dog Day Afternoon",
+    "Year": "1975",
+    "Rated": "R",
+    "Released": "25 Dec 1975",
+    "Runtime": "125 min",
+    "Genre": "Biography, Crime, Drama, Thriller",
+    "Director": "Sidney Lumet",
+    "Writer": "Frank Pierson (screenplay), P.F. Kluge (based upon a magazine article by), Thomas Moore (based upon a magazine article by)",
+    "Actors": "Penelope Allen, Sully Boyar, John Cazale, Beulah Garrick",
+    "Plot": "A man robs a bank to pay for his lover's operation, which turns into a hostage situation and a media circus.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 13 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzljMjBhODItYTYyYi00NzMwLTkyZDQtNjQ4MWU0MzhmNDU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "8.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "95%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "86/100"
+        }
+    ],
+    "Metascore": "86",
+    "imdbRating": "8.0",
+    "imdbVotes": "221,204",
+    "imdbID": "tt0072890",
+    "Type": "movie",
+    "DVD": "16 Dec 1997",
+    "BoxOffice": "N/A",
+    "Production": "WARNER BROTHERS PICTURES",
+    "Website": "N/A",
+    "Response": "True"
+}

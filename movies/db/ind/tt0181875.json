@@ -1,0 +1,40 @@
+{
+    "Title": "Almost Famous",
+    "Year": "2000",
+    "Rated": "R",
+    "Released": "22 Sep 2000",
+    "Runtime": "122 min",
+    "Genre": "Adventure, Comedy, Drama, Music",
+    "Director": "Cameron Crowe",
+    "Writer": "Cameron Crowe",
+    "Actors": "Billy Crudup, Frances McDormand, Kate Hudson, Jason Lee",
+    "Plot": "A high-school boy is given the chance to write a story for Rolling Stone Magazine about an up-and-coming rock band as he accompanies them on their concert tour.",
+    "Language": "English, French",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 52 wins & 103 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzY1ZjMwMGEtYTY1ZS00ZDllLTk0ZmUtYzA3ZTA4NmYwNGNkXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "89%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "90/100"
+        }
+    ],
+    "Metascore": "90",
+    "imdbRating": "7.9",
+    "imdbVotes": "237,103",
+    "imdbID": "tt0181875",
+    "Type": "movie",
+    "DVD": "13 Mar 2001",
+    "BoxOffice": "$31,716,715",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Phantom",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "01 Mar 2013",
+    "Runtime": "98 min",
+    "Genre": "Drama, History, Thriller, War",
+    "Director": "Todd Robinson",
+    "Writer": "Todd Robinson",
+    "Actors": "Ed Harris, David Duchovny, William Fichtner, Lance Henriksen",
+    "Plot": "The haunted Captain of a Soviet submarine holds the fate of the world in his hands. Forced to leave his family behind, he is charged with leading a covert mission cloaked in mystery.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ0OTA5MDgzM15BMl5BanBnXkFtZTcwMDM3NTU3OQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "5.8",
+    "imdbVotes": "12,945",
+    "imdbID": "tt1922685",
+    "Type": "movie",
+    "DVD": "25 Jun 2013",
+    "BoxOffice": "$1,000,000",
+    "Production": "RCR Distribution",
+    "Website": "N/A",
+    "Response": "True"
+}

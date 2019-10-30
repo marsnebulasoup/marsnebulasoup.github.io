@@ -1,0 +1,40 @@
+{
+    "Title": "Driving Miss Daisy",
+    "Year": "1989",
+    "Rated": "PG",
+    "Released": "26 Jan 1990",
+    "Runtime": "99 min",
+    "Genre": "Drama",
+    "Director": "Bruce Beresford",
+    "Writer": "Alfred Uhry (screenplay), Alfred Uhry (play)",
+    "Actors": "Morgan Freeman, Jessica Tandy, Dan Aykroyd, Patti LuPone",
+    "Plot": "An old Jewish woman and her African-American chauffeur in the American South have a relationship that grows and improves over the years.",
+    "Language": "English, Hebrew",
+    "Country": "USA",
+    "Awards": "Won 4 Oscars. Another 17 wins & 24 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMDE2ZTY3YmUtZTFhYy00ZmU2LWI2NjktY2NmZGZlYjg5OGMwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "81/100"
+        }
+    ],
+    "Metascore": "81",
+    "imdbRating": "7.4",
+    "imdbVotes": "90,920",
+    "imdbID": "tt0097239",
+    "Type": "movie",
+    "DVD": "29 Apr 1997",
+    "BoxOffice": "N/A",
+    "Production": "Fathom Events",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Wolves",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "28 Aug 2014",
+    "Runtime": "91 min",
+    "Genre": "Action, Fantasy, Horror, Thriller",
+    "Director": "David Hayter",
+    "Writer": "David Hayter",
+    "Actors": "Lucas Till, Stephen McHattie, John Pyper-Ferguson, Merritt Patterson",
+    "Plot": "A boy is trying to find out about his family history and stumbles upon a town of lycans.",
+    "Language": "English",
+    "Country": "France, Canada",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzMDE2MTE5MF5BMl5BanBnXkFtZTgwODQ4MDE5MjE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "37/100"
+        }
+    ],
+    "Metascore": "37",
+    "imdbRating": "5.3",
+    "imdbVotes": "7,496",
+    "imdbID": "tt1403241",
+    "Type": "movie",
+    "DVD": "19 Jan 2015",
+    "BoxOffice": "N/A",
+    "Production": "Ketchup Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

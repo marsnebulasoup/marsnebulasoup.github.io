@@ -1,0 +1,36 @@
+{
+    "Title": "Wild Child",
+    "Year": "2008",
+    "Rated": "PG-13",
+    "Released": "15 Aug 2008",
+    "Runtime": "124 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Nick Moore",
+    "Writer": "Lucy Dahl",
+    "Actors": "Emma Roberts, Lexi Ainsworth, Shelby Young, Johnny Pacar",
+    "Plot": "A rebellious Malibu princess is shipped off to a strict English boarding school by her father.",
+    "Language": "English",
+    "Country": "USA, UK, France",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzUzYTM2YjgtN2I5OC00MmIwLWJhOTgtNjc1ZmFmYzI3MTUwXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "41%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.1",
+    "imdbVotes": "46,088",
+    "imdbID": "tt1024255",
+    "Type": "movie",
+    "DVD": "17 Nov 2009",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

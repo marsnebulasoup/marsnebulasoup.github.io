@@ -1,0 +1,40 @@
+{
+    "Title": "Grand Canyon",
+    "Year": "1991",
+    "Rated": "R",
+    "Released": "17 Jan 1992",
+    "Runtime": "134 min",
+    "Genre": "Crime, Drama",
+    "Director": "Lawrence Kasdan",
+    "Writer": "Lawrence Kasdan, Meg Kasdan",
+    "Actors": "Danny Glover, Kevin Kline, Steve Martin, Mary McDonnell",
+    "Plot": "The fates of several people are intertwining randomly. Their sympathy of each other faces multiple differences in their lifestyles.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 3 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNzI0ZDBkYTktZGI0Yy00OGFiLWFlMTItNTc1NzI2NjMxMjdhXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.9",
+    "imdbVotes": "14,122",
+    "imdbID": "tt0101969",
+    "Type": "movie",
+    "DVD": "13 Mar 2001",
+    "BoxOffice": "N/A",
+    "Production": "Twentieth Century Fox Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

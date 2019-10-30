@@ -1,0 +1,40 @@
+{
+    "Title": "Fired Up!",
+    "Year": "2009",
+    "Rated": "PG-13",
+    "Released": "20 Feb 2009",
+    "Runtime": "90 min",
+    "Genre": "Comedy, Sport",
+    "Director": "Will Gluck",
+    "Writer": "Will Gluck",
+    "Actors": "Nicholas D'Agosto, Eric Christian Olsen, Sarah Roemer, Molly Sims",
+    "Plot": "The two most popular guys in high school decide to ditch football camp for cheerleader camp. For the girls and for the glory.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjE3MDMxMTQ0M15BMl5BanBnXkFtZTcwNTA0MDAyMg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "25%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "31/100"
+        }
+    ],
+    "Metascore": "31",
+    "imdbRating": "6.1",
+    "imdbVotes": "40,891",
+    "imdbID": "tt1083456",
+    "Type": "movie",
+    "DVD": "09 Jun 2009",
+    "BoxOffice": "$16,755,117",
+    "Production": "Sony/Screen Gems",
+    "Website": "N/A",
+    "Response": "True"
+}

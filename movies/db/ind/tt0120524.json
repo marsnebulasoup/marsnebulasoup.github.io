@@ -1,0 +1,36 @@
+{
+    "Title": "Wishmaster",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "19 Sep 1997",
+    "Runtime": "90 min",
+    "Genre": "Fantasy, Horror",
+    "Director": "Robert Kurtzman",
+    "Writer": "Peter Atkins",
+    "Actors": "Tammy Lauren, Andrew Divoff, Robert Englund, Chris Lemmon",
+    "Plot": "A demonic djinn attempts to grant its owner three wishes, which will allow him to summon his brethren to Earth.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNmQ2ZWQ4ZWItMTJiNS00MDE1LWEyNDgtMThhY2VlODRmZTMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "23%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "5.8",
+    "imdbVotes": "18,308",
+    "imdbID": "tt0120524",
+    "Type": "movie",
+    "DVD": "25 Jul 2000",
+    "BoxOffice": "N/A",
+    "Production": "Live Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

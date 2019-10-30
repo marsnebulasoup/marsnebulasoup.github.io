@@ -1,0 +1,40 @@
+{
+    "Title": "Alice in Wonderland",
+    "Year": "1951",
+    "Rated": "G",
+    "Released": "14 Sep 1951",
+    "Runtime": "75 min",
+    "Genre": "Animation, Adventure, Family, Fantasy, Musical",
+    "Director": "Clyde Geronimi, Wilfred Jackson, Hamilton Luske",
+    "Writer": "Lewis Carroll (adaptation), Winston Hibler (story), Ted Sears (story), Bill Peet (story), Erdman Penner (story), Joe Rinaldi (story), Milt Banta (story), William Cottrell (story), Dick Kelsey (story), Joe Grant (story), Dick Huemer (story), Del Connell (story), Tom Oreb (story), John Walbridge (story)",
+    "Actors": "Kathryn Beaumont, Ed Wynn, Richard Haydn, Sterling Holloway",
+    "Plot": "Alice stumbles into the world of Wonderland. Will she get home? Not if the Queen of Hearts has her way.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Oscar. Another 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgyMjM2NTAxMF5BMl5BanBnXkFtZTgwNjU1NDc2MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "68/100"
+        }
+    ],
+    "Metascore": "68",
+    "imdbRating": "7.4",
+    "imdbVotes": "118,763",
+    "imdbID": "tt0043274",
+    "Type": "movie",
+    "DVD": "01 Feb 2011",
+    "BoxOffice": "N/A",
+    "Production": "Film Chest",
+    "Website": "N/A",
+    "Response": "True"
+}

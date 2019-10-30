@@ -1,0 +1,40 @@
+{
+    "Title": "8 Mile",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "08 Nov 2002",
+    "Runtime": "110 min",
+    "Genre": "Drama, Music",
+    "Director": "Curtis Hanson",
+    "Writer": "Scott Silver",
+    "Actors": "Eminem, Kim Basinger, Mekhi Phifer, Brittany Murphy",
+    "Plot": "A young rapper, struggling with every aspect of his life, wants to make it big but his friends and foes make this odyssey of rap harder than it may seem.",
+    "Language": "English",
+    "Country": "USA, Germany",
+    "Awards": "Won 1 Oscar. Another 14 wins & 21 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOWI3MDIzZmYtN2Y3MC00YTljLWFiYmYtNWIzMjg1ZWQ1ODlhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "75%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.1",
+    "imdbVotes": "232,843",
+    "imdbID": "tt0298203",
+    "Type": "movie",
+    "DVD": "18 Mar 2003",
+    "BoxOffice": "$116,638,030",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

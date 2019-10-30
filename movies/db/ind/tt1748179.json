@@ -1,0 +1,40 @@
+{
+    "Title": "Red Lights",
+    "Year": "2012",
+    "Rated": "R",
+    "Released": "02 Mar 2012",
+    "Runtime": "114 min",
+    "Genre": "Drama, Fantasy, Horror, Mystery, Thriller",
+    "Director": "Rodrigo Cort\u00e9s",
+    "Writer": "Rodrigo Cort\u00e9s",
+    "Actors": "Cillian Murphy, Sigourney Weaver, Robert De Niro, Toby Jones",
+    "Plot": "Psychologist Margaret Matheson and her assistant study paranormal activity, which leads them to investigate a world-renowned psychic who has resurfaced years after his toughest critic mysteriously passed away.",
+    "Language": "English",
+    "Country": "Spain, Canada",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQzMjYwNTc2M15BMl5BanBnXkFtZTcwMTY0Mjc4Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "30%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "36/100"
+        }
+    ],
+    "Metascore": "36",
+    "imdbRating": "6.2",
+    "imdbVotes": "55,834",
+    "imdbID": "tt1748179",
+    "Type": "movie",
+    "DVD": "02 Oct 2012",
+    "BoxOffice": "$49,251",
+    "Production": "Millenium Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

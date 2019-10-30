@@ -1,0 +1,40 @@
+{
+    "Title": "Dark Blue",
+    "Year": "2002",
+    "Rated": "R",
+    "Released": "21 Feb 2003",
+    "Runtime": "118 min",
+    "Genre": "Crime, Drama, Thriller",
+    "Director": "Ron Shelton",
+    "Writer": "James Ellroy (story), David Ayer (screenplay)",
+    "Actors": "Kurt Russell, Scott Speedman, Michael Michele, Brendan Gleeson",
+    "Plot": "A robbery homicide investigation triggers a series of events that will cause a corrupt LAPD officer to question his tactics.",
+    "Language": "English",
+    "Country": "USA, UK, Germany",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BN2NkMTZlYjEtODlmNC00ZTBhLWI5MmYtZGQzMmVkNDNjOTRkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "58%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "6.6",
+    "imdbVotes": "19,583",
+    "imdbID": "tt0279331",
+    "Type": "movie",
+    "DVD": "24 Jun 2003",
+    "BoxOffice": "$9,059,588",
+    "Production": "MGM Distribution Company",
+    "Website": "N/A",
+    "Response": "True"
+}

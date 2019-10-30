@@ -1,0 +1,36 @@
+{
+    "Title": "Wolf",
+    "Year": "1994",
+    "Rated": "R",
+    "Released": "17 Jun 1994",
+    "Runtime": "125 min",
+    "Genre": "Drama, Horror, Romance, Thriller",
+    "Director": "Mike Nichols",
+    "Writer": "Jim Harrison, Wesley Strick",
+    "Actors": "Jack Nicholson, Michelle Pfeiffer, James Spader, Kate Nelligan",
+    "Plot": "Publisher Will Randall becomes a werewolf and has to fight to keep his job.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "2 wins & 7 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjY3NTgxZGItMWU2Mi00OTQ0LTg2OGQtYWI3NzU4MTYxMTBlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "60%"
+        }
+    ],
+    "Metascore": "N/A",
+    "imdbRating": "6.2",
+    "imdbVotes": "49,806",
+    "imdbID": "tt0111742",
+    "Type": "movie",
+    "DVD": "21 Oct 1997",
+    "BoxOffice": "N/A",
+    "Production": "Columbia Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

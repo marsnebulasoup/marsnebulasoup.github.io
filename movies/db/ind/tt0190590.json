@@ -1,0 +1,40 @@
+{
+    "Title": "O Brother, Where Art Thou?",
+    "Year": "2000",
+    "Rated": "PG-13",
+    "Released": "02 Feb 2001",
+    "Runtime": "107 min",
+    "Genre": "Adventure, Comedy, Crime, Music",
+    "Director": "Joel Coen, Ethan Coen",
+    "Writer": "Homer (epic poem \"The Odyssey\"), Ethan Coen, Joel Coen",
+    "Actors": "George Clooney, John Turturro, Tim Blake Nelson, John Goodman",
+    "Plot": "In the deep south during the 1930s, three escaped convicts search for hidden treasure while a relentless lawman pursues them.",
+    "Language": "English",
+    "Country": "UK, France, USA",
+    "Awards": "Nominated for 2 Oscars. Another 7 wins & 35 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjZkOTdmMWItOTkyNy00MDdjLTlhNTQtYzU3MzdhZjA0ZDEyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "77%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "69/100"
+        }
+    ],
+    "Metascore": "69",
+    "imdbRating": "7.7",
+    "imdbVotes": "268,180",
+    "imdbID": "tt0190590",
+    "Type": "movie",
+    "DVD": "12 Jun 2001",
+    "BoxOffice": "$45,150,731",
+    "Production": "Buena Vista",
+    "Website": "N/A",
+    "Response": "True"
+}

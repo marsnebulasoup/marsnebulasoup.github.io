@@ -1,0 +1,40 @@
+{
+    "Title": "Die Another Day",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "22 Nov 2002",
+    "Runtime": "133 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Lee Tamahori",
+    "Writer": "Ian Fleming (characters), Neal Purvis, Robert Wade",
+    "Actors": "Pierce Brosnan, Halle Berry, Toby Stephens, Rosamund Pike",
+    "Plot": "James Bond is sent to investigate the connection between a North Korean terrorist and a diamond mogul, who is funding the development of an international space weapon.",
+    "Language": "English, Korean, Cantonese, Spanish, German, Icelandic, Italian, Arabic",
+    "Country": "UK, USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 6 wins & 34 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BODNkYmIwYTMtYzdhNy00YWE3LThkYmEtNzA5ZTE5YmVjYzZlXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "57%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.1",
+    "imdbVotes": "194,019",
+    "imdbID": "tt0246460",
+    "Type": "movie",
+    "DVD": "03 Jun 2003",
+    "BoxOffice": "$160,201,106",
+    "Production": "MGM Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

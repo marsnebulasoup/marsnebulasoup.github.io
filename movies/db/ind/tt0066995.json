@@ -1,0 +1,40 @@
+{
+    "Title": "Diamonds Are Forever",
+    "Year": "1971",
+    "Rated": "GP",
+    "Released": "17 Dec 1971",
+    "Runtime": "120 min",
+    "Genre": "Action, Adventure, Thriller",
+    "Director": "Guy Hamilton",
+    "Writer": "Richard Maibaum (screenplay), Tom Mankiewicz (screenplay)",
+    "Actors": "Sean Connery, Jill St. John, Charles Gray, Lana Wood",
+    "Plot": "A diamond smuggling investigation leads James Bond to Las Vegas, where he uncovers an evil plot involving a rich business tycoon.",
+    "Language": "English, German",
+    "Country": "UK",
+    "Awards": "Nominated for 1 Oscar. Another 2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTM0MDI2MzYzOF5BMl5BanBnXkFtZTcwNDY4NTMzNA@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "59/100"
+        }
+    ],
+    "Metascore": "59",
+    "imdbRating": "6.6",
+    "imdbVotes": "88,044",
+    "imdbID": "tt0066995",
+    "Type": "movie",
+    "DVD": "17 Oct 2000",
+    "BoxOffice": "N/A",
+    "Production": "Twentieth Century Fox Home Entertainment",
+    "Website": "N/A",
+    "Response": "True"
+}

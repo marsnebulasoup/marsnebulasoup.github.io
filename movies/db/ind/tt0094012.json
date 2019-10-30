@@ -1,0 +1,40 @@
+{
+    "Title": "Spaceballs",
+    "Year": "1987",
+    "Rated": "PG",
+    "Released": "24 Jun 1987",
+    "Runtime": "96 min",
+    "Genre": "Adventure, Comedy, Sci-Fi",
+    "Director": "Mel Brooks",
+    "Writer": "Mel Brooks, Thomas Meehan, Ronny Graham",
+    "Actors": "Mel Brooks, John Candy, Rick Moranis, Bill Pullman",
+    "Plot": "A rogue star pilot and his trusty sidekick must come to the rescue of a Princess and save the galaxy from a ruthless race of beings known as Spaceballs.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjVjOGQ0OTctNDhkZC00ZGNiLWI2ZGEtYjZlMWZjOTlkNDlhXkEyXkFqcGdeQXVyNjg1MjEwOTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.1/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "59%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "46/100"
+        }
+    ],
+    "Metascore": "46",
+    "imdbRating": "7.1",
+    "imdbVotes": "161,073",
+    "imdbID": "tt0094012",
+    "Type": "movie",
+    "DVD": "02 May 2000",
+    "BoxOffice": "N/A",
+    "Production": "MGM",
+    "Website": "N/A",
+    "Response": "True"
+}

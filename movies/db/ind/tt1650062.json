@@ -1,0 +1,40 @@
+{
+    "Title": "Super 8",
+    "Year": "2011",
+    "Rated": "PG-13",
+    "Released": "10 Jun 2011",
+    "Runtime": "112 min",
+    "Genre": "Mystery, Sci-Fi, Thriller",
+    "Director": "J.J. Abrams",
+    "Writer": "J.J. Abrams",
+    "Actors": "Joel Courtney, Jessica Tuck, Joel McKinnon Miller, Ryan Lee",
+    "Plot": "During the summer of 1979, a group of friends witness a train crash and investigate subsequent unexplained events in their small town.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "11 wins & 67 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIzNjEyMzcwOF5BMl5BanBnXkFtZTcwMTkyMjE0NQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "81%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "72/100"
+        }
+    ],
+    "Metascore": "72",
+    "imdbRating": "7.0",
+    "imdbVotes": "323,185",
+    "imdbID": "tt1650062",
+    "Type": "movie",
+    "DVD": "22 Nov 2011",
+    "BoxOffice": "$126,975,169",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

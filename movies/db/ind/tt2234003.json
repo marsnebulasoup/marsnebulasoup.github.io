@@ -1,0 +1,40 @@
+{
+    "Title": "Calvary",
+    "Year": "2014",
+    "Rated": "R",
+    "Released": "11 Apr 2014",
+    "Runtime": "102 min",
+    "Genre": "Drama",
+    "Director": "John Michael McDonagh",
+    "Writer": "John Michael McDonagh",
+    "Actors": "Brendan Gleeson, Chris O'Dowd, Kelly Reilly, Aidan Gillen",
+    "Plot": "After he is threatened during a confession, a good-natured priest must battle the dark forces closing in around him.",
+    "Language": "English",
+    "Country": "Ireland, UK",
+    "Awards": "9 wins & 27 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTc3MjQ1MjE2M15BMl5BanBnXkFtZTgwNTMzNjE4MTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.4/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "90%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "77/100"
+        }
+    ],
+    "Metascore": "77",
+    "imdbRating": "7.4",
+    "imdbVotes": "52,911",
+    "imdbID": "tt2234003",
+    "Type": "movie",
+    "DVD": "09 Dec 2014",
+    "BoxOffice": "$5,030,432",
+    "Production": "Fox Searchlight",
+    "Website": "N/A",
+    "Response": "True"
+}

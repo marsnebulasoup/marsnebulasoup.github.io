@@ -1,0 +1,40 @@
+{
+    "Title": "Quick Change",
+    "Year": "1990",
+    "Rated": "R",
+    "Released": "13 Jul 1990",
+    "Runtime": "89 min",
+    "Genre": "Comedy, Crime",
+    "Director": "Howard Franklin, Bill Murray",
+    "Writer": "Jay Cronley (book), Howard Franklin (screenplay)",
+    "Actors": "Bill Murray, Dale Grand, Bob Elliott, Geena Davis",
+    "Plot": "Three thieves successfully rob a New York City bank, but making the escape from the city proves to be almost impossible.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMGVlNzZmNzItNTMxNy00OWJlLTgzNzItZWY5ZGI1MWYxYzNlXkEyXkFqcGdeQXVyMjY3MjUzNDk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "56/100"
+        }
+    ],
+    "Metascore": "56",
+    "imdbRating": "6.8",
+    "imdbVotes": "18,089",
+    "imdbID": "tt0100449",
+    "Type": "movie",
+    "DVD": "30 Aug 2005",
+    "BoxOffice": "N/A",
+    "Production": "Warner Home Video",
+    "Website": "N/A",
+    "Response": "True"
+}

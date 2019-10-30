@@ -1,0 +1,40 @@
+{
+    "Title": "The Show",
+    "Year": "2017",
+    "Rated": "R",
+    "Released": "15 Sep 2017",
+    "Runtime": "104 min",
+    "Genre": "Drama, Game-Show, Thriller",
+    "Director": "Giancarlo Esposito",
+    "Writer": "Noah Pink (screenplay), Kenny Yakkel (screenplay)",
+    "Actors": "Josh Duhamel, Giancarlo Esposito, Famke Janssen, Caitlin FitzGerald",
+    "Plot": "An unsettling look at reality T.V. where a disturbing hit game show has its contestants ending their lives for the public's enjoyment.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2U1MjIwODQtNDgyZi00ZWEwLThmY2ItMmExNjZhNTkxZWExXkEyXkFqcGdeQXVyNDQwMTQ5ODk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "14%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "35/100"
+        }
+    ],
+    "Metascore": "35",
+    "imdbRating": "5.6",
+    "imdbVotes": "3,537",
+    "imdbID": "tt2088950",
+    "Type": "movie",
+    "DVD": "N/A",
+    "BoxOffice": "N/A",
+    "Production": "Dobre Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Ladyhawke",
+    "Year": "1985",
+    "Rated": "PG-13",
+    "Released": "12 Apr 1985",
+    "Runtime": "121 min",
+    "Genre": "Adventure, Comedy, Drama, Fantasy",
+    "Director": "Richard Donner",
+    "Writer": "Edward Khmara (screenplay), Michael Thomas (screenplay), Tom Mankiewicz (screenplay), Edward Khmara (story)",
+    "Actors": "Matthew Broderick, Rutger Hauer, Michelle Pfeiffer, Leo McKern",
+    "Plot": "The thief Gaston escapes dungeon of medieval Aquila thru the latrine. Soldiers are about to kill him when Navarre saves him. Navarre, traveling with his spirited hawk, plans to kill the bishop of Aquila with help from Gaston.",
+    "Language": "English",
+    "Country": "USA, Italy",
+    "Awards": "Nominated for 2 Oscars. Another 5 wins & 5 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BY2ZmZWY0OWYtOWE0Ny00NWVkLWExYzItYTY5NjZhZDM5YjA5XkEyXkFqcGdeQXVyNDUxNjc5NjY@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "64%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "7.0",
+    "imdbVotes": "40,569",
+    "imdbID": "tt0089457",
+    "Type": "movie",
+    "DVD": "30 Oct 1997",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox",
+    "Website": "N/A",
+    "Response": "True"
+}

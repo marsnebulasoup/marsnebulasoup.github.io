@@ -1,0 +1,40 @@
+{
+    "Title": "Barbershop",
+    "Year": "2002",
+    "Rated": "PG-13",
+    "Released": "13 Sep 2002",
+    "Runtime": "102 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Tim Story",
+    "Writer": "Mark Brown (story), Mark Brown (screenplay), Don D. Scott (screenplay), Marshall Todd (screenplay)",
+    "Actors": "Ice Cube, Anthony Anderson, Cedric the Entertainer, Sean Patrick Thomas",
+    "Plot": "A day in the life of a South Side Chicago barbershop.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 17 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTgxNTE0OTEzM15BMl5BanBnXkFtZTYwMjgwNzk2._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "82%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "66/100"
+        }
+    ],
+    "Metascore": "66",
+    "imdbRating": "6.3",
+    "imdbVotes": "28,150",
+    "imdbID": "tt0303714",
+    "Type": "movie",
+    "DVD": "01 Jan 2003",
+    "BoxOffice": "$75,074,950",
+    "Production": "MGM/UA",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Adventureland",
+    "Year": "2009",
+    "Rated": "R",
+    "Released": "03 Apr 2009",
+    "Runtime": "107 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "Greg Mottola",
+    "Writer": "Greg Mottola",
+    "Actors": "Jesse Eisenberg, Kelsey Ledgin, Michael Zegen, Ryan McFarland",
+    "Plot": "In the summer of 1987, a college graduate takes a 'nowhere' job at his local amusement park, only to find it's the perfect course to get him prepared for the real world.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1NTYyMjA2N15BMl5BanBnXkFtZTcwNjU1OTA0Mg@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "88%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "76/100"
+        }
+    ],
+    "Metascore": "76",
+    "imdbRating": "6.8",
+    "imdbVotes": "147,910",
+    "imdbID": "tt1091722",
+    "Type": "movie",
+    "DVD": "25 Aug 2009",
+    "BoxOffice": "$15,900,000",
+    "Production": "Miramax Films",
+    "Website": "N/A",
+    "Response": "True"
+}

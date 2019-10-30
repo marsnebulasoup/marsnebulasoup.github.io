@@ -1,0 +1,40 @@
+{
+    "Title": "Patriot Games",
+    "Year": "1992",
+    "Rated": "R",
+    "Released": "05 Jun 1992",
+    "Runtime": "117 min",
+    "Genre": "Action, Thriller",
+    "Director": "Phillip Noyce",
+    "Writer": "Tom Clancy (novel), W. Peter Iliff (screenplay), Donald E. Stewart (screenplay)",
+    "Actors": "Harrison Ford, Anne Archer, Patrick Bergin, Sean Bean",
+    "Plot": "When CIA analyst Jack Ryan interferes with an IRA assassination, a renegade faction targets him and his family for revenge.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA3OTA0NjI0Nl5BMl5BanBnXkFtZTgwNjUwODQxMTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "72%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "64/100"
+        }
+    ],
+    "Metascore": "64",
+    "imdbRating": "6.9",
+    "imdbVotes": "95,655",
+    "imdbID": "tt0105112",
+    "Type": "movie",
+    "DVD": "15 Dec 1998",
+    "BoxOffice": "N/A",
+    "Production": "Paramount Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

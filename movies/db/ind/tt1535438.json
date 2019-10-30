@@ -1,0 +1,40 @@
+{
+    "Title": "Hope Springs",
+    "Year": "2012",
+    "Rated": "PG-13",
+    "Released": "08 Aug 2012",
+    "Runtime": "100 min",
+    "Genre": "Comedy, Drama, Romance",
+    "Director": "David Frankel",
+    "Writer": "Vanessa Taylor",
+    "Actors": "Meryl Streep, Tommy Lee Jones, Steve Carell, Jean Smart",
+    "Plot": "After thirty years of marriage, a middle-aged couple attends an intense, week-long counseling session to work on their relationship.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "Nominated for 1 Golden Globe. Another 2 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjIxODY2OTg2N15BMl5BanBnXkFtZTcwODAyODg5Nw@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "76%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "65/100"
+        }
+    ],
+    "Metascore": "65",
+    "imdbRating": "6.3",
+    "imdbVotes": "38,991",
+    "imdbID": "tt1535438",
+    "Type": "movie",
+    "DVD": "04 Dec 2012",
+    "BoxOffice": "$63,300,000",
+    "Production": "Sony Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

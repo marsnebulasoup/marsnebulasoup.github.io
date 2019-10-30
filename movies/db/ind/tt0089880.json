@@ -1,0 +1,40 @@
+{
+    "Title": "Rambo: First Blood Part II",
+    "Year": "1985",
+    "Rated": "R",
+    "Released": "22 May 1985",
+    "Runtime": "96 min",
+    "Genre": "Action, Adventure, Thriller, War",
+    "Director": "George P. Cosmatos",
+    "Writer": "David Morrell (based on characters created by), Kevin Jarre (story by), Sylvester Stallone (screenplay by), James Cameron (screenplay by)",
+    "Actors": "Sylvester Stallone, Richard Crenna, Charles Napier, Steven Berkoff",
+    "Plot": "John Rambo is released from prison by the government for a top-secret covert mission to the last place on Earth he'd want to return - the jungles of Vietnam.",
+    "Language": "English, Vietnamese, Russian",
+    "Country": "USA, Mexico",
+    "Awards": "Nominated for 1 Oscar. Another 5 wins & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZWFkY2I1ZDAtNmZhNS00NjVlLWJiMGQtMGQ1ZmM0ZDA5ODg5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "36%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "47/100"
+        }
+    ],
+    "Metascore": "47",
+    "imdbRating": "6.5",
+    "imdbVotes": "142,679",
+    "imdbID": "tt0089880",
+    "Type": "movie",
+    "DVD": "29 Aug 2000",
+    "BoxOffice": "N/A",
+    "Production": "TriStar Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

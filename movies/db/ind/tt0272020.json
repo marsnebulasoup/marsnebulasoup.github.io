@@ -1,0 +1,40 @@
+{
+    "Title": "The Last Castle",
+    "Year": "2001",
+    "Rated": "R",
+    "Released": "19 Oct 2001",
+    "Runtime": "131 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "Rod Lurie",
+    "Writer": "David Scarpa (story), David Scarpa (screenplay), Graham Yost (screenplay)",
+    "Actors": "Robert Redford, James Gandolfini, Mark Ruffalo, Steve Burton",
+    "Plot": "A court-martialed General rallies together twelve hundred inmates to rise against a corrupt and sadistic warden.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win & 4 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMzZlMTllYjMtZmQ0NS00ZGJkLTg1ODItODM2MmViYjlmNzcyXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.0/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "52%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "7.0",
+    "imdbVotes": "66,639",
+    "imdbID": "tt0272020",
+    "Type": "movie",
+    "DVD": "05 Mar 2002",
+    "BoxOffice": "$17,924,798",
+    "Production": "DreamWorks SKG",
+    "Website": "N/A",
+    "Response": "True"
+}

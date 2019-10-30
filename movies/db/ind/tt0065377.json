@@ -1,0 +1,40 @@
+{
+    "Title": "Airport",
+    "Year": "1970",
+    "Rated": "G",
+    "Released": "25 Mar 1970",
+    "Runtime": "137 min",
+    "Genre": "Action, Drama, Thriller",
+    "Director": "George Seaton, Henry Hathaway",
+    "Writer": "Arthur Hailey (from the novel by), George Seaton (written for the screen by)",
+    "Actors": "Burt Lancaster, Dean Martin, Jean Seberg, Jacqueline Bisset",
+    "Plot": "A bomber on board an airplane, an airport almost closed by snow, and various personal problems of the people involved.",
+    "Language": "English, Italian",
+    "Country": "USA",
+    "Awards": "Won 1 Oscar. Another 3 wins & 19 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BOTk5NWJkYjItMjA2MC00NThiLWE4NTctOTFlYjcwOTA1YTM1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "73%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "42/100"
+        }
+    ],
+    "Metascore": "42",
+    "imdbRating": "6.6",
+    "imdbVotes": "16,204",
+    "imdbID": "tt0065377",
+    "Type": "movie",
+    "DVD": "15 Jan 1999",
+    "BoxOffice": "N/A",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "About Time",
+    "Year": "2013",
+    "Rated": "R",
+    "Released": "08 Nov 2013",
+    "Runtime": "123 min",
+    "Genre": "Comedy, Drama, Fantasy, Romance, Sci-Fi",
+    "Director": "Richard Curtis",
+    "Writer": "Richard Curtis",
+    "Actors": "Domhnall Gleeson, Rachel McAdams, Bill Nighy, Lydia Wilson",
+    "Plot": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+    "Language": "English",
+    "Country": "UK",
+    "Awards": "3 wins & 10 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "69%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "55/100"
+        }
+    ],
+    "Metascore": "55",
+    "imdbRating": "7.8",
+    "imdbVotes": "271,507",
+    "imdbID": "tt2194499",
+    "Type": "movie",
+    "DVD": "04 Feb 2014",
+    "BoxOffice": "$18,472,384",
+    "Production": "Universal Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

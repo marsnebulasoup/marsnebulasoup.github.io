@@ -1,0 +1,40 @@
+{
+    "Title": "Anamorph",
+    "Year": "2007",
+    "Rated": "R",
+    "Released": "05 Aug 2008",
+    "Runtime": "107 min",
+    "Genre": "Crime, Horror, Thriller",
+    "Director": "Henry Miller",
+    "Writer": "Henry Miller, Tom Phelan",
+    "Actors": "Willem Dafoe, Scott Speedman, Don Harvey, James Rebhorn",
+    "Plot": "A psychological thriller based on the concept of anamorphosis, a painting technique that manipulates the laws of perspective to create two competing images on a single canvas.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "1 win.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ4MDg3MTI3NF5BMl5BanBnXkFtZTcwMjk0MzQ2MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.5/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "27%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "43/100"
+        }
+    ],
+    "Metascore": "43",
+    "imdbRating": "5.5",
+    "imdbVotes": "8,628",
+    "imdbID": "tt0497323",
+    "Type": "movie",
+    "DVD": "09 Dec 2008",
+    "BoxOffice": "N/A",
+    "Production": "IFC First Take",
+    "Website": "N/A",
+    "Response": "True"
+}

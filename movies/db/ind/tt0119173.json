@@ -1,0 +1,40 @@
+{
+    "Title": "G.I. Jane",
+    "Year": "1997",
+    "Rated": "R",
+    "Released": "22 Aug 1997",
+    "Runtime": "125 min",
+    "Genre": "Action, Drama, War",
+    "Director": "Ridley Scott",
+    "Writer": "Danielle Alexandra (story), David Twohy (screenplay), Danielle Alexandra (screenplay)",
+    "Actors": "Demi Moore, Viggo Mortensen, Anne Bancroft, Jason Beghe",
+    "Plot": "A female Senator succeeds in enrolling a woman into Combined Reconnaissance Team training where everyone expects her to fail.",
+    "Language": "English",
+    "Country": "USA, UK",
+    "Awards": "2 wins & 3 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BYTJhOTY4M2EtNjA2Ny00YjBjLWE4MjItZjRiOTRhMGFjZmU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.9/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "53%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "62/100"
+        }
+    ],
+    "Metascore": "62",
+    "imdbRating": "5.9",
+    "imdbVotes": "69,475",
+    "imdbID": "tt0119173",
+    "Type": "movie",
+    "DVD": "28 Aug 2001",
+    "BoxOffice": "N/A",
+    "Production": "Hollywood Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

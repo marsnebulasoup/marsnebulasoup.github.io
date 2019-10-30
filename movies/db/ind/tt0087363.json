@@ -1,0 +1,40 @@
+{
+    "Title": "Gremlins",
+    "Year": "1984",
+    "Rated": "PG",
+    "Released": "08 Jun 1984",
+    "Runtime": "106 min",
+    "Genre": "Comedy, Fantasy, Horror",
+    "Director": "Joe Dante",
+    "Writer": "Chris Columbus",
+    "Actors": "Hoyt Axton, John Louie, Keye Luke, Don Steele",
+    "Plot": "A boy inadvertently breaks three important rules concerning his new pet and unleashes a horde of malevolently mischievous monsters on a small town.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "7 wins & 6 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZDVjN2FkYTQtNTBlOC00MjM5LTgzMWEtZWRlNGUyYmNiOTFiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "7.3/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "84%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "70/100"
+        }
+    ],
+    "Metascore": "70",
+    "imdbRating": "7.3",
+    "imdbVotes": "180,819",
+    "imdbID": "tt0087363",
+    "Type": "movie",
+    "DVD": "22 Jun 1999",
+    "BoxOffice": "N/A",
+    "Production": "Warner Bros. Pictures",
+    "Website": "N/A",
+    "Response": "True"
+}

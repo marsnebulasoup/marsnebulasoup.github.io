@@ -1,0 +1,40 @@
+{
+    "Title": "Uncle Drew",
+    "Year": "2018",
+    "Rated": "PG-13",
+    "Released": "29 Jun 2018",
+    "Runtime": "103 min",
+    "Genre": "Comedy, Sport",
+    "Director": "Charles Stone III",
+    "Writer": "Jay Longino",
+    "Actors": "Kyrie Irving, Lil Rel Howery, Shaquille O'Neal, Chris Webber",
+    "Plot": "An anti-ageist comedy about a man's dream to win the Rucker Classic street ball tournament in Harlem.",
+    "Language": "English",
+    "Country": "USA",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2MzE0NzQ1Ml5BMl5BanBnXkFtZTgwNzIyNzczNTM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.7/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "61%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "57/100"
+        }
+    ],
+    "Metascore": "57",
+    "imdbRating": "5.7",
+    "imdbVotes": "10,478",
+    "imdbID": "tt7334528",
+    "Type": "movie",
+    "DVD": "11 Sep 2018",
+    "BoxOffice": "N/A",
+    "Production": "Lionsgate",
+    "Website": "N/A",
+    "Response": "True"
+}

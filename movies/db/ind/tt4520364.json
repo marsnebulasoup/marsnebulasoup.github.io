@@ -1,0 +1,40 @@
+{
+    "Title": "Morgan",
+    "Year": "2016",
+    "Rated": "R",
+    "Released": "02 Sep 2016",
+    "Runtime": "92 min",
+    "Genre": "Action, Horror, Sci-Fi, Thriller",
+    "Director": "Luke Scott",
+    "Writer": "Seth W. Owen",
+    "Actors": "Kate Mara, Anya Taylor-Joy, Rose Leslie, Michael Yare",
+    "Plot": "A corporate risk-management consultant must decide whether or not to terminate an artificially created humanoid being.",
+    "Language": "English, Mandarin",
+    "Country": "USA",
+    "Awards": "2 nominations.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMjA1MjYyNDkxN15BMl5BanBnXkFtZTgwMTgxODAwOTE@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "5.8/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "37%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "48/100"
+        }
+    ],
+    "Metascore": "48",
+    "imdbRating": "5.8",
+    "imdbVotes": "36,320",
+    "imdbID": "tt4520364",
+    "Type": "movie",
+    "DVD": "13 Dec 2016",
+    "BoxOffice": "$3,912,052",
+    "Production": "Scott Free Films",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "10 Items or Less",
+    "Year": "2006",
+    "Rated": "R",
+    "Released": "08 Feb 2007",
+    "Runtime": "82 min",
+    "Genre": "Comedy, Drama",
+    "Director": "Brad Silberling",
+    "Writer": "Brad Silberling",
+    "Actors": "Morgan Freeman, Paz Vega, Jonah Hill, Anne Dudek",
+    "Plot": "An actor (Freeman) prepping for an upcoming role meets a quirky grocery clerk (Vega), and the pair hit the road to show one another their respective worlds.",
+    "Language": "English, Spanish",
+    "Country": "USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BMTI1MTU4NjYzMV5BMl5BanBnXkFtZTcwNTg1NzQ0MQ@@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.6/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "63%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "54/100"
+        }
+    ],
+    "Metascore": "54",
+    "imdbRating": "6.6",
+    "imdbVotes": "13,862",
+    "imdbID": "tt0499603",
+    "Type": "movie",
+    "DVD": "27 Apr 2007",
+    "BoxOffice": "$69,265",
+    "Production": "ThinkFilm",
+    "Website": "N/A",
+    "Response": "True"
+}

@@ -1,0 +1,40 @@
+{
+    "Title": "Porky's",
+    "Year": "1981",
+    "Rated": "R",
+    "Released": "19 Mar 1982",
+    "Runtime": "94 min",
+    "Genre": "Comedy",
+    "Director": "Bob Clark",
+    "Writer": "Bob Clark",
+    "Actors": "Dan Monahan, Mark Herrier, Wyatt Knight, Roger Wilson",
+    "Plot": "In 1954, a group of Florida high school students try to help their buddy lose his virginity, which leads them to seeking revenge on a sleazy nightclub owner and his redneck sheriff brother for harassing them.",
+    "Language": "English",
+    "Country": "Canada, USA",
+    "Awards": "1 win & 1 nomination.",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BZTI1MWJhNDgtNDdmNi00ZTI3LTk0NmQtODUyNzMyNmY3Zjk5XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "Ratings": [
+        {
+            "Source": "Internet Movie Database",
+            "Value": "6.2/10"
+        },
+        {
+            "Source": "Rotten Tomatoes",
+            "Value": "33%"
+        },
+        {
+            "Source": "Metacritic",
+            "Value": "40/100"
+        }
+    ],
+    "Metascore": "40",
+    "imdbRating": "6.2",
+    "imdbVotes": "35,710",
+    "imdbID": "tt0084522",
+    "Type": "movie",
+    "DVD": "05 Sep 2000",
+    "BoxOffice": "N/A",
+    "Production": "20th Century Fox Film Corporation",
+    "Website": "N/A",
+    "Response": "True"
+}
