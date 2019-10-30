@@ -47,7 +47,13 @@ function ParseJson(parsed){
 	return parsed;
 }
 
-
+  // {
+	// "Title": "An awesome title",
+	// "Year": "1999",
+	// "Actors": "Georgie Samosa, Frank Furter, Elepha Nt Eyzcream",
+	// "Genre": "Comedy, Stupidity"
+  // }
+  
 async function SearchFor(obj, query) {
   var options = {
 	  shouldSort: true,
@@ -59,7 +65,6 @@ async function SearchFor(obj, query) {
 	  keys: [
 		"Title",
 		"Year",
-		"Director",
 		"Actors",
 		"Genre"
 	  ]
