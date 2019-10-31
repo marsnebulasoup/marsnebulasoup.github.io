@@ -32,10 +32,17 @@ async function LoadZippedFile(){
 		//console.log(text)
 		//localStorage.setItem('basicinfo', text);
 		console.log("Fetched file");
-		alert("Size of sample is: " + json.length);
-		var compressed = LZString.compressToUTF16(json);
-		alert("Size of compressed sample is: " + compressed.length);
-		console.log(compressed)
+		
+		// alert("Size of sample is: " + json.length);
+		// var compressed = LZString.compressToUTF16(json);
+		// alert("Size of compressed sample is: " + compressed.length);
+		// console.log(compressed)
+		
+		JSONH.stringify(json).replace(
+			/\u2028|\u2029/g,
+			function (m) {
+				return "\\u202" + (m === "\u2028" ? "8" : "9");
+			})
 		localStorage.setItem('JSON', json);
 	}, function error(e) {
 		console.log(e)
