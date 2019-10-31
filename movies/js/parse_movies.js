@@ -13,6 +13,24 @@ function LoadFile() {
 	
 }
 
+
+let typingTimer;                //timer identifier
+let doneTypingInterval = 250;  //time in ms (5 seconds)
+let myInput = document.getElementById('real_searchbar');
+
+//on keyup, start the countdown
+myInput.addEventListener('keyup', () => {
+    clearTimeout(typingTimer);
+    if (myInput.value) {
+        typingTimer = setTimeout(doneTyping, doneTypingInterval);
+    }
+});
+
+//user is "finished typing," do something
+function doneTyping () {
+    SearchFor(myInput.value)
+}
+
 async function LoadZippedFile(){
 	var path = "db/1000popularmovies.zip";
 	var filename = "1000popularmovies.json";
@@ -38,11 +56,11 @@ async function LoadZippedFile(){
 		// alert("Size of compressed sample is: " + compressed.length);
 		// console.log(compressed)
 		
-		json = JSONH.stringify(json).replace(
-			/\u2028|\u2029/g,
-			function (m) {
-				return "\\u202" + (m === "\u2028" ? "8" : "9");
-			})
+		// json = JSONH.stringify(json).replace(
+			// /\u2028|\u2029/g,
+			// function (m) {
+				// return "\\u202" + (m === "\u2028" ? "8" : "9");
+			// })
 		localStorage.setItem('JSON', json);
 	}, function error(e) {
 		console.log(e)
