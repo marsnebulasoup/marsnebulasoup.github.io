@@ -28,15 +28,21 @@ async function LoadZippedFile(){
 	.then(function (zip) {
 		return zip.file(filename).async("string"); // 4) chain with the text content promise
 	})
-	.then(function success(text) {                    // 5) display the result
+	.then(function success(json) {                    // 5) display the result
 		//console.log(text)
 		//localStorage.setItem('basicinfo', text);
 		console.log("Fetched file");
-		localStorage.setItem('JSON', text);
+		alert("Size of sample is: " + json.length);
+		var compressed = LZString.compressToUTF16(json);
+		alert("Size of compressed sample is: " + compressed.length);
+		console.log(compressed)
+		localStorage.setItem('JSON', json);
 	}, function error(e) {
 		console.log(e)
 	});
 }
+
+
 
 
 
