@@ -38,7 +38,7 @@ async function LoadZippedFile(){
 		// alert("Size of compressed sample is: " + compressed.length);
 		// console.log(compressed)
 		
-		JSONH.stringify(json).replace(
+		json = JSONH.stringify(json).replace(
 			/\u2028|\u2029/g,
 			function (m) {
 				return "\\u202" + (m === "\u2028" ? "8" : "9");
