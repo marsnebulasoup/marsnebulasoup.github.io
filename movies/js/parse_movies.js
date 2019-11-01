@@ -116,10 +116,7 @@ async function Display(results){
 	rating.innerHTML = ratingHtml;
 	
 	
-	
-	
-	
-	console.log(data);
+	console.log(results);
 }
 
 
