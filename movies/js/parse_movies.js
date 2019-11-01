@@ -14,22 +14,7 @@ function LoadFile() {
 }
 
 
-let typingTimer;                //timer identifier
-let doneTypingInterval = 250;  //time in ms (5 seconds)
-let myInput = document.getElementById('real_searchbar');
 
-//on keyup, start the countdown
-myInput.addEventListener('keyup', () => {
-    clearTimeout(typingTimer);
-    if (myInput.value) {
-        typingTimer = setTimeout(doneTyping, doneTypingInterval);
-    }
-});
-
-//user is "finished typing," do something
-function doneTyping () {
-    SearchFor(myInput.value)
-}
 
 async function LoadZippedFile(){
 	var path = "db/1000popularmovies.zip";
