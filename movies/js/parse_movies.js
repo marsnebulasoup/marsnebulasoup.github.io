@@ -109,6 +109,7 @@ async function Display(results){
 	navbar.innerText = results.length + " results found."
 	if(searchbar.value == ""){
 		navbar.innerText = "0 results found";
+	}
 	poster.src = data.Poster;
 	title.innerText = data.Title;
 	plot.innerText = data.Plot;
