@@ -101,10 +101,14 @@ async function Display(results){
 	var stars = document.getElementById("stars");
 	var reviewinfo = document.getElementById("reviewinfo");
 	var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
+	var searchbar = document.getElementById("real_searchbar");
 	var data = results[0];
 	var middot = ' &middot; ';
 	
+	
 	navbar.innerText = results.length + " results found."
+	if(searchbar.value == ""){
+		navbar.innerText = "0 results found";
 	poster.src = data.Poster;
 	title.innerText = data.Title;
 	plot.innerText = data.Plot;
