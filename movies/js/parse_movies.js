@@ -104,15 +104,15 @@ async function Display(results){
 	var data = results[0];
 	var middot = ' &middot; ';
 	
-	poster.src = data.Poster;
+	//poster.src = data.Poster;
 	title.innerText = data.Title;
-	plot.innerText = data.Plot;
+	//plot.innerText = data.Plot;
 	
-	var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
-	info.innerHTML = infoHtml; //  1992 . 123min . PG
+	//var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
+	//info.innerHTML = infoHtml; //  1992 . 123min . PG
 	
-	var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
-	rating.innerHTML = ratingHtml;
+	//var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
+	//rating.innerHTML = ratingHtml;
 	
 	
 	
