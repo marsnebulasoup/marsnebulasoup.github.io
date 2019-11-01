@@ -100,10 +100,11 @@ async function Display(results){
 	var watchlist = document.getElementById("watchlist");
 	var stars = document.getElementById("stars");
 	var reviewinfo = document.getElementById("reviewinfo");
-	
+	var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
 	var data = results[0];
 	var middot = ' &middot; ';
 	
+	navbar.innerText = results.length + " results found."
 	poster.src = data.Poster;
 	title.innerText = data.Title;
 	plot.innerText = data.Plot;
@@ -113,6 +114,7 @@ async function Display(results){
 	
 	var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
 	rating.innerHTML = ratingHtml;
+	
 	
 	
 	
