@@ -24,23 +24,6 @@
 <script>
 LoadZippedFile();
 
-let typingTimer;                //timer identifier
-let doneTypingInterval = 5000;  //time in ms (5 seconds)
-let myInput = document.getElementById('real_searchbar');
-
-//on keyup, start the countdown
-myInput.addEventListener('keyup', () => {
-    clearTimeout(typingTimer);
-    if (myInput.value) {
-        typingTimer = setTimeout(doneTyping, doneTypingInterval);
-    }
-});
-
-//user is "finished typing," do something
-function doneTyping () {
-	document.getElementById("navbar").innerText = "Searching..."
-    SearchFor(myInput.value)
-}
 </script>
 <body>
     <div class="container">
@@ -311,6 +294,24 @@ function doneTyping () {
 		speedAsDuration: true
 	});
 	//scroll.destroy();
+	
+	let typingTimer;                //timer identifier
+	let doneTypingInterval = 5000;  //time in ms (5 seconds)
+	let myInput = document.getElementById('real_searchbar');
+
+	//on keyup, start the countdown
+	myInput.addEventListener('keyup', () => {
+		clearTimeout(typingTimer);
+		if (myInput.value) {
+			typingTimer = setTimeout(doneTyping, doneTypingInterval);
+		}
+	});
+
+	//user is "finished typing," do something
+	function doneTyping () {
+		document.getElementById("navbar").innerText = "Searching..."
+		SearchFor(myInput.value)
+	}
 </script>
 
 </html>
