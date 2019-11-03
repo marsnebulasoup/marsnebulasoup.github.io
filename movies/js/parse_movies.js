@@ -135,8 +135,8 @@ async function Display(results){
         }
 		return res.json()
 	})
-	.then(json => {
-		console.log(json)
+	.then(data => {
+		console.log(data)
 		poster.src = data.Poster;
 		title.innerText = data.Title;
 		plot.innerText = data.Plot;
