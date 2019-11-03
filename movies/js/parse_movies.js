@@ -147,7 +147,7 @@ async function Display(results){
 		console.log("Error: " + err);
 	})
 	
-	movies = results.splice(0,1);
+	results.splice(0,1);
 	console.log(movies);
 	resultLength = 20;
 	if(results.length < 20) {
@@ -155,7 +155,7 @@ async function Display(results){
 	}
 	
 	for (index = 0; index < resultLength; index++) { 
-		console.log(index + " | " + movies[index].Title);
+		console.log(index + " | " + results[index].Title);
 	} 
 	
 	
