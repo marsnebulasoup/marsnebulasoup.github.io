@@ -147,7 +147,7 @@ async function Display(results){
 		console.log("Error: " + err);
 	})
 	
-	results = results.shift();
+	movies = results.shift();
 	
 	resultLength = 20;
 	if(results.length < 20) {
@@ -155,7 +155,7 @@ async function Display(results){
 	}
 	
 	for (index = 0; index < resultLength; index++) { 
-		console.log(index + " | " + results);
+		console.log(index + " | " + movies[index].Title);
 	} 
 	
 	
