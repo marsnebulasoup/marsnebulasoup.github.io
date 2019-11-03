@@ -154,6 +154,9 @@ async function Display(results){
 		resultLength = results.length 
 	}
 	
+	var pmcount = 0;
+	var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div "childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
+	var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" id="CHILDPOSTER"/></li><li><p class="caption">This Awesome Movie <br><span id="CHILDMOVIEINFO" class="movieinfo"><span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6</span><span id="CHILDGENRES" class="movieinfo"><span>Biography, Documentary</span></span></p></li></div></ul></div></div>';
 	for (index = 0; index < resultLength; index++) { 
 		console.log(index + " | " + results[index].Title);
 	} 
@@ -162,8 +165,42 @@ async function Display(results){
 	console.log(results);
 }
 
+// add new parentMovie every 6th cycle
+// add new childMovie to the childWrapper of CURRENT parentMovie every cycle
+/* 
+<div id="parentMovie" class="tile is-ancestor">
+	<div "childWrapper" class="tile is-parent is-12">
+		
+	</div>	
+</div> 
 
+<div id="parentMovie" class="tile is-ancestor"><div "childWrapper" class="tile is-parent is-12"></div></div>
+---
+<div id="childMovie" class="tile is-child is-2">
+	<div class="smallmovie">
+		<ul>
+			<div class="card">
+				<li>
+					<img class="poster-little" id="CHILDPOSTER" />
+				</li>
+				<li>
+					<p class="caption">
+						This Awesome Movie 
+						<br>
+						<span id="CHILDMOVIEINFO" class="movieinfo">
+								<span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6
+						</span>
+						<span id="CHILDGENRES" class="movieinfo">
+								<span>Biography, Documentary</span>
+						</span>
+					</p>
+				</li>
+			</div>
+		</ul>
 
+	</div>
+</div>
+*/
 
 
 
