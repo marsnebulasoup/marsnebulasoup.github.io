@@ -148,7 +148,7 @@ async function Display(results){
 	})
 	
 	movies = results.shift();
-	
+	console.log(movies);
 	resultLength = 20;
 	if(results.length < 20) {
 		resultLength = results.length 
