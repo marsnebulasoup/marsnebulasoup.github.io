@@ -90,6 +90,18 @@ async function SearchFor(obj, query) {
 	Display(results);
 }
 
+function FetchJSON(imdbID){
+	fetch('db/ind/' + data.imdbID + ".json")       // 1) fetch the url
+	.then(function (response) {                       // 2) filter on 200 OK
+		if (response.status === 200 || response.status === 0) {
+			return response.responseText();
+			
+		} else {
+			return "No connection";
+		}
+	})
+}
+
 async function Display(results){
 	var poster = document.getElementById("poster");
 	var title = document.getElementById("title");
@@ -102,14 +114,16 @@ async function Display(results){
 	var reviewinfo = document.getElementById("reviewinfo");
 	var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
 	var searchbar = document.getElementById("real_searchbar");
+	
 	var data = results[0];
+	
 	var middot = ' &middot; ';
 	
 	
 	navbar.innerText = results.length + " results found."
-	if(searchbar.value == ""){
-		navbar.innerText = "0 results found";
-	}
+	
+	data = JSON.patse(FetchJSON(data.imdbID));
+	
 	poster.src = data.Poster;
 	title.innerText = data.Title;
 	plot.innerText = data.Plot;

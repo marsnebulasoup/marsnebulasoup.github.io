@@ -302,14 +302,18 @@ LoadZippedFile();
 	//on keyup, start the countdown
 	myInput.addEventListener('keyup', () => {
 		clearTimeout(typingTimer);
+		if(myInput.value == ""){
+			myInput.innerText = "0 results found";
+		}
 		if (myInput.value) {
 			typingTimer = setTimeout(doneTyping, doneTypingInterval);
 		}
+		
 	});
 
 	//user is "finished typing," do something
 	function doneTyping () {
-		document.getElementById("navbar").innerText = "Searching..."
+		document.getElementById("navbar").innerText = "Searching...";
 		SearchMovies()
 	}
 </script>
