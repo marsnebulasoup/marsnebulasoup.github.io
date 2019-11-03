@@ -91,7 +91,7 @@ async function SearchFor(obj, query) {
 }
 
 function FetchJSON(imdbID){
-	fetch('db/ind/' + data.imdbID + ".json")       // 1) fetch the url
+	fetch('db/ind/' + imdbID + ".json")       // 1) fetch the url
 	.then(function (response) {                       // 2) filter on 200 OK
 		if (response.status === 200 || response.status === 0) {
 			return response.responseText();
