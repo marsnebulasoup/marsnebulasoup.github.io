@@ -147,7 +147,7 @@ async function Display(results){
 		console.log("Error: " + err);
 	})
 	
-	movies = results.shift();
+	movies = results.splice(0,1);
 	console.log(movies);
 	resultLength = 20;
 	if(results.length < 20) {
