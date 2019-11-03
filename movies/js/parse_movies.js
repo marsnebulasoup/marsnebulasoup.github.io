@@ -155,7 +155,7 @@ async function Display(results){
 	}
 	
 	for (index = 0; index < resultLength; index++) { 
-		console.log(index + " | " + results[index].Title);
+		console.log(index + " | " + results[index]);
 	} 
 	
 	
