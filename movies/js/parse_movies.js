@@ -91,21 +91,19 @@ async function SearchFor(obj, query) {
 }
 
 function FetchJSON(imdbID){
-	let json;
-	fetch('db/ind/' + imdbID + ".json")       // 1) fetch the url
+	return fetch('db/ind/' + imdbID + ".json")       // 1) fetch the url
 		.then(response => {
 			if (!response.ok) {
                 throw new Error("Failed with HTTP code " + response.status);
             }
-			return response;
+			return response.json;
 		})
-		.then(data => {
-			json = data.json;
-		})
+		// .then(data => {
+			// json = data.json;
+		// })
 		.catch(err => {
 			console.log("Error: " + err);
 		})
-	return json;
 }
 
 async function Display(results){
