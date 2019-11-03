@@ -128,7 +128,7 @@ async function Display(results){
 	
 	navbar.innerText = results.length + " results found."
 	
-	data = JSON.patse(FetchJSON(data.imdbID));
+	data = FetchJSON(data.imdbID)
 	
 	poster.src = data.Poster;
 	title.innerText = data.Title;
