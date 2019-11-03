@@ -128,7 +128,7 @@ async function Display(results){
 	
 	navbar.innerText = results.length + " results found."
 	
-	fetch('db/ind/' + imdbID + ".json")
+	fetch('db/ind/' + data.imdbID + ".json")
 	.then(res => {
 		if (!response.ok) {
                 throw new Error("Failed with HTTP code " + response.status);
