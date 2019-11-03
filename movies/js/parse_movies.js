@@ -130,7 +130,7 @@ async function Display(results){
 	
 	fetch('db/ind/' + data.imdbID + ".json")
 	.then(res => {
-		if (!response.ok) {
+		if (!res.ok) {
                 throw new Error("Failed with HTTP code " + response.status);
         }
 		return res.json()
