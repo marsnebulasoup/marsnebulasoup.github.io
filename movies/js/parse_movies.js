@@ -128,19 +128,29 @@ async function Display(results){
 	
 	navbar.innerText = results.length + " results found."
 	
-	data = FetchJSON(data.imdbID).then(result => {
-		console.log(result)
+	fetch('db/ind/' + imdbID + ".json")
+	.then(res => {
+		if (!response.ok) {
+                throw new Error("Failed with HTTP code " + response.status);
+        }
+		return res.json()
+	})
+	.then(json => {
+		console.log(json)
+		poster.src = data.Poster;
+		title.innerText = data.Title;
+		plot.innerText = data.Plot;
+		
+		var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
+		info.innerHTML = infoHtml; //  1992 . 123min . PG
+		
+		var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
+		rating.innerHTML = ratingHtml;
+	})
+	.catch(err => {
+		console.log("Error: " + err);
 	})
 	
-	poster.src = data.Poster;
-	title.innerText = data.Title;
-	plot.innerText = data.Plot;
-	
-	var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
-	info.innerHTML = infoHtml; //  1992 . 123min . PG
-	
-	var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
-	rating.innerHTML = ratingHtml;
 	
 	
 	console.log(results);
