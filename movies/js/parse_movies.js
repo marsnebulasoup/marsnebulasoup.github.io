@@ -121,14 +121,10 @@ async function Display(results){
 	var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
 	var searchbar = document.getElementById("real_searchbar");
 	
-	var data = results[0];
-	
-	var middot = ' &middot; ';
-	
-	
+	var middot = ' &middot; ';	
 	navbar.innerText = results.length + " results found."
 	
-	fetch('db/ind/' + data.imdbID + ".json")
+	fetch('db/ind/' + results[0].imdbID + ".json")
 	.then(res => {
 		if (!res.ok) {
                 throw new Error("Failed with HTTP code " + response.status);
@@ -151,10 +147,19 @@ async function Display(results){
 		console.log("Error: " + err);
 	})
 	
+	results = results.shift();
+	
+	resultLength = 20;
+	if results.length < 20 { resultLength = results.length }
+	
+	for (index = 0; index < resultLength; index++) { 
+		console.log(index + " | " + results[index].Title)
+	} 
 	
 	
 	console.log(results);
 }
+
 
 
 
