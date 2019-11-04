@@ -17,12 +17,13 @@
 	<script language="javascript" src="js/lz-string/lz-string.min.js"></script>
 	<script type="text/javascript" src="js/jsonh/jsonh.js"></script>
 
-	<!-- <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script> -->
+	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 
 
 </head>
 <script>
 LoadZippedFile();
+
 
 </script>
 <body>
@@ -68,30 +69,30 @@ LoadZippedFile();
                             </p>
                         </div>
                         <div class="column is-10">
-                            <p id="navbar">Buttons go here... -------------------------------------------------------------------------------------------------------------------------------------------------------------------- ... thats right</p>
+                            <p id="navbar">{{navbar}}</p>
                         </div>
                         <div class="column is-10">
                             <div class="tile is-ancestor">
                                 <div id="bigmovie" class="tile is-12 bigmovie">
 
                                     <div class="col" style="width:18%;">
-                                        <img id="poster" class="poster" src="images/unknown.png" />
+                                        <img id="poster" class="poster" v-bind:src="poster" />
                                     </div>
                                     <div class="col" style="width: 60%">
                                         <div class="outer-container">
                                             <div class="top-section">
-                                                <p id="title" style="font-size: 2em;">An Amazing Movie III</p>
+                                                <p id="title" style="font-size: 2em;">{{title}}</p>
 
                                                 <p id="plot" style="padding-top:20px;font-size: 1.25em;">
-													A gripping plot, for an amazing movie.
+													{{plot}}
                                                 </p>
                                             </div>
                                             <div class="bottom-section">
                                                 <div class="bottom-aligner"></div>
                                                 <div class="bottom-content">
                                                     <div>
-                                                        <p id="info" class="movieinfo" style="font-size: 1.1em">1998 &middot; 1hr 27min &middot; <span class="boxed">PG</span> </p>
-                                                        <p id="rating" class="movieinfo break" style="font-size: 1.1em;">IMDb 7.6 &middot; Biography, Crime, Drama, History, Western</p>
+                                                        <p id="info" class="movieinfo" style="font-size: 1.1em">{{year}} &middot; {{runtime}} &middot; <span class="boxed">{{age}}</span> </p>
+                                                        <p id="rating" class="movieinfo break" style="font-size: 1.1em;">IMDb {{rating}} &middot; {{genres}}</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -260,6 +261,20 @@ LoadZippedFile();
 </body>
 
 <script>
+	var bigmovie = new Vue({
+		el: "#bigmovie",
+		data: {
+			title: "",
+			poster: "https://m.media-amazon.com/images/M/MV5BMzhmMWY5YzYtNGU0OS00OWExLWE4MTEtZjdmZTczNGEwNjhmXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+			plot: "",
+			year: "",
+			runtime: "",
+			age: "",
+			rating: "",
+			genres: ""
+		}
+	})
+
 	var scroll = new SmoothScroll('a[href*="#"]', {
 		speed: 700,
 		speedAsDuration: true

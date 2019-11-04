@@ -109,20 +109,20 @@ function FetchJSON(imdbID){
 }
 
 async function Display(results){
-	var poster = document.getElementById("poster");
-	var title = document.getElementById("title");
-	var plot = document.getElementById("plot");
-	var info = document.getElementById("info");
-	var rating = document.getElementById("rating");
-	var trailer = document.getElementById("trailer");
-	var watchlist = document.getElementById("watchlist");
-	var stars = document.getElementById("stars");
-	var reviewinfo = document.getElementById("reviewinfo");
-	var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
-	var searchbar = document.getElementById("real_searchbar");
+	// var poster = document.getElementById("poster");
+	// var title = document.getElementById("title");
+	// var plot = document.getElementById("plot");
+	// var info = document.getElementById("info");
+	// var rating = document.getElementById("rating");
+	// var trailer = document.getElementById("trailer");
+	// var watchlist = document.getElementById("watchlist");
+	// var stars = document.getElementById("stars");
+	// var reviewinfo = document.getElementById("reviewinfo");
+	// var navbar = document.getElementById("navbar"); //#navbar is the column above the movietitle, but below the searchbar. It says Buttons go here--------...-----thats right
+	// var searchbar = document.getElementById("real_searchbar");
 	
 	var middot = ' &middot; ';	
-	navbar.innerText = results.length + " results found."
+	bigmovie.navbar = results.length + " results found."
 	
 	fetch('db/ind/' + results[0].imdbID + ".json")
 	.then(res => {
@@ -133,15 +133,19 @@ async function Display(results){
 	})
 	.then(data => {
 		//console.log(data)
-		poster.src = data.Poster;
-		title.innerText = data.Title;
-		plot.innerText = data.Plot;
+		bigmovie.poster = data.Poster;
+		bigmovie.title = data.Title;
+		bigmovie.plot = data.Plot;
+		bigmovie.year = data.Year;
+		bigmovie.runtime = data.runtime;
+		bigmovie.rated = data.imdbRating;
+		bigmovie.age = data.Rated;
 		
-		var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
-		info.innerHTML = infoHtml; //  1992 . 123min . PG
+		// var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
+		// info.innerHTML = infoHtml; //  1992 . 123min . PG
 		
-		var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
-		rating.innerHTML = ratingHtml;
+		// var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
+		// rating.innerHTML = ratingHtml;
 	})
 	.catch(err => {
 		console.log("Error: " + err);
