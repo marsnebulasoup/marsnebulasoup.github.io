@@ -174,7 +174,7 @@ async function Display(results){
 					smallMovieContainer.innerHTML += parentMovieHTML;
 					pmcount++;
 				}
-				console.log("Got data " + smallMovieContainer)
+				console.log("Got data " + switchCount)
 				var imgurl = data.Poster;
 				var title = data.Title;
 				var agerating = data.Rated;
