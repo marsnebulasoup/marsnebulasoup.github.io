@@ -178,7 +178,7 @@ async function Display(results){
 				var title = data.Title;
 				var agerating = data.Rated;
 				var released = data.Year;
-				var imdbRating = data.imdbRating;
+				var imdbrating = data.imdbRating;
 				var genres = data.Genre.replace(" ", "&nbsp;").split(",");
 				genres.length = 2;
 				genres.toString();
