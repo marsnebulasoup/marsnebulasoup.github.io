@@ -159,7 +159,7 @@ async function Display(results){
 	smallMovieContainer.innerHTML = "";
 
 	var data;
-	for(index = 0; index < resultLength; index++;){
+	for(index = 0; index < resultLength; index++){
 		fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
