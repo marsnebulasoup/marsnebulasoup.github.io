@@ -164,9 +164,7 @@ async function Display(results){
 			smallMovieContainer.innerHTML += parentMovieHTML;
 			pmcount++;
 		}
-		var currentMovie = results[index];
 		
-
 		fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
@@ -181,24 +179,21 @@ async function Display(results){
 				var agerating = data.Rated;
 				var released = data.Year;
 				var imdbRating = data.imdbRating;
-				var genres = data.Genre.split(", ").length = 2;
+				var genres = data.Genre.replace(" ", "&nbsp;").split(",");
+				genres.length = 2;
 				genres.toString();
 				
-
-				var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
-				info.innerHTML = infoHtml; //  1992 . 123min . PG
+				var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
 				
-				var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
-				rating.innerHTML = ratingHtml;
+				var currentParent = document.getElementById("parentMovie" + pmcount);
+				currentParent.innerHTML += childMovie;
 			})
 			.catch(err => {
 				console.log("Error: " + err);
 			})
 
-		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
 
-		var currentParent = document.getElementById("parentMovie" + pmcount);
-		currentParent.innerHTML += 
+		
 	} 
 	
 	//CHILDPOSTER
