@@ -169,11 +169,16 @@ async function Display(results){
 			})
 			.then(data => {
 				var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
-				if(switchCount % 6 == 0){
-					console.log("Adding new Parent " + switchCount);
-					smallMovieContainer.innerHTML += parentMovieHTML;
-					pmcount = pmcount + 1;
-				}
+				// if(switchCount % 6 == 0){
+				// 	console.log("Adding new Parent " + switchCount);
+				// 	smallMovieContainer.innerHTML += parentMovieHTML;
+				// 	pmcount = pmcount + 1;
+				// }
+
+				console.log("Adding new Parent " + switchCount);
+				smallMovieContainer.innerHTML += parentMovieHTML;
+				pmcount = pmcount + 1;
+
 				console.log("Got data " + switchCount)
 				var imgurl = data.Poster;
 				var title = data.Title;
