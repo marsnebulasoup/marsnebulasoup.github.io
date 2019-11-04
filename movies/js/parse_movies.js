@@ -160,7 +160,7 @@ async function Display(results){
 
 	var data;
 	for(index = 0; index < resultLength; index++){
-		var item = await fetch('db/ind/' + results[index].imdbID + ".json")
+		var json = await fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
 						throw new Error("Failed with HTTP code " + response.status);
