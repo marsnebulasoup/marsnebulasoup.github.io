@@ -171,6 +171,9 @@ async function Display(results){
 
 		
 		var imgurl = data.Poster;
+		if(imgurl == "N/A"){
+			imgurl = "images/unknown.png"
+		}
 		var title = data.Title;
 		var agerating = data.Rated;
 		var released = data.Year;
