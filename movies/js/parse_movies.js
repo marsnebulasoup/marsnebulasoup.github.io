@@ -162,6 +162,7 @@ async function Display(results){
 		//console.log(index + " | " + results[index].Title);
 		var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
 		if(switchCount % 6 == 0){
+			console.log("Adding new Parent " + switchCount);
 			smallMovieContainer.innerHTML += parentMovieHTML;
 			pmcount++;
 		}
@@ -174,7 +175,7 @@ async function Display(results){
 				return res.json()
 			})
 			.then(data => {
-				console.log(data)
+				console.log("Got data " + smallMovieContainer)
 				var imgurl = data.Poster;
 				var title = data.Title;
 				var agerating = data.Rated;
@@ -190,9 +191,9 @@ async function Display(results){
 				currentParent.innerHTML += childMovie;
 				switchCount ++;
 			})
-			.catch(err => {
-				console.log("Error: " + err);
-			})
+			// .catch(err => {
+			// 	console.log("Error: " + err);
+			// })
 
 
 		
