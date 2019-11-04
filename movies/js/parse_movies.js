@@ -172,7 +172,7 @@ async function Display(results){
 				if(switchCount % 6 == 0){
 					console.log("Adding new Parent " + switchCount);
 					smallMovieContainer.innerHTML += parentMovieHTML;
-					pmcount++;
+					pmcount = pmcount + 1;
 				}
 				console.log("Got data " + switchCount)
 				var imgurl = data.Poster;
@@ -188,7 +188,7 @@ async function Display(results){
 				
 				var currentParent = document.getElementById("childWrapper" + pmcount);
 				currentParent.innerHTML += childMovie;
-				switchCount ++;
+				switchCount = switchCount + 1;
 			})
 			// .catch(err => {
 			// 	console.log("Error: " + err);
