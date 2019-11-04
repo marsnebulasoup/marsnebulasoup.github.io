@@ -148,7 +148,6 @@ async function Display(results){
 	})
 	
 	results.splice(0,1);
-	console.log(results);
 	resultLength = 20;
 	if(results.length < 20) {
 		resultLength = results.length 
