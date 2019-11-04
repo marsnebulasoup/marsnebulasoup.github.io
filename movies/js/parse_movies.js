@@ -171,10 +171,11 @@ async function Display(results){
 			})
 
 		console.log("index: " +index);
-		var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
 		if(switchCount % 6 == 0){
+			var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
 			console.log("Adding new Parent " + switchCount);
-			smallMovieContainer.innerHTML += parentMovieHTML;
+
+			smallMovieContainer.insertAdjacentHTML(parentMovieHTML);
 			pmcount = pmcount + 1;
 		}
 		
