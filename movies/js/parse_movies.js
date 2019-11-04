@@ -132,7 +132,7 @@ async function Display(results){
 		return res.json()
 	})
 	.then(data => {
-		console.log(data)
+		//console.log(data)
 		poster.src = data.Poster;
 		title.innerText = data.Title;
 		plot.innerText = data.Plot;
@@ -160,20 +160,18 @@ async function Display(results){
 
 	var data;
 	for(index = 0; index < resultLength; index++){
-		fetch('db/ind/' + results[index].imdbID + ".json")
+		var item = await fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
 						throw new Error("Failed with HTTP code " + response.status);
 				}
 				return res.json()
 			})
-			.then(json => {
-				data += json;
-				console.log(json);
-			})
 			.catch(err => {
 				console.log("Error: " + err);
 			})
+		data += json;
+		console.log(json);
 	}
 	console.log(data);
 	for (index = 0; index < resultLength; index++) { 
