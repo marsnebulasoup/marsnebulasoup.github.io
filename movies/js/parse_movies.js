@@ -181,8 +181,7 @@ async function Display(results){
 		
 		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
 		
-		var currentParent = document.getElementById("childWrapper" + pmcount);
-		currentParent.insertAdjacentHTML('beforeend', childMovie);
+		smallMovieContainer.insertAdjacentHTML('beforeend', childMovie);
 		switchCount = switchCount + 1;
 	}
 	
