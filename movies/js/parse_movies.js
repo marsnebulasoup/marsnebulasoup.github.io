@@ -153,9 +153,8 @@ async function Display(results){
 		resultLength = results.length 
 	}
 	
-	var pmcount = 0;
 	var switchCount = 0;
-	var smallMovieContainer = document.getElementById("therest");
+	var smallMovieContainer = document.getElementById("parentMovie");
 	smallMovieContainer.innerHTML = "";
 
 	for(index = 0; index < resultLength; index++){
@@ -170,16 +169,7 @@ async function Display(results){
 				console.log("Error: " + err);
 			})
 
-		console.log("index: " +index);
-		if(switchCount % 6 == 0){
-			var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
-			console.log("Adding new Parent " + switchCount);
-
-			smallMovieContainer.insertAdjacentHTML(parentMovieHTML);
-			pmcount = pmcount + 1;
-		}
 		
-		console.log("Got data " + switchCount)
 		var imgurl = data.Poster;
 		var title = data.Title;
 		var agerating = data.Rated;
@@ -192,7 +182,7 @@ async function Display(results){
 		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
 		
 		var currentParent = document.getElementById("childWrapper" + pmcount);
-		currentParent.innerHTML += childMovie;
+		currentParent.insertAdjacentHTML('beforeend', childMovie);
 		switchCount = switchCount + 1;
 	}
 	
