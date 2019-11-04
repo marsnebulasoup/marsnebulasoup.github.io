@@ -158,9 +158,8 @@ async function Display(results){
 	var smallMovieContainer = document.getElementById("therest");
 	smallMovieContainer.innerHTML = "";
 
-	var data;
 	for(index = 0; index < resultLength; index++){
-		var json = await fetch('db/ind/' + results[index].imdbID + ".json")
+		var data = await fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
 						throw new Error("Failed with HTTP code " + response.status);
@@ -170,12 +169,7 @@ async function Display(results){
 			.catch(err => {
 				console.log("Error: " + err);
 			})
-		data += json;
-		console.log(json.Title);
-	}
-	console.log(data);
-	for (index = 0; index < resultLength; index++) { 
-		//console.log(index + " | " + results[index].Title);
+
 		console.log("index: " +index);
 		var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
 		if(switchCount % 6 == 0){
@@ -199,8 +193,8 @@ async function Display(results){
 		var currentParent = document.getElementById("childWrapper" + pmcount);
 		currentParent.innerHTML += childMovie;
 		switchCount = switchCount + 1;
-		
-	} 
+	}
+	
 	
 	//CHILDPOSTER
 	//CHILDMOVIEINFO
