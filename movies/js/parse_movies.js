@@ -169,11 +169,13 @@ async function Display(results){
 			})
 			.then(json => {
 				data += json;
+				console.log(json);
 			})
 			.catch(err => {
 				console.log("Error: " + err);
 			})
 	}
+	console.log(data);
 	for (index = 0; index < resultLength; index++) { 
 		//console.log(index + " | " + results[index].Title);
 		console.log("index: " +index);
