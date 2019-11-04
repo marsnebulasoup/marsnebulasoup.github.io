@@ -155,13 +155,55 @@ async function Display(results){
 	}
 	
 	var pmcount = 0;
-	var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div "childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
-	var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" id="CHILDPOSTER"/></li><li><p class="caption">This Awesome Movie <br><span id="CHILDMOVIEINFO" class="movieinfo"><span class="boxed">PG</span> &middot; 1998 &middot; IMDb 7.6</span><span id="CHILDGENRES" class="movieinfo"><span>Biography, Documentary</span></span></p></li></div></ul></div></div>';
+	var switchCount = 0;
+	var smallMovieContainer = document.getElementById("therest");
 	for (index = 0; index < resultLength; index++) { 
-		console.log(index + " | " + results[index].Title);
+		//console.log(index + " | " + results[index].Title);
+		var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div "childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
+		if(switchCount % 6 == 0){
+			smallMovieContainer.innerHTML += parentMovieHTML;
+			pmcount++;
+		}
+		var currentMovie = results[index];
+		
+
+		fetch('db/ind/' + results[index].imdbID + ".json")
+			.then(res => {
+				if (!res.ok) {
+						throw new Error("Failed with HTTP code " + response.status);
+				}
+				return res.json()
+			})
+			.then(data => {
+				console.log(data)
+				var imgurl = data.Poster;
+				var title = data.Title;
+				var agerating = data.Rated;
+				var released = data.Year;
+				var imdbRating = data.imdbRating;
+				var genres = data.Genre.split(", ").length = 2;
+				genres.toString();
+				
+
+				var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
+				info.innerHTML = infoHtml; //  1992 . 123min . PG
+				
+				var ratingHtml = 'IMDb ' + data.imdbRating + middot + data.Genre;
+				rating.innerHTML = ratingHtml;
+			})
+			.catch(err => {
+				console.log("Error: " + err);
+			})
+
+		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
+
+		var currentParent = document.getElementById("parentMovie" + pmcount);
+		currentParent.innerHTML += 
 	} 
 	
-	
+	//CHILDPOSTER
+	//CHILDMOVIEINFO
+	//CHILDGENRES
 	console.log(results);
 }
 
