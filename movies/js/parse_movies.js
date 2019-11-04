@@ -171,7 +171,7 @@ async function Display(results){
 				console.log("Error: " + err);
 			})
 		data += json;
-		console.log(json);
+		console.log(json.Title);
 	}
 	console.log(data);
 	for (index = 0; index < resultLength; index++) { 
