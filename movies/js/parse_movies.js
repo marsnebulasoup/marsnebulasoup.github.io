@@ -137,9 +137,10 @@ async function Display(results){
 		bigmovie.title = data.Title;
 		bigmovie.plot = data.Plot;
 		bigmovie.year = data.Year;
-		bigmovie.runtime = data.runtime;
+		bigmovie.runtime = data.Runtime;
 		bigmovie.rated = data.imdbRating;
 		bigmovie.age = data.Rated;
+		bigmovie.genres = data.Genre;
 		
 		// var infoHtml = data.Year + middot + data.Runtime + middot + '<span class="boxed">' + data.Rated + '</span>';
 		// info.innerHTML = infoHtml; //  1992 . 123min . PG
