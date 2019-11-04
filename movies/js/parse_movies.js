@@ -188,6 +188,7 @@ async function Display(results){
 				
 				var currentParent = document.getElementById("childWrapper" + pmcount);
 				currentParent.innerHTML += childMovie;
+				switchCount ++;
 			})
 			.catch(err => {
 				console.log("Error: " + err);
