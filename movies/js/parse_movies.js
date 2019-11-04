@@ -157,9 +157,9 @@ async function Display(results){
 	var switchCount = 0;
 	var smallMovieContainer = document.getElementById("therest");
 	smallMovieContainer.innerHTML = "";
-	for (index = 0; index < resultLength; index++) { 
-		//console.log(index + " | " + results[index].Title);
-		
+
+	var data;
+	for(index = 0; index < resultLength; index++;){
 		fetch('db/ind/' + results[index].imdbID + ".json")
 			.then(res => {
 				if (!res.ok) {
@@ -167,39 +167,38 @@ async function Display(results){
 				}
 				return res.json()
 			})
-			.then(data => {
-				var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
-				// if(switchCount % 6 == 0){
-				// 	console.log("Adding new Parent " + switchCount);
-				// 	smallMovieContainer.innerHTML += parentMovieHTML;
-				// 	pmcount = pmcount + 1;
-				// }
-
-				console.log("Adding new Parent " + switchCount);
-				smallMovieContainer.innerHTML += parentMovieHTML;
-				pmcount = pmcount + 1;
-
-				console.log("Got data " + switchCount)
-				var imgurl = data.Poster;
-				var title = data.Title;
-				var agerating = data.Rated;
-				var released = data.Year;
-				var imdbrating = data.imdbRating;
-				var genres = data.Genre.replace(" ", "&nbsp;").split(",");
-				genres.length = 2;
-				genres.toString();
-				
-				var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
-				
-				var currentParent = document.getElementById("childWrapper" + pmcount);
-				currentParent.innerHTML += childMovie;
-				switchCount = switchCount + 1;
+			.then(json => {
+				data += json;
 			})
-			// .catch(err => {
-			// 	console.log("Error: " + err);
-			// })
-
-
+			.catch(err => {
+				console.log("Error: " + err);
+			})
+	}
+	for (index = 0; index < resultLength; index++) { 
+		//console.log(index + " | " + results[index].Title);
+		console.log("index: " +index);
+		var parentMovieHTML = '<div id="parentMovie' + pmcount + '" class="tile is-ancestor"><div id="childWrapper' + pmcount + '" class="tile is-parent is-12"></div></div>';
+		if(switchCount % 6 == 0){
+			console.log("Adding new Parent " + switchCount);
+			smallMovieContainer.innerHTML += parentMovieHTML;
+			pmcount = pmcount + 1;
+		}
+		
+		console.log("Got data " + switchCount)
+		var imgurl = data.Poster;
+		var title = data.Title;
+		var agerating = data.Rated;
+		var released = data.Year;
+		var imdbrating = data.imdbRating;
+		var genres = data.Genre.replace(" ", "&nbsp;").split(",");
+		genres.length = 2;
+		genres.toString();
+		
+		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><img class="poster-little" src="' + imgurl + '" /></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot; IMDb ' + imdbrating + '</span><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
+		
+		var currentParent = document.getElementById("childWrapper" + pmcount);
+		currentParent.innerHTML += childMovie;
+		switchCount = switchCount + 1;
 		
 	} 
 	
