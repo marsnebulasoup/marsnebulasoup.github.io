@@ -4,7 +4,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link href="css/bulma.css" rel="stylesheet">
+	<!-- <link href="css/bulma.css" rel="stylesheet"> -->
+	<link href="css/bulma_custom/css/mystyles.css" rel="stylesheet">
     <link href="css/styles.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:300&display=swap" rel="stylesheet">
     <script src="js/ui.js"></script>
@@ -27,7 +28,7 @@ LoadZippedFile();
 
 </script>
 <body>
-    <div class="container">
+    <div class="container is-fluid">
         <div style="padding-top:5%" class="level">
             <div class="level-left" id="type_erase">
                 <!-- !!! DO NOT DELETE THIS IS THE TYPING AND ERASING THING !!! IT MOVED TO js/ui.js !!! -->
@@ -205,7 +206,7 @@ LoadZippedFile();
 			</div>
 			<div class="column is-9">
 				<div class="buttons ">
-					<button class="button is-static is-rounded" style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)"><p title="Click for more info">Genre</p></button>
+					<button class="button is-static is-rounded is-primary" style="font-family: Montserrat; border: none; color: white; "><p title="Click for more info">Genre</p></button>
 					<button id="3" onclick="SelectButtons('3');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Action</p></button>
 					<button id="4" onclick="SelectButtons('4');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adult</p></button>
 					<button id="5" onclick="SelectButtons('5');" class="button is-hovered is-rounded is-outlined mod"><p style="font-family: Montserrat;">Adventure</p></button>

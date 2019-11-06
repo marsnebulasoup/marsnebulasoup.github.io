@@ -6,7 +6,7 @@ html {
     background-attachment: fixed;
     /* background: linear-gradient(#09063d, #090979, #00d4ff); */
 	background: rgb(9,6,61);
-	background: linear-gradient(180deg, rgba(9,6,61,1) 20%, rgba(9,9,121,1) 61%, rgba(9,37,157,1) 90%);	
+	background: linear-gradient(180deg, rgba(9,6,61,1) 20%, rgba(9,9,121,1) 61%, rgba(15,90,198, 1) 90%);	
 }
 
 #type_erase, #searchbar {
