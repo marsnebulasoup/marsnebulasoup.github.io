@@ -76,7 +76,7 @@ LoadZippedFile();
                             <div class="tile is-ancestor">
                                 <div id="bigmovie" class="tile is-12 bigmovie">
 
-                                    <div class="col" style="width:18%;">
+                                    <div class="col" style="width:18%; height:20em;">
                                         <img id="poster" class="poster" v-bind:src="poster" />
                                     </div>
                                     <div class="col" style="width: 60%">
@@ -276,6 +276,13 @@ LoadZippedFile();
 		}
 	})
 
+	var navbar = new Vue({
+		el: "navbar",
+		data:{
+			navbar: ""
+		}
+	})
+
 	var scroll = new SmoothScroll('a[href*="#"]', {
 		speed: 700,
 		speedAsDuration: true
@@ -300,7 +307,7 @@ LoadZippedFile();
 
 	//user is "finished typing," do something
 	function doneTyping () {
-		document.getElementById("navbar").innerText = "Searching...";
+		navbar.navbar = "Searching...";
 		SearchMovies()
 	}
 </script>
