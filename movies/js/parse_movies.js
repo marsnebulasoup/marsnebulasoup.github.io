@@ -138,7 +138,7 @@ async function Display(results){
 		bigmovie.plot = data.Plot;
 		bigmovie.year = data.Year;
 		bigmovie.runtime = data.Runtime;
-		bigmovie.rated = data.imdbRating;
+		bigmovie.rating = data.imdbRating;
 		bigmovie.age = data.Rated;
 		bigmovie.genres = data.Genre;
 		
