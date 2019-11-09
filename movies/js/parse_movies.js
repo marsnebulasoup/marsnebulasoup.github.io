@@ -109,8 +109,8 @@ function FetchJSON(imdbID){
 }
 
 async function Display(results){
-	bigmovie.currentmovieid = results[0].imdbID;
-	navbar.navbar = results.length + " results found."
+	overlay.currentmovieid = results[0].imdbID;
+	overlay.navbar = results.length + " results found."
 	
 	fetch('db/ind/' + results[0].imdbID + ".json")
 		.then(res => {
@@ -120,14 +120,14 @@ async function Display(results){
 			return res.json()
 		})
 		.then(data => {
-			bigmovie.poster = data.Poster;
-			bigmovie.title = data.Title;
-			bigmovie.plot = data.Plot;
-			bigmovie.year = data.Year;
-			bigmovie.runtime = data.Runtime;
-			bigmovie.rating = data.imdbRating;
-			bigmovie.age = data.Rated;
-			bigmovie.genres = data.Genre;
+			overlay.poster = data.Poster;
+			overlay.title = data.Title;
+			overlay.plot = data.Plot;
+			overlay.year = data.Year;
+			overlay.runtime = data.Runtime;
+			overlay.rating = data.imdbRating;
+			overlay.age = data.Rated;
+			overlay.genres = data.Genre;
 		})
 		.catch(err => {
 			console.log("Error: " + err);

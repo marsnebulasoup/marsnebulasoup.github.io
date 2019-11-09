@@ -56,7 +56,7 @@ LoadZippedFile();
                 </p>
 
                 <div id="overlay-search">
-                    <div class="close-overlay-button">
+                    <div v-show="displaytrailer == false" class="close-overlay-button">
                         <i onclick="TransformSearch()" class="fas fa-arrow-left fa-2x"></i>
                     </div>
                     <div class="columns is-multiline is-centered overlay-container">
@@ -74,7 +74,7 @@ LoadZippedFile();
                         </div>
                         <div class="column is-10">
                             <div class="tile is-ancestor">
-                                <div id="bigmovie" class="tile is-12 bigmovie">
+                                <div id="overlay" class="tile is-12 overlay">
 
                                     <div class="col" style="width:18%; height:20em;">
                                         <img id="poster" class="poster" v-bind:src="poster" />
@@ -104,7 +104,7 @@ LoadZippedFile();
                                             <ul style="width:100%; height:100%;">
                                                 <li>
                                                     <span>
-														<a id="trailer" onclick="GetTrailer(bigmovie.currentmovieid).then(result => bigmovie.url = result, error => console.log(error)); bigmovie.displaytrailer = true;" class="button is-rounded is-link is-large is-outlined block">
+														<a id="trailer" onclick="GetTrailer(overlay.currentmovieid).then(result => overlay.url = result, error => console.log(error)); overlay.displaytrailer = true;" class="button is-rounded is-link is-large is-outlined block">
 															<i class="fas fa-play"></i>
 															&nbsp;
 															Play Trailer
@@ -266,8 +266,8 @@ LoadZippedFile();
 </body>
 
 <script>
-	var bigmovie = new Vue({
-		el: "#bigmovie",
+	var overlay = new Vue({
+		el: "#overlay-search",
 		data: {
 			title: "",
 			poster: "",
@@ -277,18 +277,14 @@ LoadZippedFile();
 			age: "",
 			rating: "",
 			genres: "",
+			navbar: "",
 			currentmovieid: "",
 			url: "", //trailer url
 			displaytrailer: false
 		}
 	})
 
-	var navbar = new Vue({
-		el: "#nav",
-		data:{
-			navbar: ""
-		}
-	})
+	
 
 	var scroll = new SmoothScroll('a[href*="#"]', {
 		speed: 700,
