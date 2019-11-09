@@ -108,29 +108,30 @@ function FetchJSON(imdbID){
 		})
 }
 
-async function Display(results){	
+async function Display(results){
+	bigmovie.currentmovieid = results[0].imdb_id;
 	navbar.navbar = results.length + " results found."
 	
 	fetch('db/ind/' + results[0].imdbID + ".json")
-	.then(res => {
-		if (!res.ok) {
-                throw new Error("Failed with HTTP code " + response.status);
-        }
-		return res.json()
-	})
-	.then(data => {
-		bigmovie.poster = data.Poster;
-		bigmovie.title = data.Title;
-		bigmovie.plot = data.Plot;
-		bigmovie.year = data.Year;
-		bigmovie.runtime = data.Runtime;
-		bigmovie.rating = data.imdbRating;
-		bigmovie.age = data.Rated;
-		bigmovie.genres = data.Genre;
-	})
-	.catch(err => {
-		console.log("Error: " + err);
-	})
+		.then(res => {
+			if (!res.ok) {
+					throw new Error("Failed with HTTP code " + response.status);
+			}
+			return res.json()
+		})
+		.then(data => {
+			bigmovie.poster = data.Poster;
+			bigmovie.title = data.Title;
+			bigmovie.plot = data.Plot;
+			bigmovie.year = data.Year;
+			bigmovie.runtime = data.Runtime;
+			bigmovie.rating = data.imdbRating;
+			bigmovie.age = data.Rated;
+			bigmovie.genres = data.Genre;
+		})
+		.catch(err => {
+			console.log("Error: " + err);
+		})
 	
 	results.splice(0,1);
 	resultLength = 20;
@@ -174,3 +175,31 @@ async function Display(results){
 	}
 	
 }
+
+async function GetTrailer(id){
+	apikey = "8ca85a295652c75508670fd4aa6907ce";
+	url = "https://api.themoviedb.org/3/movie/" + id + "/videos?api_key=" + apikey +"&language=en-US&external_source=imdb_id";
+
+	var trailerjson = await fetch(url)
+		.then(res => {
+			if (!res.ok) {
+					throw new Error("Failed with HTTP code " + response.status);
+			}
+			return res.json()
+		})
+		.catch(err => {
+			console.log("Error: " + err);
+		})
+
+	for(item of trailerjson.results){
+		if(item.site == "YouTube"){
+			if(item.type == "Trailer"){
+				return "https://www.youtube-nocookie.com/embed/" + item.key + "?autoplay=1&rel=0&showinfo=0";
+			}
+		}
+	}
+
+	return false;
+}
+
+//
