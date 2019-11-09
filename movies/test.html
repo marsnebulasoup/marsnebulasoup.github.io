@@ -147,12 +147,22 @@ LoadZippedFile();
                                             </ul>
                                         </div>
 									</div>
-								<div v-if="displaytrailer == true" id="overlay-trailer" >
-									<div v-on:click="displaytrailer = false" class="close-overlay-button">
-										<i class="fas fa-arrow-left fa-2x"></i>
+									<div v-if="displaytrailer == true" id="overlay-trailer" >
+										<div v-on:click="displaytrailer = false" class="close-overlay-button">
+											<i class="fas fa-arrow-left fa-2x"></i>
+										</div>
+										<iframe v-if="url != ''" width="1120" height="630" v-bind:src="url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+										
+										<div v-else class="tile is-ancestor" style="align-items: center; justify-content: center;">
+											<div class="tile is-parent is-4">
+												<div class="tile is-child" style="padding: 15px; background-color: #090979; border-radius: 10px;">
+													<h1 style="font-size:24pt;">Uh-oh! &nbsp;&nbsp; :-(</h1>
+													<br>
+													<p class="subtitle">The trailer for this movie wasn't found.</p>
+												</div>
+											</div>
+										</div>
 									</div>
-									<iframe width="1120" height="630" v-bind:src="url" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-								</div>
                                 </div>
 
 
