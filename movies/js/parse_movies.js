@@ -109,7 +109,7 @@ function FetchJSON(imdbID){
 }
 
 async function Display(results){
-	bigmovie.currentmovieid = results[0].imdb_id;
+	bigmovie.currentmovieid = results[0].imdbID;
 	navbar.navbar = results.length + " results found."
 	
 	fetch('db/ind/' + results[0].imdbID + ".json")
