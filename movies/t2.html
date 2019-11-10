@@ -1,19 +1,122 @@
 <html>
-	<head>
-		<link href="css/star-rating.css" rel="stylesheet">
-	</head>
-	
-<body>
-<div class="rating-holder">
-	<div class="c-rating c-rating--big" data-rating-value="4.25">
-		<button>1</button>
-		<button>2</button>
-		<button>3</button>
-		<button>4</button>
-		<button>5</button>
+
+<head>
+	<link href="css/bulma_custom/css/mystyles.css" rel="stylesheet" />
+</head>
+
+<body style="background-color:black">
+	<style>
+		.searchbarhints ul {
+			padding-top: 2%;
+			padding-left: 0.1%;
+			padding-bottom: 4%;
+			/* border: 2px solid white; */
+			/* border-radius: 10px; */
+		}
+
+		.searchbarhints li {
+			padding: 2%;
+			border-radius: 5px;
+		}
+
+		.searchbarhints li:hover {
+			opacity: 0.7;
+			background-color: #1f1f1f;
+		}
+
+		.searchbarhintsborder {
+			border: 2px solid white;
+			border-top-left-radius: 32px;
+			border-top-right-radius: 32px;
+			border-bottom-left-radius: 32px;
+			border-bottom-right-radius: 32px;
+		}
+
+		.searchbarhintsbar {
+			border-top: none !important;
+			border-left: none !important;
+			border-right: none !important;
+			border-bottom: 2px solid white;
+			border-top-left-radius: 32px !important;
+			border-top-right-radius: 32px !important;
+			border-bottom-left-radius: 0px !important;
+			border-bottom-right-radius: 0px !important;
+		}
+	</style>
+
+	<div style=" width:30%; margin: 10%;">
+		<ul class="searchbarhintsborder">
+			<li>
+				<input class="input is-rounded is-large searchbarhintsbar" placeholder="Search"></input>
+			</li>
+			<li>
+				<div class="searchbarhints">
+					<ul id="searchbarhintslist">
+						<li>
+							<p>The fallen grave</p>
+						</li>
+						<li>
+							<p>The fallen grave</p>
+						</li>
+						<li>
+							<p>The fallen grave</p>
+						</li>
+						<li>
+							<p>The fallen grave</p>
+						</li>
+						<li>
+							<p>The fallen grave</p>
+						</li>
+					</ul>
+				</div>
+			</li>
+
+		</ul>
+
 	</div>
-</div>
-	
+
+	<script>
+		var ul = document.getElementById('searchbarhintslist');
+		var nodes = ul.querySelectorAll('li');
+		var selected = 0;
+
+		[].forEach.call(nodes, function (el) {
+			el.addEventListener('click', function () {
+				select(this);
+			})
+		});
+
+		document.addEventListener('keydown', function (e) {
+			if (e.keyCode === 38) { // up
+				select(nodes[selected - 1]);
+			}
+			if (e.keyCode === 40) { // down
+				select(nodes[selected + 1]);
+			}
+			e.preventDefault();
+		});
+
+		function select(el) {
+			var s = [].indexOf.call(nodes, el);
+			if (s === -1) return;
+
+			selected = s;
+
+			var elHeight = parseFloat(getComputedStyle(el, null).height.replace("px", ""))
+			var scrollTop = ul.scrollTop();
+			var viewport = scrollTop + parseFloat(getComputedStyle(ul, null).height.replace("px", ""))
+			var elOffset = elHeight * selected;
+
+			console.log('select', selected, ' viewport', viewport, ' elOffset', elOffset);
+			if (elOffset < scrollTop || (elOffset + elHeight) > viewport)
+				$(ul).scrollTop(elOffset);
+
+			document.querySelector('li.selected').classList.remove('selected');
+			el.classList.add('selected');
+		}
+
+	</script>
+
 </body>
 
 </html>

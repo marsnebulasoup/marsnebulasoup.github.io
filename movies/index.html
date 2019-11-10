@@ -16,16 +16,13 @@
 	<script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
 	<script type="text/javascript" src="js/jszip/jszip.min.js"></script>
 	<script language="javascript" src="js/lz-string/lz-string.min.js"></script>
-	<script type="text/javascript" src="js/jsonh/jsonh.js"></script>
-
 	<script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="https://unpkg.com/wade"></script>
 
 
 </head>
 <script>
 LoadZippedFile();
-
-
 </script>
 <body>
     <div class="container is-fluid">
@@ -307,15 +304,15 @@ LoadZippedFile();
 	
 	let typingTimer;                //timer identifier
 	let doneTypingInterval = 500;  //time in ms (5 seconds)
-	let myInput = document.getElementById('real_searchbar');
+	let moviesearchbar = document.getElementById('real_searchbar');
 
 	//on keyup, start the countdown
-	myInput.addEventListener('keyup', () => {
+	moviesearchbar.addEventListener('keyup', () => {
 		clearTimeout(typingTimer);
-		if(myInput.value == ""){
-			myInput.innerText = "0 results found";
+		if(moviesearchbar.value == ""){
+			overlay.navbar = "0 results found";
 		}
-		if (myInput.value) {
+		if (moviesearchbar.value) {
 			typingTimer = setTimeout(doneTyping, doneTypingInterval);
 		}
 		
