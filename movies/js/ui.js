@@ -59,31 +59,31 @@ function TypeAndErase() {
 
 }
 
-function SelectButtons(id){
-	var thebutton = document.getElementById(id);
-	var classes = thebutton.classList;
-	var totoggle = "mod";
-	var totoggleto = "is-link";
-    if(classes.contains(totoggle)){
-		classes.remove(totoggle);
-		classes.add(totoggleto)
-	}
-	
-	else {
-		classes.remove(totoggleto);
-		classes.add(totoggle)
-	}
-	
-	
-	
-    
+function SelectButtons(id) {
+    var thebutton = document.getElementById(id);
+    var classes = thebutton.classList;
+    var totoggle = "mod";
+    var totoggleto = "is-link";
+    if (classes.contains(totoggle)) {
+        classes.remove(totoggle);
+        classes.add(totoggleto)
+    }
+
+    else {
+        classes.remove(totoggleto);
+        classes.add(totoggle)
+    }
+
+
+
+
 }
 
 async function SearchMovies() {
     var input = document.getElementById("real_searchbar").value;
     SearchFor(ParseJson(), input);
-	//console.log(results)
-	//Display(results);
+    //console.log(results)
+    //Display(results);
 }
 
 function TransformSearch(state) {
@@ -107,6 +107,6 @@ function TransformSearch(state) {
 	// zip.workerScriptsPath = "js/zip.js/";
 	// var thetext = zip.HttpReader("../../db/basicinfo.zip");
 	// console.log(thetext);
-	
+
 // }
 //Decompress();

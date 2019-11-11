@@ -19,10 +19,15 @@
 			border-radius: 5px;
 		}
 
-		.searchbarhints li:hover {
+		.selected {
 			opacity: 0.7;
 			background-color: #1f1f1f;
 		}
+		.searchbarhints li:hover {
+			opacity: 0.8;
+			background-color: #171717;
+		}
+
 
 		.searchbarhintsborder {
 			border: 2px solid white;
@@ -52,6 +57,7 @@
 			<li>
 				<div class="searchbarhints">
 					<ul id="searchbarhintslist">
+						<li style="height: 0 !important; padding: 0 !important;"></li>
 						<li>
 							<p>The fallen grave</p>
 						</li>
@@ -80,20 +86,16 @@
 		var nodes = ul.querySelectorAll('li');
 		var selected = 0;
 
-		[].forEach.call(nodes, function (el) {
-			el.addEventListener('click', function () {
-				select(this);
-			})
-		});
 
 		document.addEventListener('keydown', function (e) {
 			if (e.keyCode === 38) { // up
+				e.preventDefault();
 				select(nodes[selected - 1]);
 			}
 			if (e.keyCode === 40) { // down
+				e.preventDefault();
 				select(nodes[selected + 1]);
 			}
-			e.preventDefault();
 		});
 
 		function select(el) {
@@ -103,17 +105,22 @@
 			selected = s;
 
 			var elHeight = parseFloat(getComputedStyle(el, null).height.replace("px", ""))
-			var scrollTop = ul.scrollTop();
+			var scrollTop = ul.scrollTop;
 			var viewport = scrollTop + parseFloat(getComputedStyle(ul, null).height.replace("px", ""))
 			var elOffset = elHeight * selected;
 
 			console.log('select', selected, ' viewport', viewport, ' elOffset', elOffset);
-			if (elOffset < scrollTop || (elOffset + elHeight) > viewport)
-				$(ul).scrollTop(elOffset);
+			/* if (elOffset < scrollTop || (elOffset + elHeight) > viewport)
+			  $(ul).scrollTop(elOffset); */
 
-			document.querySelector('li.selected').classList.remove('selected');
+			var currentselected = document.querySelector('li.selected');
+			console.log(currentselected)
+			if (currentselected != null && currentselected.classList.contains("selected")) {
+				currentselected.classList.remove('selected');
+			}
 			el.classList.add('selected');
 		}
+
 
 	</script>
 
