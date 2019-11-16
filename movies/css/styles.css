@@ -270,11 +270,7 @@ h1, h2, h3, h4, h5, p {
     
 } */
 
-.mod {
-	border: 1.5px solid;
-	background-color: transparent;
-	color: white;
-}
+
 
 
 /* *:focus {outline:none !important} */
@@ -345,8 +341,17 @@ h1, h2, h3, h4, h5, p {
     font-weight: 600;
 }
 
+/* Buttons group css */
 
+.buttons-group button {
+    border: none; 
+}
 
+.buttons-group-mod {
+	border: 1.5px solid;
+	background-color: transparent;
+	color: white;
+}
 
 
 
