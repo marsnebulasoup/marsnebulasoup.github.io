@@ -81,6 +81,7 @@ function SelectButtons(id) {
 
 async function SearchMovies() {
     var input = overlay.query //document.getElementById("real_searchbar").value;
+    console.log("From searchmovies(): " + input);
     SearchFor(ParseJson(), input);
     //console.log(results)
     //Display(results);
