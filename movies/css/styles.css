@@ -54,7 +54,7 @@ html {
 
 div.sticky {
     position: -webkit-sticky;
-    position: sticky;
+    position: fixed;
     top: 2%;
 	z-index: 3; 
 	
