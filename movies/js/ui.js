@@ -79,7 +79,7 @@ function SelectButtons(id) {
 
 }
 
-async function SearchMovies() {
+function SearchMovies() {
     var input = overlay.query //document.getElementById("real_searchbar").value;
     console.log("From searchmovies(): " + input);
     SearchFor(ParseJson(), input);
@@ -161,7 +161,7 @@ function displayPopularMovies() {
             document.getElementById("hints-searchbar").blur()
             overlay.query = this.getElementsByTagName("input")[0].value;
             a.innerHTML = '';
-            console.log("Searching for " + overlay.query)
+            SearchMovies();
         });
         a.insertAdjacentElement("beforeend", b);
         popularmoviescount++;
@@ -196,13 +196,19 @@ function computeAutocomplete(val) {
                 document.getElementById("hints-searchbar").blur()
                 overlay.query = this.getElementsByTagName("input")[0].value;
                 a.innerHTML = '';
-                console.log("Searching for " + overlay.query) //THIS IS WHERE YOU PUT SearchFor();
                 SearchMovies();
             });
             a.insertAdjacentElement("beforeend", b);
             loopcount++;
         }
     }
+}
+
+function CloseListsAndSearch(e) {
+    document.getElementById("hints-searchbar").blur()
+    overlay.query = this.getElementsByTagName("input")[0].value;
+    a.innerHTML = '';
+    SearchMovies();
 }
 
 
