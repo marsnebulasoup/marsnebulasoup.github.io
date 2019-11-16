@@ -13,12 +13,12 @@
     <link href="css/star-rating.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
     <script src="js/parse_movies.js"></script>
-    <script
-        src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
     <script type="text/javascript" src="js/jszip/jszip.min.js"></script>
     <script language="javascript" src="js/lz-string/lz-string.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="https://unpkg.com/wade"></script>
+    <script src="js/lodash/lodash_debounce.js"></script>
+    <script src="db/autocomplete.js"></script>
 
 
 </head>
@@ -61,45 +61,28 @@
                     </div>
                     <div class="columns is-multiline is-centered overlay-container">
                         <div class="column is-6 sticky">
-                            <p class="control  has-icons-right">
-                                <input v-model="query" autofocus id="real_searchbar" style="background-color: black"
-                                    class="input is-rounded is-large search" type="text" placeholder="Search movies...">
+                            <div id="searchbarcontainer">
+                                <ul id="hints-container" class="hints-container">
+                                    <input v-model="query" v-on:keyup.enter="enter" id="hints-searchbar" type="text"
+                                        class="input is-rounded is-large hints-searchbar"
+                                        placeholder="Start typing to search movies">
+                                    <li class="hints-hints-container" id="hints-hints-container">
+                                        <div>
+                                            <ul class="hints-li">
+                                                <li>
+                                                    <div
+                                                        style="padding-left: 1% !important; padding-top: 1%; font-variant: small-caps;">
+                                                        {{inputtopcornermsg}}
+                                                    </div>
+                                                </li>
+                                                <ul id="hints-hints" class="hints-hints">
 
-                                <span class="icon is-small is-right">
-                                    <i class="fas fa-search"></i>
-                                </span>
-                            </p>
-                            <div style=" width:30%; margin: 10%;">
-                                <ul class="searchbarhintsborder">
-                                    <li>
-                                        <input class="input is-rounded is-large searchbarhintsbar"
-                                            placeholder="Search"></input>
-                                    </li>
-                                    <li>
-                                        <div class="searchbarhints">
-                                            <ul id="searchbarhintslist">
-                                                <li style="height: 0 !important; padding: 0 !important;"></li>
-                                                <li>
-                                                    <p>The fallen grave</p>
-                                                </li>
-                                                <li>
-                                                    <p>The fallen grave</p>
-                                                </li>
-                                                <li>
-                                                    <p>The fallen grave</p>
-                                                </li>
-                                                <li>
-                                                    <p>The fallen grave</p>
-                                                </li>
-                                                <li>
-                                                    <p>The fallen grave</p>
-                                                </li>
+                                                </ul>
                                             </ul>
                                         </div>
                                     </li>
 
                                 </ul>
-
                             </div>
                         </div>
                         <div class="column is-10">
@@ -461,10 +444,63 @@
             currentmovieid: "",
             url: "", //trailer url
             displaytrailer: false,
-            query: ""
+            query: "",
+            hints: "",
+            inputtopcornermsg: "popular movies",
+            currentFocus: -1
+        },
+        watch: {
+            query: _.debounce(function (q) {
+                if (!q) {
+                    document.getElementById("hints-hints").innerHTML = "";
+                    this.inputtopcornermsg = "no results found"
+                    return false;
+                }
+                this.currentFocus = -1;
+                computeAutocomplete(q);
+            }, 85)
+        },
+        methods: {
+            enter: function () {
+                SearchMovies();
+                console.log(this.query)
+            }
         }
     })
 
+
+
+    document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
+        var x = document.getElementById("hints-hints");
+        if (x) x = x.getElementsByTagName("li");
+        if (e.keyCode == 40) {
+            overlay.currentFocus++;
+            addActive(x);
+        } else if (e.keyCode == 38) {
+            overlay.currentFocus--;
+            addActive(x);
+        } else if (e.keyCode == 13) {
+            e.preventDefault();
+            if (overlay.currentFocus > -1) {
+                if (x) x[overlay.currentFocus].click();
+            }
+        }
+    });
+
+    var searchbarcontainer = document.getElementById('searchbarcontainer');
+    document.addEventListener('click', function (event) {
+        var isClickInside = searchbarcontainer.contains(event.target);
+        if (isClickInside) {
+            //Clicked IN
+            setFocused();
+        }
+        else {
+            //Clicked OUT
+            unsetFocused();
+        }
+    });
+
+    displayPopularMovies(); /* Run this for the first time to preload the popular movies into the searchbar */
 
     //Smooth scroll
     var scroll = new SmoothScroll('a[href*="#"]', {
@@ -472,71 +508,6 @@
         speedAsDuration: true
     });
     //scroll.destroy();
-
-
-    //Typing timer
-    let typingTimer;
-    let doneTypingInterval = 500;
-    let moviesearchbar = document.getElementById('real_searchbar');
-
-    moviesearchbar.addEventListener('keyup', () => {
-        clearTimeout(typingTimer);
-        if (moviesearchbar.value == "") {
-            overlay.navbar = "0 results found";
-        }
-        if (moviesearchbar.value) {
-            typingTimer = setTimeout(doneTyping, doneTypingInterval);
-        }
-
-    });
-
-    function doneTyping() {
-        overlay.navbar = "Searching...";
-        SearchMovies()
-    }
-
-
-    //Searchbar list scrolling 
-    var ul = document.getElementById('searchbarhintslist');
-    var nodes = ul.querySelectorAll('li');
-    var selected = 0;
-
-
-    document.addEventListener('keydown', function (e) {
-        if (e.keyCode === 38) { // up
-            e.preventDefault();
-            select(nodes[selected - 1]);
-        }
-        if (e.keyCode === 40) { // down
-            e.preventDefault();
-            select(nodes[selected + 1]);
-        }
-    });
-
-    function select(el) {
-        var s = [].indexOf.call(nodes, el);
-        if (s === -1) return;
-
-        selected = s;
-
-        var elHeight = parseFloat(getComputedStyle(el, null).height.replace("px", ""))
-        var scrollTop = ul.scrollTop;
-        var viewport = scrollTop + parseFloat(getComputedStyle(ul, null).height.replace("px", ""))
-        var elOffset = elHeight * selected;
-
-        console.log('select', selected, ' viewport', viewport, ' elOffset', elOffset);
-        /* if (elOffset < scrollTop || (elOffset + elHeight) > viewport)
-          $(ul).scrollTop(elOffset); */
-
-        var currentselected = document.querySelector('li.selected');
-        console.log(currentselected)
-        if (currentselected != null && currentselected.classList.contains("selected")) {
-            currentselected.classList.remove('selected');
-        }
-        el.classList.add('selected');
-    }
-
-
 </script>
 
 </html>

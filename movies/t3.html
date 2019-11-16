@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/bulma_custom/css/mystyles.css" />
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="js/lodash/lodash_debounce.js"></script>
+    <script src="db/autocomplete.js"></script>
+    <script src="js/ui.js"></script>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+
+<body>
+    <div id="searchbarcontainer" style="margin-left: 30%;">
+        <ul style="width: 700px;" id="hints-container" class="hints-container">
+            <input v-model="query" v-on:keyup.enter="enter" id="hints-searchbar" type="text"
+                class="input is-rounded is-large hints-searchbar" placeholder="Start typing to search movies">
+            <li class="hints-hints-container" id="hints-hints-container">
+                <div>
+                    <ul class="hints-li">
+                        <li>
+                            <div style="padding-left: 1% !important; padding-top: 1%; font-variant: small-caps;">
+                                {{inputtopcornermsg}}
+                            </div>
+                        </li>
+                        <ul id="hints-hints" class="hints-hints">
+
+                        </ul>
+                    </ul>
+                </div>
+            </li>
+
+        </ul>
+    </div>
+
+
+    <script>
+
+        var search = new Vue({
+            el: "#searchbarcontainer",
+            data: {
+                query: "",
+                hints: "",
+                inputtopcornermsg: "popular movies",
+                currentFocus: -1,
+            },
+            watch: {
+                query: _.debounce(function (q) {
+                    if (!q) {
+                        document.getElementById("hints-hints").innerHTML = "";
+                        this.inputtopcornermsg = "no results found"
+                        return false;
+                    }
+                    this.currentFocus = -1;
+                    computeAutocomplete(q);
+                }, 85)
+            },
+            methods: {
+                enter: function () {
+                    //SearchMovies();
+                    console.log(this.query)
+                }
+            }
+        })
+
+        document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
+            var x = document.getElementById("hints-hints");
+            if (x) x = x.getElementsByTagName("li");
+            if (e.keyCode == 40) {
+                search.currentFocus++;
+                addActive(x);
+            } else if (e.keyCode == 38) {
+                search.currentFocus--;
+                addActive(x);
+            } else if (e.keyCode == 13) {
+                e.preventDefault();
+                if (search.currentFocus > -1) {
+                    if (x) x[search.currentFocus].click();
+                }
+            }
+        });
+
+        var searchbarcontainer = document.getElementById('searchbarcontainer');
+        document.addEventListener('click', function (event) {
+            var isClickInside = searchbarcontainer.contains(event.target);
+            if (isClickInside) {
+                //Clicked IN
+                setFocused();
+            }
+            else {
+                //Clicked OUT
+                unsetFocused();
+            }
+        });
+
+        displayPopularMovies(); /* Run this for the first time to preload the popular movies into the searchbar */        
+    </script>
+
+</body>
+
+</html>

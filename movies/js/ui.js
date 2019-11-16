@@ -80,7 +80,7 @@ function SelectButtons(id) {
 }
 
 async function SearchMovies() {
-    var input = document.getElementById("real_searchbar").value;
+    var input = overlay.query //document.getElementById("real_searchbar").value;
     SearchFor(ParseJson(), input);
     //console.log(results)
     //Display(results);
@@ -88,7 +88,7 @@ async function SearchMovies() {
 
 function TransformSearch(state) {
     var overlay = document.getElementById("overlay-search");
-    var html = document.getElementById("everything");
+    //var html = document.getElementById("everything");
     var bogus_searchbar_icon = document.getElementById("bogus-searchbar-icon");
     if (state) {
         overlay.style.display = "block";
@@ -103,10 +103,106 @@ function TransformSearch(state) {
 }
 
 
-// 	function Decompress(){
-	// zip.workerScriptsPath = "js/zip.js/";
-	// var thetext = zip.HttpReader("../../db/basicinfo.zip");
-	// console.log(thetext);
+//Searchbar required functions
 
-// }
-//Decompress();
+
+function addActive(x) {
+    if (!x) return false;
+    removeActive(x);
+    if (overlay.currentFocus >= x.length) overlay.currentFocus = 0;
+    if (overlay.currentFocus < 0) overlay.currentFocus = (x.length - 1);
+    x[overlay.currentFocus].classList.add("selected");
+}
+
+function removeActive(x) {
+    for (var i = 0; i < x.length; i++) {
+        x[i].classList.remove("selected");
+    }
+}
+
+
+function setFocused() {
+    var searchbar = document.getElementById("hints-searchbar");
+    var hints = document.getElementById("hints-hints-container");
+    if (!searchbar.classList.contains("hints-searchbar-focus")) {
+        hints.style.display = "initial";
+        searchbar.classList.add("hints-searchbar-focus");
+        if (searchbar.value == "") {
+            displayPopularMovies();
+        }
+    }
+}
+
+function unsetFocused() {
+    var searchbar = document.getElementById("hints-searchbar");
+    var hints = document.getElementById("hints-hints-container");
+    searchbar.classList.remove("hints-searchbar-focus");
+    hints.style.display = "none";
+}
+
+function displayPopularMovies() {
+    var popularmoviescount = 0;
+    a = document.getElementById("hints-hints");
+    a.innerHTML = '';
+    overlay.inputtopcornermsg = "popular movies";
+    for (item of arr) {
+        if (popularmoviescount == 6) { break }
+        overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
+        b = document.createElement("li");
+        b.innerHTML = item
+
+        var inp = document.createElement("input");
+        inp.type = "hidden";
+        inp.value = item;
+        b.insertAdjacentElement("beforeend", inp);
+
+        b.addEventListener("click", function (e) {
+            document.getElementById("hints-searchbar").blur()
+            overlay.query = this.getElementsByTagName("input")[0].value;
+            a.innerHTML = '';
+            console.log("Searching for " + overlay.query)
+        });
+        a.insertAdjacentElement("beforeend", b);
+        popularmoviescount++;
+    }
+}
+
+function computeAutocomplete(val) {
+    var a, b, i;
+    a = document.getElementById("hints-hints");
+    a.innerHTML = '';
+    var maxloops = 6;
+    var loopcount = 0;
+    for (i = 0; i < arr.length; i++) {
+        overlay.inputtopcornermsg = "showing " + loopcount + " of the " + i + " movies searched";
+        if (loopcount == maxloops) {
+            break;
+        }
+        if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+            fullword = arr[i];
+            highlighted = fullword.substr(0, val.length);
+            therest = fullword.substr(val.length);
+
+            b = document.createElement("li");
+            b.innerHTML = "<strong>" + highlighted + "</strong>" + therest;
+
+            var inp = document.createElement("input");
+            inp.type = "hidden";
+            inp.value = fullword;
+            b.insertAdjacentElement("beforeend", inp);
+
+            b.addEventListener("click", function (e) {
+                document.getElementById("hints-searchbar").blur()
+                overlay.query = this.getElementsByTagName("input")[0].value;
+                a.innerHTML = '';
+                console.log("Searching for " + overlay.query) //THIS IS WHERE YOU PUT SearchFor();
+                SearchMovies();
+            });
+            a.insertAdjacentElement("beforeend", b);
+            loopcount++;
+        }
+    }
+}
+
+
+

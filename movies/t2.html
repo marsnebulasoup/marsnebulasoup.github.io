@@ -6,7 +6,11 @@
 
 <body style="background-color:black">
 	<style>
-		.searchbarhints ul {
+		.hints-li {
+			display: initial;
+		}
+
+		.hints-li ul {
 			padding-top: 2%;
 			padding-left: 0.1%;
 			padding-bottom: 4%;
@@ -14,7 +18,7 @@
 			/* border-radius: 10px; */
 		}
 
-		.searchbarhints li {
+		.hints-hints li {
 			padding: 2%;
 			border-radius: 5px;
 		}
@@ -23,25 +27,28 @@
 			opacity: 0.7;
 			background-color: #1f1f1f;
 		}
-		.searchbarhints li:hover {
+
+		.hints-hints li:hover {
 			opacity: 0.8;
 			background-color: #171717;
 		}
 
 
-		.searchbarhintsborder {
-			border: 2px solid white;
-			border-top-left-radius: 32px;
-			border-top-right-radius: 32px;
-			border-bottom-left-radius: 32px;
-			border-bottom-right-radius: 32px;
+		.hints-container {
+			border: 2px solid #cccccc;
+			border-radius: 32px;
 		}
 
-		.searchbarhintsbar {
+		.hints-searchbar {
+			border-color: transparent !important;
+		}
+
+		.hints-searchbar-focus,
+		.hints-searchbar:focus {
 			border-top: none !important;
 			border-left: none !important;
 			border-right: none !important;
-			border-bottom: 2px solid white;
+			border-bottom: 2px solid #cccccc !important;
 			border-top-left-radius: 32px !important;
 			border-top-right-radius: 32px !important;
 			border-bottom-left-radius: 0px !important;
@@ -50,13 +57,12 @@
 	</style>
 
 	<div style=" width:30%; margin: 10%;">
-		<ul class="searchbarhintsborder">
+		<ul id="hints-container" class="hints-container">
 			<li>
-				<input class="input is-rounded is-large searchbarhintsbar" placeholder="Search"></input>
-			</li>
-			<li>
-				<div class="searchbarhints">
-					<ul id="searchbarhintslist">
+				<input id="hints-searchbar" class="input is-rounded is-large hints-searchbar" placeholder="Search"
+					autofocus></input>
+				<div class="hints-li">
+					<ul id="hints-hints" class="hints-hints">
 						<li style="height: 0 !important; padding: 0 !important;"></li>
 						<li>
 							<p>The fallen grave</p>
@@ -82,7 +88,7 @@
 	</div>
 
 	<script>
-		var ul = document.getElementById('searchbarhintslist');
+		var ul = document.getElementById('hints-hints');
 		var nodes = ul.querySelectorAll('li');
 		var selected = 0;
 
@@ -122,8 +128,39 @@
 		}
 
 
-	</script>
 
+		function setFocused() {
+			var searchbar = document.getElementById("hints-searchbar");
+			var hints = document.getElementById("hints-hints");
+			if (!searchbar.classList.contains("hints-searchbar-focus")) {
+				hints.style.display = "initial";
+				searchbar.classList.add("hints-searchbar-focus");
+			}
+		}
+
+		function unsetFocused() {
+			var searchbar = document.getElementById("hints-searchbar");
+			var hints = document.getElementById("hints-hints");
+			searchbar.classList.remove("hints-searchbar-focus");
+			hints.style.display = "none";
+		}
+
+		var specifiedElement = document.getElementById('hints-container');
+		document.addEventListener('click', function (event) {
+			var isClickInside = specifiedElement.contains(event.target);
+			if (isClickInside) {
+				console.log("IN");
+				setFocused();
+			}
+			else {
+				console.log("Out");
+				unsetFocused();
+			}
+		});
+	//searchbar.addEventListener("focus", setFocused);
+	//result.addEventListener("blur", unsetFocused);
+
+	</script>
 </body>
 
 </html>

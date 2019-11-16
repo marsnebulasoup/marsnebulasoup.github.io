@@ -56,7 +56,7 @@ div.sticky {
     position: -webkit-sticky;
     position: sticky;
     top: 2%;
-	z-index:3;
+	z-index: 3;
 	
 }
 
@@ -88,7 +88,8 @@ textarea {
 }
 
     .card:hover {
-        -webkit-transition: background-color 0.1s ease-in-out;
+        transition: background-color 0.1s ease-in-out;
+       -webkit-transition: background-color 0.1s ease-in-out;
         background-color: #141414;
     }
 
@@ -129,6 +130,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .fa-arrow-left:hover {
+    transition: color 0.3s ease-in-out;
     -webkit-transition: color 0.3s ease-in-out;
     color: grey;
 }
@@ -152,6 +154,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .bigmovie:hover {
+    transition: background-color 0.1s ease-in-out;
     -webkit-transition: background-color 0.1s ease-in-out;
     background-color: #141414;
 }
@@ -248,7 +251,7 @@ h1, h2, h3, h4, h5, p {
     display: flex;
     align-items: center;
     justify-content: center;
-    /* display: none; Hidden by default */
+    /*5 display: none; Hidden by default */
     width: 100%; /* Full width (cover the whole page) */
     height: 100%; /* Full height (cover the whole page) */
     top: 0;
@@ -264,9 +267,9 @@ h1, h2, h3, h4, h5, p {
 /**********************************************************/
 
 
-.moviepicker-container {
+/* .moviepicker-container {
     
-}
+} */
 
 .mod {
 	border: 1.5px solid;
@@ -279,7 +282,69 @@ h1, h2, h3, h4, h5, p {
 
 
 
+/* Searchbar hints */
 
+.hints-li {
+    display: initial;
+}
+
+.hints-li ul {
+    padding-top: 2%;
+    padding-left: 0.1%;
+    padding-bottom: 4%;
+    /* border: 2px solid white; */
+    /* border-radius: 10px; */
+}
+
+.hints-hints li {
+    padding: 2%;
+    border-radius: 5px;
+}
+
+.selected {
+    opacity: 0.7;
+    background-color: #1f1f1f;
+}
+
+.hints-hints li:hover {
+    opacity: 0.8;
+    background-color: #171717;
+}
+
+
+.hints-container {
+    border: 2px solid #cccccc;
+    border-radius: 32px;
+}
+
+.hints-searchbar {
+    border-color: transparent !important;
+}
+
+.hints-searchbar-focus,
+.hints-searchbar:focus {
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: 2px solid #cccccc !important;
+    border-top-left-radius: 32px !important;
+    border-top-right-radius: 32px !important;
+    border-bottom-left-radius: 0px !important;
+    border-bottom-right-radius: 0px !important;
+}
+
+.hints-hints-container {
+    display: none;
+}
+
+.hints-searchbar:focus+.hints-hints-container {
+    display: initial;
+}
+
+.hints-hints strong {
+    color: white;
+    font-weight: 600;
+}
 
 
 
