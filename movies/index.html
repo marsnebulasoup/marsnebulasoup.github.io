@@ -225,7 +225,7 @@
             <div class="column is-10">
                 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
             </div>
-            <div class="column is-3">
+            <div class="column is-4">
                 <div class="buttons ">
                     <button class="button is-static is-rounded"
                         style="font-family: Montserrat; border: none; color: white; background-color: hsl(171, 100%, 41%)">Type</button>
@@ -286,7 +286,7 @@
                     </button>
                 </div>
             </div>
-            <div class="column is-9">
+            <div class="column is-8">
                 <div class="buttons ">
                     <button class="button is-static is-rounded is-primary"
                         style="font-family: Montserrat; border: none; color: white; ">
@@ -462,8 +462,8 @@
         },
         methods: {
             enter: function () {
+                document.getElementById("hints-searchbar").blur()
                 SearchMovies();
-                console.log(this.query)
             }
         }
     })

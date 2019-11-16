@@ -159,7 +159,6 @@ function displayPopularMovies() {
 
         b.addEventListener("click", function (e) {
             document.getElementById("hints-searchbar").blur()
-            overlay.query = this.getElementsByTagName("input")[0].value;
             a.innerHTML = '';
             SearchMovies();
         });
@@ -194,7 +193,6 @@ function computeAutocomplete(val) {
 
             b.addEventListener("click", function (e) {
                 document.getElementById("hints-searchbar").blur()
-                overlay.query = this.getElementsByTagName("input")[0].value;
                 a.innerHTML = '';
                 SearchMovies();
             });
