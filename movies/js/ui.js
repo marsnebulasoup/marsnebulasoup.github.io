@@ -158,7 +158,7 @@ function displayPopularMovies() {
         b.insertAdjacentElement("beforeend", inp);
 
         b.addEventListener("click", function (e) {
-            document.getElementById("hints-searchbar").blur()
+            overlay.query = this.getElementsByTagName("input")[0].value;
             a.innerHTML = '';
             SearchMovies();
         });
@@ -192,7 +192,8 @@ function computeAutocomplete(val) {
             b.insertAdjacentElement("beforeend", inp);
 
             b.addEventListener("click", function (e) {
-                document.getElementById("hints-searchbar").blur()
+                document.getElementById("hints-searchbar").blur();
+                overlay.query = this.getElementsByTagName("input")[0].value;
                 a.innerHTML = '';
                 SearchMovies();
             });
