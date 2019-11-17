@@ -282,7 +282,8 @@
             query: "",
             hints: "",
             inputtopcornermsg: "popular movies",
-            currentFocus: -1
+            currentFocus: -1,
+            computed: [[], [], [], [], []]
         },
         watch: {
             query: _.debounce(function (q) {
@@ -299,6 +300,19 @@
             enter: function () {
                 document.getElementById("hints-searchbar").blur()
                 SearchMovies();
+            },
+            recompute: function () {
+                let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
+                var c = this.computed;
+                //do somthing on change
+                console.log(c)
+                if (!isEmpty(c)) {
+                    console.log("c has changed")
+                }
+                else {
+                    console.log("c is empty");
+                }
+
             }
         }
     })
@@ -344,6 +358,7 @@
     });
     //scroll.destroy();
 
+    //Button generator
     function GenerateButtons() {
         var data = {
             id: ["type", "year", "rating", "genres", "age"],
@@ -413,31 +428,44 @@
             ]
         }
 
+
+
         for (id of data.id) {
-            //console.log(id);
             var currentgroup = document.getElementById(id);
             var catagorytitle = id[0].toUpperCase() + id.slice(1);
             currentgroup.innerHTML = '<button class="button is-static is-rounded" style="border: none;">' + catagorytitle + '</button>';
             for (button of data.content[data.id.indexOf(id)]) {
                 var a = document.createElement("a");
+                var datacatagoryindex = data.id.indexOf(id).toString();
                 a.setAttributeNode(document.createAttribute("data-scroll"));
                 a.setAttribute("href", "#pick");
+                a.setAttribute("data-catagory-index", datacatagoryindex);
                 a.setAttribute("class", "button is-hovered is-rounded is-outlined buttons-group-mod has-text-white");
                 a.innerText = button;
                 a.addEventListener("click", function (e) {
                     this.blur()
                     var classes = this.classList;
+                    var catagory_index = parseInt(this.getAttribute("data-catagory-index"));
                     var totoggle = "buttons-group-mod";
                     var totoggleto = "is-link";
                     if (classes.contains(totoggle)) {
+                        //SELECTED
                         classes.remove(totoggle);
                         classes.add(totoggleto)
+                        //Adding items to an array is easy. Removing them is not :(
+                        overlay.computed[catagory_index].push(this.innerText);
                     }
-                    
+
                     else {
+                        //NOT SELECTED
                         classes.remove(totoggleto);
                         classes.add(totoggle)
+                        //Quick and easy way to remove an item from an array :)
+                        overlay.computed[catagory_index] = overlay.computed[catagory_index].filter(item => item !== this.innerText);
                     }
+
+                    overlay.recompute();
+                    // console.log(overlay.computed);
                 });
                 currentgroup.insertAdjacentElement("beforeend", a);
 
