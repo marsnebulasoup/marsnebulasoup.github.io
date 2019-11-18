@@ -20,6 +20,7 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script src="js/lodash/lodash_debounce.js"></script>
     <script src="db/autocomplete.js"></script>
+    <script src="db/popularmovies.js"></script>
 
 
 </head>
@@ -305,10 +306,59 @@
             recompute: function () {
                 let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
                 var c = this.computed;
+
+                // c = [[Type], [Year], [Rating], [Genres], [Age]]
+
+                for (catagory of c) {
+                    for (item of catagory) {
+                        switch (c.indexOf(catagory)) {
+                            case 0:
+                                //type
+                                break;
+                            case 1:
+                                //year
+                                var currentyear = new Date().getFullYear();
+                                var choices = {
+                                    "yearRecent": currentyear - 9,
+                                    "year2000s": 2000,
+                                    "year90s": 1990,
+                                    "year80s": 1980,
+                                    "year70s": 1970,
+                                    "year60s": 1960,
+                                    "year50s": 1950,
+                                    "year40s": 1940,
+                                    "year30s": 1930,
+                                    "yearClassic": -1930
+                                }
+                                console.log(item.replace("'",""))
+                                var y = eval("choices.year" + item.replace("'",""));
+                                for(movie of JSON.parse(popularmoviesjson)) {
+                                    var x = movie.Year;
+                                    if (x >= y && x < y + 10) {
+                                        console.log(movie.Title + " - " + movie.Year)
+                                    }
+                                    
+                                }
+                                //console.log(options.Recent);
+                                break;
+                            case 2:
+                                //rating
+                                break;
+                            case 3:
+                                //genres
+                                break;
+                            case 4:
+                                //age
+                                break;
+
+                        }
+                        console.log(item);
+                    }
+                }
+
                 //do somthing on change
-                console.log(c)
                 if (!isEmpty(c)) {
-                    console.log("c has changed")
+                    4 + 4
                 }
                 else {
                     console.log("c is empty");
@@ -317,7 +367,6 @@
             }
         }
     })
-
 
 
     document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
@@ -378,7 +427,7 @@
                     "'50s",
                     "'40s",
                     "'30s",
-                    "'Classic'"
+                    "Classic"
                 ],
                 [
                     "Highly-Rated",
