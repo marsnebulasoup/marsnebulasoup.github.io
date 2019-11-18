@@ -299,6 +299,7 @@
         methods: {
             enter: function () {
                 document.getElementById("hints-searchbar").blur()
+                unsetFocused();
                 SearchMovies();
             },
             recompute: function () {
