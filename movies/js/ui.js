@@ -210,5 +210,24 @@ function CloseListsAndSearch(e) {
     SearchMovies();
 }
 
+//extras
+
+function arrayContainsArray(superset, subset) {
+    /*check if the array "superset" contains the elements of the array "subset" */
+    if (0 === subset.length || superset.length < subset.length) {
+        return false;
+    }
+    for (var i = 0; i < subset.length; i++) {
+        if (superset.indexOf(subset[i]) === -1) return false;
+    }
+    return true;
+}
+
+function sortArr(a, b) { 
+    /* alphabatize an arr. use with sort like so: var sorted = ["Peaches", "Cranberries", "Apples"].sort(sortArr);  */
+    if (a < b) return -1;
+    else if (a > b) return 1;
+    return 0;
+}
 
 

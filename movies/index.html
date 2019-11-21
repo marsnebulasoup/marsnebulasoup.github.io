@@ -18,7 +18,8 @@
     <script type="text/javascript" src="js/jszip/jszip.min.js"></script>
     <script language="javascript" src="js/lz-string/lz-string.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script src="js/lodash/lodash_debounce.js"></script>
+    <!-- <script src="js/lodash/lodash_debounce.js"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
     <script src="db/autocomplete.js"></script>
     <script src="db/popularmovies.js"></script>
 
@@ -248,8 +249,12 @@
                 <!-- GENRE: ACTION, COMEDY... -->
                 <div id="genres" class="buttons ">
 
-
                 </div>
+
+                <div class="buttons">
+                    <!-- EMPTY DIV TO ALIGN RATINGS AND AGE -->
+                </div>
+
                 <!-- AGE RATING: PG-13, TV-14... -->
                 <div id="age" class="buttons">
 
@@ -305,60 +310,114 @@
             },
             recompute: function () {
                 let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
-                var c = this.computed;
-
+                var c = this.computed.slice(0);
                 // c = [[Type], [Year], [Rating], [Genres], [Age]]
-
-                for (catagory of c) {
-                    for (item of catagory) {
-                        switch (c.indexOf(catagory)) {
-                            case 0:
-                                //type
-                                break;
-                            case 1:
-                                //year
-                                var currentyear = new Date().getFullYear();
-                                var choices = {
-                                    "yearRecent": currentyear - 9,
-                                    "year2000s": 2000,
-                                    "year90s": 1990,
-                                    "year80s": 1980,
-                                    "year70s": 1970,
-                                    "year60s": 1960,
-                                    "year50s": 1950,
-                                    "year40s": 1940,
-                                    "year30s": 1930,
-                                    "yearClassic": -1930
-                                }
-                                console.log(item.replace("'",""))
-                                var y = eval("choices.year" + item.replace("'",""));
-                                for(movie of JSON.parse(popularmoviesjson)) {
-                                    var x = movie.Year;
-                                    if (x >= y && x < y + 10) {
-                                        console.log(movie.Title + " - " + movie.Year)
-                                    }
-                                    
-                                }
-                                //console.log(options.Recent);
-                                break;
-                            case 2:
-                                //rating
-                                break;
-                            case 3:
-                                //genres
-                                break;
-                            case 4:
-                                //age
-                                break;
-
-                        }
-                        console.log(item);
-                    }
-                }
-
-                //do somthing on change
                 if (!isEmpty(c)) {
-                    4 + 4
+                    var movies = popularmoviesjson;
+                    filteredmovies = [];
+                    var count = 0;
+                    for (movie of movies) {
+                        if (count == 20) {
+                            break;
+                        }
+                        var checks = [];
+                        if (c[1].length > 0) { /*check if the year arr is not empty*/
+                            var yearcheck = false;
+                            for (item of c[1]) {
+                                var currentyear = new Date().getFullYear();
+                                var rangeStart;
+                                switch (item) {
+                                    case "Recent":
+                                        rangeStart = currentyear - 9;
+                                        break;
+                                    case "2000s":
+                                        rangeStart = 2000;
+                                        break;
+                                    case "'90s":
+                                        rangeStart = 1990;
+                                        break;
+                                    case "'80s":
+                                        rangeStart = 1980;
+                                        break;
+                                    case "'70s":
+                                        rangeStart = 1970;
+                                        break;
+                                    case "'60s":
+                                        rangeStart = 1960;
+                                        break;
+                                    case "'50s":
+                                        rangeStart = 1950;
+                                        break;
+                                    case "'40s":
+                                        rangeStart = 1940;
+                                        break;
+                                    case "'30s":
+                                        rangeStart = 1930;
+                                        break;
+                                    case "Classic":
+                                        rangeStart = 1920;
+                                        break;
+                                    default:
+                                        rangeStart = currentyear - 9;
+                                        break;
+                                }
+                                yearcheck = Number(movie.Year) >= rangeStart && Number(movie.Year) < rangeStart + 10;
+                                if (yearcheck) {
+                                    break;
+                                }
+                            }
+                            checks.push(yearcheck);
+                        }
+
+                        if (c[2].length > 0) { /*check if the rating arr is not empty*/
+                            var ratingcheck = false;
+                            var highlyrated = Number(movie.imdbRating) >= 7;
+                            var awardwinning = movie.Awards != "N/A";
+
+                            if ((c[2].includes("Highly Rated") === true) && (c[2].includes("Award-Winning") === true)) {
+                                if (highlyrated && awardwinning) {
+                                    ratingcheck = true;
+                                }
+                            }
+                            else if (c[2].includes("Highly Rated")) {
+                                ratingcheck = highlyrated;
+                            }
+                            else if (c[2].includes("Award-Winning")) {
+                                ratingcheck = awardwinning;
+                            }
+
+                            checks.push(ratingcheck);
+                        }
+
+                        if (c[3].length > 0) { /*check if the genre arr is not empty*/
+                            var genrecheck = false;
+                            var userPreferredGenres = c[3].slice(0); /* eg. ["Action", "Comedy"] */
+
+                            if (c[3].includes("Only")) {
+                                var sorted = userPreferredGenres.sort(sortArr);
+                                var resorted = _.remove(sorted, item => item != "Only");
+                                genrecheck = _.isEqual(resorted, movie.Genre.split(", "));
+                            }
+                            else {
+                                genrecheck = arrayContainsArray(movie.Genre.split(", "), userPreferredGenres);
+                            }
+
+                            checks.push(genrecheck);
+                        }
+
+                        if (c[4].length > 0) { /*check if the age arr is not empty*/
+                            var agecheck = c[4].includes(movie.Rated);
+                            checks.push(agecheck);
+                        }
+
+                        var finalscore = checks.every((val) => val === true); //makes sure all the options in the filter are true
+
+                        if (finalscore) {
+                            filteredmovies.push(movie);
+                            count++;
+                        }
+                    }
+                    console.log(filteredmovies);
                 }
                 else {
                     console.log("c is empty");
@@ -430,7 +489,7 @@
                     "Classic"
                 ],
                 [
-                    "Highly-Rated",
+                    "Highly Rated",
                     "Award-Winning"
                 ],
                 [
@@ -460,20 +519,21 @@
                     "Talk-Show",
                     "Thriller",
                     "War",
-                    "Western"
+                    "Western",
+                    "Only"
                 ],
                 [
                     "G",
                     "PG",
                     "PG-13",
                     "R",
-                    "NC-17",
-                    "TV-Y",
-                    "TV-Y7",
-                    "TV-G",
-                    "TV-PG",
-                    "TV-14",
-                    "TV-MA"
+                    "NC-17"
+                    // "TV-Y",
+                    // "TV-Y7",
+                    // "TV-G",
+                    // "TV-PG",
+                    // "TV-14",
+                    // "TV-MA"
                 ]
             ]
         }
