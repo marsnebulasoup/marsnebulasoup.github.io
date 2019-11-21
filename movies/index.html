@@ -27,6 +27,20 @@
 </head>
 <script>
     LoadZippedFile();
+    async function getbigfile() {
+        popularmoviesjson = await fetch('http://lengthapi.win/movies/db/100kpopularmovies.json')
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error("Failed with HTTP code " + response.status);
+                }
+                return res.json()
+            })
+            .catch(err => {
+                console.log("Error: " + err);
+            })
+    }
+    getbigfile();
+
 </script>
 
 <body>
@@ -267,7 +281,7 @@
 
                 <div class="tile is-ancestor">
                     <div id="filteredmovies-container" class="tile is-parent is-12" style="flex-wrap: wrap;">
-                        
+
 
                     </div>
                 </div>
@@ -370,7 +384,7 @@
                     title.innerText = movie.Title;
                     titleLi.appendChild(title);
 
-                    childMovie.addEventListener("click", function(){
+                    childMovie.addEventListener("click", function () {
                         //redirect to somewhere else
                         window.location.href = "http://lengthapi.win/time";
                     })
@@ -478,6 +492,7 @@
                                 genrecheck = _.isEqual(resorted, movie.Genre.split(", "));
                             }
                             else {
+                                console.log(movie)
                                 genrecheck = arrayContainsArray(movie.Genre.split(", "), userPreferredGenres);
                             }
 
