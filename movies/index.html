@@ -225,9 +225,7 @@
                     <!-- </div> -->
                 </div>
             </div>
-            <div class="column is-10">
-                ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-            </div>
+
             <div class="column is-4">
                 <!-- TYPE: MOVIE/TV -->
                 <div id="type" class="buttons">
@@ -260,6 +258,21 @@
 
                 </div>
             </div>
+
+            <div class="column is-10">
+                ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+            </div>
+
+            <div class="column is-12">
+
+                <div class="tile is-ancestor">
+                    <div id="filteredmovies-container" class="tile is-parent is-12" style="flex-wrap: wrap;">
+                        
+
+                    </div>
+                </div>
+            </div>
+
         </div>
 
 
@@ -289,7 +302,8 @@
             hints: "",
             inputtopcornermsg: "popular movies",
             currentFocus: -1,
-            computed: [[], [], [], [], []]
+            computed: [[], [], [], [], []],
+            filteredmovies: []
         },
         watch: {
             query: _.debounce(function (q) {
@@ -300,7 +314,72 @@
                 }
                 this.currentFocus = -1;
                 computeAutocomplete(q);
-            }, 85)
+            }, 85),
+            filteredmovies: _.debounce(function (movies) {
+                var childmovie_container = document.getElementById("filteredmovies-container");
+                childmovie_container.innerHTML = "";
+                movies.forEach(movie => {
+                    //console.log(movie.Title);
+                    // var movie = await fetch('db/ind/' + results[index].imdbID + ".json")
+                    //     .then(res => {
+                    //         if (!res.ok) {
+                    //             throw new Error("Failed with HTTP code " + response.status);
+                    //         }
+                    //         return res.json()
+                    //     })
+                    //     .catch(err => {
+                    //         console.log("Error: " + err);
+                    //     })
+
+
+                    var imgurl = movie.Poster;
+                    if (imgurl == "N/A") {
+                        imgurl = "images/unknown.png"
+                    }
+
+                    var childMovie = document.createElement("div");
+                    childMovie.setAttribute("class", "tile is-child is-2");
+
+                    var smallmovie = document.createElement("div");
+                    smallmovie.setAttribute("class", "smallmovie");
+                    childMovie.appendChild(smallmovie);
+
+                    var ul = document.createElement("ul");
+                    smallmovie.appendChild(ul);
+
+                    var card = document.createElement("div");
+                    card.setAttribute("class", "card-home");
+                    ul.appendChild(card);
+
+                    var posterLi = document.createElement("li");
+                    var titleLi = document.createElement("li");
+                    card.appendChild(posterLi);
+                    card.appendChild(titleLi);
+
+                    var posterDiv = document.createElement("p");
+                    posterDiv.setAttribute("style", "height: 13.5em");
+                    posterLi.appendChild(posterDiv);
+
+                    var poster = document.createElement("img");
+                    poster.setAttribute("class", "poster-little-home");
+                    poster.setAttribute("src", imgurl);
+                    posterDiv.appendChild(poster);
+
+                    var title = document.createElement("p");
+                    title.setAttribute("class", "caption");
+                    title.innerText = movie.Title;
+                    titleLi.appendChild(title);
+
+                    childMovie.addEventListener("click", function(){
+                        //redirect to somewhere else
+                        window.location.href = "http://lengthapi.win/time";
+                    })
+
+                    childmovie_container.insertAdjacentElement('beforeend', childMovie);
+                });
+
+            }, 1)
+
         },
         methods: {
             enter: function () {
@@ -314,8 +393,8 @@
                 // c = [[Type], [Year], [Rating], [Genres], [Age]]
                 if (!isEmpty(c)) {
                     var movies = popularmoviesjson;
-                    filteredmovies = [];
                     var count = 0;
+                    this.filteredmovies = [];
                     for (movie of movies) {
                         if (count == 20) {
                             break;
@@ -413,11 +492,11 @@
                         var finalscore = checks.every((val) => val === true); //makes sure all the options in the filter are true
 
                         if (finalscore) {
-                            filteredmovies.push(movie);
+                            this.filteredmovies.push(movie);
                             count++;
                         }
                     }
-                    console.log(filteredmovies);
+
                 }
                 else {
                     console.log("c is empty");

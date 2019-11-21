@@ -223,7 +223,7 @@ function arrayContainsArray(superset, subset) {
     return true;
 }
 
-function sortArr(a, b) { 
+function sortArr(a, b) {
     /* alphabatize an arr. use with sort like so: var sorted = ["Peaches", "Cranberries", "Apples"].sort(sortArr);  */
     if (a < b) return -1;
     else if (a > b) return 1;
@@ -231,3 +231,14 @@ function sortArr(a, b) {
 }
 
 
+var testobj_delete_this_if_you_find_it = {
+    "Title": "Joker",
+    "Year": "2019",
+    "Rated": "R",
+    "Genre": "Crime, Drama, Thriller",
+    "Awards": "N/A",
+    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbRating": "8.9",
+    "Type": "movie",    
+    "imdbID": "tt7286456"
+}

@@ -112,6 +112,26 @@ textarea {
     margin-right: auto;
 }
 
+.poster-little-home {
+    border-radius: 10px;
+    height: 13em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card-home {
+    padding: 10px;
+    border-radius: 10px;
+    /* background-color: black; */
+}
+
+    .card-home:hover {
+        transition: box-shadow 0.1s ease-in-out;
+       -webkit-transition: box-shadow 0.1s ease-in-out;
+        box-shadow: 1px 1px 12px 0px black;
+    }
+
 h1, h2, h3, h4, h5, p {
     color: white;
 }
