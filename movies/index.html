@@ -273,10 +273,75 @@
                 </div>
             </div>
 
-            <div class="column is-10">
-                ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-            </div>
+            <div class="column is-12">
+                <div class="dropdown">
+                    <div class="dropdown-trigger">
+                        <button class="button is-small is-rounded is-primary is-outlined is-hovered">
+                            <span>Sort <span style="font-variant: small-caps;">{{sortvalue}}</span></span>
+                            <span class="icon is-small">
+                                <i class="fas fa-angle-down" aria-hidden="true"></i>
+                            </span>
+                        </button>
+                    </div>
+                    <div class="dropdown-menu" id="dropdown-menu2" role="menu">
+                        <div style="background-color: rgb(9,6,61,1) !important; box-shadow: 2px 2px 20px 1px black !important;"
+                            class="dropdown-content">
+                            <div onclick="SelectDropdown(this);" class="dropdown-item selected">
+                                <p>Popularity</p>
+                            </div>
+                            <!-- <hr class="dropdown-divider"> -->
+                            <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <p>Newest</p>
+                            </div>
+                            <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <p>Rating (High to Low)</p>
+                            </div>
+                            <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <p>Rating (Low to High)</p>
+                            </div>
 
+                        </div>
+                    </div>
+
+                    <style>
+                        .dropdown-content p:hover {
+                            color: gray;
+                        }
+                    </style>
+                </div>
+
+                <!-- <p style="font-variant: small-caps;">no results found</p> -->
+            </div>
+            <script>
+                let dropdown = document.querySelector('.dropdown');
+                dropdown.addEventListener('click', function (event) {
+                    //event.stopPropagation();
+                    dropdown.classList.toggle('is-active');
+                });
+                function getSiblings(elem) {
+                    // Setup siblings array and get the first sibling
+                    var siblings = [];
+                    var sibling = elem.parentNode.firstChild;
+
+                    // Loop through each sibling and push to the array
+                    while (sibling) {
+                        if (sibling.nodeType === 1 && sibling !== elem) {
+                            siblings.push(sibling);
+                        }
+                        sibling = sibling.nextSibling
+                    }
+
+                    return siblings;
+
+                };
+                function SelectDropdown(el) {
+                    if (!el.classList.contains("selected")) {
+                        getSiblings(el).forEach(elem => elem.classList.remove("selected"));
+                        el.classList.add("selected");
+
+                    }
+                }
+            </script>
             <div class="column is-12">
 
                 <div class="tile is-ancestor">
@@ -291,7 +356,7 @@
 
 
     </div>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
 </body>
 
@@ -317,7 +382,8 @@
             inputtopcornermsg: "popular movies",
             currentFocus: -1,
             computed: [[], [], [], [], []],
-            filteredmovies: []
+            filteredmovies: [],
+            sortvalue: "popularity"
         },
         watch: {
             query: _.debounce(function (q) {
@@ -514,12 +580,24 @@
                 }
                 else {
                     console.log("c is empty");
+                    overlay.filteredmovies = [];
+
                 }
 
             }
         }
     })
 
+    let count = 0;
+    let twentypopularmovies = [];
+    for (movie of popularmoviesjson) {
+        if (count == 20) {
+            break;
+        }
+        twentypopularmovies.push(movie);
+        count++;
+    }
+    overlay.filteredmovies = twentypopularmovies;
 
     document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
         var x = document.getElementById("hints-hints");
