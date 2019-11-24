@@ -346,7 +346,7 @@
             url: "", //trailer url
             displaytrailer: false,
             query: "",
-            hints: "",
+            hints: "", //should delete this; it's not nessesarry. it's for v-html="hints" somewhere
             inputtopcornermsg: "popular movies",
             sortvalue: "popularity",
             currentFocus: -1,
@@ -621,6 +621,7 @@
         count++;
     }
     overlay.filteredmovies = twentypopularmovies;
+    Display(twentypopularmovies);
 
     ////////
     let dropdown = document.querySelector('.dropdown');
