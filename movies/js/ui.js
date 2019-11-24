@@ -230,6 +230,28 @@ function sortArr(a, b) {
     return 0;
 }
 
+function getSiblings(elem) {
+    //Get siblings of an element
+    // Setup siblings array and get the first sibling
+    var siblings = [];
+    var sibling = elem.parentNode.firstChild;
+
+    // Loop through each sibling and push to the array
+    while (sibling) {
+        if (sibling.nodeType === 1 && sibling !== elem) {
+            siblings.push(sibling);
+        }
+        sibling = sibling.nextSibling
+    }
+
+    return siblings;
+
+}
+
+let isEmpty = a => Array.isArray(a) && a.every(isEmpty); 
+/*one-liner to check if an array is empty. call it like a function. 
+eg. isEmpty(["apples", "cranberries"]) will return false */
+
 
 var testobj_delete_this_if_you_find_it = {
     "Title": "Joker",

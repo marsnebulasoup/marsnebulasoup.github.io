@@ -71,289 +71,257 @@
                         <i class="fas fa-search"></i>
                     </span>
                 </p>
+            </div>
+        </div>
+        <div id="app">
+            <div id="overlay-search">
+                <div v-show="displaytrailer == false" class="close-overlay-button">
+                    <i onclick="TransformSearch()" class="fas fa-arrow-left fa-2x"></i>
+                </div>
+                <div class="columns is-multiline is-centered overlay-container">
+                    <div class="column is-6 sticky">
+                        <div id="searchbarcontainer">
+                            <ul style="background-color: black;" id="hints-container" class="hints-container">
+                                <input v-model="query" v-on:keyup.enter="enter" id="hints-searchbar" type="text"
+                                    class="input is-rounded is-large hints-searchbar"
+                                    placeholder="Start typing to search movies">
+                                <li class="hints-hints-container" id="hints-hints-container">
+                                    <div>
+                                        <ul class="hints-li">
+                                            <li>
+                                                <div
+                                                    style="padding-left: 1% !important; padding-top: 1%; font-variant: small-caps;">
+                                                    {{inputtopcornermsg}}
+                                                </div>
+                                            </li>
+                                            <ul id="hints-hints" class="hints-hints">
 
-                <div id="overlay-search">
-                    <div v-show="displaytrailer == false" class="close-overlay-button">
-                        <i onclick="TransformSearch()" class="fas fa-arrow-left fa-2x"></i>
-                    </div>
-                    <div class="columns is-multiline is-centered overlay-container">
-                        <div class="column is-6 sticky">
-                            <div id="searchbarcontainer">
-                                <ul style="background-color: black;" id="hints-container" class="hints-container">
-                                    <input v-model="query" v-on:keyup.enter="enter" id="hints-searchbar" type="text"
-                                        class="input is-rounded is-large hints-searchbar"
-                                        placeholder="Start typing to search movies">
-                                    <li class="hints-hints-container" id="hints-hints-container">
-                                        <div>
-                                            <ul class="hints-li">
-                                                <li>
-                                                    <div
-                                                        style="padding-left: 1% !important; padding-top: 1%; font-variant: small-caps;">
-                                                        {{inputtopcornermsg}}
-                                                    </div>
-                                                </li>
-                                                <ul id="hints-hints" class="hints-hints">
-
-                                                </ul>
                                             </ul>
-                                        </div>
-                                    </li>
-
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="column is-10" style="margin-top: 6%;">
-                            <p id="nav">{{navbar}}</p>
-                        </div>
-                        <div v-show="title != ''" class="column is-10">
-                            <div class="tile is-ancestor">
-                                <div id="overlay" class="tile is-12 overlay">
-
-                                    <div class="col" style="width:18%; height:20em;">
-                                        <img id="poster" class="poster" v-bind:src="poster" />
+                                        </ul>
                                     </div>
-                                    <div class="col" style="width: 60%">
-                                        <div class="outer-container">
-                                            <div class="top-section">
-                                                <p id="title" style="font-size: 2em;">{{title}}</p>
+                                </li>
 
-                                                <p id="plot" style="padding-top:20px;font-size: 1.25em;">
-                                                    {{plot}}
-                                                </p>
-                                            </div>
-                                            <div class="bottom-section">
-                                                <div class="bottom-aligner"></div>
-                                                <div class="bottom-content">
-                                                    <div>
-                                                        <p id="info" class="movieinfo" style="font-size: 1.1em">{{year}}
-                                                            &middot; {{runtime}} &middot; <span
-                                                                class="boxed">{{age}}</span> </p>
-                                                        <p class="movieinfo break" style="font-size: 1.1em;">IMDb
-                                                            {{rating}} &middot;
-                                                            {{genres}}</p>
-                                                    </div>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="column is-10" style="margin-top: 6%;">
+                        <p id="nav">{{navbar}}</p>
+                    </div>
+                    <div v-show="title != ''" class="column is-10">
+                        <div class="tile is-ancestor">
+                            <div id="overlay" class="tile is-12 overlay">
+
+                                <div class="col" style="width:18%; height:20em;">
+                                    <img id="poster" class="poster" v-bind:src="poster" />
+                                </div>
+                                <div class="col" style="width: 60%">
+                                    <div class="outer-container">
+                                        <div class="top-section">
+                                            <p id="title" style="font-size: 2em;">{{title}}</p>
+
+                                            <p id="plot" style="padding-top:20px;font-size: 1.25em;">
+                                                {{plot}}
+                                            </p>
+                                        </div>
+                                        <div class="bottom-section">
+                                            <div class="bottom-aligner"></div>
+                                            <div class="bottom-content">
+                                                <div>
+                                                    <p id="info" class="movieinfo" style="font-size: 1.1em">{{year}}
+                                                        &middot; {{runtime}} &middot; <span class="boxed">{{age}}</span>
+                                                    </p>
+                                                    <p class="movieinfo break" style="font-size: 1.1em;">IMDb
+                                                        {{rating}} &middot;
+                                                        {{genres}}</p>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="col" style=" width:20%">
-                                        <div class="mainmoviebuttons">
-                                            <ul style="width:100%; height:100%;">
-                                                <li>
-                                                    <span>
-                                                        <a id="trailer"
-                                                            onclick="GetTrailer(overlay.currentmovieid).then(result => overlay.url = result, error => console.log(error)); overlay.displaytrailer = true;"
-                                                            class="button is-rounded is-link is-large is-outlined block">
-                                                            <i class="fas fa-play"></i>
-                                                            &nbsp;
-                                                            Play Trailer
-                                                        </a>
-                                                    </span>
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <a id="watchlist"
-                                                            class="button is-rounded is-link is-large is-outlined block">
-                                                            <i class="fas fa-plus"></i>
-                                                            <i style="display: none" class="fas fa-check"></i>
-                                                            &nbsp;
-                                                            Watchlist
-                                                            &nbsp;
-                                                        </a>
-                                                    </span>
-                                                </li>
-                                                <li>
-                                                    <span>
-                                                        <div class="rating-holder">
-                                                            <div id="stars" class="c-rating c-rating--big"
-                                                                data-rating-value="1.25">
-                                                                <div class="level">
-                                                                    <div class="level-left">
-                                                                        <button>1</button>
-                                                                        <button>2</button>
-                                                                        <button>3</button>
-                                                                        <button>4</button>
-                                                                        <button>5</button>
-                                                                    </div>
-                                                                    <div class="level-right">
-                                                                        <p id="reviewinfo" class="movieinfo"
-                                                                            style="font-size: 75%"> &nbsp; 4.9 &middot;
-                                                                            (1034)</p>
-                                                                    </div>
+                                </div>
+                                <div class="col" style=" width:20%">
+                                    <div class="mainmoviebuttons">
+                                        <ul style="width:100%; height:100%;">
+                                            <li>
+                                                <span>
+                                                    <a id="trailer"
+                                                        onclick="GetTrailer(overlay.currentmovieid).then(result => overlay.url = result, error => console.log(error)); overlay.displaytrailer = true;"
+                                                        class="button is-rounded is-link is-large is-outlined block">
+                                                        <i class="fas fa-play"></i>
+                                                        &nbsp;
+                                                        Play Trailer
+                                                    </a>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span>
+                                                    <a id="watchlist"
+                                                        class="button is-rounded is-link is-large is-outlined block">
+                                                        <i class="fas fa-plus"></i>
+                                                        <i style="display: none" class="fas fa-check"></i>
+                                                        &nbsp;
+                                                        Watchlist
+                                                        &nbsp;
+                                                    </a>
+                                                </span>
+                                            </li>
+                                            <li>
+                                                <span>
+                                                    <div class="rating-holder">
+                                                        <div id="stars" class="c-rating c-rating--big"
+                                                            data-rating-value="1.25">
+                                                            <div class="level">
+                                                                <div class="level-left">
+                                                                    <button>1</button>
+                                                                    <button>2</button>
+                                                                    <button>3</button>
+                                                                    <button>4</button>
+                                                                    <button>5</button>
+                                                                </div>
+                                                                <div class="level-right">
+                                                                    <p id="reviewinfo" class="movieinfo"
+                                                                        style="font-size: 75%"> &nbsp; 4.9 &middot;
+                                                                        (1034)</p>
                                                                 </div>
                                                             </div>
                                                         </div>
-                                                        <div>
-                                                        </div>
-                                                    </span>
-                                                </li>
-                                            </ul>
-                                        </div>
+                                                    </div>
+                                                    <div>
+                                                    </div>
+                                                </span>
+                                            </li>
+                                        </ul>
                                     </div>
-                                    <div v-if="displaytrailer == true" id="overlay-trailer">
-                                        <div v-on:click="displaytrailer = false" class="close-overlay-button">
-                                            <i class="fas fa-arrow-left fa-2x"></i>
-                                        </div>
-                                        <iframe v-if="url != ''" width="1120" height="630" v-bind:src="url"
-                                            frameborder="0"
-                                            allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                                            allowfullscreen></iframe>
+                                </div>
+                                <div v-if="displaytrailer == true" id="overlay-trailer">
+                                    <div v-on:click="displaytrailer = false" class="close-overlay-button">
+                                        <i class="fas fa-arrow-left fa-2x"></i>
+                                    </div>
+                                    <iframe v-if="url != ''" width="1120" height="630" v-bind:src="url" frameborder="0"
+                                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                                        allowfullscreen></iframe>
 
-                                        <div v-else class="tile is-ancestor"
-                                            style="align-items: center; justify-content: center;">
-                                            <div class="tile is-parent is-4">
-                                                <div class="tile is-child"
-                                                    style="padding: 15px; background-color: #090979; border-radius: 10px;">
-                                                    <h1 style="font-size:24pt;">Uh-oh! &nbsp;&nbsp; :-(</h1>
-                                                    <br>
-                                                    <p class="subtitle">The trailer for this movie wasn't found.</p>
-                                                </div>
+                                    <div v-else class="tile is-ancestor"
+                                        style="align-items: center; justify-content: center;">
+                                        <div class="tile is-parent is-4">
+                                            <div class="tile is-child"
+                                                style="padding: 15px; background-color: #090979; border-radius: 10px;">
+                                                <h1 style="font-size:24pt;">Uh-oh! &nbsp;&nbsp; :-(</h1>
+                                                <br>
+                                                <p class="subtitle">The trailer for this movie wasn't found.</p>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
-
-
                             </div>
+
 
                         </div>
 
-                        <div id="therest" class="column is-10">
-                            <div class="tile is-ancestor">
-                                <div id="parentMovie" class="tile is-parent is-12" style="flex-wrap: wrap;">
+                    </div>
 
+                    <div id="therest" class="column is-10">
+                        <div class="tile is-ancestor">
+                            <div id="parentMovie" class="tile is-parent is-12" style="flex-wrap: wrap;">
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div style="padding-top:5%;" class="columns is-multiline is-centered buttons-group">
+                <div id="pick" class="column is-12">
+                    <div class="moviepicker-container">
+                        <p style="font-size: 1.5em; text-align:center;">What do <i><b>you</b></i> want to watch?</p>
+                        <!-- <div class="tile is-ancestor"> -->
+
+                        <!-- </div> -->
+                    </div>
+                </div>
+
+                <div class="column is-4">
+                    <!-- TYPE: MOVIE/TV -->
+                    <div id="type" class="buttons">
+
+                    </div>
+
+                    <!-- YEAR: 2000s 90s... -->
+                    <div id="year" class="buttons">
+
+                    </div>
+
+                    <!-- RATING: HIGHLY RATED, AWARD-WINNING -->
+                    <div id="rating" class="buttons ">
+
+                    </div>
+                </div>
+                <!-- NEXT COLUMN -->
+                <div class="column is-8">
+                    <!-- GENRE: ACTION, COMEDY... -->
+                    <div id="genres" class="buttons ">
+
+                    </div>
+
+                    <div class="buttons">
+                        <!-- EMPTY DIV TO ALIGN RATINGS AND AGE -->
+                    </div>
+
+                    <!-- AGE RATING: PG-13, TV-14... -->
+                    <div id="age" class="buttons">
+
+                    </div>
+                </div>
+
+                <div class="column is-12">
+                    <div class="dropdown">
+                        <div class="dropdown-trigger">
+                            <button class="button is-small is-rounded is-primary is-outlined is-hovered">
+                                <span>Sort <span style="font-variant: small-caps;">({{sortvalue}})</span></span>
+                                <span class="icon is-small">
+                                    <i class="fas fa-angle-down" aria-hidden="true"></i>
+                                </span>
+                            </button>
+                        </div>
+                        <div class="dropdown-menu" id="dropdown-menu2" role="menu">
+                            <div id="dropdowncontent"
+                                style="background-color: rgb(9,6,61,1) !important; box-shadow: 2px 2px 20px 1px black !important;"
+                                class="dropdown-content">
+                                <div onclick="SelectDropdown(this);" class="dropdown-item selected">
+                                    <p>Popularity</p>
                                 </div>
+                                <!-- <hr class="dropdown-divider"> -->
+                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                    <p>Newest</p>
+                                </div>
+                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                    <p>Rating - High to Low</p>
+                                </div>
+                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                    <p>Rating - Low to High</p>
+                                </div>
+
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
 
-        <div style="padding-top:5%;" class="columns is-multiline is-centered buttons-group">
-            <div id="pick" class="column is-12">
-                <div class="moviepicker-container">
-                    <p style="font-size: 1.5em; text-align:center;">What do <i><b>you</b></i> want to watch?</p>
-                    <!-- <div class="tile is-ancestor"> -->
-
-                    <!-- </div> -->
-                </div>
-            </div>
-
-            <div class="column is-4">
-                <!-- TYPE: MOVIE/TV -->
-                <div id="type" class="buttons">
-
+                    <!-- <p style="font-variant: small-caps;">no results found</p> -->
                 </div>
 
-                <!-- YEAR: 2000s 90s... -->
-                <div id="year" class="buttons">
+                <div class="column is-12">
 
-                </div>
-
-                <!-- RATING: HIGHLY RATED, AWARD-WINNING -->
-                <div id="rating" class="buttons ">
-
-                </div>
-            </div>
-            <!-- NEXT COLUMN -->
-            <div class="column is-8">
-                <!-- GENRE: ACTION, COMEDY... -->
-                <div id="genres" class="buttons ">
-
-                </div>
-
-                <div class="buttons">
-                    <!-- EMPTY DIV TO ALIGN RATINGS AND AGE -->
-                </div>
-
-                <!-- AGE RATING: PG-13, TV-14... -->
-                <div id="age" class="buttons">
-
-                </div>
-            </div>
-
-            <div class="column is-12">
-                <div class="dropdown">
-                    <div class="dropdown-trigger">
-                        <button class="button is-small is-rounded is-primary is-outlined is-hovered">
-                            <span>Sort <span style="font-variant: small-caps;">{{sortvalue}}</span></span>
-                            <span class="icon is-small">
-                                <i class="fas fa-angle-down" aria-hidden="true"></i>
-                            </span>
-                        </button>
-                    </div>
-                    <div class="dropdown-menu" id="dropdown-menu2" role="menu">
-                        <div style="background-color: rgb(9,6,61,1) !important; box-shadow: 2px 2px 20px 1px black !important;"
-                            class="dropdown-content">
-                            <div onclick="SelectDropdown(this);" class="dropdown-item selected">
-                                <p>Popularity</p>
-                            </div>
-                            <!-- <hr class="dropdown-divider"> -->
-                            <div onclick="SelectDropdown(this);" class="dropdown-item">
-                                <p>Newest</p>
-                            </div>
-                            <div onclick="SelectDropdown(this);" class="dropdown-item">
-                                <p>Rating (High to Low)</p>
-                            </div>
-                            <div onclick="SelectDropdown(this);" class="dropdown-item">
-                                <p>Rating (Low to High)</p>
-                            </div>
+                    <div class="tile is-ancestor">
+                        <div id="filteredmovies-container" class="tile is-parent is-12" style="flex-wrap: wrap;">
 
                         </div>
                     </div>
-
-                    <style>
-                        .dropdown-content p:hover {
-                            color: gray;
-                        }
-                    </style>
                 </div>
 
-                <!-- <p style="font-variant: small-caps;">no results found</p> -->
             </div>
-            <script>
-                let dropdown = document.querySelector('.dropdown');
-                dropdown.addEventListener('click', function (event) {
-                    //event.stopPropagation();
-                    dropdown.classList.toggle('is-active');
-                });
-                function getSiblings(elem) {
-                    // Setup siblings array and get the first sibling
-                    var siblings = [];
-                    var sibling = elem.parentNode.firstChild;
-
-                    // Loop through each sibling and push to the array
-                    while (sibling) {
-                        if (sibling.nodeType === 1 && sibling !== elem) {
-                            siblings.push(sibling);
-                        }
-                        sibling = sibling.nextSibling
-                    }
-
-                    return siblings;
-
-                };
-                function SelectDropdown(el) {
-                    if (!el.classList.contains("selected")) {
-                        getSiblings(el).forEach(elem => elem.classList.remove("selected"));
-                        el.classList.add("selected");
-
-                    }
-                }
-            </script>
-            <div class="column is-12">
-
-                <div class="tile is-ancestor">
-                    <div id="filteredmovies-container" class="tile is-parent is-12" style="flex-wrap: wrap;">
-
-
-                    </div>
-                </div>
-            </div>
-
         </div>
-
+        <style>
+            .dropdown-content p:hover {
+                color: gray;
+            }
+        </style>
 
     </div>
     <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
@@ -363,7 +331,7 @@
 <script>
 
     var overlay = new Vue({
-        el: "#overlay-search",
+        el: "#app",
         data: {
             title: "",
             poster: "",
@@ -380,10 +348,11 @@
             query: "",
             hints: "",
             inputtopcornermsg: "popular movies",
+            sortvalue: "popularity",
             currentFocus: -1,
             computed: [[], [], [], [], []],
             filteredmovies: [],
-            sortvalue: "popularity"
+            filteredmovies_sorted_by_popularity: []
         },
         watch: {
             query: _.debounce(function (q) {
@@ -395,70 +364,95 @@
                 this.currentFocus = -1;
                 computeAutocomplete(q);
             }, 85),
+
             filteredmovies: _.debounce(function (movies) {
                 var childmovie_container = document.getElementById("filteredmovies-container");
                 childmovie_container.innerHTML = "";
-                movies.forEach(movie => {
-                    //console.log(movie.Title);
-                    // var movie = await fetch('db/ind/' + results[index].imdbID + ".json")
-                    //     .then(res => {
-                    //         if (!res.ok) {
-                    //             throw new Error("Failed with HTTP code " + response.status);
-                    //         }
-                    //         return res.json()
-                    //     })
-                    //     .catch(err => {
-                    //         console.log("Error: " + err);
-                    //     })
+                if (!isEmpty(movies)) {
+                    movies.forEach(movie => {
+                        //console.log(movie.Title);
+                        // var movie = await fetch('db/ind/' + results[index].imdbID + ".json")
+                        //     .then(res => {
+                        //         if (!res.ok) {
+                        //             throw new Error("Failed with HTTP code " + response.status);
+                        //         }
+                        //         return res.json()
+                        //     })
+                        //     .catch(err => {
+                        //         console.log("Error: " + err);
+                        //     })
 
 
-                    var imgurl = movie.Poster;
-                    if (imgurl == "N/A") {
-                        imgurl = "images/unknown.png"
-                    }
+                        var imgurl = movie.Poster;
+                        if (imgurl == "N/A") {
+                            imgurl = "images/unknown.png"
+                        }
 
-                    var childMovie = document.createElement("div");
-                    childMovie.setAttribute("class", "tile is-child is-2");
+                        var childMovie = document.createElement("div");
+                        childMovie.setAttribute("class", "tile is-child is-2");
 
-                    var smallmovie = document.createElement("div");
-                    smallmovie.setAttribute("class", "smallmovie");
-                    childMovie.appendChild(smallmovie);
+                        var smallmovie = document.createElement("div");
+                        smallmovie.setAttribute("class", "smallmovie");
+                        childMovie.appendChild(smallmovie);
 
-                    var ul = document.createElement("ul");
-                    smallmovie.appendChild(ul);
+                        var ul = document.createElement("ul");
+                        smallmovie.appendChild(ul);
 
-                    var card = document.createElement("div");
-                    card.setAttribute("class", "card-home");
-                    ul.appendChild(card);
+                        var card = document.createElement("div");
+                        card.setAttribute("class", "card-home");
+                        ul.appendChild(card);
 
-                    var posterLi = document.createElement("li");
-                    var titleLi = document.createElement("li");
-                    card.appendChild(posterLi);
-                    card.appendChild(titleLi);
+                        var posterLi = document.createElement("li");
+                        var titleLi = document.createElement("li");
+                        card.appendChild(posterLi);
+                        card.appendChild(titleLi);
 
-                    var posterDiv = document.createElement("p");
-                    posterDiv.setAttribute("style", "height: 13.5em");
-                    posterLi.appendChild(posterDiv);
+                        var posterDiv = document.createElement("p");
+                        posterDiv.setAttribute("style", "height: 13.5em");
+                        posterLi.appendChild(posterDiv);
 
-                    var poster = document.createElement("img");
-                    poster.setAttribute("class", "poster-little-home");
-                    poster.setAttribute("src", imgurl);
-                    posterDiv.appendChild(poster);
+                        var poster = document.createElement("img");
+                        poster.setAttribute("class", "poster-little-home");
+                        poster.setAttribute("src", imgurl);
+                        posterDiv.appendChild(poster);
 
-                    var title = document.createElement("p");
-                    title.setAttribute("class", "caption");
-                    title.innerText = movie.Title;
-                    titleLi.appendChild(title);
+                        var title = document.createElement("p");
+                        title.setAttribute("class", "caption");
+                        title.innerText = movie.Title;
+                        titleLi.appendChild(title);
 
-                    childMovie.addEventListener("click", function () {
-                        //redirect to somewhere else
-                        window.location.href = "http://lengthapi.win/time";
-                    })
+                        childMovie.addEventListener("click", function () {
+                            //redirect to somewhere else
+                            window.location.href = "http://lengthapi.win/time";
+                        })
 
-                    childmovie_container.insertAdjacentElement('beforeend', childMovie);
-                });
+                        childmovie_container.insertAdjacentElement('beforeend', childMovie);
+                    });
+                }
+                else if(this.computed.every(arr => !arr.length > 0)){
+                    childmovie_container.innerHTML = `
+                    <div class="tile is-child">
+                        <p style="text-align: center;">
+                            <span style="font-size: 150%;">Click some buttons to search :)  </span>
+                        </p>
+                    </div>`
+                }
+                else {
+                    childmovie_container.innerHTML = `
+                    <div class="tile is-child">
+                        <p style="text-align: center;">
+                            <span style="font-size: 150%;">No results found :(</span>
+                            <br>
+                            <span class="has-text-light" style="font-variant: small-caps;">try doing a less specific search</span>
+                        </p>
+                    </div>`
+                }
 
-            }, 1)
+            }, 200),
+
+            sortvalue: function () {
+                this.sorter();
+            }
 
         },
         methods: {
@@ -468,10 +462,16 @@
                 SearchMovies();
             },
             recompute: function () {
-                let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
+                var childmovie_container = document.getElementById("filteredmovies-container");
                 var c = this.computed.slice(0);
                 // c = [[Type], [Year], [Rating], [Genres], [Age]]
                 if (!isEmpty(c)) {
+                    childmovie_container.innerHTML = `
+                    <div class="tile is-child">
+                        <p style="text-align: center;">
+                            <span style="font-size: 150%;">Loading...</span>
+                        </p>
+                    </div>`
                     var movies = popularmoviesjson;
                     var count = 0;
                     this.filteredmovies = [];
@@ -576,14 +576,37 @@
                             count++;
                         }
                     }
+                    //SelectDropdown()
+                    this.filteredmovies_sorted_by_popularity = this.filteredmovies;
+                    this.sorter();
+
+                    // forEach(                        node => node.classList.contains("selected"))                      );
 
                 }
                 else {
                     console.log("c is empty");
-                    overlay.filteredmovies = [];
+                    this.filteredmovies = [];
 
                 }
 
+            },
+            sorter: function () {
+                var operation = this.sortvalue;
+
+                if (operation == "popularity") {
+                    if(!this.computed.every(arr => !arr.length > 0)){
+                        this.filteredmovies = this.filteredmovies_sorted_by_popularity;
+                    }
+                }
+                else if (operation == "newest") {
+                    this.filteredmovies = _.orderBy(this.filteredmovies, ['Year'], ['desc']);
+                }
+                else if (operation == "rating - high to low") {
+                    this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['desc']);
+                }
+                else if (operation == "rating - low to high") {
+                    this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['asc']);
+                }
             }
         }
     })
@@ -598,6 +621,22 @@
         count++;
     }
     overlay.filteredmovies = twentypopularmovies;
+
+    ////////
+    let dropdown = document.querySelector('.dropdown');
+    dropdown.addEventListener('click', function (event) {
+        //event.stopPropagation();
+        dropdown.classList.toggle('is-active');
+    });
+
+    function SelectDropdown(el) {
+        if (!el.classList.contains("selected")) {
+            getSiblings(el).forEach(elem => elem.classList.remove("selected"));
+            el.classList.add("selected");
+            overlay.sortvalue = el.innerText.toLowerCase();
+        }
+    }
+    ///////////////
 
     document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
         var x = document.getElementById("hints-hints");
