@@ -210,116 +210,6 @@ function CloseListsAndSearch(e) {
     SearchMovies();
 }
 
-//
-
-function FilterMovies(c) {
-    var movies = popularmoviesjson;
-    var count = 0;
-    filtered = [];
-    for (movie of movies) {
-        if (count == 20) {
-            break;
-        }
-        var checks = [];
-        if (c[1].length > 0) { /*check if the year arr is not empty*/
-            var yearcheck = false;
-            for (item of c[1]) {
-                var currentyear = new Date().getFullYear();
-                var rangeStart;
-                switch (item) {
-                    case "Recent":
-                        rangeStart = currentyear - 9;
-                        break;
-                    case "2000s":
-                        rangeStart = 2000;
-                        break;
-                    case "'90s":
-                        rangeStart = 1990;
-                        break;
-                    case "'80s":
-                        rangeStart = 1980;
-                        break;
-                    case "'70s":
-                        rangeStart = 1970;
-                        break;
-                    case "'60s":
-                        rangeStart = 1960;
-                        break;
-                    case "'50s":
-                        rangeStart = 1950;
-                        break;
-                    case "'40s":
-                        rangeStart = 1940;
-                        break;
-                    case "'30s":
-                        rangeStart = 1930;
-                        break;
-                    case "Classic":
-                        rangeStart = 1920;
-                        break;
-                    default:
-                        rangeStart = currentyear - 9;
-                        break;
-                }
-                yearcheck = Number(movie.Year) >= rangeStart && Number(movie.Year) < rangeStart + 10;
-                if (yearcheck) {
-                    break;
-                }
-            }
-            checks.push(yearcheck);
-        }
-
-        if (c[2].length > 0) { /*check if the rating arr is not empty*/
-            var ratingcheck = false;
-            var highlyrated = Number(movie.imdbRating) >= 7;
-            var awardwinning = movie.Awards != "N/A";
-
-            if ((c[2].includes("Highly Rated") === true) && (c[2].includes("Award-Winning") === true)) {
-                if (highlyrated && awardwinning) {
-                    ratingcheck = true;
-                }
-            }
-            else if (c[2].includes("Highly Rated")) {
-                ratingcheck = highlyrated;
-            }
-            else if (c[2].includes("Award-Winning")) {
-                ratingcheck = awardwinning;
-            }
-
-            checks.push(ratingcheck);
-        }
-
-        if (c[3].length > 0) { /*check if the genre arr is not empty*/
-            var genrecheck = false;
-            var userPreferredGenres = c[3].slice(0); /* eg. ["Action", "Comedy"] */
-
-            if (c[3].includes("Only")) {
-                var sorted = userPreferredGenres.sort(sortArr);
-                var resorted = _.remove(sorted, item => item != "Only");
-                genrecheck = _.isEqual(resorted, movie.Genre.split(", "));
-            }
-            else {
-                genrecheck = arrayContainsArray(movie.Genre.split(", "), userPreferredGenres);
-            }
-
-            checks.push(genrecheck);
-        }
-
-        if (c[4].length > 0) { /*check if the age arr is not empty*/
-            var agecheck = c[4].includes(movie.Rated);
-            checks.push(agecheck);
-        }
-
-        var finalscore = checks.every((val) => val === true); //makes sure all the options in the filter are true
-
-        if (finalscore) {
-            filtered.push(movie);
-            count++;
-        }
-    }
-
-    return filtered;
-}
 //extras
 
 function arrayContainsArray(superset, subset) {
@@ -358,11 +248,9 @@ function getSiblings(elem) {
 
 }
 
-let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
+let isEmpty = a => Array.isArray(a) && a.every(isEmpty); 
 /*one-liner to check if an array is empty. call it like a function. 
 eg. isEmpty(["apples", "cranberries"]) will return false */
-
-
 
 
 var testobj_delete_this_if_you_find_it = {
@@ -373,6 +261,6 @@ var testobj_delete_this_if_you_find_it = {
     "Awards": "N/A",
     "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
     "imdbRating": "8.9",
-    "Type": "movie",
+    "Type": "movie",    
     "imdbID": "tt7286456"
 }
