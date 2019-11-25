@@ -283,9 +283,7 @@
                             </button>
                         </div>
                         <div class="dropdown-menu" id="dropdown-menu2" role="menu">
-                            <div id="dropdowncontent"
-                                style="background-color: rgb(9,6,61,1) !important; box-shadow: 2px 2px 20px 1px black !important;"
-                                class="dropdown-content">
+                            <div id="dropdowncontent" class="dropdown-content">
                                 <div onclick="SelectDropdown(this);" class="dropdown-item selected">
                                     <p>Popularity</p>
                                 </div>
@@ -318,14 +316,9 @@
 
             </div>
         </div>
-        <style>
-            .dropdown-content p:hover {
-                color: gray;
-            }
-        </style>
+
 
     </div>
-    <!-- <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> -->
 
 </body>
 
@@ -347,7 +340,6 @@
             url: "", //trailer url
             displaytrailer: false,
             query: "",
-            hints: "", //should delete this; it's not nessesarry. it's for v-html="hints" somewhere
             inputtopcornermsg: "popular movies",
             sortvalue: "popularity",
             currentFocus: -1,
@@ -473,21 +465,15 @@
                             <span style="font-size: 150%;">Loading...</span>
                         </p>
                     </div>`
-                    
-                    //SelectDropdown()
-                    this.filteredmovies = FilterMovies(c);
-                    this.filteredmovies_sorted_by_popularity = this.filteredmovies;
+                    var thefilteredmovies = FilterMovies(c);
+                    this.filteredmovies = thefilteredmovies.slice(0);
+                    this.filteredmovies_sorted_by_popularity = thefilteredmovies.slice(0);
                     this.sorter();
-
-                    // forEach(                        node => node.classList.contains("selected"))                      );
-
                 }
                 else {
                     console.log("c is empty");
                     this.filteredmovies = [];
-
                 }
-
             },
             sorter: function () {
                 var operation = this.sortvalue;
@@ -510,24 +496,11 @@
         }
     })
 
-    
-
-
-    ////////
     let dropdown = document.querySelector('.dropdown');
     dropdown.addEventListener('click', function (event) {
         //event.stopPropagation();
         dropdown.classList.toggle('is-active');
     });
-
-    function SelectDropdown(el) {
-        if (!el.classList.contains("selected")) {
-            getSiblings(el).forEach(elem => elem.classList.remove("selected"));
-            el.classList.add("selected");
-            overlay.sortvalue = el.innerText.toLowerCase();
-        }
-    }
-    ///////////////
 
     document.getElementById("hints-searchbar").addEventListener("keydown", function (e) {
         var x = document.getElementById("hints-hints");
@@ -559,89 +532,10 @@
         }
     });
 
-    PreloadPopularMovies(); /* Run this for the first time to preload the popular movies into
-                               the home screen, search screen, and searchbar */
-
-    //Smooth scroll
-    var scroll = new SmoothScroll('a[href*="#"]', {
-        speed: 700,
-        speedAsDuration: true
-    });
-    //scroll.destroy();
-
     //Button generator
     function GenerateButtons() {
-        var data = {
-            id: ["type", "year", "rating", "genres", "age"],
-            content: [
-                [
-                    "Movie",
-                    "TV"
-                ],
-                [
-                    "Recent",
-                    "2000s",
-                    "'90s",
-                    "'80s",
-                    "'70s",
-                    "'60s",
-                    "'50s",
-                    "'40s",
-                    "'30s",
-                    "Classic"
-                ],
-                [
-                    "Highly Rated",
-                    "Award-Winning"
-                ],
-                [
-                    "Action",
-                    "Adult",
-                    "Adventure",
-                    "Animation",
-                    "Biography",
-                    "Comedy",
-                    "Crime",
-                    "Documentary",
-                    "Drama",
-                    "Family",
-                    "Fantasy",
-                    "Film-Noir",
-                    "Game-Show",
-                    "History",
-                    "Horror",
-                    "Music",
-                    "Musical",
-                    "Mystery",
-                    "News",
-                    "Reality-TV",
-                    "Romance",
-                    "Sci-Fi",
-                    "Sport",
-                    "Talk-Show",
-                    "Thriller",
-                    "War",
-                    "Western",
-                    "Only"
-                ],
-                [
-                    "G",
-                    "PG",
-                    "PG-13",
-                    "R",
-                    "NC-17"
-                    // "TV-Y",
-                    // "TV-Y7",
-                    // "TV-G",
-                    // "TV-PG",
-                    // "TV-14",
-                    // "TV-MA"
-                ]
-            ]
-        }
-
-
-
+        /* The buttons object. Add or remove items in different catagories to change the button structure */
+        var data = { id: ["type", "year", "rating", "genres", "age"], content: [["Movie", "TV"], ["Recent", "2000s", "'90s", "'80s", "'70s", "'60s", "'50s", "'40s", "'30s", "Classic"], ["Highly Rated", "Award-Winning"], ["Action", "Adult", "Adventure", "Animation", "Biography", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "Film-Noir", "Game-Show", "History", "Horror", "Music", "Musical", "Mystery", "News", "Reality-TV", "Romance", "Sci-Fi", "Sport", "Talk-Show", "Thriller", "War", "Western", "Only"], ["G", "PG", "PG-13", "R", "NC-17"]] };
         for (id of data.id) {
             var currentgroup = document.getElementById(id);
             var catagorytitle = id[0].toUpperCase() + id.slice(1);
@@ -685,7 +579,15 @@
         }
     }
 
-    GenerateButtons()
+    GenerateButtons();
+    PreloadPopularMovies(); /* Run this for the first time to preload the popular movies into
+                               the home screen, search screen, and searchbar */
+    //Smooth scroll
+    var scroll = new SmoothScroll('a[href*="#"]', {
+        speed: 700,
+        speedAsDuration: true
+    });
+    //scroll.destroy();
 </script>
 
 </html>

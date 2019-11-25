@@ -356,6 +356,14 @@ function CloseListsAndSearch(e) {
     SearchMovies();
 }
 
+function SelectDropdown(el) {
+    if (!el.classList.contains("selected")) {
+        getSiblings(el).forEach(elem => elem.classList.remove("selected"));
+        el.classList.add("selected");
+        overlay.sortvalue = el.innerText.toLowerCase();
+    }
+}
+
 //extras
 
 function arrayContainsArray(superset, subset) {
