@@ -611,14 +611,14 @@
         }
     })
 
-    let count = 0;
+    let moviecount = 0;
     let twentypopularmovies = [];
     for (movie of popularmoviesjson) {
-        if (count == 20) {
+        if (moviecount == 20) {
             break;
         }
         twentypopularmovies.push(movie);
-        count++;
+        moviecount++;
     }
     overlay.filteredmovies = twentypopularmovies;
     Display(twentypopularmovies);
