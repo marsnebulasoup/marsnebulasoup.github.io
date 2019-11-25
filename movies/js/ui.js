@@ -129,7 +129,7 @@ function setFocused() {
         hints.style.display = "initial";
         searchbar.classList.add("hints-searchbar-focus");
         if (searchbar.value == "") {
-            displayPopularMovies();
+            PreloadPopularMovies();
         }
     }
 }
@@ -141,30 +141,67 @@ function unsetFocused() {
     hints.style.display = "none";
 }
 
-function displayPopularMovies() {
-    var popularmoviescount = 0;
+// function PreloadPopularMovies() {
+//     var popularmoviescount = 0;
+//     a = document.getElementById("hints-hints");
+//     a.innerHTML = '';
+//     overlay.inputtopcornermsg = "popular movies";
+//     for (item of arr) {
+//         if (popularmoviescount == 6) { break }
+//         overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
+//         b = document.createElement("li");
+//         b.innerHTML = item
+
+//         var inp = document.createElement("input");
+//         inp.type = "hidden";
+//         inp.value = item;
+//         b.insertAdjacentElement("beforeend", inp);
+
+//         b.addEventListener("click", function (e) {
+//             overlay.query = this.getElementsByTagName("input")[0].value;
+//             a.innerHTML = '';
+//             SearchMovies();
+//         });
+//         a.insertAdjacentElement("beforeend", b);
+//         popularmoviescount++;
+//     }
+// }
+
+function PreloadPopularMovies() {
+    let moviecount = 0;
+    let twentypopularmovies = [];
     a = document.getElementById("hints-hints");
     a.innerHTML = '';
     overlay.inputtopcornermsg = "popular movies";
-    for (item of arr) {
-        if (popularmoviescount == 6) { break }
-        overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
-        b = document.createElement("li");
-        b.innerHTML = item
+    for (movie of popularmoviesjson) {
+        if (moviecount == 20) {
+            break;
+        }
+        if (moviecount <= 6) { //preload six popular movies into the searchbar
+            item = movie.Title;
+            overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
+            b = document.createElement("li");
+            b.innerHTML = item
 
-        var inp = document.createElement("input");
-        inp.type = "hidden";
-        inp.value = item;
-        b.insertAdjacentElement("beforeend", inp);
+            var inp = document.createElement("input");
+            inp.type = "hidden";
+            inp.value = item;
+            b.insertAdjacentElement("beforeend", inp);
 
-        b.addEventListener("click", function (e) {
-            overlay.query = this.getElementsByTagName("input")[0].value;
-            a.innerHTML = '';
-            SearchMovies();
-        });
-        a.insertAdjacentElement("beforeend", b);
-        popularmoviescount++;
+            b.addEventListener("click", function (e) {
+                overlay.query = this.getElementsByTagName("input")[0].value;
+                a.innerHTML = '';
+                SearchMovies();
+            });
+            a.insertAdjacentElement("beforeend", b);
+        }
+
+        twentypopularmovies.push(movie); //preload twenty popular movies into the home screen and search screen
+        moviecount++;
     }
+    overlay.filteredmovies = twentypopularmovies.slice(0); //push to home screen
+    Display(twentypopularmovies); //push to search screen
+    overlay.navbar = "Popular movies"; //change navbar msg from "20 results found" to "Popular movies"
 }
 
 function computeAutocomplete(val) {

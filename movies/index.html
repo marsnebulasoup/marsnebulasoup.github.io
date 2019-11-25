@@ -429,7 +429,7 @@
                         childmovie_container.insertAdjacentElement('beforeend', childMovie);
                     });
                 }
-                else if(this.computed.every(arr => !arr.length > 0)){
+                else if (this.computed.every(arr => !arr.length > 0)) {
                     childmovie_container.innerHTML = `
                     <div class="tile is-child">
                         <p style="text-align: center;">
@@ -594,7 +594,7 @@
                 var operation = this.sortvalue;
 
                 if (operation == "popularity") {
-                    if(!this.computed.every(arr => !arr.length > 0)){
+                    if (!this.computed.every(arr => !arr.length > 0)) {
                         this.filteredmovies = this.filteredmovies_sorted_by_popularity;
                     }
                 }
@@ -611,18 +611,9 @@
         }
     })
 
-    let moviecount = 0;
-    let twentypopularmovies = [];
-    for (movie of popularmoviesjson) {
-        if (moviecount == 20) {
-            break;
-        }
-        twentypopularmovies.push(movie);
-        moviecount++;
-    }
-    overlay.filteredmovies = twentypopularmovies.slice(0);
-    Display(twentypopularmovies);
-    overlay.navbar = "Popular movies";
+    
+
+
     ////////
     let dropdown = document.querySelector('.dropdown');
     dropdown.addEventListener('click', function (event) {
@@ -669,7 +660,8 @@
         }
     });
 
-    displayPopularMovies(); /* Run this for the first time to preload the popular movies into the searchbar */
+    PreloadPopularMovies(); /* Run this for the first time to preload the popular movies into
+                               the home screen, search screen, and searchbar */
 
     //Smooth scroll
     var scroll = new SmoothScroll('a[href*="#"]', {
