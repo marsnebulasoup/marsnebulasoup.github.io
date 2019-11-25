@@ -620,7 +620,7 @@
         twentypopularmovies.push(movie);
         moviecount++;
     }
-    overlay.filteredmovies = twentypopularmovies;
+    overlay.filteredmovies = twentypopularmovies.slice(0);
     Display(twentypopularmovies);
     overlay.navbar = "Popular movies";
     ////////
