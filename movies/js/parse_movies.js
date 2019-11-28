@@ -19,7 +19,7 @@ function LoadFile() {
 async function LoadZippedFile(){
 	var path = "db/1000popularmovies.zip";
 	var filename = "1000popularmovies.json";
-	fetch('http://lengthapi.win/movies/' + path)       // 1) fetch the url
+	fetch('https://lengthapi.win/movies/' + path)       // 1) fetch the url
 	.then(function (response) {                       // 2) filter on 200 OK
 		if (response.status === 200 || response.status === 0) {
 			return Promise.resolve(response.blob());

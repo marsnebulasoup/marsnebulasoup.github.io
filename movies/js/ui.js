@@ -167,8 +167,8 @@ function unsetFocused() {
 //     }
 // }
 
-function FilterMovies(c) {
-    var movies = popularmoviesjson;
+function FilterMovies(c, movies) {
+    //var movies = popularmoviesjson;
     var count = 0;
     filtered = [];
     for (movie of movies) {
@@ -309,8 +309,46 @@ function PreloadPopularMovies() {
         moviecount++;
     }
     overlay.filteredmovies = twentypopularmovies.slice(0); //push to home screen
+    overlay.filteredmovies_sorted_by_popularity = twentypopularmovies.slice(0); //so the sort works; otherwise filteredmovies_sorted_by_popularity would be empty
     Display(twentypopularmovies); //push to search screen
     overlay.navbar = "Popular movies"; //change navbar msg from "20 results found" to "Popular movies"
+}
+
+// var operation = this.sortvalue;
+
+// if (operation == "popularity") {
+//     if (this.filteredmovies.length > 0 /*!this.computed.every(arr => !arr.length > 0) checks if no buttons are clicked is empty*/) {
+//         this.filteredmovies = this.filteredmovies_sorted_by_popularity.slice(0);
+//     }
+// }
+// else if (operation == "newest") {
+//     this.filteredmovies = _.orderBy(this.filteredmovies, ['Year'], ['desc']);
+// }
+// else if (operation == "rating - high to low") {
+//     this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['desc']);
+// }
+// else if (operation == "rating - low to high") {
+//     this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['asc']);
+// }
+
+function sorter(operation, array) {
+    if (operation == "popularity") {
+        if (array.length > 0 /*!this.computed.every(arr => !arr.length > 0) checks if no buttons are clicked is empty*/) {
+            array = array_sorted_by_popularity.slice(0);
+        }
+    }
+    else if (operation == "newest") {
+        //array = _.orderBy(array, ['Year'], ['desc']);
+        array = _.orderBy(array, [movie => new Date(movie.Released)], ["desc"]);
+    }
+    else if (operation == "rating - high to low") {
+        array = _.orderBy(array, ['imdbRating'], ['desc']);
+    }
+    else if (operation == "rating - low to high") {
+        array = _.orderBy(array, ['imdbRating'], ['asc']);
+    }
+
+    return array;
 }
 
 function computeAutocomplete(val) {
