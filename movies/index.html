@@ -482,8 +482,7 @@
             sortvalue: "popularity",
             currentFocus: -1,
             computed: [[], [], [], [], []],
-            filteredmovies: [],
-            filteredmovies_sorted_by_popularity: []
+            filteredmovies: []
         },
         watch: {
             query: _.debounce(function (q) {
@@ -605,7 +604,6 @@
                     </div>`
                     var thefilteredmovies = FilterMovies(c, popularmoviesjson);
                     this.filteredmovies = thefilteredmovies.slice(0);
-                    this.filteredmovies_sorted_by_popularity = thefilteredmovies.slice(0);
                     this.filteredmovies = sorter(this.sortvalue, this.filteredmovies);
                 }
                 else {

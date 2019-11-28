@@ -309,7 +309,7 @@ function PreloadPopularMovies() {
         moviecount++;
     }
     overlay.filteredmovies = twentypopularmovies.slice(0); //push to home screen
-    overlay.filteredmovies_sorted_by_popularity = twentypopularmovies.slice(0); //so the sort works; otherwise filteredmovies_sorted_by_popularity would be empty
+    /* NOT NEEDED SINCE THE POPULARITY ATTRIBUTE IN THE JSON CAN BE USED TO RESORT THROUGH THE JSON */ //overlay.filteredmovies_sorted_by_popularity = twentypopularmovies.slice(0); //so the sort works; otherwise filteredmovies_sorted_by_popularity would be empty
     Display(twentypopularmovies); //push to search screen
     overlay.navbar = "Popular movies"; //change navbar msg from "20 results found" to "Popular movies"
 }
@@ -333,9 +333,7 @@ function PreloadPopularMovies() {
 
 function sorter(operation, array) {
     if (operation == "popularity") {
-        if (array.length > 0 /*!this.computed.every(arr => !arr.length > 0) checks if no buttons are clicked is empty*/) {
-            array = array_sorted_by_popularity.slice(0);
-        }
+        array = _.orderBy(array, ['Popularity'], ["asc"]);
     }
     else if (operation == "newest") {
         //array = _.orderBy(array, ['Year'], ['desc']);
