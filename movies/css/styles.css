@@ -106,8 +106,7 @@ textarea {
 
 .poster-little {
     border-radius: 10px;
-    max-height: 17em;
-    object-fit: cover;
+    /* max-height: 17em; */
     display: block;
     margin-left: auto;
     margin-right: auto;
