@@ -71,7 +71,12 @@ async function SearchFor(obj, query) {
 		limit: 25, // Don't return more results than this (lower is faster)
 		allowTypo: true, // Allwos a snigle transpoes (false is faster)
 	})
-	promise.then(results => Display(results));
+	promise.then(r => {
+		var results = [];
+		r.forEach(movie => results.push(movie.obj));
+		console.log(results);
+		Display(results);
+	});
 }
 
 function FetchJSON(imdbID) {
@@ -93,10 +98,10 @@ function FetchJSON(imdbID) {
 }
 
 async function Display(results) {
-	overlay.currentmovieid = results[0].obj.imdbID;
+	overlay.currentmovieid = results[0].imdbID;
 	overlay.navbar = results.length + " results found."
 
-	var data = results[0].obj;
+	var data = results[0];
 	overlay.poster = data.Poster;
 	overlay.title = data.Title;
 	overlay.plot = data.Plot;
@@ -113,7 +118,7 @@ async function Display(results) {
 	smallMovieContainer.innerHTML = "";
 
 	for (movie of results) { //data is one movie object
-		var data = movie.obj
+		var data = movie
 		if (count == 20) { break; }
 		var imgurl = data.Poster;
 		if (imgurl == "N/A") {

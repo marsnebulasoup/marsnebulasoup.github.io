@@ -566,7 +566,7 @@
     //Button generator
     function GenerateButtons() {
         /* The buttons object. Add or remove items in different catagories to change the button structure */
-        var data = { arraytopush: ["computed", "searchbarfilter"], id: ["type", "year", "rating", "genres", "age"], content: [["Movie", "TV"], ["Recent", "2000s", "'90s", "'80s", "'70s", "'60s", "'50s", "'40s", "'30s", "Classic"], ["Highly Rated", "Award-Winning"], ["Action", "Adult", "Adventure", "Animation", "Biography", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "Film-Noir", "Game-Show", "History", "Horror", "Music", "Musical", "Mystery", "News", "Reality-TV", "Romance", "Sci-Fi", "Sport", "Talk-Show", "Thriller", "War", "Western", "Only"], ["G", "PG", "PG-13", "R", "NC-17"]] };
+        var data = { arraytopush: ["computed", "searchbarfilter"], id: ["type", "year", "rating", "genres", "age"], content: [["Movie", "TV"], ["Recent", "2000s", "'90s", "'80s", "'70s", "'60s", "'50s", "'40s", "'30s", "Classic"], ["Highly Rated", "Award-Winning"], ["Action", /*"Adult", currently there aren't any movie with the genre Adult in the JSON */ "Adventure", "Animation", "Biography", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "Film-Noir", "Game-Show", "History", "Horror", "Music", "Musical", "Mystery", "News", "Reality-TV", "Romance", "Sci-Fi", "Sport", "Talk-Show", "Thriller", "War", "Western", "Only"], ["G", "PG", "PG-13", "R", "NC-17"]] };
 
         for (currentButtonGroup = 1; currentButtonGroup < 3; currentButtonGroup++) {
             for (id of data.id) {

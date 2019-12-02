@@ -129,7 +129,7 @@ function setFocused() {
         hints.style.display = "initial";
         searchbar.classList.add("hints-searchbar-focus");
         if (searchbar.value == "") {
-            PreloadPopularMovies();
+            PreloadSearchBar();
         }
     }
 }
@@ -235,6 +235,9 @@ function FilterMovies(c, movies) {
         }
 
         if (c[4].length > 0) { /*check if the age arr is not empty*/
+            if (c[4].includes("NC-17")) {
+                c[4].push("X");
+            }
             var agecheck = c[4].includes(movie.Rated);
             checks.push(agecheck);
         }
@@ -250,37 +253,37 @@ function FilterMovies(c, movies) {
     return filtered;
 }
 
-function PreloadPopularMovies() {
-    let moviecount = 0;
-    let twentypopularmovies = [];
-    let twentypopularmovies_formatted = [];
+function PreloadSearchBar() {
     a = document.getElementById("hints-hints");
     a.innerHTML = '';
     overlay.inputtopcornermsg = "popular movies";
+    arr.slice(0, 6).forEach(title => {
+        b = document.createElement("li");
+        b.innerHTML = title;
+
+        var inp = document.createElement("input");
+        inp.type = "hidden";
+        inp.value = title;
+        b.insertAdjacentElement("beforeend", inp);
+
+        b.addEventListener("click", function (e) {
+            overlay.query = this.getElementsByTagName("input")[0].value;
+            a.innerHTML = '';
+            SearchMovies();
+        });
+        a.insertAdjacentElement("beforeend", b);
+    })
+}
+
+function PreloadPopularMovies() {
+    let moviecount = 0;
+    let twentypopularmovies = [];
     for (movie of popularmoviesjson) {
         if (moviecount == 20) {
             break;
         }
-        if (moviecount <= 6) { //preload six popular movies into the searchbar
-            item = movie.Title;
-            overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
-            b = document.createElement("li");
-            b.innerHTML = item
 
-            var inp = document.createElement("input");
-            inp.type = "hidden";
-            inp.value = item;
-            b.insertAdjacentElement("beforeend", inp);
-
-            b.addEventListener("click", function (e) {
-                overlay.query = this.getElementsByTagName("input")[0].value;
-                a.innerHTML = '';
-                SearchMovies();
-            });
-            a.insertAdjacentElement("beforeend", b);
-        }
-        twentypopularmovies.push(movie);
-        twentypopularmovies_formatted.push({obj: movie}); //preload twenty popular movies into the home screen and search screen
+        twentypopularmovies.push(movie); //preload twenty popular movies into the home screen and search screen
         moviecount++;
     }
     overlay.filteredmovies = twentypopularmovies.slice(0); //push to home screen
@@ -289,7 +292,8 @@ function PreloadPopularMovies() {
     THE JSON CAN BE USED TO RESORT  ====>
     THROUGH THE JSON                ====> 
     */
-    Display(twentypopularmovies_formatted); //push to search screen
+    Display(twentypopularmovies); //push to search screen
+    PreloadSearchBar();
     overlay.navbar = "Popular movies"; //change navbar msg from "20 results found" to "Popular movies"
 }
 
