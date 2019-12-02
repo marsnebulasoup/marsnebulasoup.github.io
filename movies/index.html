@@ -13,6 +13,7 @@
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     <link href="css/star-rating.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
+    <script src="js/fuzzysort/fuzzysort.js"></script>
     <script src="js/parse_movies.js"></script>
     <script
         src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
@@ -27,7 +28,7 @@
 
 </head>
 <script>
-    LoadZippedFile();
+    // LoadZippedFile();
     async function getbigfile() {
         popularmoviesjson = await fetch('https://lengthapi.win/movies/db/100kpopularmovies.json')
             .then(res => {
@@ -402,7 +403,8 @@
             sortvalue: "popularity",
             currentFocus: -1,
             computed: [[], [], [], [], []],
-            filteredmovies: []
+            filteredmovies: [],
+            searchedmovies: []
 
         },
         watch: {
@@ -413,7 +415,30 @@
                     return false;
                 }
                 this.currentFocus = -1;
-                computeAutocomplete(q);
+                var then = new Date().getTime();
+                results = fuzzysort.go(q, arr, { limit: 5 });
+                var now = new Date().getTime();
+                var timecount = now - then;
+                a = document.getElementById("hints-hints");
+                a.innerHTML = '';
+                overlay.inputtopcornermsg = "showing " + results.length + " results (" + timecount + " milliseconds)";
+                results.forEach(r => {
+                    highlighted = fuzzysort.highlight(r, "<strong>", "</strong>");
+                    b = document.createElement("li");
+                    b.innerHTML = highlighted;
+                    var inp = document.createElement("input");
+                    inp.type = "hidden";
+                    inp.value = r.target;
+                    b.addEventListener("click", function (e) {
+                        document.getElementById("hints-searchbar").blur();
+                        overlay.query = this.getElementsByTagName("input")[0].value;
+                        a.innerHTML = '';
+                        SearchMovies();
+                    });
+                    b.insertAdjacentElement("beforeend", inp);
+                    a.insertAdjacentElement("beforeend", b);
+                });
+                //computeAutocomplete(q);
             }, 85),
 
             filteredmovies: _.debounce(function (movies) {

@@ -82,7 +82,7 @@ function SelectButtons(id) {
 function SearchMovies() {
     var input = overlay.query //document.getElementById("real_searchbar").value;
     console.log("From searchmovies(): " + input);
-    SearchFor(ParseJson(), input);
+    SearchFor(popularmoviesjson, input);
     //console.log(results)
     //Display(results);
 }
@@ -349,41 +349,41 @@ function sorter(operation, array) {
     return array;
 }
 
-function computeAutocomplete(val) {
-    var a, b, i;
-    a = document.getElementById("hints-hints");
-    a.innerHTML = '';
-    var maxloops = 6;
-    var loopcount = 0;
-    for (i = 0; i < arr.length; i++) {
-        overlay.inputtopcornermsg = "showing " + loopcount + " of the " + i + " movies searched";
-        if (loopcount == maxloops) {
-            break;
-        }
-        if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
-            fullword = arr[i];
-            highlighted = fullword.substr(0, val.length);
-            therest = fullword.substr(val.length);
+// function computeAutocomplete(val) {
+//     var a, b, i;
+//     a = document.getElementById("hints-hints");
+//     a.innerHTML = '';
+//     var maxloops = 6;
+//     var loopcount = 0;
+//     for (i = 0; i < arr.length; i++) {
+//         overlay.inputtopcornermsg = "showing " + loopcount + " of the " + i + " movies searched";
+//         if (loopcount == maxloops) {
+//             break;
+//         }
+//         if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
+//             fullword = arr[i];
+//             highlighted = fullword.substr(0, val.length);
+//             therest = fullword.substr(val.length);
 
-            b = document.createElement("li");
-            b.innerHTML = "<strong>" + highlighted + "</strong>" + therest;
+//             b = document.createElement("li");
+//             b.innerHTML = "<strong>" + highlighted + "</strong>" + therest;
 
-            var inp = document.createElement("input");
-            inp.type = "hidden";
-            inp.value = fullword;
-            b.insertAdjacentElement("beforeend", inp);
+//             var inp = document.createElement("input");
+//             inp.type = "hidden";
+//             inp.value = fullword;
+//             b.insertAdjacentElement("beforeend", inp);
 
-            b.addEventListener("click", function (e) {
-                document.getElementById("hints-searchbar").blur();
-                overlay.query = this.getElementsByTagName("input")[0].value;
-                a.innerHTML = '';
-                SearchMovies();
-            });
-            a.insertAdjacentElement("beforeend", b);
-            loopcount++;
-        }
-    }
-}
+//             b.addEventListener("click", function (e) {
+//                 document.getElementById("hints-searchbar").blur();
+//                 overlay.query = this.getElementsByTagName("input")[0].value;
+//                 a.innerHTML = '';
+//                 SearchMovies();
+//             });
+//             a.insertAdjacentElement("beforeend", b);
+//             loopcount++;
+//         }
+//     }
+// }
 
 function CloseListsAndSearch(e) {
     document.getElementById("hints-searchbar").blur()
