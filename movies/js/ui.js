@@ -141,32 +141,6 @@ function unsetFocused() {
     hints.style.display = "none";
 }
 
-// function PreloadPopularMovies() {
-//     var popularmoviescount = 0;
-//     a = document.getElementById("hints-hints");
-//     a.innerHTML = '';
-//     overlay.inputtopcornermsg = "popular movies";
-//     for (item of arr) {
-//         if (popularmoviescount == 6) { break }
-//         overlay.hints += "<li>" + item + "<input type=\"hidden\" value=\"" + item + "\">";
-//         b = document.createElement("li");
-//         b.innerHTML = item
-
-//         var inp = document.createElement("input");
-//         inp.type = "hidden";
-//         inp.value = item;
-//         b.insertAdjacentElement("beforeend", inp);
-
-//         b.addEventListener("click", function (e) {
-//             overlay.query = this.getElementsByTagName("input")[0].value;
-//             a.innerHTML = '';
-//             SearchMovies();
-//         });
-//         a.insertAdjacentElement("beforeend", b);
-//         popularmoviescount++;
-//     }
-// }
-
 function FilterMovies(c, movies) {
     //var movies = popularmoviesjson;
     var count = 0;
@@ -279,6 +253,7 @@ function FilterMovies(c, movies) {
 function PreloadPopularMovies() {
     let moviecount = 0;
     let twentypopularmovies = [];
+    let twentypopularmovies_formatted = [];
     a = document.getElementById("hints-hints");
     a.innerHTML = '';
     overlay.inputtopcornermsg = "popular movies";
@@ -304,32 +279,21 @@ function PreloadPopularMovies() {
             });
             a.insertAdjacentElement("beforeend", b);
         }
-
-        twentypopularmovies.push(movie); //preload twenty popular movies into the home screen and search screen
+        twentypopularmovies.push(movie);
+        twentypopularmovies_formatted.push({obj: movie}); //preload twenty popular movies into the home screen and search screen
         moviecount++;
     }
     overlay.filteredmovies = twentypopularmovies.slice(0); //push to home screen
-    /* NOT NEEDED SINCE THE POPULARITY ATTRIBUTE IN THE JSON CAN BE USED TO RESORT THROUGH THE JSON */ //overlay.filteredmovies_sorted_by_popularity = twentypopularmovies.slice(0); //so the sort works; otherwise filteredmovies_sorted_by_popularity would be empty
-    Display(twentypopularmovies); //push to search screen
+    /* NOT NEEDED SINCE THE         ====>
+    POPULARITY ATTRIBUTE IN         ====> //overlay.filteredmovies_sorted_by_popularity = twentypopularmovies.slice(0); //so the sort works; otherwise filteredmovies_sorted_by_popularity would be empty
+    THE JSON CAN BE USED TO RESORT  ====>
+    THROUGH THE JSON                ====> 
+    */
+    Display(twentypopularmovies_formatted); //push to search screen
     overlay.navbar = "Popular movies"; //change navbar msg from "20 results found" to "Popular movies"
 }
 
-// var operation = this.sortvalue;
 
-// if (operation == "popularity") {
-//     if (this.filteredmovies.length > 0 /*!this.computed.every(arr => !arr.length > 0) checks if no buttons are clicked is empty*/) {
-//         this.filteredmovies = this.filteredmovies_sorted_by_popularity.slice(0);
-//     }
-// }
-// else if (operation == "newest") {
-//     this.filteredmovies = _.orderBy(this.filteredmovies, ['Year'], ['desc']);
-// }
-// else if (operation == "rating - high to low") {
-//     this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['desc']);
-// }
-// else if (operation == "rating - low to high") {
-//     this.filteredmovies = _.orderBy(this.filteredmovies, ['imdbRating'], ['asc']);
-// }
 
 function sorter(operation, array) {
     if (operation == "popularity") {
@@ -349,41 +313,32 @@ function sorter(operation, array) {
     return array;
 }
 
-// function computeAutocomplete(val) {
-//     var a, b, i;
-//     a = document.getElementById("hints-hints");
-//     a.innerHTML = '';
-//     var maxloops = 6;
-//     var loopcount = 0;
-//     for (i = 0; i < arr.length; i++) {
-//         overlay.inputtopcornermsg = "showing " + loopcount + " of the " + i + " movies searched";
-//         if (loopcount == maxloops) {
-//             break;
-//         }
-//         if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
-//             fullword = arr[i];
-//             highlighted = fullword.substr(0, val.length);
-//             therest = fullword.substr(val.length);
-
-//             b = document.createElement("li");
-//             b.innerHTML = "<strong>" + highlighted + "</strong>" + therest;
-
-//             var inp = document.createElement("input");
-//             inp.type = "hidden";
-//             inp.value = fullword;
-//             b.insertAdjacentElement("beforeend", inp);
-
-//             b.addEventListener("click", function (e) {
-//                 document.getElementById("hints-searchbar").blur();
-//                 overlay.query = this.getElementsByTagName("input")[0].value;
-//                 a.innerHTML = '';
-//                 SearchMovies();
-//             });
-//             a.insertAdjacentElement("beforeend", b);
-//             loopcount++;
-//         }
-//     }
-// }
+async function computeAutocomplete(q) {
+    a = document.getElementById("hints-hints");
+    a.innerHTML = '';
+    var then = new Date().getTime();
+    fuzzysort.goAsync(q, arr, { limit: 5, allowTypo: true }).then(results => {
+        var now = new Date().getTime();
+        var timecount = now - then;
+        overlay.inputtopcornermsg = "showing " + results.length + " results (" + timecount + " milliseconds)";
+        results.forEach(r => {
+            highlighted = fuzzysort.highlight(r, "<strong>", "</strong>");
+            b = document.createElement("li");
+            b.innerHTML = highlighted;
+            var inp = document.createElement("input");
+            inp.type = "hidden";
+            inp.value = r.target;
+            b.addEventListener("click", function (e) {
+                document.getElementById("hints-searchbar").blur();
+                overlay.query = this.getElementsByTagName("input")[0].value;
+                a.innerHTML = '';
+                SearchMovies();
+            });
+            b.insertAdjacentElement("beforeend", inp);
+            a.insertAdjacentElement("beforeend", b);
+        });
+    })
+}
 
 function CloseListsAndSearch(e) {
     document.getElementById("hints-searchbar").blur()
@@ -439,18 +394,7 @@ function getSiblings(elem) {
 }
 
 let isEmpty = a => Array.isArray(a) && a.every(isEmpty);
-/*one-liner to check if an array is empty. call it like a function. 
+/*one-liner to check if an array is empty. call it like a function.
 eg. isEmpty(["apples", "cranberries"]) will return false */
 
 
-var testobj_delete_this_if_you_find_it = {
-    "Title": "Joker",
-    "Year": "2019",
-    "Rated": "R",
-    "Genre": "Crime, Drama, Thriller",
-    "Awards": "N/A",
-    "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
-    "imdbRating": "8.9",
-    "Type": "movie",
-    "imdbID": "tt7286456"
-}

@@ -415,30 +415,7 @@
                     return false;
                 }
                 this.currentFocus = -1;
-                var then = new Date().getTime();
-                results = fuzzysort.go(q, arr, { limit: 5 });
-                var now = new Date().getTime();
-                var timecount = now - then;
-                a = document.getElementById("hints-hints");
-                a.innerHTML = '';
-                overlay.inputtopcornermsg = "showing " + results.length + " results (" + timecount + " milliseconds)";
-                results.forEach(r => {
-                    highlighted = fuzzysort.highlight(r, "<strong>", "</strong>");
-                    b = document.createElement("li");
-                    b.innerHTML = highlighted;
-                    var inp = document.createElement("input");
-                    inp.type = "hidden";
-                    inp.value = r.target;
-                    b.addEventListener("click", function (e) {
-                        document.getElementById("hints-searchbar").blur();
-                        overlay.query = this.getElementsByTagName("input")[0].value;
-                        a.innerHTML = '';
-                        SearchMovies();
-                    });
-                    b.insertAdjacentElement("beforeend", inp);
-                    a.insertAdjacentElement("beforeend", b);
-                });
-                //computeAutocomplete(q);
+                computeAutocomplete(q);
             }, 85),
 
             filteredmovies: _.debounce(function (movies) {
@@ -446,19 +423,6 @@
                 childmovie_container.innerHTML = "";
                 if (!isEmpty(movies)) {
                     movies.forEach(movie => {
-                        //console.log(movie.Title);
-                        // var movie = await fetch('db/ind/' + results[index].imdbID + ".json")
-                        //     .then(res => {
-                        //         if (!res.ok) {
-                        //             throw new Error("Failed with HTTP code " + response.status);
-                        //         }
-                        //         return res.json()
-                        //     })
-                        //     .catch(err => {
-                        //         console.log("Error: " + err);
-                        //     })
-
-
                         var imgurl = movie.Poster;
                         if (imgurl == "N/A") {
                             imgurl = "images/unknown.png"

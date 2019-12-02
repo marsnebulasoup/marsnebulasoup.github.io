@@ -57,42 +57,9 @@ function LoadFile() {
 
 
 
-// function ParseJson(parsed) {
-// 	var retrievedObject = localStorage.getItem('JSON');
-// 	parsed = JSON.parse(retrievedObject);
-// 	return parsed;
-// }
 
-// {
-// "Title": "An awesome title",
-// "Year": "1999",
-// "Actors": "Georgie Samosa, Frank Furter, Elelda Net Eyzelcrem",
-// "Genre": "Comedy, Stupidity"
-// }
 
 async function SearchFor(obj, query) {
-	// mimified = {};
-	// var options = {
-	// 	shouldSort: true,
-	// 	threshold: 0.6,
-	// 	location: 0,
-	// 	distance: 100,
-	// 	maxPatternLength: 32,
-	// 	minMatchCharLength: 1,
-	// 	keys: [
-	// 		"Title",
-	// 		"Year",
-	// 		"Actors",
-	// 		"Genre"
-	// 	]
-	// };
-	// var fuse = new Fuse(mimified, options); // "list" is the item array
-	// var results = fuse.search(query);
-	// full = []
-	// for (item of results) {
-	// 	full.push(obj[item.Popularity])
-	// }
-	//let objects = [{ title: 'Favorite Color', desc: 'Chrome' }, { title: 'Google Chrome', desc: 'Launch Chrome' }]
 	let promise = fuzzysort.goAsync(query, obj, {
 		keys: [
 			"Title",
@@ -105,10 +72,6 @@ async function SearchFor(obj, query) {
 		allowTypo: true, // Allwos a snigle transpoes (false is faster)
 	})
 	promise.then(results => Display(results));
-	// if (invalidated) promise.cancel(
-	// 	console.log(results)
-	// )
-	//Display(results);
 }
 
 function FetchJSON(imdbID) {
@@ -160,9 +123,12 @@ async function Display(results) {
 		var agerating = data.Rated;
 		var released = data.Year;
 		var imdbrating = data.imdbRating;
-		var genres = data.Genre.split(",");
-		genres.length = 2;
-		genres.toString().replace(" ", "&nbsp;");
+		var genres = data.Genre;
+		if (data.Genre.includes(",")) {
+			var genres = data.Genre.split(",");
+			genres.length = 2;
+			genres.toString().replace(" ", "&nbsp;");
+		}
 
 		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><div style="height:17em"><img class="poster-little" src="' + imgurl + '" /></div></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot;&nbsp;' + imdbrating + '</span><br><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
 
