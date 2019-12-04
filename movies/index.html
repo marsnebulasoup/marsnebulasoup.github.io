@@ -14,7 +14,6 @@
     <link href="css/star-rating.css" rel="stylesheet">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.4.5/fuse.min.js"></script>
     <script src="js/fuzzysort/fuzzysort.js"></script>
-    <script src="js/parse_movies.js"></script>
     <script
         src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15.0.0/dist/smooth-scroll.polyfills.min.js"></script>
     <script type="text/javascript" src="js/jszip/jszip.min.js"></script>
@@ -112,11 +111,17 @@
                                 <p id="nav">{{navbar}}</p>
                             </div>
                             <div class="level-right">
-                                <div class="dropdown is-right">
+                                <div v-show="!_.isEqual(searchedmovies, twentypopularmovies)"
+                                    id="search-filter-dropdown" class="dropdown is-right">
                                     <div class="dropdown-trigger">
-                                        <button class="button is-small is-rounded is-primary is-outlined is-hovered">
-                                            <span>Sort <span
-                                                    style="font-variant: small-caps;">({{sortvalue}})</span></span>
+                                        <button
+                                            v-show="searchbarfilter.some(arr => arr.length > 0) || searchbarsortvalue.toLowerCase() != 'relevance'"
+                                            class="button is-rounded is-outlined is-hovered is-warning is-small is-static">You
+                                            have active filters</button>
+                                        &nbsp;
+                                        <button id="search-filter-dropdown-button"
+                                            class="button is-small is-rounded is-primary is-outlined is-hovered">
+                                            <span>Filter results</span>
                                             <span class="icon is-small">
                                                 <i class="fas fa-angle-down" aria-hidden="true"></i>
                                             </span>
@@ -131,8 +136,35 @@
                                                     <div id="pick" class="column is-12" tabindex="-1"
                                                         style="outline: none;">
                                                         <div class="moviepicker-container">
-                                                            <p style="font-size: 1.5em; text-align: center;">Filter the
-                                                                results</p>
+                                                            <div class="level">
+                                                                <div class="level-left">
+                                                                    <p style="font-size: 1.5em;">Filter the results</p>
+                                                                    &nbsp; &nbsp; &nbsp;
+                                                                    <button onclick="reset()"
+                                                                        v-show="searchbarfilter.some(arr => arr.length > 0) || searchbarsortvalue.toLowerCase() != 'relevance'"
+                                                                        class="button is-rounded is-outlined is-hovered is-dark is-small"><i
+                                                                            class="fas fa-redo"></i>&nbsp;
+                                                                        Reset</button>
+                                                                </div>
+                                                                <div class="level-right">
+                                                                    <div class="buttons">
+                                                                        <a id="sortdefault"
+                                                                            onclick="SelectDropdown(this, 'is-link'); overlay.searchbarsortvalue = this.innerText;"
+                                                                            class="button is-link is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">Relevance
+                                                                        </a>
+                                                                        <a onclick="SelectDropdown(this, 'is-link'); overlay.searchbarsortvalue = this.innerText;"
+                                                                            class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">Popularity</a>
+                                                                        <a onclick="SelectDropdown(this, 'is-link'); overlay.searchbarsortvalue = this.innerText;"
+                                                                            class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">Newest</a>
+                                                                        <a onclick="SelectDropdown(this, 'is-link'); overlay.searchbarsortvalue = this.innerText;"
+                                                                            class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">Rating
+                                                                            - High to Low</a>
+                                                                        <a onclick="SelectDropdown(this, 'is-link'); overlay.searchbarsortvalue = this.innerText;"
+                                                                            class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">Rating
+                                                                            - Low to High</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
                                                         </div>
                                                     </div>
                                                     <div class="column is-4">
@@ -205,7 +237,7 @@
                                                 <span>
                                                     <a id="trailer"
                                                         onclick="GetTrailer(overlay.currentmovieid).then(result => overlay.url = result, error => console.log(error)); overlay.displaytrailer = true;"
-                                                        class="button is-rounded is-link is-large is-outlined block">
+                                                        class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
                                                         <i class="fas fa-play"></i>
                                                         &nbsp;
                                                         Play Trailer
@@ -215,20 +247,28 @@
                                             <li>
                                                 <span>
                                                     <a id="watchlist"
-                                                        class="button is-rounded is-link is-large is-outlined block">
-                                                        <i class="fas fa-plus"></i>
-                                                        <i style="display: none" class="fas fa-check"></i>
-                                                        &nbsp;
-                                                        Watchlist
-                                                        &nbsp;
+                                                        onclick="WatchlistHandler(this, overlay.currentmovieid);"
+                                                        class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
+                                                        <span v-show="showplus == false">
+                                                            <i class="fas fa-check"></i>
+                                                            &nbsp;
+                                                            Watchlist
+                                                            &nbsp;
+                                                        </span>
+                                                        <span v-show="showplus == true">
+                                                            <i class="fas fa-plus"></i>
+                                                            &nbsp;
+                                                            Watchlist
+                                                            &nbsp;
+                                                        </span>
                                                     </a>
                                                 </span>
                                             </li>
-                                            <li>
+                                            <li v-show="stars != 'N/A'">
                                                 <span>
                                                     <div class="rating-holder">
                                                         <div id="stars" class="c-rating c-rating--big"
-                                                            data-rating-value="1.25">
+                                                            v-bind:data-rating-value="stars">
                                                             <div class="level">
                                                                 <div class="level-left">
                                                                     <button>1</button>
@@ -239,8 +279,9 @@
                                                                 </div>
                                                                 <div class="level-right">
                                                                     <p id="reviewinfo" class="movieinfo"
-                                                                        style="font-size: 75%"> &nbsp; 4.9 &middot;
-                                                                        (1034)</p>
+                                                                        style="font-size: 75%"> &nbsp; {{ratingHalf}}
+                                                                        &middot;
+                                                                        ({{ratingCount}})</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -285,6 +326,15 @@
 
                             </div>
                         </div>
+                    </div>
+
+                    <div v-show="title == ''" class="column is-10">
+                        <p style="text-align: center;">
+                            <span style="font-size: 150%;">No results found :(</span>
+                            <br>
+                            <span class="has-text-light" style="font-variant: small-caps;">try doing a less specific
+                                search</span>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -332,7 +382,7 @@
                 </div>
 
                 <div class="column is-12">
-                    <div class="dropdown">
+                    <div id="dropdown" class="dropdown">
                         <div class="dropdown-trigger">
                             <button class="button is-small is-rounded is-primary is-outlined is-hovered">
                                 <span>Sort <span style="font-variant: small-caps;">({{sortvalue}})</span></span>
@@ -343,17 +393,17 @@
                         </div>
                         <div class="dropdown-menu" id="dropdown-menu2" role="menu">
                             <div id="dropdowncontent" class="dropdown-content">
-                                <div onclick="SelectDropdown(this);" class="dropdown-item selected">
+                                <div onclick="SelectDropdown(this, 'selected');" class="dropdown-item selected">
                                     <p>Popularity</p>
                                 </div>
                                 <!-- <hr class="dropdown-divider"> -->
-                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <div onclick="SelectDropdown(this, 'selected');" class="dropdown-item">
                                     <p>Newest</p>
                                 </div>
-                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <div onclick="SelectDropdown(this, 'selected');" class="dropdown-item">
                                     <p>Rating - High to Low</p>
                                 </div>
-                                <div onclick="SelectDropdown(this);" class="dropdown-item">
+                                <div onclick="SelectDropdown(this, 'selected');" class="dropdown-item">
                                     <p>Rating - Low to High</p>
                                 </div>
 
@@ -393,18 +443,25 @@
             runtime: "",
             age: "",
             rating: "",
+            ratingHalf: "",
+            ratingCount: "",
             genres: "",
             navbar: "",
+            stars: 0,
             currentmovieid: "",
             url: "", //trailer url
             displaytrailer: false,
+            showplus: true,
             query: "",
             inputtopcornermsg: "popular movies",
             sortvalue: "popularity",
+            searchbarsortvalue: "relevance",
             currentFocus: -1,
             computed: [[], [], [], [], []],
+            searchbarfilter: [[], [], [], [], []],
             filteredmovies: [],
-            searchedmovies: []
+            searchedmovies: [],
+            twentypopularmovies: []
 
         },
         watch: {
@@ -490,8 +547,16 @@
 
             }, 200),
 
+            searchedmovies: _.debounce(function (movies) {
+                Display(movies);
+            }, 200),
+
             sortvalue: function () {
                 this.filteredmovies = sorter(this.sortvalue, this.filteredmovies);
+            },
+
+            searchbarsortvalue: function () {
+                this.searchbarSorter();
             }
 
         },
@@ -520,16 +585,64 @@
                     console.log("c is empty");
                     this.filteredmovies = [];
                 }
+            },
+            recomputeSearched: function () {
+                var c = this.searchbarfilter;
+                if (!isEmpty(c)) {
+                    Searcher(popularmoviesjson, this.query).then(results => {
+                        var movies = [];
+                        results.forEach(r => movies.push(r.obj));
+                        var filtered = FilterMovies(c, movies);
+                        if (filtered.length > 0) {
+                            console.log(filtered);
+                            this.searchedmovies = filtered;
+                            this.searchbarSorter();
+                        }
+                        else {
+                            this.title = "";
+                            document.getElementById("parentMovie").innerHTML = "";
+                            this.navbar = "0 results found"
+                        }
+                    })
+                }
+                else {
+                    console.log("c from the searchbar is empty. (no buttons were clicked in the searchbar filter)");
+                    Searcher(popularmoviesjson, this.query).then(result => {
+                        let results = [];
+                        result.forEach(r => results.push(r.obj));
+                        this.searchedmovies = results;
+                        this.searchbarSorter();
+                    });
+                }
+            },
+            searchbarSorter: function () {
+                let sortvalue = this.searchbarsortvalue;
+                if (sortvalue.toLowerCase() == "relevance") {
+                    Searcher(this.searchedmovies, this.query).then(result => {
+                        let results = [];
+                        result.forEach(r => results.push(r.obj));
+                        this.searchedmovies = results;
+                    });
+                    // SearchMovies();
+                    // this.recomputeSearched();
+                }
+                else {
+                    this.searchedmovies = sorter(sortvalue.toLowerCase(), this.searchedmovies);
+                }
             }
         }
     })
 
-    document.querySelectorAll('.dropdown').forEach(dropdown => {
-        dropdown.addEventListener('click', function (event) {
-            //event.stopPropagation();
-            dropdown.classList.toggle('is-active');
-        });
-    })
+    let dropdown = document.getElementById('dropdown');
+    dropdown.addEventListener('click', function (event) {
+        //event.stopPropagation();
+        dropdown.classList.toggle('is-active');
+    });
+
+    let searchbarfilter = document.getElementById("search-filter-dropdown-button");
+    searchbarfilter.addEventListener('click', event => {
+        document.getElementById("search-filter-dropdown").classList.toggle('is-active');
+    });
 
 
 
@@ -564,11 +677,11 @@
     });
 
     //Button generator
-    function GenerateButtons() {
+    function GenerateButtons(group = 1) {
         /* The buttons object. Add or remove items in different catagories to change the button structure */
         var data = { arraytopush: ["computed", "searchbarfilter"], id: ["type", "year", "rating", "genres", "age"], content: [["Movie", "TV"], ["Recent", "2000s", "'90s", "'80s", "'70s", "'60s", "'50s", "'40s", "'30s", "Classic"], ["Highly Rated", "Award-Winning"], ["Action", /*"Adult", currently there aren't any movie with the genre Adult in the JSON */ "Adventure", "Animation", "Biography", "Comedy", "Crime", "Documentary", "Drama", "Family", "Fantasy", "Film-Noir", "Game-Show", "History", "Horror", "Music", "Musical", "Mystery", "News", "Reality-TV", "Romance", "Sci-Fi", "Sport", "Talk-Show", "Thriller", "War", "Western", "Only"], ["G", "PG", "PG-13", "R", "NC-17"]] };
 
-        for (currentButtonGroup = 1; currentButtonGroup < 3; currentButtonGroup++) {
+        for (currentButtonGroup = group; currentButtonGroup < 3; currentButtonGroup++) {
             for (id of data.id) {
                 currentID = id + currentButtonGroup;
                 var currentgroup = document.getElementById(currentID);
@@ -627,13 +740,16 @@
             }
             else if (arrtopush == "searchbarfilter") {
                 overlay.searchbarfilter[catagory_index] = overlay.searchbarfilter[catagory_index].filter(item => item !== button.innerText);
+                console.log(overlay.searchbarfilter);
+
             }
         }
         if (arrtopush == "computed") {
             overlay.recompute();
         }
         else if (arrtopush == "searchbarfilter") {
-            Display(FilterMovies(overlay.searchbarfilter));
+            //Display(FilterMovies(overlay.searchbarfilter));
+            overlay.recomputeSearched();
         }
         // console.log(overlay.computed);
     }

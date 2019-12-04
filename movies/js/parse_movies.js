@@ -53,14 +53,18 @@ function LoadFile() {
 // }
 
 
-
-
-
-
-
-
 async function SearchFor(obj, query) {
-	let promise = fuzzysort.goAsync(query, obj, {
+	Searcher(obj, query).then(r => {
+		var results = [];
+		r.forEach(movie => results.push(movie.obj));
+		overlay.searchedmovies = results;
+		overlay.recomputeSearched();
+		overlay.searchbarSorter();
+	});
+}
+
+async function Searcher(obj, query) {
+	return fuzzysort.goAsync(query, obj, {
 		keys: [
 			"Title",
 			"Year",
@@ -70,12 +74,6 @@ async function SearchFor(obj, query) {
 		threshold: -Infinity, // Don't return matches worse than this (higher is faster)
 		limit: 25, // Don't return more results than this (lower is faster)
 		allowTypo: true, // Allwos a snigle transpoes (false is faster)
-	})
-	promise.then(r => {
-		var results = [];
-		r.forEach(movie => results.push(movie.obj));
-		console.log(results);
-		Display(results);
 	});
 }
 
@@ -98,46 +96,50 @@ function FetchJSON(imdbID) {
 }
 
 async function Display(results) {
-	overlay.currentmovieid = results[0].imdbID;
-	overlay.navbar = results.length + " results found."
+	if (results.length > 0) {
+		results = _.uniqBy(results, movie => movie.imdbID); /*there seems to be a bug with fuzzysort; it sometimes returns duplicate
+		elements, so this line filters them by imdbID to make sure there aren't any duplicates.*/
 
-	var data = results[0];
-	overlay.poster = data.Poster;
-	overlay.title = data.Title;
-	overlay.plot = data.Plot;
-	overlay.year = data.Year;
-	overlay.runtime = data.Runtime;
-	overlay.rating = data.imdbRating;
-	overlay.age = data.Rated;
-	overlay.genres = data.Genre;
+		overlay.currentmovieid = results[0].imdbID;
+		overlay.navbar = results.length + " results found."
 
-	results.splice(0, 1);
-	var count = 0;
+		var data = results[0];
+		overlay.poster = data.Poster;
+		overlay.title = data.Title;
+		overlay.plot = data.Plot;
+		overlay.year = data.Year;
+		overlay.runtime = data.Runtime;
+		overlay.rating = data.imdbRating;
+		overlay.age = data.Rated;
+		overlay.genres = data.Genre;
 
-	var smallMovieContainer = document.getElementById("parentMovie");
-	smallMovieContainer.innerHTML = "";
+		therest = results.slice(0)
+		therest.splice(0, 1);
 
-	for (movie of results) { //data is one movie object
-		var data = movie
-		if (count == 20) { break; }
-		var imgurl = data.Poster;
-		if (imgurl == "N/A") {
-			imgurl = "images/unknown.png"
+		var smallMovieContainer = document.getElementById("parentMovie");
+		smallMovieContainer.innerHTML = "";
+
+		for (movie of therest) { //data is one movie object
+			var data = movie
+			var imgurl = data.Poster;
+			if (imgurl == "N/A") {
+				imgurl = "images/unknown.png"
+			}
+			var title = data.Title;
+			var agerating = data.Rated;
+			var released = data.Year;
+			var imdbrating = data.imdbRating;
+			var genres = data.Genre;
+			if (data.Genre.includes(",")) {
+				var genres = data.Genre.split(",");
+				genres.length = 2;
+				genres.toString().replace(" ", "&nbsp;");
+			}
+
+			var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><div style="height:17em"><img class="poster-little" src="' + imgurl + '" /></div></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot;&nbsp;' + imdbrating + '</span><br><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
+
+			smallMovieContainer.insertAdjacentHTML('beforeend', childMovie);
 		}
-		var title = data.Title;
-		var agerating = data.Rated;
-		var released = data.Year;
-		var imdbrating = data.imdbRating;
-		var genres = data.Genre;
-		if (data.Genre.includes(",")) {
-			var genres = data.Genre.split(",");
-			genres.length = 2;
-			genres.toString().replace(" ", "&nbsp;");
-		}
-
-		var childMovie = '<div id="childMovie" class="tile is-child is-2"><div class="smallmovie"><ul><div class="card"><li><div style="height:17em"><img class="poster-little" src="' + imgurl + '" /></div></li><li><p class="caption">' + title + '<br><span class="movieinfo"><span class="boxed">' + agerating + '</span> &middot; ' + released + ' &middot;&nbsp;' + imdbrating + '</span><br><span class="movieinfo"><span>' + genres + '</span></span></p></li></div></ul></div></div>';
-
-		smallMovieContainer.insertAdjacentHTML('beforeend', childMovie);
 	}
 }
 
