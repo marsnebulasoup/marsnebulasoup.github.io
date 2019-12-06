@@ -243,6 +243,59 @@ h1, h2, h3, h4, h5, p {
 	vertical-align: middle;
 	padding: 10px;
 }
+
+.watchlist-overlay {
+    z-index: 25;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    cursor: pointer;
+}
+
+.imgbox {
+    position: relative;
+  }
+  
+  .smallposter {
+    opacity: 1;
+    display: block;
+    transition: .25s ease;
+    backface-visibility: hidden;
+  }
+  
+  .middle {
+    transition: .25s ease;
+    opacity: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+  .middle li:first-of-type {
+      padding-bottom: 30%;
+  }
+  .middle li:last-of-type {
+      padding-top: 30%;
+  }
+  
+  .imgbox:hover .smallposter {
+    opacity: 0.3;
+  }
+  
+  .imgbox:hover .middle {
+    opacity: 1;
+  }
+
 .overlay-container {
     padding-top: 5%
 }

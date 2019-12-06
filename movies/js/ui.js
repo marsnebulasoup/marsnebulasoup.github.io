@@ -348,13 +348,13 @@ function reset() {
 
 }
 
-function WatchlistHandler(elem, id) {
+function WatchlistHandler(elem, id, title = "", poster = "") {
     var classes = elem.classList;
     var toggler = "is-link";
     if (!classes.contains(toggler)) { //add
         classes.add(toggler);
         overlay.showplus = false;
-        SaveToWatchlist(id);
+        SaveToWatchlist(id, title, poster);
     }
     else { //remove
         classes.remove(toggler);
@@ -363,12 +363,65 @@ function WatchlistHandler(elem, id) {
     }
 }
 
-function SaveToWatchlist(id) {
+function OpenWatchlist() {
+    let list = localStorage.getItem("watchlist");
+    if (list != null) {
+        for (movie of JSON.parse(list)) {
+            let imgurl = "images/unknown.png";
+            if (movie.Poster != "N/A") {
+                imgurl = movie.Poster;
+            }
+            var watchlist_container = document.getElementById('watchlist-overlay');
+            watchlist_container.innerHTML = "";
+            var watchlist = `
+                <div class="tile is-child is-2">
+                    <div class="smallmovie">
+                        <ul>
+                            <div class="card-home">
+                                <li>
+                                    <div style="height: 13.5em;" class="imgbox">
+                                        <img src="` + imgurl + `"
+                                            class="poster-little-home smallposter">
+                                        <div class="middle">
+                                            <ul>
+                                                <li>
+                                                    <a href="" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a onclick="RemoveElemFromWatchlistUI(this)" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p class="caption">
+                                        `+ movie.Title +`
+                                    </p>                                               
+                                </li>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            `;
+
+            watchlist_container.insertAdjacentHTML('beforeend', watchlist);
+        }
+    }
+}
+
+function SaveToWatchlist(id, title, poster) {
     var watchlist = localStorage.getItem("Watchlist");
     if (watchlist != null) { //check if there is a watchlist
         var data = JSON.parse(watchlist);
         if (!_.find(data, { 'imdbID': id })) {
-            data.push({ 'imdbID': id });
+            data.push(
+                {
+                    'Title': title,
+                    'Poster': poster,
+                    'imdbID': id,
+                }
+            );
             localStorage.setItem("Watchlist", JSON.stringify(data));
         }
     }

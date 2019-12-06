@@ -41,7 +41,6 @@
             })
     }
     getbigfile();
-
 </script>
 
 <body>
@@ -117,8 +116,7 @@
                                         <button
                                             v-show="searchbarfilter.some(arr => arr.length > 0) || searchbarsortvalue.toLowerCase() != 'relevance'"
                                             class="button is-rounded is-outlined is-hovered is-warning is-small is-static">You
-                                            have active filters</button>
-                                        &nbsp;
+                                            have active filters</button> &nbsp;
                                         <button id="search-filter-dropdown-button"
                                             class="button is-small is-rounded is-primary is-outlined is-hovered">
                                             <span>Filter results</span>
@@ -170,7 +168,7 @@
                                                     <div class="column is-4">
                                                         <div id="type2" class="buttons">
 
-                                                            </a>
+
                                                         </div>
                                                         <div id="year2" class="buttons">
 
@@ -222,9 +220,9 @@
                                                     <p id="info" class="movieinfo" style="font-size: 1.1em">{{year}}
                                                         &middot; {{runtime}} &middot; <span class="boxed">{{age}}</span>
                                                     </p>
-                                                    <p class="movieinfo break" style="font-size: 1.1em;">IMDb
-                                                        {{rating}} &middot;
-                                                        {{genres}}</p>
+                                                    <p class="movieinfo break" style="font-size: 1.1em;">IMDb {{rating}}
+                                                        &middot; {{genres}}
+                                                    </p>
                                                 </div>
                                             </div>
                                         </div>
@@ -247,7 +245,7 @@
                                             <li>
                                                 <span>
                                                     <a id="watchlist"
-                                                        onclick="WatchlistHandler(this, overlay.currentmovieid);"
+                                                        onclick="WatchlistHandler(this, overlay.currentmovieid, title, poster);"
                                                         class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
                                                         <span v-show="showplus == false">
                                                             <i class="fas fa-check"></i>
@@ -428,7 +426,30 @@
 
 
     </div>
-
+    <div class="watchlist-overlay">
+        <div class="container is-fluid" style="padding-top:7%;">
+            <div class="columns is-multiline is-centered">
+                <div class="column is-11">
+                    <p style="font-size: 200%">
+                        Your Watchlist
+                    </p>
+                    <p class="subtitle" style="font-variant: small-caps">
+                        hover over the posters for more options
+                    </p>
+                </div>
+                <div class="column is-12">
+                    <div>
+                        <div class="column is-12">
+                            <div class="tile is-ancestor">
+                                <div id="watchlist-overlay" class="tile is-parent is-12" style="flex-wrap: wrap;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 <script>
