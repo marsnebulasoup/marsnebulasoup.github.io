@@ -366,13 +366,14 @@ function WatchlistHandler(elem, id, title = "", poster = "") {
 function OpenWatchlist() {
     let list = localStorage.getItem("watchlist");
     if (list != null) {
+        var watchlist_container = document.getElementById('watchlist-overlay');
+        watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
+            console.log(movie.Title);
             let imgurl = "images/unknown.png";
             if (movie.Poster != "N/A") {
                 imgurl = movie.Poster;
             }
-            var watchlist_container = document.getElementById('watchlist-overlay');
-            watchlist_container.innerHTML = "";
             var watchlist = `
                 <div class="tile is-child is-2">
                     <div class="smallmovie">
@@ -409,7 +410,6 @@ function OpenWatchlist() {
         }
     }
 }
-
 function SaveToWatchlist(id, title, poster) {
     var watchlist = localStorage.getItem("Watchlist");
     if (watchlist != null) { //check if there is a watchlist
