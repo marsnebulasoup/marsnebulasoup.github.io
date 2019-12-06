@@ -409,6 +409,9 @@ function OpenWatchlist() {
             watchlist_container.insertAdjacentHTML('beforeend', watchlist);
         }
     }
+    else{
+        watchlist_container.insertAdjacentHTML('beforeend', "<p style='text-align:center; font-size:200%'>Your watchlist is empty</p>");
+    }
 }
 function SaveToWatchlist(id, title, poster) {
     var watchlist = localStorage.getItem("Watchlist");
