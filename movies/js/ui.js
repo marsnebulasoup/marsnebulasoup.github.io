@@ -364,8 +364,11 @@ function WatchlistHandler(elem, id, title = "", poster = "") {
 }
 
 function OpenWatchlist() {
+    console.log("Opening Watchlist...")
     let list = localStorage.getItem("watchlist");
     if (list != null) {
+        document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+        document.getElementById('watchlist-overlay-container').style.display = 'initial';
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
@@ -414,7 +417,8 @@ function OpenWatchlist() {
     }
 }
 function CloseWatchlist() {
-    console.log("called")
+    console.log("Closing Watchlist...");
+    document.getElementById('watchlist-overlay-container-backbutton').style.display = 'none';
     document.getElementById('watchlist-overlay-container').style.display = 'none';
     document.getElementById('watchlist-overlay').innerHTML = '';
 }
