@@ -397,7 +397,7 @@ function OpenWatchlist() {
                                 </li>
                                 <li>
                                     <p class="caption">
-                                        `+ movie.Title +`
+                                        `+ movie.Title + `
                                     </p>                                               
                                 </li>
                             </div>
@@ -409,10 +409,16 @@ function OpenWatchlist() {
             watchlist_container.insertAdjacentHTML('beforeend', watchlist);
         }
     }
-    else{
-        watchlist_container.insertAdjacentHTML('beforeend', "<p style='text-align:center; font-size:200%'>Your watchlist is empty</p>");
+    else {
+        watchlist_container.insertAdjacentHTML('beforeend', "<p style='text-align:center; font-size:200%'>Your watchlist is empty :(</p>");
     }
 }
+function CloseWatchlist() {
+    console.log("called")
+    document.getElementById('watchlist-overlay-container').style.display = 'none';
+    document.getElementById('watchlist-overlay').innerHTML = '';
+}
+
 function SaveToWatchlist(id, title, poster) {
     var watchlist = localStorage.getItem("Watchlist");
     if (watchlist != null) { //check if there is a watchlist
