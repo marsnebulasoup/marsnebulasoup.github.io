@@ -128,12 +128,14 @@ async function Display(results) {
 
         var watchlist = localStorage.getItem("Watchlist");
         if (watchlist != null) { //check if there is a watchlist
-            var data = JSON.parse(watchlist);
-            if (!_.find(data, { 'imdbID': data.imdbID })) {
+            var list = JSON.parse(watchlist);
+            if (!_.find(list, { 'imdbID': data.imdbID })) {
                 document.getElementById('watchlist').classList.remove('is-link');
+                overlay.showplus = false;
             }
             else{
                 document.getElementById('watchlist').classList.add('is-link');
+                overlay.showplus = true;
             }
         }
 
