@@ -365,7 +365,7 @@ function WatchlistHandler(elem, id, title = "", poster = "") {
 
 function OpenWatchlist() {
     console.log("Opening Watchlist...")
-    let list = localStorage.getItem("watchlist");
+    let list = localStorage.getItem("Watchlist");
     //let list = overlay.twentypopularmovies;
     var watchlist_container = document.getElementById('watchlist-overlay');
     if (list != null) {
