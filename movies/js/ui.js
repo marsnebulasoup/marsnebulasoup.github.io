@@ -133,7 +133,7 @@ async function Display(results) {
                 document.getElementById('watchlist').classList.remove('is-link');
                 overlay.showplus = true;
             }
-            else{
+            else {
                 document.getElementById('watchlist').classList.add('is-link');
                 overlay.showplus = false;
             }
@@ -394,7 +394,7 @@ function OpenWatchlist() {
                 imgurl = movie.Poster;
             }
             var watchlist = `
-                <div class="tile is-child is-2" id="watchlist-`+ movie.imdbID +`">
+                <div class="tile is-child is-2" id="watchlist-`+ movie.imdbID + `">
                     <div class="smallmovie">
                         <ul>
                             <div class="card-home">
@@ -408,7 +408,7 @@ function OpenWatchlist() {
                                                     <a href="" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID +`" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
+                                                    <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -480,11 +480,23 @@ function RemoveFromWatchlist(id) {
     }
 }
 
-function RemoveElemFromWatchlistUI(elem){
-    let id = elem.getAttrubute('data-imdb-id');
+function RemoveElemFromWatchlistUI(elem) {
+    let id = elem.getAttribute('data-imdb-id');
     let child = document.getElementById("watchlist-" + id);
     child.parentNode.remove(child);
     RemoveFromWatchlist(id);
+    var watchlist = localStorage.getItem("Watchlist");
+    if (watchlist != null) { //check if there is a watchlist
+        var list = JSON.parse(watchlist);
+        if (!_.find(list, { 'imdbID': data.imdbID })) {
+            document.getElementById('watchlist').classList.remove('is-link');
+            overlay.showplus = true;
+        }
+        else {
+            document.getElementById('watchlist').classList.add('is-link');
+            overlay.showplus = false;
+        }
+    }
 }
 
 function FilterMovies(c, movies) {
