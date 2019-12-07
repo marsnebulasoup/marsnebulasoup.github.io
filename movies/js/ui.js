@@ -408,7 +408,7 @@ function OpenWatchlist() {
                                                     <a href="" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
                                                 </li>
                                                 <li>
-                                                    <a onclick="RemoveElemFromWatchlistUI(this)" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
+                                                    <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID +`" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
                                                 </li>
                                             </ul>
                                         </div>
@@ -483,6 +483,7 @@ function RemoveFromWatchlist(id) {
 function RemoveElemFromWatchlistUI(elem){
     let child = elem.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
     child.parentNode.remove(child);
+    RemoveFromWatchlist()
 }
 
 function FilterMovies(c, movies) {
