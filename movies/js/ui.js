@@ -394,7 +394,7 @@ function OpenWatchlist() {
                 imgurl = movie.Poster;
             }
             var watchlist = `
-                <div class="tile is-child is-2">
+                <div class="tile is-child is-2" id="watchlist-`+ movie.imdbID +`">
                     <div class="smallmovie">
                         <ul>
                             <div class="card-home">
@@ -481,9 +481,10 @@ function RemoveFromWatchlist(id) {
 }
 
 function RemoveElemFromWatchlistUI(elem){
-    let child = elem.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
+    let id = elem.getAttrubute('data-imdb-id');
+    let child = document.getElementById("watchlist-" + id);
     child.parentNode.remove(child);
-    RemoveFromWatchlist()
+    RemoveFromWatchlist(id);
 }
 
 function FilterMovies(c, movies) {
