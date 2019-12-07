@@ -488,6 +488,7 @@ function RemoveElemFromWatchlistUI(elem) {
     var watchlist = localStorage.getItem("Watchlist");
     if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var list = JSON.parse(watchlist);
+        console.log(list);
         if (!_.find(list, { 'imdbID': id })) {
             document.getElementById('watchlist').classList.remove('is-link');
             overlay.showplus = true;
@@ -501,6 +502,8 @@ function RemoveElemFromWatchlistUI(elem) {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
+        document.getElementById('watchlist').classList.remove('is-link');
+        overlay.showplus = true;
     }
 }
 
