@@ -301,7 +301,7 @@ function TransformSearch(state) {
 
     } else {
         overlay.style.display = "none";
-        everything.style.overflow = "scroll";
+        everything.style.overflowY = "scroll";
         bogus_searchbar_icon.style.opacity = "1";
     }
 }
@@ -385,11 +385,10 @@ function OpenWatchlist() {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
-        document.body.overflow = "hidden";
+        everything.style.overflow = "hidden";
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
-            console.log(movie.Title);
             let imgurl = "images/unknown.png";
             if (movie.Poster != "N/A" && movie.Poster != undefined && movie.Poster != null && movie.Poster != "") {
                 imgurl = movie.Poster;
@@ -440,7 +439,7 @@ function CloseWatchlist() {
     document.getElementById('watchlist-overlay-container-backbutton').style.display = 'none';
     document.getElementById('watchlist-overlay-container').style.display = 'none';
     document.getElementById('watchlist-overlay').innerHTML = '';
-    document.body.overflow = "initial";
+    everything.overflowY = "scroll";
 }
 
 function SaveToWatchlist(id, title, poster) {
