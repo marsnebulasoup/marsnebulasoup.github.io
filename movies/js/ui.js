@@ -131,11 +131,11 @@ async function Display(results) {
             var list = JSON.parse(watchlist);
             if (!_.find(list, { 'imdbID': data.imdbID })) {
                 document.getElementById('watchlist').classList.remove('is-link');
-                overlay.showplus = false;
+                overlay.showplus = true;
             }
             else{
                 document.getElementById('watchlist').classList.add('is-link');
-                overlay.showplus = true;
+                overlay.showplus = false;
             }
         }
 
