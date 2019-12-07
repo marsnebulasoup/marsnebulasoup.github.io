@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, p {
 }
 
 .close-overlay-button {
-    position: absolute;
+    position: fixed;
     top: 5%;
     left: 5%;
 }
