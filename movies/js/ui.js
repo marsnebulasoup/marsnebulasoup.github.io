@@ -366,9 +366,12 @@ function WatchlistHandler(elem, id, title = "", poster = "") {
 function OpenWatchlist() {
     console.log("Opening Watchlist...")
     let list = localStorage.getItem("watchlist");
+    //let list = overlay.twentypopularmovies;
+    var watchlist_container = document.getElementById('watchlist-overlay');
     if (list != null) {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
+        document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
@@ -413,8 +416,10 @@ function OpenWatchlist() {
         }
     }
     else {
-        watchlist_container.insertAdjacentHTML('beforeend', "<p style='text-align:center; font-size:200%'>Your watchlist is empty :(</p>");
-    }
+        document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+        document.getElementById('watchlist-overlay-container').style.display = 'initial';
+        document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
+        }
 }
 function CloseWatchlist() {
     console.log("Closing Watchlist...");

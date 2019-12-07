@@ -63,14 +63,22 @@
             </div>
 
             <div class="level-right" id="searchbar">
-                <p class="control  has-icons-right sticky">
-                    <input onclick="TransformSearch(1)" class="input is-rounded search" type="text"
-                        placeholder="Search movies...">
+                <div class="level">
+                    <div class="level-left" style="padding-right: 10% !important;">
+                        <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
+                            &nbsp; Watchlist</a>
+                    </div>
+                    <div class="level-right">
+                        <p class="control  has-icons-right sticky">
+                            <input onclick="TransformSearch(1)" class="input is-rounded search" type="text"
+                                placeholder="Search movies...">
 
-                    <span id="bogus-searchbar-icon" class="icon is-small is-right">
-                        <i class="fas fa-search"></i>
-                    </span>
-                </p>
+                            <span id="bogus-searchbar-icon" class="icon is-small is-right">
+                                <i class="fas fa-search"></i>
+                            </span>
+                        </p>
+                    </div>
+                </div>
             </div>
         </div>
         <div id="app">
@@ -339,7 +347,8 @@
             <div style="padding-top:5%;" class="columns is-multiline is-centered buttons-group">
                 <div id="pick" class="column is-12">
                     <div class="moviepicker-container">
-                        <p style="font-size: 1.5em; text-align:center;">What do <i><b>you</b></i> want to watch?</p>
+                        <p style="font-size: 1.5em; text-align:center; vertical-align: middle;">What do
+                            <i><b>you</b></i> want to watch?</p>
                         <!-- <div class="tile is-ancestor"> -->
 
                         <!-- </div> -->
@@ -375,7 +384,8 @@
 
                     <!-- AGE RATING: PG-13, TV-14... -->
                     <div id="age1" class="buttons">
-
+                        <a onclick="OpenWatchlist()" style="text-align: right !important;"
+                            class="button is-rounded is-primary">Open Watchlist</a>
                     </div>
                 </div>
 
@@ -426,14 +436,15 @@
 
 
     </div>
-    <div style="z-index:26" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
+    <div style="z-index:26; display: none;" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
         <i onclick="CloseWatchlist()" class="fas fa-arrow-left fa-2x"></i>
     </div>
-    <div class="watchlist-overlay" id="watchlist-overlay-container">
+    <div style="display: none;" class="watchlist-overlay" id="watchlist-overlay-container">
         <div class="container is-fluid" style="padding-top:7%;">
             <div class="columns is-multiline is-centered">
                 <div class="column is-11">
                     <p style="font-size: 200%">
+                        <i class="fas fa-stream"></i> &nbsp;
                         Your Watchlist
                     </p>
                     <p class="subtitle" style="font-variant: small-caps">
@@ -449,6 +460,9 @@
                             </div>
                         </div>
                     </div>
+                </div>
+                <div style="display: none;" id="watchlist-overlay-empty-msg" class="column is-8; has-text-centered">
+                    <p style='font-size:200%'>Your watchlist is empty :(</p>
                 </div>
             </div>
         </div>
