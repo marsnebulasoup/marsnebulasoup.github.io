@@ -480,6 +480,11 @@ function RemoveFromWatchlist(id) {
     }
 }
 
+function RemoveElemFromWatchlistUI(elem){
+    let child = elem.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode.parentNode;
+    child.parentNode.remove(child);
+}
+
 function FilterMovies(c, movies) {
     //var movies = popularmoviesjson;
     var count = 0;
