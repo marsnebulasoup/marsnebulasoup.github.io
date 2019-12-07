@@ -126,6 +126,17 @@ async function Display(results) {
         therest = results.slice(0)
         therest.splice(0, 1);
 
+        var watchlist = localStorage.getItem("Watchlist");
+        if (watchlist != null) { //check if there is a watchlist
+            var data = JSON.parse(watchlist);
+            if (!_.find(data, { 'imdbID': data.imdbID })) {
+                document.getElementById('watchlist').classList.remove('is-link');
+            }
+            else{
+                document.getElementById('watchlist').classList.add('is-link');
+            }
+        }
+
         var smallMovieContainer = document.getElementById("parentMovie");
         smallMovieContainer.innerHTML = "";
 
@@ -377,7 +388,7 @@ function OpenWatchlist() {
         for (movie of JSON.parse(list)) {
             console.log(movie.Title);
             let imgurl = "images/unknown.png";
-            if (movie.Poster != "N/A") {
+            if (movie.Poster != "N/A" && movie.Poster != undefined && movie.Poster != null && movie.Poster != "") {
                 imgurl = movie.Poster;
             }
             var watchlist = `
@@ -419,7 +430,7 @@ function OpenWatchlist() {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
-        }
+    }
 }
 function CloseWatchlist() {
     console.log("Closing Watchlist...");
@@ -444,7 +455,15 @@ function SaveToWatchlist(id, title, poster) {
         }
     }
     else {
-        localStorage.setItem("Watchlist", JSON.stringify([{ "imdbID": id }]));
+        localStorage.setItem("Watchlist", JSON.stringify(
+            [
+                {
+                    'Title': title,
+                    'Poster': poster,
+                    'imdbID': id,
+                }
+            ]
+        ));
     }
 }
 
