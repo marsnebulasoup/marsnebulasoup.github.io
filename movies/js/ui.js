@@ -483,7 +483,7 @@ function RemoveFromWatchlist(id) {
 function RemoveElemFromWatchlistUI(elem) {
     let id = elem.getAttribute('data-imdb-id');
     let child = document.getElementById("watchlist-" + id);
-    child.parentNode.remove(child);
+    child.parentNode.removeChild(child);
     RemoveFromWatchlist(id);
     var watchlist = localStorage.getItem("Watchlist");
     if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
