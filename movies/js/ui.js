@@ -127,7 +127,7 @@ async function Display(results) {
         therest.splice(0, 1);
 
         var watchlist = localStorage.getItem("Watchlist");
-        if (watchlist != null) { //check if there is a watchlist
+        if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
             var list = JSON.parse(watchlist);
             if (!_.find(list, { 'imdbID': data.imdbID })) {
                 document.getElementById('watchlist').classList.remove('is-link');
@@ -443,7 +443,7 @@ function CloseWatchlist() {
 
 function SaveToWatchlist(id, title, poster) {
     var watchlist = localStorage.getItem("Watchlist");
-    if (watchlist != null) { //check if there is a watchlist
+    if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var data = JSON.parse(watchlist);
         if (!_.find(data, { 'imdbID': id })) {
             data.push(
@@ -471,7 +471,7 @@ function SaveToWatchlist(id, title, poster) {
 
 function RemoveFromWatchlist(id) {
     var watchlist = localStorage.getItem("Watchlist");
-    if (watchlist != null) { //check if there is a watchlist
+    if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var data = JSON.parse(watchlist);
         if (_.find(data, { 'imdbID': id })) {
             data = data.filter(item => item.imdbID !== id);
@@ -486,9 +486,9 @@ function RemoveElemFromWatchlistUI(elem) {
     child.parentNode.remove(child);
     RemoveFromWatchlist(id);
     var watchlist = localStorage.getItem("Watchlist");
-    if (watchlist != null) { //check if there is a watchlist
+    if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var list = JSON.parse(watchlist);
-        if (!_.find(list, { 'imdbID': data.imdbID })) {
+        if (!_.find(list, { 'imdbID': id })) {
             document.getElementById('watchlist').classList.remove('is-link');
             overlay.showplus = true;
         }
@@ -496,6 +496,11 @@ function RemoveElemFromWatchlistUI(elem) {
             document.getElementById('watchlist').classList.add('is-link');
             overlay.showplus = false;
         }
+    }
+    else {
+        document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+        document.getElementById('watchlist-overlay-container').style.display = 'initial';
+        document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
     }
 }
 
