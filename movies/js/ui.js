@@ -385,6 +385,7 @@ function OpenWatchlist() {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
+        document.body.overflow = "hidden";
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
@@ -439,6 +440,7 @@ function CloseWatchlist() {
     document.getElementById('watchlist-overlay-container-backbutton').style.display = 'none';
     document.getElementById('watchlist-overlay-container').style.display = 'none';
     document.getElementById('watchlist-overlay').innerHTML = '';
+    document.body.overflow = "initial";
 }
 
 function SaveToWatchlist(id, title, poster) {
