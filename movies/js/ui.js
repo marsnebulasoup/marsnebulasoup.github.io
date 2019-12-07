@@ -368,7 +368,7 @@ function OpenWatchlist() {
     let list = localStorage.getItem("Watchlist");
     //let list = overlay.twentypopularmovies;
     var watchlist_container = document.getElementById('watchlist-overlay');
-    if (list != null) {
+    if (list != null && !isEmpty(list)) {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
