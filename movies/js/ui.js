@@ -101,7 +101,11 @@ async function Display(results) {
 		elements, so this line filters them by imdbID to make sure there aren't any duplicates.*/
 
         overlay.currentmovieid = results[0].imdbID;
-        overlay.navbar = results.length + " results found."
+
+        var resultslength = results.length;
+        var result_or_results = "results";
+        if(resultslength == "1") result_or_results = "result";
+        overlay.navbar = resultslength + " " + result_or_results + " found."
 
         var data = results[0];
         overlay.poster = data.Poster;
@@ -691,7 +695,12 @@ async function computeAutocomplete(q) {
     fuzzysort.goAsync(q, arr, { limit: 5, allowTypo: true }).then(results => {
         var now = new Date().getTime();
         var timecount = now - then;
-        overlay.inputtopcornermsg = "showing " + results.length + " results (" + timecount + " milliseconds)";
+        var resultslength = results.length;
+        var result_or_results = "results";
+        if(resultslength == "1") result_or_results = "result";
+        var millisecond_or_miliseconds = "miliseconds";
+        if(timecount == 1) millisecond_or_miliseconds = "millisecond";
+        overlay.inputtopcornermsg = "showing " + resultslength + " " + result_or_results + " (" + timecount + " " + millisecond_or_miliseconds + ")";
         results.forEach(r => {
             highlighted = fuzzysort.highlight(r, "<strong>", "</strong>");
             b = document.createElement("li");
