@@ -27,19 +27,19 @@
 
 </head>
 <script>
-    // LoadZippedFile();
-    async function getbigfile() {
-        popularmoviesjson = await fetch('https://lengthapi.win/movies/db/100kpopularmovies.json')
-            .then(res => {
-                if (!res.ok) {
-                    throw new Error("Failed with HTTP code " + response.status);
-                }
-                return res.json()
-            })
-            .catch(err => {
-                console.log("Error: " + err);
-            })
-    }
+    LoadZippedFile();
+    // async function getbigfile() {
+    //     popularmoviesjson = await fetch('https://lengthapi.win/movies/db/100kpopularmovies.json')
+    //         .then(res => {
+    //             if (!res.ok) {
+    //                 throw new Error("Failed with HTTP code " + response.status);
+    //             }
+    //             return res.json()
+    //         })
+    //         .catch(err => {
+    //             console.log("Error: " + err);
+    //         })
+    // }
     //getbigfile();
 </script>
 
