@@ -12,5 +12,5 @@ semi-major:
 //-Add to watchlist doesn't work YES IT DOES NOW YES YES YES !!!!!
 
 minor:
--Display text says "1 results found" instead of "1 result found" also in the searchbar
+//-Display text says "1 results found" instead of "1 result found" also in the searchbar
 -When opening a trailer, it says "Trailer not found" for a few seconds

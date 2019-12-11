@@ -242,7 +242,7 @@
                                             <li>
                                                 <span>
                                                     <a id="trailer"
-                                                        onclick="GetTrailer(overlay.currentmovieid).then(result => overlay.url = result, error => console.log(error)); overlay.displaytrailer = true;"
+                                                        onclick="GetTrailer(overlay.currentmovieid).then(result => { overlay.url = result; overlay.displaytrailer = true; }, error => console.log(error));"
                                                         class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
                                                         <i class="fas fa-play"></i>
                                                         &nbsp;
