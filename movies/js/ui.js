@@ -16,41 +16,27 @@ function LoadFile() {
 
 
 
-// async function LoadZippedFile() {
-// 	var path = "db/1000popularmovies.zip";
-// 	var filename = "1000popularmovies.json";
-// 	fetch('https://lengthapi.win/movies/' + path)       // 1) fetch the url
-// 		.then(function (response) {                       // 2) filter on 200 OK
-// 			if (response.status === 200 || response.status === 0) {
-// 				return Promise.resolve(response.blob());
-// 			} else {
-// 				return Promise.reject(new Error(response.statusText));
-// 			}
-// 		})
-// 		.then(JSZip.loadAsync)                            // 3) chain with the zip promise
-// 		.then(function (zip) {
-// 			return zip.file(filename).async("string"); // 4) chain with the text content promise
-// 		})
-// 		.then(function success(json) {                    // 5) display the result
-// 			//console.log(text)
-// 			//localStorage.setItem('basicinfo', text);
-// 			console.log("Fetched file");
-
-// 			// alert("Size of sample is: " + json.length);
-// 			// var compressed = LZString.compressToUTF16(json);
-// 			// alert("Size of compressed sample is: " + compressed.length);
-// 			// console.log(compressed)
-
-// 			// json = JSONH.stringify(json).replace(
-// 			// /\u2028|\u2029/g,
-// 			// function (m) {
-// 			// return "\\u202" + (m === "\u2028" ? "8" : "9");
-// 			// })
-// 			localStorage.setItem('JSON', json);
-// 		}, function error(e) {
-// 			console.log(e)
-// 		});
-// }
+async function LoadZippedFile() {
+	var path = "db/100kpopularmovies.zip";
+	var filename = "100kpopularmovies.json";
+	popularmoviesjson = await fetch(path)       // 1) fetch the url
+		.then(function (response) {                       // 2) filter on 200 OK
+			if (response.status === 200 || response.status === 0) {
+				return Promise.resolve(response.blob());
+			} else {
+				return Promise.reject(new Error(response.statusText));
+			}
+		})
+		.then(JSZip.loadAsync)                            // 3) chain with the zip promise
+		.then(function (zip) {
+			return zip.file(filename).async("string"); // 4) chain with the text content promise
+		})
+		.then(function success(json) {                    // 5) display the result
+			return JSON.parse(json);
+		}, function error(e) {
+			console.log(e)
+		});
+}
 
 
 async function SearchFor(obj, query) {
