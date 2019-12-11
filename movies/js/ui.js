@@ -292,7 +292,7 @@ function SearchMovies() {
 
 function TransformSearch(state) {
     var overlay = document.getElementById("overlay-search");
-    //var html = document.getElementById("everything");
+    var everything = document.body;
     var bogus_searchbar_icon = document.getElementById("bogus-searchbar-icon");
     if (state) {
         overlay.style.display = "block";
@@ -385,7 +385,7 @@ function OpenWatchlist() {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
-        document.getElementById("everything").style.overflow = "hidden";
+        document.body.style.overflow = "hidden";
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
@@ -439,7 +439,7 @@ function CloseWatchlist() {
     document.getElementById('watchlist-overlay-container-backbutton').style.display = 'none';
     document.getElementById('watchlist-overlay-container').style.display = 'none';
     document.getElementById('watchlist-overlay').innerHTML = '';
-    document.getElementById("everything").style.overflowY = "scroll";
+    document.body.style.overflowY = "scroll";
 }
 
 function SaveToWatchlist(id, title, poster) {
