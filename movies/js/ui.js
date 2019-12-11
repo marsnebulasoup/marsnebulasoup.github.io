@@ -381,11 +381,11 @@ function OpenWatchlist() {
     let list = localStorage.getItem("Watchlist");
     //let list = overlay.twentypopularmovies;
     var watchlist_container = document.getElementById('watchlist-overlay');
+    document.body.style.overflow = "hidden";
     if (list != null && list != "[]" && list != "") {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
         document.getElementById('watchlist-overlay-container').style.display = 'initial';
         document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
-        document.body.style.overflow = "hidden";
         var watchlist_container = document.getElementById('watchlist-overlay');
         watchlist_container.innerHTML = "";
         for (movie of JSON.parse(list)) {
