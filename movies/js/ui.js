@@ -31,7 +31,11 @@ async function LoadZippedFile() {
 		.then(function (zip) {
 			return zip.file(filename).async("string"); // 4) chain with the text content promise
 		})
-		.then(function success(json) {                    // 5) display the result
+        .then(function success(json) {                    // 5) display the result
+            var viewdb = document.getElementById("viewdb");
+            viewdb.classList.remove("is-static");
+            viewdb.setAttribute("href", "db/" + filename);
+            viewdb.innerText = "View movie database (~10MB JSON)";
 			return JSON.parse(json);
 		}, function error(e) {
 			console.log(e)
