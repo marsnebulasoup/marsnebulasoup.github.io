@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html class="family-primary">
+
+<head>
+    <title>Find the perfect movie</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link href="css/bulma_custom/css/mystyles.css" rel="stylesheet">
+</head>
+<style>
+    .movie-trailer {
+        width: 100%;
+        height: 30vh;
+        object-fit: cover;
+        -webkit-mask-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 1)), to(rgba(0, 0, 0, 0)));
+        mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
+    }
+
+    .movie-poster {
+        max-height: 30vh;
+        max-width: 30vh;
+        border-radius: 5px;
+    }
+
+    .movie-title {
+        color: white;
+        font-size: 2em;
+        font-weight: 600;
+    }
+
+    .movie-info {
+        font-size: 1em;
+        padding-top: 0.8em;
+        color: #b3b3b3;
+    }
+
+    .movie-info p {
+        padding-bottom: 0.8em;
+    }
+
+    .movie-boxed {
+        border-radius: 2px;
+        border: 1.5px solid #b3b3b3;
+        padding-top: 1px;
+        padding-bottom: 1px;
+        padding-left: 2px;
+        padding-right: 2px;
+    }
+
+    @media (max-width: 768px) {
+
+        /*mobile*/
+        .movie-trailer {
+            height: 20vh;
+        }
+
+        .movie-poster {
+            max-height: 18vh;
+            max-width: 18vh;
+        }
+
+        .movie-title {
+            font-size: 1em;
+        }
+
+        .movie-info {
+            font-size: 0.8em;
+        }
+    }
+</style>
+
+<body>
+    <section class="hero">
+        <div class="hero-head">
+            <div>
+                <img class="movie-trailer" src="images/unknown.png" />
+            </div>
+        </div>
+        <div class="hero-body">
+            <div class="columns is-mobile is-multiline">
+                <div class="column is-narrow">
+                    <img class="movie-poster" src="images/unknown.png" />
+                </div>
+                <div class="column is-auto">
+                    <h1 class="movie-title">
+                        Jurrasic Park
+                        <!-- Those magnificent men and their flying machines, or how I flew from Londen to Paris in 23 hours 11 minutes -->
+                    </h1>
+                    <div class="movie-info">
+                        <p>2019 &middot; 122 min &middot; <span class="movie-boxed">PG-13</span></p>
+                        <p>IMDb 8.9 &middot; Crime, Drama, Thriller</p>
+                        <a id="watchlist"
+                            onclick="WatchlistHandler(this, overlay.currentmovieid, overlay.title, overlay.poster);"
+                            class="button is-rounded is-small is-primary">
+                            <span style="display: none;">
+                                <i class="fas fa-check"></i>
+                                &nbsp;
+                                Watchlist
+                                &nbsp;
+                            </span>
+                            <span>
+                                <i class="fas fa-plus"></i>
+                                &nbsp;
+                                Watchlist
+                                &nbsp;
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="column is-10">
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</body>
+
+</html>
