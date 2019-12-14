@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link href="css/bulma_custom/css/mystyles.css" rel="stylesheet">
+    <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
 </head>
 <style>
     .movie-trailer {
@@ -47,6 +48,13 @@
         padding-right: 2px;
     }
 
+    .movie-plot {
+        border: 2px solid #b3b3b3;
+        border-right: none;
+        border-bottom: none;
+        border-top: none;
+        padding-left: 0.7em;
+    }
     @media (max-width: 768px) {
 
         /*mobile*/
@@ -77,11 +85,11 @@
             </div>
         </div>
         <div class="hero-body">
-            <div class="columns is-mobile is-multiline">
+            <div class="columns is-mobile is-centered is-multiline">
                 <div class="column is-narrow">
                     <img class="movie-poster" src="images/unknown.png" />
                 </div>
-                <div class="column is-auto">
+                <div class="column">
                     <h1 class="movie-title">
                         Jurrasic Park
                         <!-- Those magnificent men and their flying machines, or how I flew from Londen to Paris in 23 hours 11 minutes -->
@@ -107,8 +115,14 @@
                         </a>
                     </div>
                 </div>
-                <div class="column is-10">
-
+                <div class="column is-12" style="height: 0 !important; width: 0 !important"></div>
+                <div class="column is-10-desktop is-10-widescreen is-11-tablet is-12-mobile">
+                    <p class="movie-plot">
+                        <span style="font-variant: small-caps; font-weight: 600; color: #b3b3b3;">plot</span>
+                        <br>
+                        A pragmatic Paleontologist visiting an almost complete theme park is tasked with protecting a
+                        couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
+                    </p>
                 </div>
             </div>
         </div>
