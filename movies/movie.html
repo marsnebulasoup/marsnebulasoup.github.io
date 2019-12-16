@@ -55,6 +55,56 @@
         border-top: none;
         padding-left: 0.7em;
     }
+
+    .actor-container {
+        position: relative;
+        display: inline-flex;
+        justify-content: center;
+        width: min-content;
+    }
+
+    .actor-name {
+        position: absolute;
+        bottom: 1em;
+        padding: 0.3em;
+        font-size: 0.8em;
+        max-width: 80%;
+        white-space: normal;
+        word-wrap: break-word;
+        background-color: black;
+        color: white;
+    }
+
+    .actor-name p {
+        text-align: center;
+    }
+
+    .scrollmenu {
+        overflow: auto;
+        white-space: nowrap;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    .scrollmenu::-webkit-scrollbar {
+        display: none;
+    }
+
+    .scrollmenu img {
+        margin-left: 0.5em;
+        margin-right: 0.5em;
+        box-shadow: 1px 1px 12px 0px black;
+    }
+
+    .tilebox {
+        background-color: #090979;
+        border-radius: 10px;
+        margin: 0.5em;
+
+    }
+
+
+
     @media (max-width: 768px) {
 
         /*mobile*/
@@ -68,11 +118,20 @@
         }
 
         .movie-title {
-            font-size: 1em;
+            font-size: 1.5em;
         }
 
         .movie-info {
             font-size: 0.8em;
+        }
+
+        .actor-name {
+            font-size: 0.5em;
+            max-width: 10vh;
+        }
+
+        .scrollmenu img {
+            margin-right: 0.5em;
         }
     }
 </style>
@@ -124,9 +183,395 @@
                         couple of kids after a power failure causes the park's cloned dinosaurs to run loose.
                     </p>
                 </div>
+                <div class="column is-12 movie-title">
+                    <p>Similar</p>
+                </div>
+                <div class="column is-11-desktop is-12-mobile scrollmenu">
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                    <img class="movie-poster" src="images/unknown.png" />
+                </div>
+                <div class="column is-12 movie-title">
+                    <p>Cast</p>
+                </div>
+                <div class="column is-11-desktop is-12-mobile scrollmenu">
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="column is-12 movie-title">
+                    <p>Writer(s)</p>
+                </div>
+                <div class="column is-11-desktop is-12-mobile scrollmenu">
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+                    <div class="actor-container">
+                        <img class="movie-poster" src="images/unknown.png">
+                        <div class="actor-name">
+                            <p>Joaquin Phoenix</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="column is-12 movie-title">
+                    <p>Details</p>
+                </div>
+                <div class="column is-11-desktop is-12-mobile">
+                    <div class="tile is-ancestor">
+                        <div class="tile is-vertical is-parent is-4 tilebox">
+                            <div class="tile is-child">
+                                <p class="subtitle">Director</p>
+                                <div style="display: flex;">
+                                    <div style="margin-right: 1em;">
+                                        <div class="actor-container">
+                                            <img class="movie-poster"
+                                                src="https://image.tmdb.org/t/p/w185//qIoZhWDXSnMXvfuqwKZE8KAYOXu.jpg">
+                                            <div class="actor-name">
+                                                <p>Todd Phillips</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <p style="font-weight: 600; padding-bottom: 0.3em;">Known for</p>
+                                        <p id="knownfor">
+                                            This director wasn't known for anything.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <!-- <div class="tile is-parent">
+                            <div class="tile is-vertical box">
+                                <p class="subtitle">More info</p>
+                                <p>hello</p>
+
+                            </div>
+                        </div> -->
+                        <div class="tile is-vertical is-parent tilebox">
+                            <p class="subtitle">More info</p>
+                            <div class="tile apple">
+                                <style>
+                                    .apple p {
+                                        padding-bottom: 1em;
+                                    }
+                                </style>
+                                <div class="tile is-child">
+                                    <p style="font-weight: 600">General Info</p>
+                                    <p>Released: 04 Oct 2019</p>
+                                    <p>Language: English</p>
+                                    <p>Country: USA, Canada</p>
+                                    <p>Awards: N/A </p>
+                                </div>
+                                <div class="tile is-child">
+                                    <p style="font-weight: 600">Ratings</p>
+                                    <p>Internet Movie Database: 8.9/10</p>
+                                    <p>Rotten Tomatoes: 78%</p>
+                                    <p>Metacritic: 34/100</p>
+                                </div>
+                                <div class="tile is-child">
+                                    <p style="font-weight: 600">Details</p>
+                                    <p>BoxOffice: N/A</p>
+                                    <p>Production: Warner Bros. Pictures</p>
+                                    <p>Website: N/A</p>
+                                    <p>IMDb ID: tt34343</p>
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
+        </div>
     </section>
+    <script>
+        var url = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=Todd%20Phillips&page=1&include_adult=false";
+        fetch(url)
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error("Failed with HTTP code " + response.status);
+                }
+                return res.json()
+            })
+            .then(json => {
+                var known_for = document.createElement("ul");
+                json.results[0].known_for.forEach(movie => {
+                    var child = document.createElement("li");
+                    child.innerText = movie.title;
+                    known_for.appendChild(child);
+                });
+
+                var known_for_container = document.getElementById("knownfor");
+                known_for_container.innerHTML = "";
+                known_for_container.appendChild(known_for);
+            })
+            .catch(err => {
+                console.log("Error: " + err);
+            })
+    </script>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 
