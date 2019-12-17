@@ -8,6 +8,7 @@
     <link href="css/bulma_custom/css/mystyles.css" rel="stylesheet">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
+    <script src="js/smoothscroll/smoothscroll.js"></script>
 </head>
 <style>
     .movie-trailer {
@@ -81,10 +82,12 @@
     }
 
     .scrollmenu {
+        flex: auto !important;
         overflow: auto;
         white-space: nowrap;
         -ms-overflow-style: none;
         scrollbar-width: none;
+        scroll-behavior: smooth;
     }
 
     .scrollmenu::-webkit-scrollbar {
@@ -95,6 +98,12 @@
         margin-left: 0.5em;
         margin-right: 0.5em;
         box-shadow: 1px 1px 12px 0px black;
+    }
+
+    .scrollarrows {
+        display: flex;
+        align-items: center;
+        width: min-content;
     }
 
     .tilebox {
@@ -133,8 +142,16 @@
             max-width: 10vh;
         }
 
+        .scrollmenu {
+            flex: initial;
+        }
+
         .scrollmenu img {
             margin-right: 0.5em;
+        }
+
+        .scrollarrows {
+            display: none;
         }
     }
 </style>
@@ -157,7 +174,8 @@
                         <!-- Those magnificent men and their flying machines, or how I flew from Londen to Paris in 23 hours 11 minutes -->
                     </h1>
                     <div class="movie-info">
-                        <p>{{movie.Year}} &middot; {{movie.Runtime}} &middot; <span class="movie-boxed">{{movie.Rated}}</span></p>
+                        <p>{{movie.Year}} &middot; {{movie.Runtime}} &middot; <span
+                                class="movie-boxed">{{movie.Rated}}</span></p>
                         <p>IMDb {{movie.imdbRating}} &middot; {{movie.Genre}}</p>
                         <a id="watchlist"
                             onclick="WatchlistHandler(this, overlay.currentmovieid, overlay.title, overlay.poster);"
@@ -185,175 +203,49 @@
                         {{movie.Plot}}
                     </p>
                 </div>
+
                 <div class="column is-12 movie-title">
                     <p>Similar</p>
                 </div>
-                <div class="column is-11-desktop is-12-mobile scrollmenu">
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
-                    <img class="movie-poster" src="images/unknown.png" />
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('similar').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
+                        class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
+                    </i>
                 </div>
+                <div id="similar" class="column is-10-desktop is-12-mobile scrollmenu">
+                    
+                </div>
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('similar').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
+                        class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
+                    </i>
+                </div>
+
                 <div class="column is-12 movie-title">
                     <p>Cast</p>
                 </div>
-                <div class="column is-11-desktop is-12-mobile scrollmenu">
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('cast').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
+                        class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
+                    </i>
                 </div>
+                <div id="cast" class="column is-10-desktop is-12-mobile scrollmenu">                   
+                </div>
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('cast').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
+                        class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
+                    </i>
+                </div>
+
                 <div class="column is-12 movie-title">
                     <p>Writer(s)</p>
                 </div>
-                <div class="column is-11-desktop is-12-mobile scrollmenu">
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('writers').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
+                        class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
+                    </i>
+                </div>
+                <div id="writers" class="column is-10-desktop is-12-mobile scrollmenu">
                     <div class="actor-container">
                         <img class="movie-poster" src="images/unknown.png">
                         <div class="actor-name">
@@ -476,9 +368,16 @@
                     </div>
 
                 </div>
+                <div class="column is-narrow scrollarrows">
+                    <i onclick="document.getElementById('writers').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
+                        class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
+                    </i>
+                </div>
+
                 <div class="column is-12 movie-title">
                     <p>Details</p>
                 </div>
+
                 <div class="column is-11-desktop is-12-mobile">
                     <div class="tile is-ancestor">
                         <div class="tile is-vertical is-parent is-4 tilebox">
@@ -503,7 +402,7 @@
                                 </div>
                             </div>
 
-                        </div>                        
+                        </div>
                         <div class="tile is-vertical is-parent tilebox">
                             <p class="subtitle">More info</p>
                             <div class="tile moreinfo">
@@ -538,16 +437,66 @@
         </div>
     </section>
     <script>
-        var app = new Vue ({
+        var app = new Vue({
             el: "#app",
             data: {
-                movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [ { "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" } ], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
+                movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [{ "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" }], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
             }
         });
 
+        var similarurl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/similar?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1";
+        fetch(similarurl)
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error("Failed with HTTP code " + response.status);
+                }
+                return res.json()
+            })
+            .then(json => {
+                var similar = document.getElementById("similar");
+                similar.innerHTML = ""
+                json.results.forEach(movie => {                    
+                    var m = `<div class="actor-container">
+                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + movie.poster_path + `">
+                        <div class="actor-name">
+                            <p>` + movie.title + `</p>
+                        </div>
+                    </div>`
+                    similar.insertAdjacentHTML("beforeend", m);
+                });                
+            })
+            .catch(err => {
+                console.log("Error: " + err);
+            })
+        
+        var casturl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/credits?api_key=8ca85a295652c75508670fd4aa6907ce";
+        fetch(casturl)
+            .then(res => {
+                if (!res.ok) {
+                    throw new Error("Failed with HTTP code " + response.status);
+                }
+                return res.json()
+            })
+            .then(json => {
+                console.log(json)
+                var cast = document.getElementById("cast");
+                cast.innerHTML = ""
+                json.cast.forEach(person => {                    
+                    var m = `<div class="actor-container">
+                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + person.profile_path + `">
+                        <div class="actor-name">
+                            <p>` + person.name + `</p>
+                        </div>
+                    </div>`
+                    cast.insertAdjacentHTML("beforeend", m);
+                });                
+            })
+            .catch(err => {
+                console.log("Error: " + err);
+            })
 
-        var url = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=Todd%20Phillips&page=1&include_adult=false";
-        fetch(url)
+        var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=Todd%20Phillips&page=1&include_adult=false";
+        fetch(directorurl)
             .then(res => {
                 if (!res.ok) {
                     throw new Error("Failed with HTTP code " + response.status);
@@ -570,7 +519,6 @@
                 console.log("Error: " + err);
             })
     </script>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
 
 </html>
