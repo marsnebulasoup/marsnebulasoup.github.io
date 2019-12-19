@@ -348,12 +348,12 @@
                 })
                 .then(json => {
                     app.movie = json;
+                    LoadImages();
                 })
                 .catch(err => {
                     console.log("Error: " + err);
                 })
 
-            LoadImages();
         }
 
         async function LoadImages() {
