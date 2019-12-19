@@ -266,10 +266,9 @@
                                 <div style="display: flex;">
                                     <div style="margin-right: 1em;">
                                         <div class="actor-container">
-                                            <img class="movie-poster"
-                                                src="https://image.tmdb.org/t/p/w185//qIoZhWDXSnMXvfuqwKZE8KAYOXu.jpg">
+                                            <img id="directorposter" class="movie-poster">
                                             <div class="actor-name">
-                                                <p>Todd Phillips</p>
+                                                <p>{{movie.Director}}</p>
                                             </div>
                                         </div>
                                     </div>
@@ -370,7 +369,7 @@
                     similar.innerHTML = ""
                     json.results.forEach(movie => {
                         var m = `<div class="actor-container">
-                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + movie.poster_path + `">
+                        <img class="movie-poster" src="` + verifyImg(movie.poster_path) + `">
                         <div class="actor-name">
                             <p>` + movie.title + `</p>
                         </div>
@@ -424,7 +423,7 @@
                         console.log(writerurl);
                         var info = json.results[0];
                         var m = `<div class="actor-container">
-                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + info.profile_path + `">
+                        <img class="movie-poster" src="` + verifyImg(info.profile_path) + `">
                         <div class="actor-name">
                             <p>` + info.name + `</p>
                         </div>
@@ -445,6 +444,7 @@
                     return res.json()
                 })
                 .then(json => {
+                    document.getElementById("directorposter").setAttribute("src", verifyImg(json.results[0].profile_path));
                     var known_for = document.createElement("ul");
                     json.results[0].known_for.forEach(movie => {
                         var child = document.createElement("li");
@@ -461,6 +461,13 @@
                 })
         }
 
+        function verifyImg(img){
+            if(img == "null"){
+                return "images/unknown.png"
+            }
+            return "https://image.tmdb.org/t/p/w185/" + img;
+        }
+        
         LoadJSON();    
     </script>
 </body>
