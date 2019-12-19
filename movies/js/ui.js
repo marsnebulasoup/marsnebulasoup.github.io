@@ -484,7 +484,7 @@ function RemoveElemFromWatchlistUI(elem) {
     if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var list = JSON.parse(watchlist);
         console.log(list);
-        if (!_.find(list, { 'imdbID': id }) && overlay.currentmovieid == imdbID) {
+        if (!_.find(list, { 'imdbID': id }) && overlay.currentmovieid == id) {
             document.getElementById('watchlist').classList.remove('is-link');
             overlay.showplus = true;
         }
