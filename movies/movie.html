@@ -471,11 +471,7 @@
                     var watchlist = localStorage.getItem("Watchlist");
                     if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
                         var list = JSON.parse(watchlist);
-                        if (!_.find(list, { 'imdbID': data.imdbID })) {
-                            document.getElementById('watchlist').classList.remove('is-link');
-                            app.showplus = true;
-                        }
-                        else {
+                        if (_.find(list, { 'imdbID': app.movie.imdbID })) {
                             document.getElementById('watchlist').classList.add('is-link');
                             app.showplus = false;
                         }
