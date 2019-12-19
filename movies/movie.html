@@ -205,50 +205,50 @@
                     </p>
                 </div>
 
-                <div id="similar-title" class="column is-12 movie-title">
+                <div class="similar column is-12 movie-title">
                     <p>Similar</p>
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="similar column is-narrow scrollarrows">
                     <i onclick="document.getElementById('similar').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
                         class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
                     </i>
                 </div>
-                <div id="similar" class="column is-10-desktop is-12-mobile scrollmenu">
+                <div id="similar" class="similar column is-10-desktop is-12-mobile scrollmenu">
 
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="similar column is-narrow scrollarrows">
                     <i onclick="document.getElementById('similar').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
                         class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
                     </i>
                 </div>
 
-                <div id="cast-title" class="column is-12 movie-title">
+                <div class="cast column is-12 movie-title">
                     <p>Cast</p>
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="cast column is-narrow scrollarrows">
                     <i onclick="document.getElementById('cast').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
                         class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
                     </i>
                 </div>
-                <div id="cast" class="column is-10-desktop is-12-mobile scrollmenu">
+                <div id="cast" class="cast column is-10-desktop is-12-mobile scrollmenu">
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="cast column is-narrow scrollarrows">
                     <i onclick="document.getElementById('cast').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
                         class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
                     </i>
                 </div>
 
-                <div id="writers-title" class="column is-12 movie-title">
+                <div class="writers column is-12 movie-title">
                     <p>Writer(s)</p>
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="writers column is-narrow scrollarrows">
                     <i onclick="document.getElementById('writers').scrollBy({ top: 0, left: -300, behavior: 'smooth' });"
                         class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
                     </i>
                 </div>
-                <div id="writers" class="column is-10-desktop is-12-mobile scrollmenu">
+                <div id="writers" class="writers column is-10-desktop is-12-mobile scrollmenu">
                 </div>
-                <div class="column is-narrow scrollarrows">
+                <div class="writers column is-narrow scrollarrows">
                     <i onclick="document.getElementById('writers').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
                         class="fas fa-arrow-right fa-2x" style="margin-left: 0.3em;">
                     </i>
@@ -369,7 +369,7 @@
                     similar.innerHTML = ""
                     if (json.total_results == 0) {
                         similar.style.display = "none";
-                        document.getElementById("writers-title").style.display = "none";
+                        document.getElementsByClassName("similar").forEach(el => el.style.display = "none");
                     }
                     else {
                         json.results.forEach(movie => {
@@ -416,7 +416,7 @@
             }
             else {
                 document.getElementById("cast").style.display = "none";
-                document.getElementById("cast-title").style.display = "none";
+                document.getElementsByClassName("cast").forEach(el => el.style.display = "none");
             }
 
             var writers = document.getElementById("writers");
@@ -450,7 +450,7 @@
             }
             else {
                 writers.style.display = "none";
-                document.getElementById("writers-title").style.display = "none";
+                document.getElementsByClassName("writers").forEach(el => el.style.display = "none");
             }
 
             if (app.movie.Director != "N/A") {
