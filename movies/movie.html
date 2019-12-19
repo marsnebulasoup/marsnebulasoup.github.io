@@ -395,7 +395,7 @@
                     cast.innerHTML = ""
                     json.cast.forEach(person => {
                         var m = `<div class="actor-container">
-                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + person.profile_path + `">
+                        <img class="movie-poster" src="` + verifyImg(person.profile_path) + `">
                         <div class="actor-name">
                             <p>` + person.name + `</p>
                         </div>
