@@ -339,7 +339,7 @@
             const parsed = parseQuery(query);
             const id = parsed.id;
 
-            fetch("http://lengthapi.win/movies/db/ind/" + id + ".json")
+            fetch("db/ind/" + id + ".json")
                 .then(res => {
                     if (!res.ok) {
                         throw new Error("Failed with HTTP code " + response.status);
