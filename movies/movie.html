@@ -205,13 +205,13 @@
                         <p>IMDb {{movie.imdbRating}} &middot; {{movie.Genre}}</p>
                         <a id="watchlist" onclick="WatchlistHandler(this, app.movie.imdbID, app.movie.Title, app.movie.Poster);"
                             class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">
-                            <span style="display: none;">
+                            <span v-show="showplus == false">
                                 <i class="fas fa-check"></i>
                                 &nbsp;
                                 Watchlist
                                 &nbsp;
                             </span>
-                            <span>
+                            <span v-show="showplus == true">
                                 <i class="fas fa-plus"></i>
                                 &nbsp;
                                 Watchlist
@@ -454,7 +454,6 @@
                         return res.json()
                     })
                     .then(json => {
-                        console.log(json)
                         var cast = document.getElementById("cast");
                         cast.innerHTML = ""
                         json.cast.forEach(person => {
@@ -490,7 +489,6 @@
                             return res.json()
                         })
                         .then(json => {
-                            console.log(writerurl);
                             var info = json.results[0];
                             var m = `<div class="actor-container">
                         <img class="movie-poster" src="` + verifyImg(info.profile_path) + `">
