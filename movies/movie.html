@@ -752,13 +752,9 @@
             if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
                 var list = JSON.parse(watchlist);
                 console.log(list);
-                if (!_.find(list, { 'imdbID': id })) {
+                if (!_.find(list, { 'imdbID': id }) && app.movie.imdbID == id) {
                     document.getElementById('watchlist').classList.remove('is-link');
                     app.showplus = true;
-                }
-                else {
-                    document.getElementById('watchlist').classList.add('is-link');
-                    app.showplus = false;
                 }
             }
             else {
