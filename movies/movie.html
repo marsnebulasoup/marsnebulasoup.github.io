@@ -203,7 +203,8 @@
                         <p>{{movie.Year}} &middot; {{movie.Runtime}} &middot; <span
                                 class="movie-boxed">{{movie.Rated}}</span></p>
                         <p>IMDb {{movie.imdbRating}} &middot; {{movie.Genre}}</p>
-                        <a id="watchlist" onclick="WatchlistHandler(this, app.movie.imdbID, app.movie.Title, app.movie.Poster);"
+                        <a id="watchlist"
+                            onclick="WatchlistHandler(this, app.movie.imdbID, app.movie.Title, app.movie.Poster);"
                             class="button is-small is-hovered is-rounded is-outlined buttons-group-mod has-text-white">
                             <span v-show="showplus == false">
                                 <i class="fas fa-check"></i>
@@ -338,6 +339,11 @@
             </div>
         </div>
     </section>
+    <div id="watchlist-overlay-container-backbutton" style="position: absolute; top: 5%; right: 5%">
+        <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
+            &nbsp; Watchlist</a>
+    </div>
+
     <div style="z-index:26; display: none;" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
         <i onclick="CloseWatchlist()" class="fas fa-arrow-left fa-2x"></i>
     </div>
