@@ -296,7 +296,7 @@
                                     <p style="font-weight: 600">Ratings</p>
                                     <div v-for="rating in movie.Ratings">
                                         <p>{{rating.Source}}: {{rating.Value}}</p>
-                                    </div>                                    
+                                    </div>
                                 </div>
                                 <div class="tile is-child">
                                     <p style="font-weight: 600">Details</p>
@@ -314,6 +314,37 @@
             </div>
         </div>
     </section>
+    <div style="z-index:26; display: none;" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
+        <i onclick="CloseWatchlist()" class="fas fa-arrow-left fa-2x"></i>
+    </div>
+    <div style="display: none;" class="watchlist-overlay" id="watchlist-overlay-container">
+        <div class="container is-fluid" style="padding-top:7%;">
+            <div class="columns is-multiline is-centered">
+                <div class="column is-11">
+                    <p style="font-size: 200%">
+                        <i class="fas fa-stream"></i> &nbsp;
+                        Your Watchlist
+                    </p>
+                    <p class="subtitle" style="font-variant: small-caps">
+                        hover over the posters for more options
+                    </p>
+                </div>
+                <div class="column is-12">
+                    <div>
+                        <div class="column is-12">
+                            <div class="tile is-ancestor">
+                                <div id="watchlist-overlay" class="tile is-parent is-12" style="flex-wrap: wrap;">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div style="display: none;" id="watchlist-overlay-empty-msg" class="column is-8; has-text-centered">
+                    <p style='font-size:200%'>Your watchlist is empty :(</p>
+                </div>
+            </div>
+        </div>
+    </div>
     <script>
         var app = new Vue({
             el: "#app",
@@ -347,7 +378,7 @@
                 })
                 .then(json => {
                     app.movie = json;
-                    if(app.movie.Poster == "N/A"){app.movie.Poster = "images/unknown.png"}
+                    if (app.movie.Poster == "N/A") { app.movie.Poster = "images/unknown.png" }
                     LoadImages();
                 })
                 .catch(err => {
@@ -491,6 +522,154 @@
                 return "images/unknown.png"
             }
             return "https://image.tmdb.org/t/p/w185/" + img;
+        }
+
+        function WatchlistHandler(elem, id, title = "", poster = "") {
+            var classes = elem.classList;
+            var toggler = "is-link";
+            if (!classes.contains(toggler)) { //add
+                classes.add(toggler);
+                overlay.showplus = false;
+                SaveToWatchlist(id, title, poster);
+            }
+            else { //remove
+                classes.remove(toggler);
+                overlay.showplus = true;
+                RemoveFromWatchlist(id);
+            }
+        }
+
+        function OpenWatchlist() {
+            console.log("Opening Watchlist...")
+            let list = localStorage.getItem("Watchlist");
+            //let list = overlay.twentypopularmovies;
+            var watchlist_container = document.getElementById('watchlist-overlay');
+            document.body.style.overflow = "hidden";
+            if (list != null && list != "[]" && list != "") {
+                document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+                document.getElementById('watchlist-overlay-container').style.display = 'initial';
+                document.getElementById('watchlist-overlay-empty-msg').style.display = 'none';
+                var watchlist_container = document.getElementById('watchlist-overlay');
+                watchlist_container.innerHTML = "";
+                for (movie of JSON.parse(list)) {
+                    let imgurl = "images/unknown.png";
+                    if (movie.Poster != "N/A" && movie.Poster != undefined && movie.Poster != null && movie.Poster != "") {
+                        imgurl = movie.Poster;
+                    }
+                    var watchlist = `
+                <div class="tile is-child is-2" id="watchlist-`+ movie.imdbID + `">
+                    <div class="smallmovie">
+                        <ul>
+                            <div class="card-home">
+                                <li>
+                                    <div style="height: 13.5em;" class="imgbox">
+                                        <img src="` + imgurl + `"
+                                            class="poster-little-home smallposter">
+                                        <div class="middle">
+                                            <ul>
+                                                <li>
+                                                    <a href="" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
+                                                </li>
+                                                <li>
+                                                    <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <p class="caption">
+                                        `+ movie.Title + `
+                                    </p>                                               
+                                </li>
+                            </div>
+                        </ul>
+                    </div>
+                </div>
+            `;
+
+                    watchlist_container.insertAdjacentHTML('beforeend', watchlist);
+                }
+            }
+            else {
+                document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+                document.getElementById('watchlist-overlay-container').style.display = 'initial';
+                document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
+            }
+        }
+
+        function CloseWatchlist() {
+            console.log("Closing Watchlist...");
+            document.getElementById('watchlist-overlay-container-backbutton').style.display = 'none';
+            document.getElementById('watchlist-overlay-container').style.display = 'none';
+            document.getElementById('watchlist-overlay').innerHTML = '';
+            document.body.style.overflowY = "scroll";
+        }
+
+        function SaveToWatchlist(id, title, poster) {
+            var watchlist = localStorage.getItem("Watchlist");
+            if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
+                var data = JSON.parse(watchlist);
+                if (!_.find(data, { 'imdbID': id })) {
+                    data.push(
+                        {
+                            'Title': title,
+                            'Poster': poster,
+                            'imdbID': id,
+                        }
+                    );
+                    localStorage.setItem("Watchlist", JSON.stringify(data));
+                }
+            }
+            else {
+                localStorage.setItem("Watchlist", JSON.stringify(
+                    [
+                        {
+                            'Title': title,
+                            'Poster': poster,
+                            'imdbID': id,
+                        }
+                    ]
+                ));
+            }
+        }
+
+        function RemoveFromWatchlist(id) {
+            var watchlist = localStorage.getItem("Watchlist");
+            if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
+                var data = JSON.parse(watchlist);
+                if (_.find(data, { 'imdbID': id })) {
+                    data = data.filter(item => item.imdbID !== id);
+                    localStorage.setItem("Watchlist", JSON.stringify(data));
+                }
+            }
+        }
+
+        function RemoveElemFromWatchlistUI(elem) {
+            let id = elem.getAttribute('data-imdb-id');
+            let child = document.getElementById("watchlist-" + id);
+            child.parentNode.removeChild(child);
+            RemoveFromWatchlist(id);
+            var watchlist = localStorage.getItem("Watchlist");
+            if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
+                var list = JSON.parse(watchlist);
+                console.log(list);
+                if (!_.find(list, { 'imdbID': id })) {
+                    document.getElementById('watchlist').classList.remove('is-link');
+                    overlay.showplus = true;
+                }
+                else {
+                    document.getElementById('watchlist').classList.add('is-link');
+                    overlay.showplus = false;
+                }
+            }
+            else {
+                document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
+                document.getElementById('watchlist-overlay-container').style.display = 'initial';
+                document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
+                document.getElementById('watchlist').classList.remove('is-link');
+                overlay.showplus = true;
+            }
         }
 
         LoadJSON();    
