@@ -9,6 +9,7 @@
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.3.1/js/all.js"></script>
     <script src="js/smoothscroll/smoothscroll.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/lodash@4.17.15/lodash.min.js"></script>
 </head>
 <style>
     .movie-trailer {
@@ -157,13 +158,13 @@
 </style>
 
 <body>
-    <section id="app" class="hero">
+    <section id="app" class="hero" >
         <div class="hero-head">
             <div>
-                <img class="movie-trailer" src="images/unknown.png" />
+                <img class="movie-trailer" v-bind:src="movie.Poster" src="images/unknown.png" />
             </div>
         </div>
-        <div class="hero-body">
+        <div class="hero-body" style="display: none;" v-show="!_.isEmpty(movie)">
             <div class="columns is-mobile is-centered is-multiline">
                 <div class="column is-narrow">
                     <img class="movie-poster" v-bind:src="movie.Poster" />
@@ -213,7 +214,7 @@
                     </i>
                 </div>
                 <div id="similar" class="column is-10-desktop is-12-mobile scrollmenu">
-                    
+
                 </div>
                 <div class="column is-narrow scrollarrows">
                     <i onclick="document.getElementById('similar').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
@@ -229,7 +230,7 @@
                         class="fas fa-arrow-left fa-2x" style="margin-right: 0.3em;">
                     </i>
                 </div>
-                <div id="cast" class="column is-10-desktop is-12-mobile scrollmenu">                   
+                <div id="cast" class="column is-10-desktop is-12-mobile scrollmenu">
                 </div>
                 <div class="column is-narrow scrollarrows">
                     <i onclick="document.getElementById('cast').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
@@ -246,127 +247,6 @@
                     </i>
                 </div>
                 <div id="writers" class="column is-10-desktop is-12-mobile scrollmenu">
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-                    <div class="actor-container">
-                        <img class="movie-poster" src="images/unknown.png">
-                        <div class="actor-name">
-                            <p>Joaquin Phoenix</p>
-                        </div>
-                    </div>
-
                 </div>
                 <div class="column is-narrow scrollarrows">
                     <i onclick="document.getElementById('writers').scrollBy({ top: 0, left: 300, behavior: 'smooth' });"
@@ -434,90 +314,154 @@
                 </div>
             </div>
         </div>
-        </div>
     </section>
     <script>
         var app = new Vue({
             el: "#app",
             data: {
-                movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [{ "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" }], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
+                //movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [{ "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" }], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
+                movie: {}
             }
         });
 
-        var similarurl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/similar?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1";
-        fetch(similarurl)
-            .then(res => {
-                if (!res.ok) {
-                    throw new Error("Failed with HTTP code " + response.status);
-                }
-                return res.json()
-            })
-            .then(json => {
-                var similar = document.getElementById("similar");
-                similar.innerHTML = ""
-                json.results.forEach(movie => {                    
-                    var m = `<div class="actor-container">
+        function parseQuery(queryString) {
+            var query = {};
+            var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
+            for (var i = 0; i < pairs.length; i++) {
+                var pair = pairs[i].split('=');
+                query[decodeURIComponent(pair[0])] = decodeURIComponent(pair[1] || '');
+            }
+            return query;
+        }
+
+        async function LoadJSON() {
+            const query = window.location.search;
+            const parsed = parseQuery(query);
+            const id = parsed.id;
+
+            fetch("http://lengthapi.win/movies/db/ind/" + id + ".json")
+                .then(res => {
+                    if (!res.ok) {
+                        throw new Error("Failed with HTTP code " + response.status);
+                    }
+                    return res.json()
+                })
+                .then(json => {
+                    app.movie = json;
+                })
+                .catch(err => {
+                    console.log("Error: " + err);
+                })
+
+            LoadImages();
+        }
+
+        async function LoadImages() {
+            var similarurl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/similar?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1";
+            fetch(similarurl)
+                .then(res => {
+                    if (!res.ok) {
+                        throw new Error("Failed with HTTP code " + response.status);
+                    }
+                    return res.json()
+                })
+                .then(json => {
+                    var similar = document.getElementById("similar");
+                    similar.innerHTML = ""
+                    json.results.forEach(movie => {
+                        var m = `<div class="actor-container">
                         <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + movie.poster_path + `">
                         <div class="actor-name">
                             <p>` + movie.title + `</p>
                         </div>
                     </div>`
-                    similar.insertAdjacentHTML("beforeend", m);
-                });                
-            })
-            .catch(err => {
-                console.log("Error: " + err);
-            })
-        
-        var casturl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/credits?api_key=8ca85a295652c75508670fd4aa6907ce";
-        fetch(casturl)
-            .then(res => {
-                if (!res.ok) {
-                    throw new Error("Failed with HTTP code " + response.status);
-                }
-                return res.json()
-            })
-            .then(json => {
-                console.log(json)
-                var cast = document.getElementById("cast");
-                cast.innerHTML = ""
-                json.cast.forEach(person => {                    
-                    var m = `<div class="actor-container">
+                        similar.insertAdjacentHTML("beforeend", m);
+                    });
+                })
+                .catch(err => {
+                    console.log("Error: " + err);
+                })
+
+            var casturl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/credits?api_key=8ca85a295652c75508670fd4aa6907ce";
+            fetch(casturl)
+                .then(res => {
+                    if (!res.ok) {
+                        throw new Error("Failed with HTTP code " + response.status);
+                    }
+                    return res.json()
+                })
+                .then(json => {
+                    console.log(json)
+                    var cast = document.getElementById("cast");
+                    cast.innerHTML = ""
+                    json.cast.forEach(person => {
+                        var m = `<div class="actor-container">
                         <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + person.profile_path + `">
                         <div class="actor-name">
                             <p>` + person.name + `</p>
                         </div>
                     </div>`
-                    cast.insertAdjacentHTML("beforeend", m);
-                });                
-            })
-            .catch(err => {
-                console.log("Error: " + err);
-            })
+                        cast.insertAdjacentHTML("beforeend", m);
+                    });
+                })
+                .catch(err => {
+                    console.log("Error: " + err);
+                })
 
-        var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=Todd%20Phillips&page=1&include_adult=false";
-        fetch(directorurl)
-            .then(res => {
-                if (!res.ok) {
-                    throw new Error("Failed with HTTP code " + response.status);
-                }
-                return res.json()
-            })
-            .then(json => {
-                var known_for = document.createElement("ul");
-                json.results[0].known_for.forEach(movie => {
-                    var child = document.createElement("li");
-                    child.innerText = movie.title;
-                    known_for.appendChild(child);
-                });
+            var writers = document.getElementById("writers");
+            writers.innerHTML = "";
+            app.movie.Writer.split(", ").forEach(person => {
+                writer = person.replace(/ *\([^)]*\) */g, "");
+                var writerurl = "https://api.themoviedb.org/3/search/person?query=" + writer + "&api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1&include_adult=false";
+                fetch(writerurl)
+                    .then(res => {
+                        if (!res.ok) {
+                            throw new Error("Failed with HTTP code " + response.status);
+                        }
+                        return res.json()
+                    })
+                    .then(json => {
+                        console.log(writerurl);
+                        var info = json.results[0];
+                        var m = `<div class="actor-container">
+                        <img class="movie-poster" src="https://image.tmdb.org/t/p/w185/` + info.profile_path + `">
+                        <div class="actor-name">
+                            <p>` + info.name + `</p>
+                        </div>
+                    </div>`
+                        writers.insertAdjacentHTML("beforeend", m);
+                    })
+                    .catch(err => {
+                        console.log("Error: " + err);
+                    })
+            });
 
-                var known_for_container = document.getElementById("knownfor");
-                known_for_container.innerHTML = "";
-                known_for_container.appendChild(known_for);
-            })
-            .catch(err => {
-                console.log("Error: " + err);
-            })
+            var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=" + app.movie.Director + "&page=1&include_adult=false";
+            fetch(directorurl)
+                .then(res => {
+                    if (!res.ok) {
+                        throw new Error("Failed with HTTP code " + response.status);
+                    }
+                    return res.json()
+                })
+                .then(json => {
+                    var known_for = document.createElement("ul");
+                    json.results[0].known_for.forEach(movie => {
+                        var child = document.createElement("li");
+                        child.innerText = movie.title;
+                        known_for.appendChild(child);
+                    });
+
+                    var known_for_container = document.getElementById("knownfor");
+                    known_for_container.innerHTML = "";
+                    known_for_container.appendChild(known_for);
+                })
+                .catch(err => {
+                    console.log("Error: " + err);
+                })
+        }
+
+        LoadJSON();    
     </script>
 </body>
 
