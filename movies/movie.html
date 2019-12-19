@@ -374,7 +374,8 @@
             el: "#app",
             data: {
                 //movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [{ "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" }], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
-                movie: {}
+                movie: {},
+                showplus: true
             }
         });
 
@@ -553,12 +554,12 @@
             var toggler = "is-link";
             if (!classes.contains(toggler)) { //add
                 classes.add(toggler);
-                overlay.showplus = false;
+                app.showplus = false;
                 SaveToWatchlist(id, title, poster);
             }
             else { //remove
                 classes.remove(toggler);
-                overlay.showplus = true;
+                app.showplus = true;
                 RemoveFromWatchlist(id);
             }
         }
@@ -680,11 +681,11 @@
                 console.log(list);
                 if (!_.find(list, { 'imdbID': id })) {
                     document.getElementById('watchlist').classList.remove('is-link');
-                    overlay.showplus = true;
+                    app.showplus = true;
                 }
                 else {
                     document.getElementById('watchlist').classList.add('is-link');
-                    overlay.showplus = false;
+                    app.showplus = false;
                 }
             }
             else {
@@ -692,7 +693,7 @@
                 document.getElementById('watchlist-overlay-container').style.display = 'initial';
                 document.getElementById('watchlist-overlay-empty-msg').style.display = 'initial';
                 document.getElementById('watchlist').classList.remove('is-link');
-                overlay.showplus = true;
+                app.showplus = true;
             }
         }
 
