@@ -484,14 +484,14 @@ function RemoveElemFromWatchlistUI(elem) {
     if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
         var list = JSON.parse(watchlist);
         console.log(list);
-        if (!_.find(list, { 'imdbID': id })) {
+        if (!_.find(list, { 'imdbID': id }) && overlay.currentmovieid == imdbID) {
             document.getElementById('watchlist').classList.remove('is-link');
             overlay.showplus = true;
         }
-        else {
-            document.getElementById('watchlist').classList.add('is-link');
-            overlay.showplus = false;
-        }
+        // else {
+        //     document.getElementById('watchlist').classList.add('is-link');
+        //     overlay.showplus = false;
+        // }
     }
     else {
         document.getElementById('watchlist-overlay-container-backbutton').style.display = 'initial';
