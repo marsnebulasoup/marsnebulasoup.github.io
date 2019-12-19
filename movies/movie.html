@@ -369,7 +369,7 @@
                     similar.innerHTML = ""
                     if (json.total_results == 0) {
                         similar.style.display = "none";
-                        document.getElementsByClassName("similar").forEach(el => el.style.display = "none");
+                        for (el of document.getElementsByClassName("similar")) { el.style.display = "none" }
                     }
                     else {
                         json.results.forEach(movie => {
@@ -416,7 +416,7 @@
             }
             else {
                 document.getElementById("cast").style.display = "none";
-                document.getElementsByClassName("cast").forEach(el => el.style.display = "none");
+                for (el of document.getElementsByClassName("cast")) { el.style.display = "none" }
             }
 
             var writers = document.getElementById("writers");
@@ -450,7 +450,7 @@
             }
             else {
                 writers.style.display = "none";
-                document.getElementsByClassName("writers").forEach(el => el.style.display = "none");
+                for (el of document.getElementsByClassName("writers")) { el.style.display = "none" }
             }
 
             if (app.movie.Director != "N/A") {
@@ -484,7 +484,7 @@
                 app.movie.Director = "Unknown";
             }
         }
-        
+
         function verifyImg(img) {
             if (img == null) {
                 return "images/unknown.png"
