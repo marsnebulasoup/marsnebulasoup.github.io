@@ -205,7 +205,7 @@
                     </p>
                 </div>
 
-                <div class="column is-12 movie-title">
+                <div id="similar-title" class="column is-12 movie-title">
                     <p>Similar</p>
                 </div>
                 <div class="column is-narrow scrollarrows">
@@ -222,7 +222,7 @@
                     </i>
                 </div>
 
-                <div class="column is-12 movie-title">
+                <div id="cast-title" class="column is-12 movie-title">
                     <p>Cast</p>
                 </div>
                 <div class="column is-narrow scrollarrows">
@@ -238,7 +238,7 @@
                     </i>
                 </div>
 
-                <div class="column is-12 movie-title">
+                <div id="writers-title" class="column is-12 movie-title">
                     <p>Writer(s)</p>
                 </div>
                 <div class="column is-narrow scrollarrows">
@@ -369,6 +369,7 @@
                     similar.innerHTML = ""
                     if (json.total_results == 0) {
                         similar.style.display = "none";
+                        document.getElementById("writers-title").style.display = "none";
                     }
                     else {
                         json.results.forEach(movie => {
@@ -415,6 +416,7 @@
             }
             else {
                 document.getElementById("cast").style.display = "none";
+                document.getElementById("cast-title").style.display = "none";
             }
 
             var writers = document.getElementById("writers");
@@ -446,7 +448,10 @@
                         })
                 });
             }
-            else writers.style.display = "none";
+            else {
+                writers.style.display = "none";
+                document.getElementById("writers-title").style.display = "none";
+            }
 
             if (app.movie.Director != "N/A") {
                 var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=" + app.movie.Director + "&page=1&include_adult=false";
