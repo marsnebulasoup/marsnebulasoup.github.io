@@ -143,6 +143,56 @@
         color: white;
     }
 
+    .imgbox {
+        position: relative;
+    }
+
+    .smallposter {
+        opacity: 1;
+        display: block;
+        transition: .25s ease;
+        backface-visibility: hidden;
+    }
+
+    .middle {
+        transition: .25s ease;
+        opacity: 0;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
+    .middle li:first-of-type {
+        padding-bottom: 30%;
+    }
+
+    .middle li:last-of-type {
+        padding-top: 30%;
+    }
+
+    .imgbox:hover .smallposter {
+        opacity: 0.3;
+    }
+
+    .imgbox:hover .middle {
+        opacity: 1;
+    }
+
+    .smallmovie {
+        display: flex;
+        justify-content: center;
+    }
+
+    .card-home {
+        padding: 10px;
+        border-radius: 10px;
+        /* background-color: black; */
+    }
+
+
     @media (max-width: 768px) {
 
         /*mobile*/
@@ -339,7 +389,7 @@
             </div>
         </div>
     </section>
-    <div id="watchlist-overlay-container-backbutton" style="position: absolute; top: 5%; right: 5%">
+    <div style="position: absolute; top: 5%; right: 5%">
         <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
             &nbsp; Watchlist</a>
     </div>
@@ -597,7 +647,7 @@
                                         <div class="middle">
                                             <ul>
                                                 <li>
-                                                    <a href="" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
+                                                    <a href="movie.html?id=`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
                                                 </li>
                                                 <li>
                                                     <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
@@ -607,7 +657,7 @@
                                     </div>
                                 </li>
                                 <li>
-                                    <p class="caption">
+                                    <p class="movie-info">
                                         `+ movie.Title + `
                                     </p>                                               
                                 </li>
