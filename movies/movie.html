@@ -435,6 +435,7 @@
             }
         });
 
+
         function parseQuery(queryString) {
             var query = {};
             var pairs = (queryString[0] === '?' ? queryString.substr(1) : queryString).split('&');
@@ -461,6 +462,18 @@
                     app.movie = json;
                     if (app.movie.Poster == "N/A") { app.movie.Poster = "images/unknown.png" }
                     LoadImages();
+                    var watchlist = localStorage.getItem("Watchlist");
+                    if (watchlist != null && watchlist != "[]" && watchlist != "") { //check if there is a watchlist
+                        var list = JSON.parse(watchlist);
+                        if (!_.find(list, { 'imdbID': data.imdbID })) {
+                            document.getElementById('watchlist').classList.remove('is-link');
+                            app.showplus = true;
+                        }
+                        else {
+                            document.getElementById('watchlist').classList.add('is-link');
+                            app.showplus = false;
+                        }
+                    }
                 })
                 .catch(err => {
                     console.log("Error: " + err);
