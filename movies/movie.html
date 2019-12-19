@@ -194,8 +194,12 @@
 
     .caption {
         text-align: center;
-        padding-top: 10%;
+        padding-top: 20%;
         font-size: 90%;
+    }
+
+    #knownfor li {
+        padding: 0.3em;
     }
 
 
@@ -650,6 +654,20 @@
                     if (movie.Poster != "N/A" && movie.Poster != undefined && movie.Poster != null && movie.Poster != "") {
                         imgurl = movie.Poster;
                     }
+                    // `<div>
+                    //     <div class="actor-container">
+                    //         <img class="movie-poster" src="images/unknown.png">
+                    //         <div class="actor-name" style="background-color: transparent; white-space: unset; max-width:100%; word-wrap: unset;">
+                    //             <div>
+                    //                 <a href="movie.html?id=`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Open &nbsp; <i class="fas fa-external-link-alt"></i></a>
+                    //                 <a onclick="RemoveElemFromWatchlistUI(this)" data-imdb-id="`+ movie.imdbID + `" class="button is-small is-primary is-rounded">Delete &nbsp; <i class="far fa-trash-alt"></i></a>
+                    //             </div>
+                    //         </div>                        
+                    //     </div>
+                    //     <div style="position: absolute; bottom: 0.2em; height 2vh;">
+                    //         <p>Title</p>
+                    //     </div>
+                    // </div>`
                     var watchlist = `
                 <div class="tile is-child is-2" id="watchlist-`+ movie.imdbID + `">
                     <div class="smallmovie">
