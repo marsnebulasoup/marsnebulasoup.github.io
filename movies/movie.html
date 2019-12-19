@@ -287,23 +287,23 @@
                             <div class="tile moreinfo">
                                 <div class="tile is-child">
                                     <p style="font-weight: 600">General Info</p>
-                                    <p>Released: 04 Oct 2019</p>
-                                    <p>Language: English</p>
-                                    <p>Country: USA, Canada</p>
-                                    <p>Awards: N/A </p>
+                                    <p>Released: {{movie.Released}}</p>
+                                    <p>Language: {{movie.Language}}</p>
+                                    <p>Country: {{movie.Country}}</p>
+                                    <p>Awards: {{movie.Awards}} </p>
                                 </div>
                                 <div class="tile is-child">
                                     <p style="font-weight: 600">Ratings</p>
-                                    <p>Internet Movie Database: 8.9/10</p>
-                                    <p>Rotten Tomatoes: 78%</p>
-                                    <p>Metacritic: 34/100</p>
+                                    <div v-for="rating in movie.Ratings">
+                                        <p>{{rating.Source}}: {{rating.Value}}</p>
+                                    </div>                                    
                                 </div>
                                 <div class="tile is-child">
                                     <p style="font-weight: 600">Details</p>
-                                    <p>BoxOffice: N/A</p>
-                                    <p>Production: Warner Bros. Pictures</p>
-                                    <p>Website: N/A</p>
-                                    <p>IMDb ID: tt34343</p>
+                                    <p>BoxOffice: {{movie.BoxOffice}}</p>
+                                    <p>Production: {{movie.Production}}</p>
+                                    <p>Website: {{movie.Website}}</p>
+                                    <p>IMDb ID: {{movie.imdbID}}</p>
 
                                 </div>
                             </div>
