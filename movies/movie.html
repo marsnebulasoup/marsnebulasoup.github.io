@@ -347,6 +347,7 @@
                 })
                 .then(json => {
                     app.movie = json;
+                    if(app.movie.Poster == "N/A"){app.movie.Poster = "images/unknown.png"}
                     LoadImages();
                 })
                 .catch(err => {
