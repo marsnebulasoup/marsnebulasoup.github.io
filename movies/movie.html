@@ -158,7 +158,7 @@
 </style>
 
 <body>
-    <section id="app" class="hero" >
+    <section id="app" class="hero">
         <div class="hero-head">
             <div>
                 <img class="movie-trailer" v-bind:src="movie.Poster" />
@@ -367,52 +367,28 @@
                 .then(json => {
                     var similar = document.getElementById("similar");
                     similar.innerHTML = ""
-                    json.results.forEach(movie => {
-                        var m = `<div class="actor-container">
+                    if (json.total_results == 0) {
+                        similar.style.display = "none";
+                    }
+                    else {
+                        json.results.forEach(movie => {
+                            var m = `<div class="actor-container">
                         <img class="movie-poster" src="` + verifyImg(movie.poster_path) + `">
                         <div class="actor-name">
                             <p>` + movie.title + `</p>
                         </div>
                     </div>`
-                        similar.insertAdjacentHTML("beforeend", m);
-                    });
-                })
-                .catch(err => {
-                    console.log("Error: " + err);
-                })
-
-            var casturl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/credits?api_key=8ca85a295652c75508670fd4aa6907ce";
-            fetch(casturl)
-                .then(res => {
-                    if (!res.ok) {
-                        throw new Error("Failed with HTTP code " + response.status);
+                            similar.insertAdjacentHTML("beforeend", m);
+                        });
                     }
-                    return res.json()
-                })
-                .then(json => {
-                    console.log(json)
-                    var cast = document.getElementById("cast");
-                    cast.innerHTML = ""
-                    json.cast.forEach(person => {
-                        var m = `<div class="actor-container">
-                        <img class="movie-poster" src="` + verifyImg(person.profile_path) + `">
-                        <div class="actor-name">
-                            <p>` + person.name + `</p>
-                        </div>
-                    </div>`
-                        cast.insertAdjacentHTML("beforeend", m);
-                    });
                 })
                 .catch(err => {
                     console.log("Error: " + err);
                 })
 
-            var writers = document.getElementById("writers");
-            writers.innerHTML = "";
-            app.movie.Writer.split(", ").forEach(person => {
-                writer = person.replace(/ *\([^)]*\) */g, "");
-                var writerurl = "https://api.themoviedb.org/3/search/person?query=" + writer + "&api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1&include_adult=false";
-                fetch(writerurl)
+            if (app.movie.Actors != "N/A") {
+                var casturl = "https://api.themoviedb.org/3/movie/" + app.movie.imdbID + "/credits?api_key=8ca85a295652c75508670fd4aa6907ce";
+                fetch(casturl)
                     .then(res => {
                         if (!res.ok) {
                             throw new Error("Failed with HTTP code " + response.status);
@@ -420,54 +396,97 @@
                         return res.json()
                     })
                     .then(json => {
-                        console.log(writerurl);
-                        var info = json.results[0];
-                        var m = `<div class="actor-container">
+                        console.log(json)
+                        var cast = document.getElementById("cast");
+                        cast.innerHTML = ""
+                        json.cast.forEach(person => {
+                            var m = `<div class="actor-container">
+                        <img class="movie-poster" src="` + verifyImg(person.profile_path) + `">
+                        <div class="actor-name">
+                            <p>` + person.name + `</p>
+                        </div>
+                    </div>`
+                            cast.insertAdjacentHTML("beforeend", m);
+                        });
+                    })
+                    .catch(err => {
+                        console.log("Error: " + err);
+                    })
+            }
+            else {
+                document.getElementById("cast").style.display = "none";
+            }
+
+            var writers = document.getElementById("writers");
+            writers.innerHTML = "";
+            if (app.movie.Writer != "N/A") {
+                app.movie.Writer.split(", ").forEach(person => {
+                    writer = person.replace(/ *\([^)]*\) */g, "");
+                    var writerurl = "https://api.themoviedb.org/3/search/person?query=" + writer + "&api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&page=1&include_adult=false";
+                    fetch(writerurl)
+                        .then(res => {
+                            if (!res.ok) {
+                                throw new Error("Failed with HTTP code " + response.status);
+                            }
+                            return res.json()
+                        })
+                        .then(json => {
+                            console.log(writerurl);
+                            var info = json.results[0];
+                            var m = `<div class="actor-container">
                         <img class="movie-poster" src="` + verifyImg(info.profile_path) + `">
                         <div class="actor-name">
                             <p>` + info.name + `</p>
                         </div>
                     </div>`
-                        writers.insertAdjacentHTML("beforeend", m);
+                            writers.insertAdjacentHTML("beforeend", m);
+                        })
+                        .catch(err => {
+                            console.log("Error: " + err);
+                        })
+                });
+            }
+            else writers.style.display = "none";
+
+            if (app.movie.Director != "N/A") {
+                var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=" + app.movie.Director + "&page=1&include_adult=false";
+                fetch(directorurl)
+                    .then(res => {
+                        if (!res.ok) {
+                            throw new Error("Failed with HTTP code " + response.status);
+                        }
+                        return res.json()
+                    })
+                    .then(json => {
+                        document.getElementById("directorposter").setAttribute("src", verifyImg(json.results[0].profile_path));
+                        var known_for = document.createElement("ul");
+                        json.results[0].known_for.forEach(movie => {
+                            var child = document.createElement("li");
+                            child.innerText = movie.title;
+                            known_for.appendChild(child);
+                        });
+
+                        var known_for_container = document.getElementById("knownfor");
+                        known_for_container.innerHTML = "";
+                        known_for_container.appendChild(known_for);
                     })
                     .catch(err => {
                         console.log("Error: " + err);
                     })
-            });
-
-            var directorurl = "https://api.themoviedb.org/3/search/person?api_key=8ca85a295652c75508670fd4aa6907ce&language=en-US&query=" + app.movie.Director + "&page=1&include_adult=false";
-            fetch(directorurl)
-                .then(res => {
-                    if (!res.ok) {
-                        throw new Error("Failed with HTTP code " + response.status);
-                    }
-                    return res.json()
-                })
-                .then(json => {
-                    document.getElementById("directorposter").setAttribute("src", verifyImg(json.results[0].profile_path));
-                    var known_for = document.createElement("ul");
-                    json.results[0].known_for.forEach(movie => {
-                        var child = document.createElement("li");
-                        child.innerText = movie.title;
-                        known_for.appendChild(child);
-                    });
-
-                    var known_for_container = document.getElementById("knownfor");
-                    known_for_container.innerHTML = "";
-                    known_for_container.appendChild(known_for);
-                })
-                .catch(err => {
-                    console.log("Error: " + err);
-                })
+            }
+            else {
+                document.getElementById("directorposter").setAttribute("src", verifyImg(null));
+                app.movie.Director = "Unknown";
+            }
         }
-
-        function verifyImg(img){
-            if(img == null){
+        
+        function verifyImg(img) {
+            if (img == null) {
                 return "images/unknown.png"
             }
             return "https://image.tmdb.org/t/p/w185/" + img;
         }
-        
+
         LoadJSON();    
     </script>
 </body>
