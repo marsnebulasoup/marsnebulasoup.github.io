@@ -200,7 +200,7 @@
                                 </div>
                                 <div class="col" style="width: 60%">
                                     <div class="outer-container">
-                                        <div class="top-section">
+                                        <div class="top-section" onclick="window.location.href='movie.html?id=' + currentmovieid">
                                             <p id="title" style="font-size: 2em;">{{title}}</p>
 
                                             <p id="plot" style="padding-top:20px;font-size: 1.25em;">
@@ -547,7 +547,7 @@
 
                         childMovie.addEventListener("click", function () {
                             //redirect to somewhere else
-                            window.location.href = "https://lengthapi.win/time";
+                            window.location.href = "movie.html?id=" + movie.imdbID;
                         })
 
                         childmovie_container.insertAdjacentElement('beforeend', childMovie);
