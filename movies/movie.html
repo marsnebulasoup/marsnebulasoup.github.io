@@ -24,7 +24,7 @@
         position: relative;
         left: 50%;
         transform: translate(-50%, -300%);
-        -ms-transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -300%);
         text-align: center;
     }
 
@@ -239,6 +239,14 @@
     @media (max-width: 768px) {
 
         /*mobile*/
+
+        .trailer-button {
+            position: relative;
+            left: 50%;
+            transform: translate(-50%, -200%);
+            -ms-transform: translate(-50%, -200%);
+        }
+
         .movie-trailer {
             height: 20vh;
         }
@@ -461,7 +469,7 @@
     </section>
     <div v-show="!_.isEmpty(movie)" style="position: absolute; top: 5%; right: 5%">
         <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
-            &nbsp; Watchlist</a>
+            <span>{{openwatchlistbtnmsg}}</span></a>
     </div>
 
     <div style="z-index:26; display: none;" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
@@ -504,10 +512,14 @@
                 movie: {},
                 showplus: true,
                 url: "",
-                displaytrailer: false
+                displaytrailer: false,
+                openwatchlistbtnmsg: " Watchlist"
             }
         });
 
+        if ('screen' in window && window.screen.width < 768) {
+            app.openwatchlistbtnmsg = "";
+        }
 
         function parseQuery(queryString) {
             var query = {};
