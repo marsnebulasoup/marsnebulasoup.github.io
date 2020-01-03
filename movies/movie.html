@@ -469,7 +469,7 @@
     </section>
     <div v-show="!_.isEmpty(movie)" style="position: absolute; top: 5%; right: 5%">
         <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
-            <span>{{openwatchlistbtnmsg}}</span></a>
+            <span id="watchlist-button-text">&nbsp; Watchlist</span></a>
     </div>
 
     <div style="z-index:26; display: none;" id="watchlist-overlay-container-backbutton" class="close-overlay-button">
@@ -513,12 +513,11 @@
                 showplus: true,
                 url: "",
                 displaytrailer: false,
-                openwatchlistbtnmsg: " Watchlist"
             }
         });
 
         if ('screen' in window && window.screen.width < 768) {
-            app.openwatchlistbtnmsg = "";
+            document.getElementById("watchlist-button-text").innerHTML = "";
         }
 
         function parseQuery(queryString) {
