@@ -280,7 +280,7 @@
         <div class="hero-head">
             <div>
                 <img class="movie-trailer" v-bind:src="movie.Poster" />
-                <div class="trailer-button">
+                <div v-show="!_.isEmpty(movie)" class="trailer-button">
                     <a id="trailer"
                         onclick="GetTrailer(app.movie.imdbID).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
                         class="button is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
@@ -459,7 +459,7 @@
             </div>
         </div>
     </section>
-    <div style="position: absolute; top: 5%; right: 5%">
+    <div v-show="!_.isEmpty(movie)" style="position: absolute; top: 5%; right: 5%">
         <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
             &nbsp; Watchlist</a>
     </div>
