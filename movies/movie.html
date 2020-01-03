@@ -283,7 +283,7 @@
                     <h1 class="movie-title">
                         {{movie.Title}}
                         <a id="trailer"
-                            onclick="GetTrailer(overlay.currentmovieid).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
+                            onclick="GetTrailer(app.movie.imdbID).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
                             class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
                             <i class="fas fa-play"></i>
                             &nbsp;
