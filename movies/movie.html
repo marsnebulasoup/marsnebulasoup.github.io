@@ -20,6 +20,15 @@
         mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
     }
 
+    .trailer-button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        -ms-transform: translate(-50%, -50%);
+        text-align: center;
+    }
+
     .movie-poster {
         max-height: 30vh;
         max-width: 30vh;
@@ -272,6 +281,15 @@
         <div class="hero-head">
             <div>
                 <img class="movie-trailer" v-bind:src="movie.Poster" />
+                <div class="trailer-button">
+                    <a id="trailer"
+                        onclick="GetTrailer(app.movie.imdbID).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
+                        class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
+                        <i class="fas fa-play"></i>
+                        &nbsp;
+                        Play Trailer
+                    </a>
+                </div>
             </div>
         </div>
         <div class="hero-body" style="display: none;" v-show="!_.isEmpty(movie)">
@@ -282,13 +300,6 @@
                 <div class="column">
                     <h1 class="movie-title">
                         {{movie.Title}}
-                        <a id="trailer"
-                            onclick="GetTrailer(app.movie.imdbID).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
-                            class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
-                            <i class="fas fa-play"></i>
-                            &nbsp;
-                            Play Trailer
-                        </a>
                         <!-- Those magnificent men and their flying machines, or how I flew from Londen to Paris in 23 hours 11 minutes -->
                     </h1>
                     <div class="movie-info">
