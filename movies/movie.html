@@ -202,6 +202,31 @@
         padding: 0.3em;
     }
 
+    #overlay-trailer {
+        overflow-y: scroll;
+        overflow-x: hidden;
+        position: fixed;
+        /* Sit on top of the page content */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        /*5 display: none; Hidden by default */
+        width: 100%;
+        /* Full width (cover the whole page) */
+        height: 100%;
+        /* Full height (cover the whole page) */
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: rgba(0, 0, 0, 0.6);
+        /* Black background with opacity */
+        z-index: 3;
+        /* Specify a stack order in case you're using a different order for other elements */
+        cursor: pointer;
+        /* Add a pointer on hover */
+    }
+
 
     @media (max-width: 768px) {
 
@@ -257,6 +282,13 @@
                 <div class="column">
                     <h1 class="movie-title">
                         {{movie.Title}}
+                        <a id="trailer"
+                            onclick="GetTrailer(overlay.currentmovieid).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
+                            class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
+                            <i class="fas fa-play"></i>
+                            &nbsp;
+                            Play Trailer
+                        </a>
                         <!-- Those magnificent men and their flying machines, or how I flew from Londen to Paris in 23 hours 11 minutes -->
                     </h1>
                     <div class="movie-info">
@@ -398,6 +430,24 @@
                 </div>
             </div>
         </div>
+        <div v-if="displaytrailer == true" id="overlay-trailer">
+            <div v-on:click="displaytrailer = false" class="close-overlay-button">
+                <i class="fas fa-arrow-left fa-2x"></i>
+            </div>
+            <iframe v-if="url != ''" width="1120" height="630" v-bind:src="url" frameborder="0"
+                allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+
+            <div v-else class="tile is-ancestor" style="align-items: center; justify-content: center;">
+                <div class="tile is-parent is-4">
+                    <div class="tile is-child" style="padding: 15px; background-color: #090979; border-radius: 10px;">
+                        <h1 style="font-size:24pt;">Uh-oh! &nbsp;&nbsp; :-(</h1>
+                        <br>
+                        <p class="subtitle">The trailer for this movie wasn't found.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
     </section>
     <div style="position: absolute; top: 5%; right: 5%">
         <a onclick="OpenWatchlist()" class="button is-rounded is-primary"><i class="fas fa-stream"></i>
@@ -435,13 +485,16 @@
             </div>
         </div>
     </div>
+
     <script>
         var app = new Vue({
             el: "#app",
             data: {
                 //movie: { "Title": "Joker", "Year": "2019", "Rated": "R", "Released": "04 Oct 2019", "Runtime": "122 min", "Genre": "Crime, Drama, Thriller", "Director": "Todd Phillips", "Writer": "Todd Phillips, Scott Silver, Bob Kane (based on characters created by), Bill Finger (based on characters created by), Jerry Robinson (based on characters created by)", "Actors": "Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy", "Plot": "In Gotham City, mentally-troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: \"The Joker\".", "Language": "English", "Country": "USA, Canada", "Awards": "N/A", "Poster": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg", "Ratings": [{ "Source": "Internet Movie Database", "Value": "8.9/10" }, { "Source": "Rotten Tomatoes", "Value": "68%" }, { "Source": "Metacritic", "Value": "59/100" }], "Metascore": "59", "imdbRating": "8.9", "imdbVotes": "360,218", "imdbID": "tt7286456", "Type": "movie", "DVD": "N/A", "BoxOffice": "N/A", "Production": "Warner Bros. Pictures", "Website": "N/A", "Response": "True" }
                 movie: {},
-                showplus: true
+                showplus: true,
+                url: "",
+                displaytrailer: false
             }
         });
 
@@ -485,6 +538,32 @@
                     console.log("Error: " + err);
                 })
 
+        }
+
+        async function GetTrailer(id) {
+            apikey = "8ca85a295652c75508670fd4aa6907ce";
+            url = "https://api.themoviedb.org/3/movie/" + id + "/videos?api_key=" + apikey + "&language=en-US&external_source=imdb_id";
+
+            var trailerjson = await fetch(url)
+                .then(res => {
+                    if (!res.ok) {
+                        throw new Error("Failed with HTTP code " + response.status);
+                    }
+                    return res.json()
+                })
+                .catch(err => {
+                    console.log("Error: " + err);
+                })
+
+            for (item of trailerjson.results) {
+                if (item.site == "YouTube") {
+                    if (item.type == "Trailer") {
+                        return "https://www.youtube-nocookie.com/embed/" + item.key + "?autoplay=1&rel=0&showinfo=0";
+                    }
+                }
+            }
+
+            return false;
         }
 
         async function LoadImages() {
