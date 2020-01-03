@@ -21,10 +21,9 @@
     }
 
     .trailer-button {
-        position: absolute;
-        top: 50%;
+        position: relative;
         left: 50%;
-        transform: translate(-50%, -50%);
+        transform: translate(-50%, -300%);
         -ms-transform: translate(-50%, -50%);
         text-align: center;
     }
@@ -284,7 +283,7 @@
                 <div class="trailer-button">
                     <a id="trailer"
                         onclick="GetTrailer(app.movie.imdbID).then(result => { app.url = result; app.displaytrailer = true; }, error => console.log(error));"
-                        class="button is-large is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
+                        class="button is-hovered is-rounded is-outlined buttons-group-mod has-text-white block">
                         <i class="fas fa-play"></i>
                         &nbsp;
                         Play Trailer
